@@ -11,7 +11,8 @@ v diskusi.
 - `rd/<datum>/`, `hn/<datum>/` – zdrojové články pro jednotlivé dny a jejich
   indexy (`00-index.md`).
 - `dny/<datum>/` – sloučený denní přehled (Reddit + HN); z něj se staví web.
-- `docs/` – vygenerovaný web, ze kterého jedou GitHub Pages (`main` / `/docs`).
+- `docs/` – vygenerovaný web; na GitHub Pages ho nahrává workflow
+  `.github/workflows/pages.yml`.
 - `scripts/` – celá pipeline: sběr, psaní, stavba dne, web, LinkedIn.
 - `EXPERIENCE.md` – provozní deník: co se osvědčilo a na co si dát pozor.
 
@@ -28,9 +29,9 @@ agenty OpenCode napsat české články, sloučí oba zdroje do jednoho přehled
 (`push-site.sh`). Nakonec vypíše příspěvek na LinkedIn (`build-linkedin.py`).
 
 Web se generuje do `docs/` a commituje do tohohle repa; GitHub Pages ho
-servírují z `main` / `/docs` na `ai-novinky.localinference.cz` (doména je
-v `docs/CNAME`). Staré dny se publikují zpětně, protože `build-site.py` staví
-celý archiv z `dny/`.
+nahrávají workflow `.github/workflows/pages.yml` (Pages v režimu „GitHub
+Actions“) na `ai-novinky.localinference.cz`. Staré dny se publikují zpětně,
+protože `build-site.py` staví celý archiv z `dny/`.
 
 Denní přehled vychází jako anotace; plné texty jen na vyžádání
 (`FULL_TOP=25 scripts/prehledy.sh`).

@@ -179,12 +179,12 @@ Denní přehled už nepublikuje `publish-docs.py` na docs-md.com, ale je z něj
   odkazy, klikatelné linky, indexování i vlastní vzhled a nic z toho nezávisí
   na cizí politice.
 - **Jedno repo, veřejné** (od 16. 11. 2026): `Staticke-weby/ai-novinky.LOCALinference.cz`
-  drží skripty, články, `dny/` i vygenerovaný `docs/`, Pages jedou z `main` / `/docs`
-  na `ai-novinky.localinference.cz` (doména v `docs/CNAME`). Dřív to byla dvě repa
-  (privátní pipeline + veřejný web přes `push-site.sh` a clone v `/tmp`); `push-site.sh`
-  teď jen commitne `docs/` a `dny/` a pushne. Stažené podklady (`_data/`: dumpy,
-  plné texty cizích článků, obrázky, překlady) jsou v `.gitignore` a v repu nejsou —
-  do veřejného repa nepatří a jsou k ničemu, dají se stáhnout znovu.
+  drží skripty, články, `dny/` i vygenerovaný `docs/`; Pages jedou v režimu
+  „GitHub Actions“ a `docs/` nahrává `.github/workflows/pages.yml`. Dřív to byla
+  dvě repa (privátní pipeline + veřejný web přes `push-site.sh` a clone v `/tmp`);
+  `push-site.sh` teď jen commitne `docs/` a `dny/` a pushne. Stažené podklady
+  (`_data/`: dumpy, plné texty cizích článků, obrázky, překlady) jsou v `.gitignore`
+  a v repu nejsou — do veřejného repa nepatří a jsou k ničemu, dají se stáhnout znovu.
 - **Historie začíná 16. 11. 2026.** Do nového repa šel jeden úvodní commit aktuálního
   stromu, ne stará historie (ta by s sebou nesla právě ta `_data/` a 59 MB blobů).
   Stará historie zůstává v privátním `petrbaloun/reddit-clanky-ai`.
@@ -208,9 +208,11 @@ Denní přehled už nepublikuje `publish-docs.py` na docs-md.com, ale je z něj
 - **Odkaz v LinkedIn** bere `build-linkedin.py` z `build-site.py`
   (`site_url(date)`), ne z `logs/publish.json`. Ten zůstává jen pro staré
   per-source dny (`rd/…`, `hn/…`).
-- **Vlastní doména.** `docs/CNAME` píše `build-site.py` z `SITE_DOMAIN`; v Cloudflare
-  je potřeba `CNAME ai-novinky → staticke-weby.github.io` **bez proxy** (šedý mrak) —
-  s oranžovým mrakem GitHub nevydá certifikát. HTTPS pak zapnout v nastavení Pages.
+- **Vlastní doména.** Při publikaci přes Actions se `docs/CNAME` **ignoruje**; doména
+  se zadává v Settings → Pages → Custom domain. `build-site.py` CNAME dál píše (kdyby
+  se přešlo na deploy z větve). V Cloudflare je potřeba `CNAME ai-novinky →
+  staticke-weby.github.io` **bez proxy** (šedý mrak) — s oranžovým mrakem GitHub
+  nevydá certifikát. HTTPS pak zapnout v nastavení Pages.
 - **Viditelnost repa nejde přepnout z `gh`**: účet `rozumvhrsti` má na
   `petrbaloun/reddit-clanky-ai` jen push (admin: false). Proto nové repo v organizaci
   `Staticke-weby`.

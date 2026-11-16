@@ -202,12 +202,54 @@ Denní přehled už nepublikuje `publish-docs.py` na docs-md.com, ale je z něj
   za mrtvý text („obsah nemá funkční odkazy"). Správně: barva odkazu
   (`--accent`), podtržení až při hoveru. Kotvy samotné fungovaly — ověřeno
   klikem, `scrollY` i `#kotva` v URL.
+- **Název webu v hlavičce je odkaz na úvod** a jmenuje se „AI novinky" (`SITE_BRAND`),
+  aby nesplýval s H1 dne („Denní AI přehled – 14. 11. 2026"); má barvu odkazu
+  a je tučnější (`header.site .brand`). Denní stránky mají v hlavičce navíc `← Archiv`.
+  Vpravo je odkaz na `LOCALinference.cz` (`.parent`, `margin-left: auto`), hlavička
+  má `flex-wrap`, aby se na mobilu zalomila.
 - **Cache na GitHub Pages.** `style.css` se drží ~10 minut, takže se změna CSS
   po pushi neprojeví. Proto `build-site.py` přidává do HTML
   `style.css?v=<md5 obsahu>` — každá změna CSS má novou URL.
 - **Odkaz v LinkedIn** bere `build-linkedin.py` z `build-site.py`
   (`site_url(date)`), ne z `logs/publish.json`. Ten zůstává jen pro staré
   per-source dny (`rd/…`, `hn/…`).
+- **Archiv je kalendář po měsících** (`write_index`): mřížka karet, v kartě velké
+  datum „14. 11." a pod ním „pá · 36 novinek", měsíc je nadpis sekce s počtem dní.
+  Datum je to hlavní; dřív byl den utopený v řádku „36 témat z 36 článků".
+- **Barvy jsou z `www.localinference.cz`** (Starlight): akcent `#187a63` ve světlém
+  a `#35b48f` v tmavém režimu, neutrální `#23262f`/`#edeef3` (text), `#edeef3`/`#353841`
+  (linky), `#f6f7f9`/`#23262f` (karty). Stejné konstanty (`OG_*`) kreslí i og:image,
+  aby náhled pro sdílení ladil s webem.
+- **Favicon** kreslí `build-site.py` (`write_icons`): zelený čtverec s bílým „A"
+  z tahů (ne z fontu, ať je stejné ve všech velikostech) — `favicon.svg`, PNG 16/32,
+  `apple-touch-icon.png` (bez zaoblení, iOS si masku dělá sám), `favicon.ico`
+  a `site.webmanifest` s `theme-color` `#187a63`.
+- **Písmo je Geist** (self-hosted `assets/fonts/*.woff2`, latin + latin-ext kvůli
+  diakritice, licence v `assets/fonts/OFL.txt`), stejné jako na docs-md.com — čte se
+  líp než systémové. `build-site.py` ho kopíruje do `docs/fonts/`; og:image zůstává
+  na Interu, protože Pillow neumí woff2.
+- **Obsah je sbalený** (`<details class="obsah">`) — rozbalí si ho jen kdo chce;
+  pod každou anotací je `<details class="full">+ Číst dál</details>` s naším
+  plným textem z `rd/`/`hn/`. Odstavce, které už jsou v anotaci, se přeskočí.
+- **Bez cache.** GitHub Pages posílá `cache-control: max-age=600` na všechno a hlavičky
+  nastavit nejdou, takže po nasazení mohl web 10 minut ukazovat starou verzi.
+  `build-site.py` proto generuje `docs/sw.js`: service worker jede network-first
+  (`fetch(..., {cache: "no-store"})`), do Cache API ukládá jen kopii pro offline.
+  Cache má jméno podle buildu, takže nové nasazení starou zahodí; registrace
+  (`updateViaCache: "none"`) je v `PAGE`, takže se SW aktualizuje hned.
+  `style.css?v=<md5>` zůstává jako druhá pojistka. SW platí per origin — na
+  `staticke-weby.github.io` a na vlastní doméně jsou dva oddělené.
+- **Měření návštěvnosti** je Umami (`navstevnost.pikapod.net`, skript s `data-website-id`
+  vkládá `PAGE` v `build-site.py`, takže ho mají všechny stránky včetně archivu).
+  Cookie to nepoužívá, do feedu se nepropisuje.
+- **Náhled pro sdílení (og:image)** kreslí `build-site.py` přes Pillow: `docs/og.png`
+  pro archiv a `docs/og/<datum>.png` pro každý den (1200×630, Inter, stejné barvy
+  jako web, 3 první titulky dne). Bez Pillow se obrázky vynechají a meta značky
+  se negenerují, build nespadne. Twitter kartu přepíná na `summary_large_image`.
+- **Sitemap a robots.txt** píše `build-site.py` při každém buildu (`write_sitemap`,
+  `write_robots`): `docs/sitemap.xml` má úvod + všechny denní stránky s `lastmod`
+  z data dne, `docs/robots.txt` na něj odkazuje. Drží se samo s archivem, ručně
+  se neupravuje. V `<head>` je i `<link rel="sitemap">`.
 - **Vlastní doména.** Při publikaci přes Actions se `docs/CNAME` **ignoruje**; doména
   se zadává v Settings → Pages → Custom domain. `build-site.py` CNAME dál píše (kdyby
   se přešlo na deploy z větve). V Cloudflare je potřeba `CNAME ai-novinky →

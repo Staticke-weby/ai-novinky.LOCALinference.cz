@@ -34,9 +34,11 @@ header.site, footer.site {
   font-size: .9rem;
   color: var(--muted);
 }
-header.site { display: flex; gap: .5rem; align-items: baseline; padding-top: 1.5rem; }
+header.site { display: flex; flex-wrap: wrap; gap: .5rem; align-items: baseline; padding-top: 1.5rem; }
 header.site a { color: var(--muted); text-decoration: none; }
-header.site a:hover { color: var(--accent); }
+header.site a:hover { color: var(--accent); text-decoration: underline; }
+header.site .brand { color: var(--accent); font-weight: 650; }
+header.site .parent { margin-left: auto; }
 header.site .sep { color: var(--line); }
 main { max-width: 46rem; margin: 0 auto; padding: 0 1.25rem 3rem; }
 h1 { font-size: 1.85rem; line-height: 1.25; margin: 1.5rem 0 .75rem; letter-spacing: -.01em; }

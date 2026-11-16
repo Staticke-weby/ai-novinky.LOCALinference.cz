@@ -1,0 +1,312 @@
+{
+ "date": "2026-11-15",
+ "clanky": 34,
+ "temata": [
+  {
+   "title": "Gemini Argon-High odpovídá jako uražený člověk. Vlákno sbírá sarkastické odpovědi",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xwusve"
+   }
+  },
+  {
+   "title": "Veškerý kód od AI by měl být open source, tvrdí autor",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50507303"
+   }
+  },
+  {
+   "title": "ChatGPT nakreslil lidem jejich přesný opak. Virusový prompt sbírá tisíce komentářů",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xwkynn"
+   }
+  },
+  {
+   "title": "Výpadek Microsoft 365 vedl k otravě chlorem v hotelovém bazénu",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50509411"
+   }
+  },
+  {
+   "title": "Claude napsal a naučil jazyk model, který se vejde na disketu a běží v DOSu",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xwpenj"
+   }
+  },
+  {
+   "title": "Soud pustil žalobu na výrobce DRAM. Trojice měla brzdit dodávky kvůli HBM",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50502988"
+   }
+  },
+  {
+   "title": "Aktualizace Claude Desktop jako Winamp. Vlákno vzpomíná na přehrávač z roku 1997",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xx5iam"
+   }
+  },
+  {
+   "title": "OLED v MacBooku Pro vadí citlivým očím. Diskuse o PWM a návratech",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50506719"
+   }
+  },
+  {
+   "title": "K Mythosu se přes Cyber Verification Program dostane i jednotlivec s občankou",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xwguid"
+   }
+  },
+  {
+   "title": "Protomaps: vlastní mapové dlaždice už stojí pár korun",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50509837"
+   }
+  },
+  {
+   "title": "EUROPA: evropský open model zkusil trénink s 951,9 miliardy parametrů",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xwr917"
+   }
+  },
+  {
+   "title": "EFF a ACLU chtějí soudní příkaz na hledání v databázích kamer",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50503255"
+   }
+  },
+  {
+   "title": "Napěťový glitch odemkl na kartě CMP 170HX 80 GB VRAM. Stačilo 15 hodin práce",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xwxzgj"
+   }
+  },
+  {
+   "title": "Staré odkazy bit.ly byly převzaty. Týkalo se i tweetů Burger Kingu a Trumpa",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50511395"
+   }
+  },
+  {
+   "title": "Minecraft mod z Clauda: stisk B promění celý svět na kostičky LEGO",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xwgbxr"
+   }
+  },
+  {
+   "title": "Jak moderní LLM chápou pořadí tokenů: průvodce pozičními embeddingy",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50506376"
+   }
+  },
+  {
+   "title": "Teleoperovaný uklízecí robot TAU sbírá odpadky po svém. Lidé řeší, kdo ho řídí",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xwh0kg"
+   }
+  },
+  {
+   "title": "Kiri: kontejnerový runtime, který slibuje osmkrát rychlejší start než Docker",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50504077"
+   }
+  },
+  {
+   "title": "Claude ukázal skrytou instrukci o autorských právech a odmítl ji poslechnout",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xx70to"
+   }
+  },
+  {
+   "title": "Agent si vybere hacknutelné zařízení. Otevřený firmware jako výhoda",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50510799"
+   }
+  },
+  {
+   "title": "Pavouk z Blenderu: autor ukázal, jak scénu postavil s Fable 5.2",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xwlfsn"
+   }
+  },
+  {
+   "title": "Škola řízená AI za 75 tisíc dolarů. Cíl dvojnásobného učení splnilo 42 procent žáků",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50509953"
+   }
+  },
+  {
+   "title": "Google podle vlákna vyhraje AI závod. Má modely, ceny i vlastní čipy",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xwtwn4"
+   }
+  },
+  {
+   "title": "db-branch: databázové větve na ZFS pro AI agenty a CI",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50506940"
+   }
+  },
+  {
+   "title": "„Budoucí historici“: mem o bodu, kdy měl někdo AI zastavit",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xwxzje"
+   }
+  },
+  {
+   "title": "Kolik stojí jeden úkol na Opus 5.5: rozbor nákladů agentního kódování",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50503241"
+   }
+  },
+  {
+   "title": "LogicLens: dva roky práce na fact-checkeru, který chytá politiky v přímém přenosu",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xwmzgl"
+   }
+  },
+  {
+   "title": "Anthropic míří na burzu. Prospekt slibuje bilionové ocenění i varování",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50507517"
+   }
+  },
+  {
+   "title": "Nezabil ani petržel, tak si s Claudem postavil hydroponickou věž",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xwvzv1"
+   }
+  },
+  {
+   "title": "Co Čína získává tím, že dává open-weight modely zdarma? 477 komentářů hledá odpověď",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xx4moq"
+   }
+  },
+  {
+   "title": "MiniMax H3 v praxi: uživatelé Mossu a Krea2 přiznávají, že na editaci je lepší",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xx8zu0"
+   }
+  },
+  {
+   "title": "inside-llm: nástroj, který ukáže, kde se dvě kvantizace modelu rozcházejí",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xx7qbf"
+   }
+  },
+  {
+   "title": "Webovou závodní hru pro obchod s vinylmi postavil za týden, bez Fable",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xwkoz4"
+   }
+  },
+  {
+   "title": "Pět modelů, stejné zadání, 80 aplikací. Každý si našel svou parketu",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xwfxy6"
+   }
+  }
+ ]
+}

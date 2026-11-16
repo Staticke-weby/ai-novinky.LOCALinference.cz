@@ -1,0 +1,12 @@
+# 1wvfzzh
+**Trump se před invazí do Venezuely hodiny ptal Groku na názor**
+
+r/singularity · u/Charuru · 2. října 2026, 02:36 · 571 bodů / 170 komentářů · [diskuse](https://www.reddit.com/r/singularity/comments/1wvfzzh/)
+
+Autor s odvoláním na amerického úředníka pro časopis TIME píše, že se Donald Trump týdny před rozkazem k misi, při níž byl zajat Nicolás Maduro, hodiny vyptával chatbota Grok od Muska, jak Venezuelané na zajetí svého prezidenta zareagují. Grok mu prý odpověděl, že budou slavit. Ve stejném příspěvku stojí, že americká armáda během války s Íránem nasazovala vládní verzi Gov Grok k rozmisťování sil a úderům na cíle.
+
+Diskuse se okamžitě stočila k absurditě doby, v níž prezident konzultuje invazi s chatbotem. Nejvíc hlasů posbíralo rezignované povzdechnutí u/kkingsbe, že jsme totálně v háji, a hned pod ním u/Individual_Ice_6825 paradoxně tvrdí, že je to objektivně dobře, protože i Grok je racionálnější a inteligentnější než celá administrativa dohromady. V podobném duchu u/SpaceAdventureCobraX označuje Groka za zřejmě nejinteligentnějšího a nejméně vyšinutého Trumpova poradce a u/Whatsapokemon přiznává, že by raději viděl, jak se Trump ptá Groka než kohokoli ze svého kabinetu, což prý není zrovna veselá představa.
+
+Nejživější spor se vede o to, zda měl Grok pravdu. U/Juanbolastristes píše prostě, že měl pravdu, a dodává, že Venezuelany slavit viděl na vlastní oči v Buenos Aires. Přidává se u/Own-Refrigerator7804 z Jižní Afriky, kde se podle něj také slavilo, a vzkazuje, aby lidé nezlehčovali radost těch, kdo žili pod diktaturou, když už se propustili alespoň někteří političtí vězni. Proti tomu u/flat5 namítá, že Trump stejně poslouchá jen tehdy, když se mu odpověď hodí, zatímco u/HillbillyHumanoid lakonicky poznamenává, že to nakonec dopadlo docela dobře.
+
+Zbytek vlákna je mnohem temnější a točí se kolem vojenského spoléhání na umělou inteligenci. U/GoppleSmanger mluví o psychózu vyvolávajícím pochlebném chatbotu náchylném k halucinacím a u/CoffeeCup220 žertuje, že na druhém konci stejně sedí Elon a odpovídá na všechny dotazy. K selháním míří i u/peakedtooearly s poznámkou, že v Íránu to tak slavné nebylo, na což u/emdeka87 přihazuje odkaz na vyšetřování Pentagonu, podle nějž přespřílišné spoléhání na technologie Palantiru přispělo k úderu, při němž zahynulo 123 íránských dětí. Pointu téhle úzkosti shrnuje u/kevinlch, podle něhož proto nebyla nebezpečná umělá inteligence, ale maniak, který píše prompt.

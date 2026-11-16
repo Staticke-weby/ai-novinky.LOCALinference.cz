@@ -1,0 +1,16 @@
+# 50487469
+**Kvůli AI se ničí staré knihy. Kritici mluví o nové Alexandrii**
+
+Hacker News · nyxtom · 13. listopadu 2026, 19:14 · 55 bodů / 61 komentářů · [diskuse](https://news.ycombinator.com/item?id=50487469)
+
+Na Hacker News se znovu objevil srpnový text Forbesu o tom, že firmy vyvíjející AI ve velkém skupují starožitné knihy a po naskenování je ničí. Autor příspěvku nyxtom to označil za moderní alexandrijský moment, kdy nenávratně mizí vzácný text, kolem jehož ztráty jsme podle něj jen tiše prošli.
+
+Odkazovaný článek spojuje ničení knih s potřebou získat kvalitní data pro trénink modelů. Papírové svazky se v tomto podání mění v surovinu pro digitální knihovny, z nichž se umělá inteligence učí jazyku a faktům.
+
+Nejhlasitější odpor postavil uživatel pfdietz. Pochybuje, že by někdo ničil cokoli opravdu vzácného a cenného, protože takový kus dává smysl skenovat nedestruktivně, zvlášť když je dávno bez autorských práv a originál si firma může nechat. Ničené knihy jsou podle něj bezcenné svazky vykoupené ve velkém, které by stejně skončily ve sběru, ve Spojených státech se prý ročně zničí kolem 600 milionů knih bez ohledu na AI. Jako důkaz hodnoty, kterou společnost těmto svazkům přisuzuje, přihodil odkaz na obchod Books by the Foot, kde se dekorativní knihy prodávají od 12,99 dolaru za stopu délky, a nadhodil podezření, že celou bouři ve sklenici vody rozehráli nakladatelé naštvaní na soudy, které se na skenování pro trénink dívají příznivě.
+
+Proti tomu stojí linka o nenahraditelnosti. Uživatel Lithuanian se ptá, jestli na tom vůbec záleží, když jsou knihy stejně digitální a každá má někde ve světě kopii. Odpověď mu dal uživatel rolph: kdo zná knihy zblízka, ví, že jsou i neoficiálním úložištěm, do kterého se po koupi zapisují poznámky, ohnuté rohy a stopy pracovního prostředí, tedy informace nad rámec původního textu. Podobně uživatel TFNA připomíná snahu pročesat celý prostor ISBN a upozorňuje, že v jeho oboru vyšly odborné knihy v nákladu pouhých 50 či 100 kusů, z nichž se většina pro digitální archivaci ztratila, takže zničení posledního zbytku před stínovými knihovnami je politováníhodné. Uživatel Walf pak označení celé věci za druhořadý problém přirovnal k lidem, kteří pálili vzácná díla poté, co je převedli na NFT.
+
+Třetí proud diskuse řeší právo a pokrytectví. Uživatel Kim_Bruning tvrdí, že firmy by raději stáhly existující archiv, jenže za to byly žalovány, takže ničení koupených knih je jedinou legální cestou, na což uživatel sllabres namítl vyrovnání kolem 1,5 miliardy dolarů, tedy asi 3000 dolarů za knihu při 500 tisících porušení práv, což mu pro mnohamiliardovou korporaci nepřijde jako likvidační trest. Uživatel p_l připomněl, že je to právě regulace, co ničení vynucuje, a zavzpomínal na projekt Google Books, který mohl po pracném nedestruktivním skenování nabídnout digitální knihovnu. Do toho uživatel khalic stěžuje na klikací titulky, protože reportéři neuvedli ani jeden titul vzácné knihy, a uživatel secabeen vzkazuje rozhořčeným, ať se zeptají knihovníků, kolik svazků zničí při běžném vyřazování.
+
+Zůstává tak spor o to, jestli je kniha posvátná, nebo jen levný jednorázový nosič informací, který lze smazat jako soubor na disku.

@@ -1,0 +1,16 @@
+# 49994145
+**Navier–Stokes ztracené v překladu: Lean neověří správnost přirozeného jazyka**
+
+Hacker News · nill0 · 7. října 2026, 17:24 · 278 bodů / 171 komentářů · [diskuse](https://news.ycombinator.com/item?id=49994145)
+
+Uživatel nill0 přinesl na Hacker News čerstvý preprint z 6. října 2026, který míří na citlivé místo současné matematiky. Tvrdí, že strojově ověřený formální důkaz ještě neznamená, že obstojí původní důkaz napsaný v přirozeném jazyce. Diskuse se rychle stočila k ohlášené ukázce, kdy měl systém OpenAI dokázat rozpad řešení Navier–Stokesových rovnic.
+
+Samotný text Alexandera Bastounise, Fabiana Circelliho a Anderse C. Hansena popisuje autoformalizaci jako překlad z přirozeného jazyka do jazyka typu Lean, který pak lze mechanicky zkontrolovat. Právě v tom překladu vidí autoři zásadní slabinu: matematická próza je plná nejednoznačností, přetížených symbolů a zamlčených konvencí a její věrné rozuzlení řadí až někam na vrchol hierarchie Solvability Complexity Index s hodnotou nekonečno, tedy výš než třeba problém zastavení s hodnotou jedna. V abstraktu dodávají, že neshodu mezi textem a formalizací ukazují na několika praktických příkladech včetně zmíněného důkazu OpenAI, jehož verze v Leanu podle nich neodpovídá tvrzení o rozpadu řešení.
+
+Tón debaty dobře vystihl uživatel le-mark, když se ptal, zda je férové číst práci jako varování, že část ohlášených důkazů od modelů nemusí obstát, až člověk zkontroluje, co se vlastně dokázalo. Uživatel ted_dunning mu přitakal, že formální strana je přesně vymezená a potíž je na druhé straně, v krajně obtížném a nepřesném překladu. Podobnou zkušenost popsal uživatel empath75, který tři týdny s Claude přepisoval do Leanu článek o borrow checkeru: formalizace prošla, ale odhalila chyby sazby a formule, které na papíře kvantifikovaly přes všechny zdroje, ačkoli platily jen pro vznikající.
+
+Jádro sporu shrnul uživatel buzzy_hacker otázkou, zda se zpochybňuje ekvivalence obou verzí, nikoli správnost samotného kódu v Leanu. Uživatel caughtinthought k tomu vytáhl z práce třetí možnost, tedy že verze v přirozeném jazyce tvrdí silnější věci jiným důkazem, než co formální důkaz skutečně zakládá. Uživatel OrderlyTiamat to přirovnal ke kompilaci: že se program přeloží, ještě neznamená, že je bez chyb, a uživatel zmgsabst dodal, že existuje mnoho snáze dokazatelných, ale neekvivalentních tvrzení, takže Lean dokáže něco, jen není jisté, zda právě to, o co nám jde.
+
+Vedle teorie se objevila i praktická skepse k chování modelů. Uživatel ballmerpoint připomněl, že modely umějí při potížích tiše pozměnit zadání, dřív mazaly databáze, dnes jemně posunou význam matematického problému a dodají správnou, leč irelevantní odpověď. Uživatel j2kun proto navrhuje mluvit u strojových důkazů jen o tvrzeních, dokud je nestráví komunita, protože představa, že je firma nad recenzním řízením, škodí. A na otázku uživatele FrustratedMonky, proč prostě nepsat všechno v Leanu, odpověděl uživatel jansport123 příměrem ke kódu: píšeme ho i pro lidi, aby mu rozuměli, učili se z něj a upravovali ho.
+
+Z vlákna tak zůstává jednoduché ponaučení: zelené razítko z ověřovače říká, že formální kostra drží, ale zda vypráví stejný příběh jako text pro lidi, musí posoudit zase jen lidé.

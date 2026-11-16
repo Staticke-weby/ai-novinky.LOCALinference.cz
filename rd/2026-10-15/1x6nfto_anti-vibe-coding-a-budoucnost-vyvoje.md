@@ -1,0 +1,16 @@
+# 1x6nfto
+**Sekta proti vibe codingu bude na špatné straně historie**
+
+r/ClaudeAI · u/freedomfromfreedom · 15. října 2026, 16:40 · 427 bodů / 560 komentářů · [diskuse](https://www.reddit.com/r/ClaudeAI/comments/1x6nfto/)
+
+Autor u/freedomfromfreedom předložil v r/ClaudeAI sérii výroků uvozených slovy, že jde o fakta, nikoli názor. Tvrdí, že Claude je v nejlepší formě rychlejší než jakýkoli člověk, model Opus 5.5 předčí v šíři programovacích jazyků 99,9 % vývojářů a důkazem schopnosti psát optimalizovaný kód je mu jeho fyzikální simulace v C++ počítající miliony operací za sekundu. Kdo prý bude v roce 2027 dál odmítat nejsilnější programovací nástroj historie pro všechny své úkoly, stane se nezaměstnatelným, přičemž „slop“ je podle něj vždy odpovědností člověka, nikoli modelu.
+
+Příspěvek zároveň zabíhá do konspirační roviny, když autor tvrdí, že protiAI náladu přiživují ruští a čínští dezinformační boti cíleně zaplavující vlákna o vývoji her, a uzavírá vulgárním vzkazem odpůrcům a Rusům. Právě tahle část vyvolala v nejdiskutovanějším vláknu dne s 560 komentáři nejostřejší reakce.
+
+Nejvýše hodnocený komentář od u/eleochariss odmítá celou dichotomii jako falešnou: problém jsou prý jak puristé, tak vyznavači vibe codingu, zatímco drtivá většina vývojářů používá AI s reálným pochopením technologie. Podobně u/PenguinMan32 píše, že hloupé je automaticky zavrhovat projekt kvůli AI asistenci i vydávat AI projekt zcela za vlastní, takže vítězí nuance. U/evangelism2, u/The_Epoch nebo u/Rav_3d trvají na rozdílu mezi AI inženýringem s procesem a pojistkami a vibe codingem, který podle nich nikdy nebude brán vážně a nevyprodukuje vydatelný kód.
+
+Druhá linka diskuse si bere na mušku formu příspěvku. U/daktanis ironicky cituje úvodní „fakta (nikoli názor)“, po nichž následují názory, u/LookAtYourEyes lakonicky děkuje za sdílení názorů a u/Comrade_Vodkin se směje představě, že každý nesouhlasící musí být ruský troll. U/CommercialHour6660 obrací autorovu teorii o propagandě naruby a tvrdí, že boty si mohou dovolit spíš nejbohatší firmy světa, u/fishingforwoos radí odhlásit se z konspiračních webů a u/taste_the_equation vyjmenovává reálné důvody odporu od slibů šéfů AI o konci práce přes trénink na cizích datech až po datacentra zdražující lidem elektřinu.
+
+Zastání autor našel spíš v jednotlivostech. U/lucisferre píše, že většina vývojářů stejně nikdy přesně nechápala, co dělá, jen náhodně měnila kód a googlila, takže reálné kódové báze byly tak daleko od dokonalosti, že AI pro většinu aplikací není o moc horší. U/StoneCypher s autorem z devadesáti procent souhlasí, ale problém vidí jinde: vibe coding je tak snadný, že nováčci bez vkusu chrlí nedodělky a spamují jimi sítě, podobně jako kdysi každý vyráběl křiklavé weby s rámy. U/JiveTalkerFunkyWalkr vzpomíná na nástup počítačové sazby, kdy typografové také tvrdili, že je stroj nikdy nenahradí, a dodává, že prompt workflow se stane novým jazykem. Praktickou tečku přidává u/bashar122, který jako vedoucí náboru přestává brát lidi, co nekódují primárně s AI.
+
+Vlákno tak nakonec není soubojem o rychlost Clauda, ale o míru: většina hlasů se shoduje, že AI k programování patří, jen odmítá volbu mezi slepým odmítáním a slepým „vibováním“.

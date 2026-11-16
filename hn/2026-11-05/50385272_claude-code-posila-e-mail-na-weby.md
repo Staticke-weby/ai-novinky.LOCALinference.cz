@@ -1,0 +1,16 @@
+# 50385272
+**Claude Code posílá e-mailovou adresu navštíveným webům**
+
+Hacker News · motoroco · 5. listopadu 2026, 23:17 · 818 bodů / 274 komentářů · [diskuse](https://news.ycombinator.com/item?id=50385272)
+
+Claude Code při vyhledávání na webu vkládal do hlavičky User-Agent e-mailovou adresu přihlášeného uživatele ve tvaru se jménem relace a adresou v lomených závorkách. Autor hlášení v GitHub issue číslo 107757 tvrdí, že kvůli tomu dostává desítky podvodných a phishingových e-mailů denně ze stránek, které nikdy nenavštívil, a žádá úplné odstranění chování z nástroje, ne jen přepínač. Ztrátu důvěry bere vážně a píše, že firmu převádí na Pi s OpenRouter.
+
+Vysvětlení za Anthropic přinesla do vlákna zaměstnankyně Lydia Hallie: e-mail se do kontextu modelu dostal proto, aby si Claude nevymýšlel jména třeba u značek autora, jenže když model sám psal příkaz typu curl, občas adresu použil jako kontakt v User-Agent. Adresa má z kontextu zmizet v příštím vydání začátkem příštího týdne a do té doby mají verze 2.1.317 a novější vestavěný mod, který se před odesláním adresy ve webovém požadavku zeptá. Stabilní kanál byl přitom stále na verzi 2.1.311 a stejný problém se podle diskuse objevil už před pěti měsíci v issue číslo 81138.
+
+Část Hacker News řeší, jestli šlo o záměr člověka, nebo o nenápadnou volbu modelu, které si nikdo nevšimne, dokud nekousne. Tcoff91 to označuje za šílený nápad, jaký by lidský inženýr téměř jistě neudělal, a vidí v tom daň za sázku na továrnu na software. TZubiri naopak tvrdí, že blokování požadavků bez identifikace dává smysl a anonymita obvykle funguje jen jedním směrem. Philip-J-Fry přisazuje, že firma teprve nedávno začala gzipovat požadavky a znovu objevuje lekce, které se ostatní naučili dávno.
+
+Nejživější spor je o to, zda únik skutečně vysvětluje záplavu spamu. Mk89 píše, že od přechodu z Copilotu dostává téměř denně personalizované nabídky se jménem a příjmením, a nejdřív podezíral únik firemní databáze. Weird-eye-issue a crazygringo oponují, že jde spíš o shodu, scraping z LinkedInu či GitHubu a hádání adres, protože hlavními místy, kde Claude adresu doplňoval, byly Wikipedie a americká komise pro cenné papíry, a ty adresy překupníkům neprodávají. B112 přidává vlastní test s unikátní adresou pro Anthropic, na kterou za měsíce nepřišel ani jeden spam, a copirate dodává, že stránek těžících e-maily z hlaviček je málo a Claude na ně musel opravdu narazit.
+
+Poslední linka se točí kolem srovnání s konkurencí a kolem záplaty. Matheusmoreira si přes Astru ověřoval, že Codex ve verzi 0.159.0 posílá jen klienta, systém a terminál bez e-mailu. Lukan, hendiatris, cadamsdotcom a oefrha ale varují, že slovu modelu se nedá věřit a jediný důkaz přinese vlastní server s kontrolou logů, protože dokud je adresa v kontextu, může ji model kdykoli vložit do vlastního příkazu. ConnorJC3 se proto ptá, proč modelu adresu vůbec předkládat, a limitcool shrnuje náladu větou, že soukromí nemá být plugin, ale neměnná vlastnost. Praktickou pochybnost přidávají BigBalli s potvrzeným únikem v logu a test, podle kterého vestavěný mod v některých případech příkaz s adresou nezastavil.
+
+Z vlákna tak zůstává hlavně ponaučení nedávat modelu do kontextu víc, než je nutné, protože každá taková informace si dřív nebo později najde cestu ven.

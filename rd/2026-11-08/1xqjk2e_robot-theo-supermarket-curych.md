@@ -1,0 +1,14 @@
+# 1xqjk2e
+**Robot Theo nastoupil do curyšského supermarketu. V noci zvládne 400 položek za hodinu**
+
+r/singularity · u/Distinct-Question-16 · 8. listopadu 2026, 00:07 · 1111 bodů / 514 komentářů · [diskuse](https://www.reddit.com/r/singularity/comments/1xqjk2e/)
+
+Do curyšského supermarketu nastoupil na výpomoc robot Theo. V noci má doplňovat regály tempem až 400 položek za hodinu, přes den pak obsluhovat online objednávky a další běžné úkoly v prodejně. Záběry ho ukazují, jak na kolečkovém podvozku jezdí mezi regály a rovná zboží do polic.
+
+Právě číslo 400 diskusi rozdělilo. Uživatel u/Worktop-pigeons, který v noci v obchodě s potravinami pracuje, tvrdí, že to pro zasvěcené vůbec nezní jako hodně: nejpomalejší zboží prý vyskládá rychlostí osm kusů za dvacet sekund, tedy 1440 za hodinu, průměrné položky pak tempem dvacet kusů za dvacet sekund, tedy 3600 za hodinu. Kdyby doplňoval tempem 400 kusů za hodinu, byl by podle něj pod normou a hrozilo by mu propuštění. Přidává se u/baseketball, podle kterého člověk zvládne tisíce kusů za hodinu a robot soudě podle pomalého pohybu a ukládání se slibovanému tempu ani neblíží. Uživatel u/Subject_Ad_1899 to přepočítává na jeden kus každých devět sekund, což prý na videu vůbec není vidět. Proti sboru skeptiků stojí u/Khaaaaannnn s připomínkou, že tahle technologie je právě teď nejhorší, jaká kdy bude.
+
+Druhá velká linka řeší, čemu vlastně věřit a jak má takový stroj vypadat. Nejvýše hodnocený komentář od u/Galactic_Neighbour žádá alespoň jedno nepřerušené video robota, jak projede celou trasu, jinak bude předpokládat trik a dodává, že i tak by se dalo podvádět. Uživatel u/secretly_a_zombie se ptá, proč musí být stroj humanoidní, když má kola a kleště: v tu chvíli už by to prý mohla být rovnou bedna na kolech s pažemi, a nebýt omezená snahou podobat se člověku. Navrhuje pět paží, vnitřní třídičku a skener plus malý smeták, který při průjezdu zamete podlahu. Že Theo vypadá futuristicky, vysvětluje prý tím, že jde o startup, který potřebuje zaujmout investory. V podobném duchu u/Yasirbare píše, že bedna na kolech s osmi chapadly chobotnice by práci udělala rychleji a lépe.
+
+Mezitím se vlákno rozjelo do vtipů a obav o práci. Uživatel u/AC4E24V3EGZWLZDNIVXG sbírá stovky hlasů otázkou, jestli se Theo umí taky schovat vzadu a kouřit trávu, u/catcrapmakesmevomit navrhuje převléknout robota za elfa, aby majitelé mohli tvrdit, že regály v noci doplňují malí skřítci. Uživatel u/insaneintheblain ironizuje, že je to skvělé, protože zaměstnanci už nebudou muset dojíždět do Curychu a mohou zůstat doma. Vážnější tón vnáší u/johntwoods otázkou, za co budou lidé nakupovat, když práce mizí, a u/VagaKivis bručí, že je smutné být hrdý na něco, co nás má nahradit.
+
+Z curyšského pokusu tak zůstává obraz technologie na půli cesty: dost dobrá na noční směnu před kamerou, ale zatím příliš pomalá a svázaná lidským tvarem, než aby přesvědčila prodavače z praxe.

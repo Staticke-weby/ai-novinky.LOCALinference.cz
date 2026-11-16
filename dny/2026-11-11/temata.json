@@ -1,0 +1,278 @@
+{
+ "date": "2026-11-11",
+ "clanky": 31,
+ "temata": [
+  {
+   "title": "Claude zpřístupnil 300 tisíc rozhodnutí vojenských komisí. Autor kvůli tomu zažaloval Pentagon",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xt44ar"
+   }
+  },
+  {
+   "title": "AI agenti našli v Mexiku zapomenutou mayskou lokalitu. Za 72 hodin",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50452455"
+   }
+  },
+  {
+   "title": "Pět stejných odevzdaných projektů. Učitelé řeší, jak poznat práci od Codexu",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xtan70"
+   }
+  },
+  {
+   "title": "United Airlines zakázaly AI agentům rezervovat letenky",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50458900"
+   }
+  },
+  {
+   "title": "NVIDIA prý zrušila RTX 5080 s 24 GB. Drahá GDDR7 vrátila do hry 16GB verzi",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xtdwps"
+   }
+  },
+  {
+   "title": "Google vydal Gemini Decision-1. Structured output stojí deset centů za milion tokenů",
+   "sources": [
+    "rd",
+    "hn"
+   ],
+   "ids": {
+    "rd": "1xtpfrg",
+    "hn": "50456791"
+   }
+  },
+  {
+   "title": "Windows widget ukazuje limity Claude přímo na liště. Postavil ho Claude Code",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xte9be"
+   }
+  },
+  {
+   "title": "Přepětím čipu CMP 170HX vznikla téměř A100 s 80 GB",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50451903"
+   }
+  },
+  {
+   "title": "Lineární program nahradil osmihodinové ladění vah modelu",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50452655"
+   }
+  },
+  {
+   "title": "ChatGPT ruší standardní hlas. Uživatelé placených tarifů se bouří",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xt3acn"
+   }
+  },
+  {
+   "title": "Yogurt: soukromé AI poznámky z Meetu běží lokálně",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50454625"
+   }
+  },
+  {
+   "title": "NVIDIA pustila Alpamayo 2 Edge. Open-source autonomie běží na AGX Thor",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xtmeif"
+   }
+  },
+  {
+   "title": "Atuin Threads sjednotí historii agentních seancí napříč stroji",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50453637"
+   }
+  },
+  {
+   "title": "Unsloth vydal kvantizace Qwen3.8-27B v3.1. Slibuje o 5–10 % lepší přesnost",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xtlyhe"
+   }
+  },
+  {
+   "title": "Emacs v době kouzel: co zbylo z programování",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50458208"
+   }
+  },
+  {
+   "title": "Na Redditu běží koordinované botí kampaně. Autor ukázal kopírované komentáře",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xtoar9"
+   }
+  },
+  {
+   "title": "Apple zrychlil vyhledávání pro RAG pomocí malých neuronových sítí",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50455633"
+   }
+  },
+  {
+   "title": "Lean a AI prošly celý americký daňový zákon. Našly 138 chyb a tři nové mezery",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xt3x96"
+   }
+  },
+  {
+   "title": "Důchody financují AI datacentra. Kdo ponese riziko?",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50457164"
+   }
+  },
+  {
+   "title": "Gemini odmítl přepsat modlitbu kvůli autorským právům. Uživatelé si stěžují na blokace",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xto2od"
+   }
+  },
+  {
+   "title": "Proč neexpedujeme rychleji? AI zvyšuje aktivitu, ne výsledky",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50455332"
+   }
+  },
+  {
+   "title": "Anthropic v S-1 hlásí dosažení dvojnásobného zrychlení. Před IPO to vyvolalo pochybnosti",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xt3x27"
+   }
+  },
+  {
+   "title": "Huawei vydal MACaQ. Kvantizuje 122B model za 64 minut",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50458166"
+   }
+  },
+  {
+   "title": "Microsoft si patentoval trénink AI na nečinných domácích GPU. Za odměnu slibuje kredity",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xtowe4"
+   }
+  },
+  {
+   "title": "Klad dá kódovacímu agentovi štětce. Malování zůstává po strojcích",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50454951"
+   }
+  },
+  {
+   "title": "Paul Christiano: většina lidí v sále nejspíš zemře při nehodě AI",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xti5xp"
+   }
+  },
+  {
+   "title": "Open-source projekty začaly zakazovat příspěvky od AI. yt-dlp je na seznamu",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50451102"
+   }
+  },
+  {
+   "title": "AlphaGenome 2 čte DNA po jednotlivých buňkách. Nemoci má najít přesněji",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xtkckl"
+   }
+  },
+  {
+   "title": "Pomerado mění weby na MCP. Agent má přestat klikat jako člověk",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50455811"
+   }
+  },
+  {
+   "title": "Baidu potvrdilo Ernie 5.5 Flash. Model má vyjít za dva týdny",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xted8w"
+   }
+  }
+ ]
+}

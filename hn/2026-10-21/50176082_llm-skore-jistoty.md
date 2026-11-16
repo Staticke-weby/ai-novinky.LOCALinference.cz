@@ -1,0 +1,16 @@
+# 50176082
+**Proč se LLM nedá věřit vlastní skóre jistoty**
+
+Hacker News · jimauthors · 21. října 2026, 06:27 · 48 bodů / 30 komentářů · [diskuse](https://news.ycombinator.com/item?id=50176082)
+
+Na Hacker News se objevil odkaz na esej Amruta Joshiho o tom, proč žádat po jazykovém modelu číslo vyjadřující jistotu. Autor upozorňuje, že mnoho návrhářů agentů nechává model vedle odpovědi vyplnit i pravděpodobnost úspěchu, a tvrdí, že takovému číslu chybí spolehlivý základ.
+
+Jistotu vysvětluje na předpovědi počasí: má vycházet z měřitelných informací a z minulých záznamů, a ověřit se dá jen zpětně na mnoha případech, kdy se slíbená procenta potkají se skutečností. Model je ale v jádru prediktor dalšího tokenu, takže napsané „0,85" není odečet z vnitřního měřáku, jen věrohodné pokračování textu, které se pohne při jiném znění otázky nebo když před ním stojí věta o jasně správné odpovědi. Místo dotazování proto navrhuje pravidlo mimo model, které sbírá pozorovatelné signály a výsledky a z nich počítá kalibrovanou jistotu.
+
+Jádro diskuse se hned stočilo k tomu, zda modely uvažují, nebo jen napodobují uvažování. Uživatel hexapus připomíná, že jsou to stále jen prediktory tokenů, které nedokážou uvažovat, ale umějí předpovědět, jak uvažování vypadá, na což se greenflag ptá, jaký je v tom vlastně rozdíl. Uživatel ion_trapper kontruje, že stejně zjednodušeně se dá říct, že Turingův stroj je jen cívka pásky s hlavou a lidský mozek jen tuk v chemické lázni, zatímco mrheosuper rýpe do samotného slovíčkaření a navrhuje místo prediktoru slov mluvit o prediktoru vět, a cyphereal dodává, že vnitřní reprezentace zjevně přesahují pouhé doplňování textu, i když ke kalibrovanému odhadu mají daleko.
+
+Druhá linka řeší kalibraci. Uživatel visarga to shrnuje po svém: jistotu nelze stanovit bez kalibrační sady, přiděluje se pro jeden případ, ale ověřuje se na celé populaci. Uživatel yaoke259 namítá, že správným posilovaným učením by si model mohl vybudovat slušnou intuici pro jistotu, třeba při předpovědi počasí nebo výsledků her, a Ozzie_osman tvrdí, že doladěním na vlastní doménu lze model naučit poznat, kdy se mýlí. Odpověď uživatele 4b11b4 je kousavě stručná: správná je prý jen první půlka věty, tedy že lidé ani modely vlastní jistotu spolehlivě hlásit neumějí.
+
+Nejpraktičtější jsou hlasy z provozu. Uživatel YmFzZTY0ZGFkZHk popisuje firmu, kde model známkuje texty a přidává interval spolehlivosti, a výstupy podle něj nejsou spolehlivé, jen bylo těžké zpochybnit návrh od „expertů". Uživatel jvanderbot nadhazuje, zda by místo vypsaného čísla nešla použít přímo pravděpodobnost dalšího tokenu, když se slovník omezí na povolené třídy, a hashmap potvrzuje, že se tak dá nouzově poskládat odhad, jen je potřeba míchat pořadí voleb, protože modely mají oblíbená písmenka. Uživatel jrflo by chtěl místo proklamací vidět data a bunderbunder, který si takové pokusy v komerčním prostředí prošel, říká, že popis v eseji zhruba sedí, kalibrace se liší model od modelu i formulací a s cizím modelem přes API je to křehké, protože po výměně modelu se všechno rozbije.
+
+Ponaučení, které z vlákna vyplývá, je prosté: odpověď nechte na modelu, ale číslo o jistotě si počítejte z vlastních záznamů.

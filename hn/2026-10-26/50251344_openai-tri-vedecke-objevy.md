@@ -1,0 +1,16 @@
+# 50251344
+**OpenAI oznámilo tři objevy, včetně vyvrácení exponenciální časové hypotézy**
+
+Hacker News · jonluca · 26. října 2026, 22:35 · 708 bodů / 308 komentářů · [diskuse](https://news.ycombinator.com/item?id=50251344)
+
+Uživatel jonluca odkázal na oznámení OpenAI o výsledcích ve třech oborech dosažených ve spolupráci s akademickou obcí. Diskuse se téměř okamžitě stočila k prostřednímu bodu, jak poznamenal rbranson: titulek skrývá hlavní zprávu, že exponenciální časová hypotéza neplatí. Právě tento preprint se na Hacker News objevil i samostatně, kde nasbíral 497 bodů a 181 komentářů, a do tohoto článku byl sloučen.
+
+Podle citace v komentářích firma ohlašuje tři objevy v matematice, informatice a fyzice týkající se harmonické analýzy, teorie složitosti a kvantové teorie pole: lokální vyhlazování a Kakeyova hypotéza, neplatnost exponenciální časové hypotézy a existence kvantové chromodynamiky a doplnění standardního modelu. Rudybega k tomu doplnil kontext: první výsledek by najednou vyřešil Kakeyovu hypotézu a Steinovu hypotézu o restrikci ve všech dimenzích, místo dosavadního postupu dimenzi po dimenzi, a třetí by dal rigorózní matematický základ teorii silné interakce, se kterou fyzici desítky let pracují, aniž by byla dokázána její korektní definice.
+
+Nejvíc technických detailů zaznělo k hypotéze samotné. Práce slibuje deterministický algoritmus pro přesné počítání splňujících přiřazení libovolné formule v k-CNF v superpolynomiálním, ale subexponenciálním čase. JonChesterfield odkázal na formalizaci v Leanu a dooglius upozornil, že nejde jen o rozhodovací 3-SAT, ale o počítací variantu pro #3-SAT, tedy o výrazně silnější tvrzení. Právě proto jltsiren výsledek označil za pravděpodobně první velký výsledek umělé inteligence, který dopadá na články, jež sám čte.
+
+Ústřední otázku položil mlinsey: když vyvrácení hypotézy nutně neznamená P = NP, mění to u odborníků odhad, že by se třídy mohly rovnat? CaptainNegative odpověděl, že poctivě vzato ano, protože vyvrácení tak zakořeněné domněnky je citelná bayesovská aktualizace. Naopak jltsiren mírnil nadšení: klíčový člen meze má tvar 2 na n lomeno polylogaritmem n, a kvadratická redukce z jiné úlohy tak subexponencialitu smaže, takže se stále pohybujeme v podstatě ve stejném sousedství. Podobně to vidí i zprostředkovaný odhad Scotta Aaronsona, o němž jibalt píše, že posunul svou důvěru v rovnost tříd ze tří na pět procent, zatímco varjag to přirovnal k situaci, kdy se slibný formalismus pro důkaz oddělenosti tříd ukázal jako slepá ulička.
+
+Zbytek vlákna míchá úžas, humor a skepsi. ComplexSystems vtipkoval, že polynomiálním řešičem pro SAT bude nakonec prostě poslat instanci Astře a nechat ji pár hodin přemýšlet. Praktičtější Loughla přiznal, že je mu hypotéza natolik vzdálená, že po devíti odkazech přestal chápat i vysvětlení jejích částí, a prosil o dopady pro laiky. esalman pak rýpl do pasáže o spolupráci s akademickou obcí: v oznámení našel hlavně dar pět milionů dolarů výzkumné nadaci, což vydrží na pět až deset doktorandů na pět let, a ptal se, zda by firma neměla vědcům za ověřování strojových důkazů nabídnout víc.
+
+Pro čtenáře z toho plyne hlavně opatrné rozlišení: i kdyby se padlá hypotéza potvrdila, o rovnosti P a NP by tím rozhodnuto nebylo, zato by se otevřela řada nových problémů z trosek stovek prací, které s ní počítaly.

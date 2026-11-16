@@ -1,0 +1,18 @@
+# 50010656
+**Vitalik Buterin a "bunker mode": AI matematika zneklidňuje krypto**
+
+Hacker News · firstcomm · 8. října 2026, 21:17 · 60 bodů / 59 komentářů · [diskuse](https://news.ycombinator.com/item?id=50010656)
+
+Na Hacker News se řeší výzva, aby krypto přešlo do takzvaného bunker mode kvůli rychlému pokroku umělé inteligence v matematice. Podpořil ji i Vitalik Buterin a podle zadání diskuse panuje strach, že by bezpečnost peněženek mohla být ohrožena v řádu měsíců. Do stejné nálady spadá i úvaha kryptografa Matthewa Greena, že bychom mohli „ztratit" veřejnou kryptografii, kterou později upřesnil, že jde o nové kryptoanalytické výsledky, ne o úplné zhroucení.
+
+Odkazovaný text z Cointelegraphu se podařilo načíst jen částečně, takže jeho plná argumentace v balíčku chybí. Z adresy i z reakcí je zřejmé, že jde o apel Justina Drakea na rychlé posílení obrany peněženek proti nové matematice od AI.
+
+Nejcitovanější věta vlákna patří uživateli tptacek, který píše, že LLM kryptografii na křivkách pravděpodobně nerozbijí, ale výzkumníci v kryptografii vyzbrojení LLM jsou jiný příběh. Reaguje tím na otázku uživatele what, proč by se vůbec mělo věřit, že LLM zlomí eliptické křivky. Vedle toho uživatel j2kun připomíná, že na mřížkové problémy postkvantové kryptografie se už AI nasadilo hodně úsilí bez viditelného výsledku, a diví se, proč se Vitalik bojí právě teď. Uživatel dist-epoch namítá, že čerstvý důkaz domněnky o jednotkové vzdálenosti s vysokodimenzionálními mřížemi a algebraickými číselnými tělesy ukazuje dovednost přesně v oblasti, která se mřížkové kryptografie dotýká.
+
+Hodně místa zabírá ekonomika případného útoku. Uživatel spottedmarley píše, že jakmile by to bylo možné, šlo by o extrémně drahý a zdlouhavý útok proti vybrané adrese s obrovskými nároky na výpočty, takže první obrana je nedržet pod jedním klíčem víc, než by stálo jeho prolomení. Uživatel tzone kontruje, že burzy a správci drží v jedné adrese miliardy dolarů v bitcoinu či etheru, takže lukrativních cílů by bylo dost. Uživatel _ink_ dodává, že mezi kamenem a tvrdým místem je bitcoin: fondy připisované Satoshimu by za útok stály, ale bez přesunu je nelze převést na postkvantovou kryptografii. Uživatel warkdarrior k tomu poznamenává, že výpočetní síla může být levná, když si útočník koupí botnet.
+
+Paralelně se vede spor o hashe. Uživatel notnullorvoid píše, že přesunout bezpečnostní model k hashům mu přijde jako daleko horší sázka, pokud se člověk bojí pokroků v matematice. Uživatel palmotea se ptá, zda hashe nejsou naopak méně závislé na matematických tricích, protože kryptografie s veřejným klíčem stojí na jediném triku, třeba problému faktorizace. Uživatel MattPalmer1086 souhlasí, že hashe mají méně algebraické struktury, což je při obavě z matematických útoků výhoda, a uživatel jMyles dodává, že v jednoduchých hashech se není kam schovat pro útoky postavené na přehodnocení starých předpokladů.
+
+Zbytek vlákna míří spíš k lidem než k rovnicím. Uživatel simonw píše, že největší slabinou krypta byla vždy bezpečnost: i kdyby algoritmy vydržely, lidé si musí uhlídat klíče, a dekády zkušeností ukazují, že to neumějí, takže větší starost než matematika jsou ukradené klíče a záplava nových děr v operačních systémech, prohlížečích, peněženkách a osobních agentech. Uživatel gumby se ptá, zda by pád bitcoinu měl vůbec makroekonomický dopad mimo přímé ztráty držitelů, když jeho peníze jsou v nudných indexových fondech.
+
+Čtenář si z toho odnese střízlivé rozlišení: samotné modely křivky nelámou, ale zrychlují práci těch, kdo je lámat umějí, a proto se řeší cena útoku, odolnost hashů i obyčejná hygiena klíčů.

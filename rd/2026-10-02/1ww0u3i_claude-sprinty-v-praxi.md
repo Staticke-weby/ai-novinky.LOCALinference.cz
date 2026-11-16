@@ -1,0 +1,16 @@
+# 1ww0u3i
+**Tým nasadil Claude a sprinty se vyřeší za dny místo týdnů. Došla jim práce**
+
+r/ClaudeAI · u/VinceEagle · 2. října 2026, 20:10 · 610 bodů / 182 komentářů · [diskuse](https://www.reddit.com/r/ClaudeAI/comments/1ww0u3i/)
+
+Vedoucí vývojového týmu enterprise systémů v Pythonu a TypeScriptu popisuje zpracování dat ve velkém, spoustu DevOps a mikroslužeb. Tým nedávno začal používat Claude a sprinty, které dřív zabraly týdny, se teď vyčistí za dny. Produktový management nestíhá shánět další zadání, autor tak tráví většinu času v plánovacích hovorech a ptá se diskuse, co bude dál.
+
+Nejhlasovanější reakce patří u/lokethedog, který nechápe, jak může internímu týmu ve větší firmě vůbec dojít práce: nerentabilní nebo nekritická zadání možná, ale aby nebylo vůbec nic? Podle něj je to známka odtržení od jádra byznysu, nikoli efekt umělé inteligence. Autor v odpovědi potvrdil, že jde o interní tým ve velké firmě, kde každá práce potřebuje produktové zdůvodnění, analýzu poptávky, design a specifikaci – bez posvěcení si nemohou ani hrát s refaktoringem, takže úzkým hrdlem se stalo právě plánování.
+
+Druhá nejsilnější linka radí, jak si práci uměle nevyrobit, ale najít. u/f3xjc doporučuje nasadit na kód agentní kontrolu a nechat ji otevírat hlášení na náhodné nálezy, čímž prý z každé zavřené úlohy v průměru vznikne 1,1 nové, a k tomu řešit technický dluh plošnými drobnými úkoly napříč kódovou základnou. u/SJrX k tomu přidává postřeh ze sprintů: dřív prý týmy trávily přípravou asi desetinu času, jenže umělá inteligence zrychlila přípravu zhruba dvakrát, zatímco implementaci desetkrát, a ošizená příprava pak vede k rozbitým a neúplným funkcím. u/muuchthrows ale krotí nadšení, když píše, že hodnota takových náhodných nálezů se rychle blíží nule – jsou to reálné problémy, jen bez citelného dopadu na produkt.
+
+Zbytek vlákna zvážněl. u/FaudelCastro převyprávěl historku o technickém řediteli, který projel velký redesign aplikace za polovinu času a s o 30 % méně vývojáři, než čekal, protočil i backlog včetně portů starých platforem – a teď neví, co s polovinou lidí, protože zábavní firma prostě tolik technologií nepotřebuje. Do stejného místa míří i u/Orgasm_Faker s úvahou, že desetkrát až stokrát vyšší produktivita neznamená desetkrát až stokrát vyšší poptávku, a u/cultureicon s příměrem o sekání trávníků: dřív se sekali dvacet týdně, teď by zvládli tisíc, jenže trávníků je pořád stejně. u/liverandonions1 pak suše dodává, že co bude dál, je jasné, jakmile se to dozví vyšší vedení a akcionáři.
+
+Našlo se i pár únikových strategií a vtipů. u/KoreanJesus_193 radí lhát, pětiminutovou práci s Claude vykázat jako čtyřdenní a obsluhovat tak čtyři klienty na čtyřech projektech, zatímco u/the_pwnererXx nabádá mířit výš a nechat Claude měsíc řešit třeba lék na rakovinu. u/kakaobohne to glosuje hláškou o zeleném tlačítku místo červeného, po kterém týmu zbyl čas navíc. Střízlivou protiváhu přinesli u/larowin s popisem 17tisícového balíku změn k revizi, po kterém prý není vše jen zalité sluncem, a u/likrem, zkušený vývojář a produktový manažer, který po letech pauzy zkusil Opus v editoru a během dne měl hotovou čtvrtinu bezpečnostní aplikace – prý se humbuk konečně stal realitou.
+
+Z vlákna tak zůstává obraz, kdy kód přestal být brzdou a brzdou se stalo rozhodování, co se má vůbec stavět.

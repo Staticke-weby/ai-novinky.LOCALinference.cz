@@ -1,0 +1,14 @@
+# 1x3qxfn
+**„Doufejme, že inference zůstane drahá“: meme o nákladech na tokeny**
+
+r/ArtificialInteligence · u/Dull_Impress_1304 · 12. října 2026, 05:04 · 1687 bodů / 43 komentářů · [diskuse](https://www.reddit.com/r/ArtificialInteligence/comments/1x3qxfn/)
+
+Autor sdílel obrázkové meme označené jako Fun / Meme, vlastní text k němu nepřidal. Vtip stojí na prosté představě: kdo spálí stovky miliard tokenů, musí za to zaplatit pořádný balík peněz.
+
+Nejvýše hodnocenou reakci k tomu napsal u/Popular-Factor3553, podle kterého je drahá inference nepravděpodobná. Čínské open-weight modely jsou na svou velikost stále lepší a frontier firmy prý požádaly Qualcomm, aby připravil telefony schopné rozběhnout modely se 100 miliardami parametrů, což podle něj znamená, že i velcí hráči optimalizují náklady směrem k menším a lepším modelům. Na to navazuje u/Party_Estimate_6397 přáním, aby inference drahá nezůstala, protože by si za rok rád na vlastním stroji pouštěl open-source ekvivalent GPT-6.1 Sol.
+
+Kolem čísla 830 miliard tokenů se rozjela zábavná účetní linka. u/MS_Fume glosuje, že na DeepSeeku je to „asi za 40 dolarů“, zatímco u/Far-Gene-5806 to pro zábavu prohnal aktuálním ceníkem DeepSeeku. V nejlevnějším případě, kdy je každý token cache hit na v4.1 flash mimo špičku za 0,003 dolaru za milion, vychází mu to asi na 2,5 tisíce dolarů, čerstvý vstup na zhruba 125 tisíc a výstup na asi 500 tisíc, výstup na v4 pro ve špičce pak až na přibližně 3,3 milionu. Pointa podle něj je, že o účtu za agentní práci rozhoduje míra zásahů cache a podíl výstupu, ne číslo v titulku. Podobně to vidí u/Ok_Leadership_6697, podle kterého je 830 miliard tokenů při současných cenách API jen pár milionů dolarů, takže to velké číslo je valuace 830 miliard dolarů, ne člověk.
+
+Nejvěcnější vsuvku přidal u/No-Television-7862: náklady na dosažení stejného výkonu prý za posledních 24 měsíců padaly asi o 47 % za čtvrtletí, tedy zhruba třináctkrát ročně, a některé benchmarky při fixní kvalitě ukazují od konce roku 2022 pokles 280krát až tisíckrát. Stojí za tím směs MoE, distilace, kvantizace, servírovacích novinek jako vLLM a TensorRT, skoku v hardwaru v čele s Blackwell a cenové války, zatímco nejlepší modely si drží příplatek za nové schopnosti. u/heavy-minium k tomu dodává, že inference proti tréninku drahá není, jen se z ní musí vrátit aspoň pár procent nákladů na trénink.
+
+Zbytek vlákna je směs hlášek a černého humoru o práci. Nejvíc z nich rezonuje výměna, kterou popsal u/Arxivink: personalisté hlásí „nahradíme vás umělou inteligencí“ a účtárna odpovídá „to teda nenahradíme“. u/Bulgen-Venkat vtipkuje, že jakmile bude inference levná, bude každá diskuse jen hádkou dvou botů, takže drahá inference zatím drží odpad venku, a u/ECrispy připomíná, že stačí jeden příkaz /compact a člověk je „vymazán z historie“. Nakonec tak meme o drahých tokenech čte komunita spíš jako přání, aby levná inference patřila všem, ne jen účtům za API.

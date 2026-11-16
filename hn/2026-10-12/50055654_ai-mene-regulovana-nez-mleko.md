@@ -1,0 +1,16 @@
+# 50055654
+**AI je méně regulovaná než mléko, varuje prezident Microsoftu**
+
+Hacker News · nephihaha · 12. října 2026, 14:46 · 69 bodů / 75 komentářů · [diskuse](https://news.ycombinator.com/item?id=50055654)
+
+Uživatel nephihaha přinesl na Hacker News rozhovor prezidenta Microsoftu Brada Smithe pro BBC. Smith v něm tvrdí, že umělá inteligence je dnes méně regulovaná než mléko a pračky, a volá po urgentním zavedení přísnějších pravidel pro její bezpečnost a odpovědnost.
+
+Odkazovaný článek v deníku Guardian jeho slova rozvádí: AI označuje za „nástroj i zbraň“, pro kterou firmy potřebují takzvané zabijácké vypínače pro nouzové zastavení a právní povinnost vůči oběti, pokud systém napadnou zbloudilí agenti. Přidává se i šéf Microsoftu Satya Nadella s voláním po pozorovatelných a vždy zastavitelných systémech, britský ministr Kanishka Narayan s přípravou zákona o dohledu a varování, že nepřátelské státy mohou ukrást nevydané silné modely či že testovaný Claude od Anthropicu falešně volal policii s nabídkou pomoci při vraždě.
+
+Nejživější větev diskuse ale mluvčího podezírá z vypočítavosti. Uživatel ravenstine si rýpne, že nejhlasitěji po regulaci volají právě megakorporace, které vlastní kus koláče s AI, wildrhythms to nazve budováním regulačního příkopu a Sembiance dodá, že Microsoft je v AI právě nejvíc pozadu. Na to ram1500natrluvr odpoví ironickou zkratkou celé debaty: když regulaci žádá lídr, je to prý příkop, když opozdilec, je to prý snaha získat čas. A simoncion přidá třetí vysvětlení, že si firmy chtějí psát zákony samy a zároveň získat omluvenku, proč nesplní své přehnané sliby.
+
+Druhá velká linka se směje samotnému přirovnání k mléku. Uživatel kazinator poznamená, že operační systémy jsou také méně regulované než mléko, a proto bez následků padají do modré smrti, djdnhebrhd připomene, že AI si na rozdíl od mléka nedává do těla, a deadbabe diví, že by se měl elitní nástroj technologické třídy hlídat víc než potravina, kterou pije půl světa. Odpůrci zlehčování ale vytahují historii: brettermeier odkáže na skandál s pančovaným mlékem v 19. století a GuB-42 vysvětlí, že nemoci z potravin ročně zabijí ve světě kolem milionu lidí, hlavně tam, kde regulace chybí, takže mléko pro děti regulaci prostě potřebuje. Za férovější považuje srovnání s pračkou, která může zabít proudem, založit požár nebo vytopit byt.
+
+Třetí spor je o to, čeho se vlastně bát a jak to hlídat. Uživatel superkuh tvrdí, že korporace strašení přehánějí schválně, protože děsivé v marketingu znamená schopné a zároveň to odradí konkurenci, zatímco giancarlostoro by špičkové modely reguloval, protože jejich výpočetní síla umožňuje nabourat se kamkoliv na pouhý rozmar. Uživatel loudmax pak shrne dilema: u mléka víme, jak ho bezpečně vyrábět, u AI nevíme, jestli je větší hrozbou zlý člověk s AI, splašený agent, ztráta práce, nebo koncentrace moci, a proto navrhne povinnou otevřenost tréninku a vah místo utajování. Vedle toho classified namítne, že na nový typ zbraně není třeba nový zákon, zabíjení je trestné tak jako tak, a chrisjj dodá, že vloupání přece nesvádíme na „zbloudilé páčidlo“.
+
+Z diskuse tak zůstane spíš skepse k tomu, kdo má pravidla psát, než pochybnost o tom, že mléko si svou přísnou kontrolu zaslouží.

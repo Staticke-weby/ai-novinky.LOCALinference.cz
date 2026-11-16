@@ -1,0 +1,18 @@
+# 50233347
+**Matematik čte budoucnost AI: co zůstane z lidské práce**
+
+Hacker News · artninja1988 · 25. října 2026, 17:31 · 57 bodů / 78 komentářů · [diskuse](https://news.ycombinator.com/item?id=50233347)
+
+Uživatel artninja1988 přinesl na Hacker News esej z Atlanticu, v níž se matematik zamýšlí nad tím, co umělá inteligence dělá s matematikou a s lidskou prací jako takovou. K odkazu nepřidal vlastní text, takže se debata rovnou pustila do podstaty: zda stroje berou jen dřinu, nebo i radost a smysl objevování.
+
+Samotný článek se do podkladů kvůli zakázanému přístupu nenačetl, plná verze je ale v diskusi k mání přes archiv, na který odkázal uživatel award_. I bez něj má vlákno jasné těžiště, řeší důkazy, kariéry matematiků a odpor části komunity vůči AI.
+
+Nejúderněji popsal typickou křivku přijetí uživatel 0x20cowboy: od „tohle nikdy nebude fungovat“ přes „je to odpad a nedá se to použít“ a „dobrá, je to správně, ale je to zmatek“ až po firemní příkaz, že je to levné a musí se to používat. Končí rezignovaným účtováním s nájmem, konstatováním, že člověk má štěstí, když má vůbec práci, a hláškou o elektrolytech, na kterou uživatel kurthr přihodil, že právě po tom rostliny touží.
+
+Zda AI „už vyšla“, je největší spor vlákna. Uživatel mikeegg1 mluví o spoustě humbuku a připomíná japonské nadšení pro pátou generaci a Prolog v osmdesátých letech. Uživatel bananaflag ho sráží otázkou, zda tehdejší AI vyřešila velkou Fermatovu větu, uživatel IshKebab trvá na tom, že mezi Prologem a něčím, co se blíží AGI, je očividný rozdíl, a uživatel pixl97 píše, že mluvit s počítačem, který řeší úlohy jen ze slov, mu připadá jako čisté sci-fi, ze kterého by se lidé v minulosti děsili k smrti. Uživatel joe_the_user debatu obrací: budoucnost už je rozhodnutá, řešit se má dopad současných schopností. Uživatel QuesnayJr tvrdí, že za poslední půlrok přibylo díky AI v otevřených problémech víc pokroku než za předchozí dekádu, a uživatel vikramkr dodává, že krize už nastala s Navierovými-Stokesovými rovnicemi a hromadou důkazů.
+
+Fyzikální linka řeší, co z lidské práce zbude. Uživatel GlibMonkeyDeath doufá, že AI jako nový nástroj ukáže matematice souvislosti, které lidský mozek minul, podobně jako měření jednotlivých kvant změnilo fyziku, zároveň ale mluví o momentu Johna Henryho pro matematiky. Uživatel bjornsing oponuje, že AI na rozdíl od dřívějších nástrojů nahrazuje samotné myšlení, takže příští kvantovou mechaniku z dat možná neposkládá člověk, ale stroj. Uživatel analog31, rovněž fyzik, varuje, že novátorské důkazy jsou měnou mladých matematiků pro postup i pro jistotu potřebnou k učení, a pokud se jejich cena propadne k nule, uchazeč o doktorát za pár let nebude vědět, jak má vypadat práce, kterou mu má profesor podepsat.
+
+Závěr patří otázkám, robotům a kariérám. Uživatel oulipo tvrdí, že matematika jsou otázky a řešení a stroje možná zvládnou to druhé, ale dobré otázky jsou dobré právě pro lidi. Uživatelé mag7269, layer8, pixl97 a bjornsing to odmítají: stroje prý už nové směry ukazují, lidské hodnocení se dá naučit zpětnou vazbou a model trénovaný na lidském myšlení si osvojí i to, co vede lidi k dobrým otázkám. Uživatel kurthr mezitím varuje před spojováním modelů s humanoidními roboty, protože sladění se mu zdá neřešitelné a příběhy o strojích útočících na lidi jsou podle něj vepsané přímo do modelů. Uživatel abetusk pak píše, že nic nebrání objevovat postaru s vypnutým počítačem a stesk po dřině je spíš stesk po slávě, na což uživatel esafak odpovídá, že na odvozování ve volném čase nebude mít kdo čas, když bude shánět jinou práci.
+
+Čtenář si z menší, ale soustředěné debaty odnese hlavně tohle: nejde už o to, zda AI něco umí, ale kdo ponese ověřování, otázky a živobytí, když důkazy přestanou být vzácné.

@@ -1,0 +1,16 @@
+# 50011028
+**David Revoy zakázal AI derivaci svého umění, lore i komiksů**
+
+Hacker News · frizlab · 8. října 2026, 21:43 · 39 bodů / 24 komentářů · [diskuse](https://news.ycombinator.com/item?id=50011028)
+
+Francouzský výtvarník a autor webkomiksu Pepper&Carrot David Revoy si k licencím Creative Commons připsal vlastní dovětek zakazující AI derivaci svého umění, příběhů, lore i komiksů. Svobodným licencím, pod kterými publikuje přes deset let, podle něj taková volba chybí a od organizace její doplnění nečeká, a tak si pravidlo sepsal sám.
+
+Na blogu popisuje nápor, který ho k tomu dohnal: denně mu chodí tři a více žádostí o povolení AI derivace od animačních studií, vydavatelů, vývojářů her i samozvaných AI komiksářů, přičemž většinu těch rozvláčných odmítavých e-mailů podle něj píše samotná AI. Jako odstrašující případy ukazuje svou kresbu přetištěnou přes AI fotografii na tržišti Temu, nabídku vydavatele na AI prequel Pepper&Carrot pro Amazon i nápad předělat s AI film Sintel. Vymahatelnost staví na francouzských morálních právech, která prý stačí takto veřejně uplatnit, čtenáře prosí o hlášení porušení a zároveň slibuje toleranci k softwaru s AI příspěvky či k AI korektuře a překladu textu napsaného člověkem.
+
+Diskuse začíná u skepse. Uživatel micromacrofoot glosuje, že je to stejně účinné jako vyjít ven a vyhlásit to do nebe, voidfunc přeje jen hodně štěstí. Věcněji to rámuje archagon: dodatky dnes nemají zuby, ale až se někdy některá jurisdikce naštve dost na to, aby začala stíhat AI firmy, bude se hodit prokázat, že licence AI užití výslovně zakazovala a model ten text „dost chytrý na pochopení" přesto ignoroval.
+
+Nejdelší linka řeší, zda jde zákaz vůbec zpětně dopsat ke starším dílům. Uživatel zemlyansky připomíná, že licence Creative Commons jsou neodvolatelné a dodatečná omezení na ně nelze naroubovat. Uživatelé gpm a F3nd0 namítají, že nic nebrání vydat stejné dílo znovu pod novou, přísnější licencí a nechat na ostatních, aby si dohledali starší verzi, přičemž každá aktualizace kresby už pak vyjde jen pod novými podmínkami. Opačný výklad nabízí bbor: Creative Commons je v praxi jen šablona pro případný soud a kdo ignoruje jasný zákaz vedle komiksu, bude podle francouzského práva velmi pravděpodobně odpovědný, protože morální práva se licencí neposkytují a zříci se jich lze jen v nezbytném rozsahu pro výkon licencovaných práv. Uživatel vfosnar se naopak bojí právního pekla, když vedle sebe stojí dvě nejednoznačně sladěné licence bez výslovné výjimky.
+
+Pod tím se vede spíš kulturní spor. Uživatel lowbloodsugar rýpe, že malíři jíst musí, ale programátoři ne, a mechazawa dodává, že programování se už dlouho nepovažuje za tvůrčí práci, a tak nemá v očích umělců hodnotu. Uživatel tumetab1 s Revoym soucítí a tvrdí, že copyright měl autorům umožnit kontrolovat užití díla, na což mu joquarky odpovídá, že copyright vznikl pro pokrok vědy a umění a dnešní systém z autorů dělá diktátory společného kulturního prostoru. Stejný joquarky pak dodává, že copyright nezabije jeden řez, ale miliony drobných dodatků, podmínek a výjimek od intelektuálních megalomanů.
+
+Z vlákna tak zůstává portrét autora, který nechce živit strojovou záplavu laciných odvozenin, a komunity, která mu rozumí, ale v sílu ručně dopsané věty vedle zavedené licence příliš nevěří.

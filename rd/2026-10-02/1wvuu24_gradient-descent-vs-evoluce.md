@@ -1,0 +1,14 @@
+# 1wvuu24
+**Gradientní sestup vs. evoluce: souboj na třech loss landscapes**
+
+r/deeplearning · u/ModularMind8 · 2. října 2026, 16:10 · 421 bodů / 70 komentářů · [diskuse](https://www.reddit.com/r/deeplearning/comments/1wvuu24/)
+
+Autor u/ModularMind8 se vrátil k evolučním algoritmům a připravil vizuální test, kde evoluce poráží obyčejný gradientní sestup. V prvním kole na členitém svahu sestup uvízne v prohlubni, zatímco evoluce se po 750 vyhodnoceních dostane až dolů. Na hladkém svahu naopak vítězí sestup poměrem 108 kroků proti 570 vyhodnocením a na ploché plošině s nulovým sklonem se sestup vůbec nepohne, evoluce cíl najde po 840 vyhodnoceních.
+
+Největší ohlas sklidila samotná grafika, která podle u/Low-Temperature-6962 skvěle vystihuje pointu. Autor v odpovědi popsal jednoduchou smyčku mutace a selekce: 120 bodů startuje ze stejného místa, každou generaci přežije 30 s nejnižší ztrátou a zbylých 90 nahradí jejich kopie s gaussovským šumem. Ten začíná široce a zužuje se asi o 2,5 % za generaci, takže nejdřív zkoumá a později se usazuje, a nikdy nepoužívá gradient, jen hodnoty ztráty. Na dotaz u/MentionJealous9306 doplnil, že úloha má pro účely videa jen dva parametry, aby šel povrch nakreslit ve 3D.
+
+Odbornější větev diskuse experiment relativizuje. u/LiorZim připomíná, že čistý sestup se ve většině aplikací hlubokého učení nepoužívá, protože funguje jen pro konvexní optimalizaci, zatímco stochastická varianta se strategií typu Adam dává procesu něco jako rychlost a zrychlení a pomáhá mu zdolávat členité krajiny. Podobně u/DoubleOtter2 píše, že reálné vysocedimenzionální krajiny takhle nevypadají, protože záplava nadbytečných parametrů s hladkými nelinearitami vytváří lokálně hladkou krajinu. Navíc jsou ztráty v hlubokém učení diferencovatelné v uzavřeném tvaru, bez toho by odhad gradientu stál nejméně N, často i dvojnásobek vyhodnocení. Na otázku u/WiredFan, jak drahý je výpočet gradientu proti samotné ztrátě, autor odpovídá, že s backpropagací stojí gradient zhruba jako dvě až tři vyhodnocení ztráty bez ohledu na počet parametrů.
+
+Třetí proud se točí kolem toho, co bude dál a jak obojí spojit. u/AtMaxSpeed by rád viděl stejnou vizualizaci pro moderní algoritmy sestupu, protože evoluce a SGD jsou intuitivní a výsledek se dá čekat, zatímco moderní postupy si člověk představí hůř. u/WobblyBlackHole navrhuje mezistupeň pustit n sestupů s různými kroky učení a nejlepší zkopírovat, u/AllergicToBullshit24 sní o zapínání evoluce podle plánu vždy, když sestup uvízne v lokální kapse. Autor souhlasí, že Adam, momentum a SGD na stejných krajinách jsou další na řadě, a zájemci o hluboké učení odkazuje na Evolution Strategies at the Hyperscale.
+
+Z diskuse tak vyplývá jednoduché ponaučení: na hladkém svahu vyhraje klasika, ale jakmile krajina zhrbolatí nebo se srovná do roviny, vyplatí se sázka na slepé zkoušení a výběr.

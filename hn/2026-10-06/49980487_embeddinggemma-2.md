@@ -1,0 +1,16 @@
+# 49980487
+**EmbeddingGemma 2: otevřený multimodální embedding model**
+
+Hacker News · ilreb · 6. října 2026, 18:03 · 288 bodů / 31 komentářů · [diskuse](https://news.ycombinator.com/item?id=49980487)
+
+Google představil EmbeddingGemma 2, druhou generaci svého lehkého embeddingového modelu. Navazuje na loňský EmbeddingGemma, který si podle Googlu stáhlo přes 20 milionů vývojářů pro lokální vyhledávání a soukromé RAG pipeline. Novinka se posouvá od čistého textu k nativně multimodálnímu modelu postavenému na architektuře Gemma 4 a uvolněnému pod komerčně vstřícnou licencí Apache 2.0.
+
+Podle firemního blogu model mapuje kombinace textu, kódu, obrázků, videa a audia do jednotného vektorového prostoru, takže umí třeba najít konkrétní klip ve videu podle hlasové poznámky nebo prohledávat hodiny nahrávek textovým dotazem. Celkem má 740 milionů parametrů, ale je modulární: pro samotný text stačí 270 milionů, volitelně se přidává obrazový enkodér se 170 miliony a zvukový se 300 miliony. Praktickému nasazení pomáhá 8tisícový kontext, dynamické zkracování vektorů ze 768 na 512, 256 či 128 dimenzí i kvantizace, kdy textová verze zabere na Pixelu 11 Pro jen kolem 191 MB RAM a plná multimodální kolem 567 MB.
+
+Nejživější nit patří uživateli minimaxir, který si stěžoval, že práci agentů se změnila, ale dlouho chyběl pořádný středně velký embeddingový model. Novinku s 270 miliony pro text a 440 miliony pro text s obrazem označil za konečně dobrou volbu a podělil se o čísla ze svého nástroje na MacBooku M3 Pro: 78 embeddingů za sekundu u krátkých textů, 4 u obrázků, 6 u třicetisekundových úseků audia a 0,2 u videa na minutu záznamu. Uživatel alberto467 k tomu dodává, že fascinující je právě spojení slov s audiem, kde byla vyřčena, nebo s obrázkem, kde se text objevuje, a na zkušenosti s CLIP popisuje, jak embedding nese čistý obsah i stylistický tón.
+
+Velkou debatu vyvolala otevřenost. Uživatel simonw oceňuje Apache 2.0 a vysvětluje, že u embeddingů jde o tisíce až miliony uložených vektorů, takže ukončení proprietárního modelu znamená drahé přeembeddování celého archivu. Nejraději by platil poskytovateli za hostování, ale s jistotou, že když služba skončí, může si otevřené váhy rozběhnout sám. Uživatel 0xdeafbeef k tomu lakonicky přidává, že i tak jsou potřeba zlaté testy, protože se výstupy mohou lišit už při přepnutí mezi CPU a GPU.
+
+Třetí linka řeší, co model umí a kde má limity. Uživatelé djoldman a onlyrealcuzzo rozebírají dělení parametrů a shodují se, že obraz je nejmenší, protože zpracovává statický snímek, zatímco text musí krotit entropii jazyka a audio nedává smysl bez času. Uživatel sourcecodeplz upozorňuje, že textové benchmarky jsou stejné jako u jedničky, výhodou je ale možnost nepotřebné enkodéry vypnout, uživatel aabhay zase řeší, že díky tréninku s MRL se zmenšují vektory, ale ne samotné váhy. Praktické zkoušení přinesl uživatel Zambyte, jemuž nevyšel ukázkový příklad s klasifikací věty o zrušení letu, a odlehčení dodal uživatel teaearlgraycold s vtípkem, že vydání způsobil on, protože si dva dny předtím naembeddoval velký korpus starým modelem.
+
+Kdo staví lokální vyhledávání nad vlastními daty, dostává s dvojkou univerzální a úsporný základ, který bez cloudu propojí text, obraz i zvuk.

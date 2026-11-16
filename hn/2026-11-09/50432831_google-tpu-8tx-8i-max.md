@@ -1,0 +1,16 @@
+# 50432831
+**Google rozšířil TPU osmé generace: 8tx pro důvěrný provoz a 8i Max pro obří kontexty**
+
+Hacker News · _benx_ · 9. listopadu 2026, 22:56 · 240 bodů / 72 komentářů · [diskuse](https://news.ycombinator.com/item?id=50432831)
+
+Google rozšířil portfolio TPU osmé generace o dva nové systémy: 8tx pro bezpečné a důvěrné inference a 8i Max pro obří kontextová okna a maximální hustotu výpočtů. Spolu s dříve uvedenými 8t pro trénink a 8i pro usuzování v reálném čase tak firma poprvé představila čtyři systémy TPU v jediném roce. Cílí tím na agentní éru, kdy desítky autonomních agentů pracují s milionovými kontexty a citlivými daty.
+
+Podle firemního blogu staví 8tx na stejném křemíku jako 8t, doplněném o hostitele s pátou generací procesorů AMD EPYC. Bezpečnost řeší přímo na hardwarové úrovni, takže data i váhy modelů zůstávají izolované i během aktivního zpracování, a díky síti Boardfly slibuje až dvakrát nižší latenci než 8t s téměř nulovou penalizací. TPU 8i Max naopak spojuje dva čipy 8i do jednoho pouzdra, čímž zdvojnásobuje výpočetní výkon, SRAM i propustnost HBM a do stejného racku vejde dvojnásobek křemíku. Softwarovou část doplňuje open source TorchTPU pro nativní běh PyTorch bez přepisování kódu, Agent Compute Engine pro automatické uspávání nečinných agentních relací a TPU Sync, který odsouvá obří KV cache mimo čip a má srážet latenci přenosu a čas do prvního tokenu o více než 90 %.
+
+Na Hacker News ale titulek o otevření TPU každému vývojáři narazil. Uživatel hi_hi si stěžuje, že je to typický Google: velký slogan a přitom žádná informace ani odkaz, jak si čipy jako vývojář skutečně osahat. Uživatel jiggawatts to ironizuje poznámkou o jednoduchém sedmadvacetikrokovém procesu rozprostřeném do tří portálů, na což uživatel asdfasgasdgasdg kontruje, že blog právě TorchTPU a odkazy na návody obsahuje a tutoriál se dá snadno vygooglit.
+
+Souběžně se rozjela debata, proč Google čipy neprodává. Uživatel qntty se ptá prostě, uživatel Twirrim odpovídá, že právě začíná a Oracle má TPU nabídnout ve svém cloudu příští rok vedle systémů Cerebras. Další hlas připomíná, že TPU byly historicky pevně svázané s infrastrukturou Googlu a prodej externím zákazníkům se rozbíhá jen omezeně, zatímco uživatel asdfasgasdgasdg vyjmenovává, že je lze pronajmout přes Google Cloud a nepřímo je používá skoro každý přes Gemini, Apple Intelligence nebo Anthropic. Číslo z článku o téměř stovce zákazníků ale uživateli Yajirobe jako velký úspěch po deseti letech nepřipadá.
+
+Třetí linka míří na strohost oznámení. Uživatel ur-whale postrádá jakékoli watty na token nebo dolary na token a srovnání s ekvivalentem od Nvidie, uživatel bigwheels označuje stránku bez specifikací a odkazu k nákupu za tiskovou zprávu. Odpor budí i slovo agentní: uživatel dude250711 hlásí, že je připraven na post-agentní éru, uživatel ryandrake zase přiznává, že nikoho, kdo říká agentic, nemůže brát vážně. Odlehčení přinesly narážky na chybějící model T8 Pro, na T1000 jako ideální platformu pro vysoce odolné autonomní agenty a na to, že článek zmíní TPU devětasedmdesátkrát, aniž jednou vysvětlí, že jde o Tensor Processing Unit.
+
+Z diskuse tak vychází rozpor mezi ambicí stavět počítač kolem čipu během měsíců místo let a každodenní zkušeností vývojářů, pro které zůstává cesta k TPU stále zamotaná.

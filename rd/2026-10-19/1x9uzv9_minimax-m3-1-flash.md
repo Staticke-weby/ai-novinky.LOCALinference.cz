@@ -1,0 +1,14 @@
+# 1x9uzv9
+**MiniMax M3.1 Flash: 428 miliard parametrů a váhy 23. října**
+
+r/LocalLLaMA · u/MagicZhang · 19. října 2026, 14:01 · 577 bodů / 128 komentářů · [diskuse](https://www.reddit.com/r/LocalLLaMA/comments/1x9uzv9/)
+
+Autor u/MagicZhang nasdílel do r/LocalLLaMA obrázek s benchmarky nového modelu MiniMax M3.1 Flash. K postu bez vlastního textu jen přihodil odkaz na grafy a vlákno se okamžitě rozjelo kolem jediné otázky: jak je model velký a kdy si ho budeme moct pustit doma. Podle podkladů k oznámení mají být váhy zveřejněny 23. října.
+
+Odpověď na velikost přinesl u/blaz3d7, podle kterého jde o mixture-of-experts se 428 miliardami celkových a zhruba 23 miliardami aktivních parametrů, se sparse attention a nativním vizuálním enkodérem. Stejný komentář odkazuje na agentní preview na agent.minimax.io, kde si model může každý osahat už teď. Právě tahle čísla pak rámují celou debatu: u/Thin_Pollution8843 tipoval ještě před odhalením „600B+“ a další dodávají, že slovo Flash už dávno neznamená malý model.
+
+Nejživější je linka praktických testů proti papírovým benchmarkům. U/zyxciss tvrdí, že model byl i na maximální snahu „mnohem příliš líný“, a popisuje souboj na částečné implementaci LRU cache: zatímco Claude Opus 5.5, Sol 6.1 a Argon 4 stihly úkol pod třicet minut, Space Bunny, tedy M3.1 Flash, ho prý nedokončil ani po patnácti dnech. Podobně u/shenglong píše, že na anotování Z80 assembleru je Space Bunny rychlý, ale na kódování v jeho úzké doméně nestačí na DS4.1 Flash. Smířlivěji to shrnuje u/CondiMesmer: vydání je slušné a konkurenceschopné DeepSeeku, on sám ale zatím zůstane u nejnovějšího DeepSeek Flash, který mu přijde o něco chytřejší, a vzpomíná, že MiniMax modely mívaly superrychlé generování.
+
+Zbytek vlákna počítá cenu a domácí provoz. U/Middle_Bullfrog_6173 upozorňuje na skóre AAII 42 proti 45 u nejnovějšího DeepSeek Flash a na vyšší cenu v API, která podle něj může být jen nafouknutá marže před vydáním vah. U/Big_Wave9732 kroutí hlavou, co je na benchmarcích dnes vůbec pravda, ale kdyby čísla seděla, byl by to model s téměř tolika aktivními parametry jako hutný Qwen 3.8 a se schopnostmi na úrovni Fable 5 v samostatně hostovaném balíčku. Proto se hned řeší, zda se po kvantizaci vejde do 256 GB, jak se ptá u/BawbbySmith, a zda konečně nahradí GLM 5.3 Flash na GB10 clusteru, o čemž spekuluje u/mountainyoo.
+
+Mezitím se vrací i starý známý. U/Federal_Signature708 připomíná, že populární model Space Bunny, který nasbíral přes 200 bilionů tokenů a vedl žebříčky, byl ve skutečnosti raným preview M3.1 Flash. U/Marino4K na to reaguje vzpomínkou, jak Space Bunny „ždímal“ během období zdarma, a u/WinteryFrostbitee si stěžuje humorem, že ještě ani nestihl nastavit v41 flash a už je tu další steak, humr a víno. Jak trefně poznamenal u/DUFRelic: jak velký je tenhle „cinkáč“ doopravdy se ukáže, až přistanou váhy a nezávislé testy.

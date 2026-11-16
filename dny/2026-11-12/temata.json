@@ -1,0 +1,271 @@
+{
+ "date": "2026-11-12",
+ "clanky": 31,
+ "temata": [
+  {
+   "title": "Aféra kolem Jensena Huanga se přes noc proměnila v memetickou lavinu",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xuqlkb"
+   }
+  },
+  {
+   "title": "Jensen Huang rezignoval. Nvidii dočasně vede Colette Kressová",
+   "sources": [
+    "rd",
+    "hn"
+   ],
+   "ids": {
+    "rd": "1xudeev",
+    "hn": "50467087"
+   }
+  },
+  {
+   "title": "AI video s Trumpem jako Morpheem obletělo tři subreddity. Na konci se objeví Si Ťin-pching",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xu60fa"
+   }
+  },
+  {
+   "title": "Google vydal Gemini 4 Hydrogen. Rychlý model stojí 1,50 dolaru za milion tokenů",
+   "sources": [
+    "rd",
+    "hn"
+   ],
+   "ids": {
+    "rd": "1xujth6",
+    "hn": "50471431"
+   }
+  },
+  {
+   "title": "Nvidia po Huangovi: Čína láká a lidé si představují Tima Cooka v čele",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xuhhvn"
+   }
+  },
+  {
+   "title": "AgentRun: open-source platforma pro samo se zlepšující agenty",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50471650"
+   }
+  },
+  {
+   "title": "Byl Huang pro lokální AI, nebo jen prodával GPU? Hádka v r/LocalLLaMA",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xujb7c"
+   }
+  },
+  {
+   "title": "smolmaxxing: největší model na nejmenším hardware",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50468888"
+   }
+  },
+  {
+   "title": "Devatenáct let v gamedevu, pět týdnů s Claudem. Hru mu smazali kvůli přiznání AI",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xul18m"
+   }
+  },
+  {
+   "title": "Čínské modely nesou otisk čipů Blackwell, tvrdí forenzní analýza",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50474883"
+   }
+  },
+  {
+   "title": "AI zavalila App Store. Vývojáři hudebních aplikací čekají na schválení déle",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50474311"
+   }
+  },
+  {
+   "title": "Čtyři 32GB BARy za PCIe switch. Linux zvládl 128 GB grafické paměti",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50468720"
+   }
+  },
+  {
+   "title": "Claude odmítl odpovídat na základní biologii. Uživatelé si dělají legraci z blokací",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xuhanm"
+   }
+  },
+  {
+   "title": "Každý AI model by měl být torrent, navrhuje autor",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50464055"
+   }
+  },
+  {
+   "title": "Reverse engineering s AI narazil. Claude i Codex začaly blokovat účty",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xtz8ll"
+   }
+  },
+  {
+   "title": "AI Red Lines: lidé si zapisují, kdyby kvůli AI jednali",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50467880"
+   }
+  },
+  {
+   "title": "Tim Urban popsal whiplash mezi katastrofickými řečmi o AI a běžným světem",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xuoruy"
+   }
+  },
+  {
+   "title": "Expo Simulators dává agentům cloudový iOS simulátor",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50471310"
+   }
+  },
+  {
+   "title": "Claude Meetings: Anthropic posílá Claude do videohovorů",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xunrsl"
+   }
+  },
+  {
+   "title": "AI umí Women, Peace and Security. Samo o tom nemluví",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50470975"
+   }
+  },
+  {
+   "title": "Claude odmítá pracovat s autorskými texty. Uživatelé to zkoušejí obejít",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xuho9b"
+   }
+  },
+  {
+   "title": "Humble Bundle a bezpečnost prošlá vibecodingem",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50463899"
+   }
+  },
+  {
+   "title": "Alex Karp po prohře republikánů: jsem progresiva",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xu453q"
+   }
+  },
+  {
+   "title": "Datacentra platí jen 38 % nákladů na síť. Doplatek nesou venkované",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50473231"
+   }
+  },
+  {
+   "title": "Regulace lokálního AI? Podle autora největší cenzura v dějinách",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xu2mdo"
+   }
+  },
+  {
+   "title": "Apple otevřel Foundation Models framework. LLM v aplikaci přes Swift",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50474361"
+   }
+  },
+  {
+   "title": "Lidé z různých staletí po práci. Galerie AI obrázků, která lidi dojala",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xty5wq"
+   }
+  },
+  {
+   "title": "LibreAGI: torrentový tracker, který zachraňuje open-weight modely",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50467439"
+   }
+  },
+  {
+   "title": "Vibes Don't Maintain: prototyp z Claude Code není hotová aplikace",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50472506"
+   }
+  }
+ ]
+}

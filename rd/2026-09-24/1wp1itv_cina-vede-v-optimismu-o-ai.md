@@ -1,0 +1,16 @@
+# 1wp1itv
+**Čína vede v optimismu ohledně AI, USA patří k nejpesimističtějším**
+
+r/singularity · u/Cagnazzo82 · 24. září 2026, 15:22 · 507 bodů / 398 komentářů · [diskuse](https://www.reddit.com/r/singularity/comments/1wp1itv/china_ranks_1_for_ai_optimism_in_new_poll_while/)
+
+Uživatel u/Cagnazzo82 sdílel graf z nového mezinárodního průzkumu, podle kterého je Čína v optimismu vůči umělé inteligenci na prvním místě, zatímco Spojené státy se řadí mezi pět nejpesimističtějších zemí. Příspěvek nemá žádný doprovodný text, jen obrázek s výsledky, i tak nasbíral přes pět set bodů a rozjel téměř čtyři stovky komentářů.
+
+Nejvýše hodnocená reakce od u/Interesting-South542 to vysvětluje historickou zkušeností: Čína si ze „století ponížení“ odnesla, že kdo neobjímá nové technologie, zaostane, a podobně prý uvažuje celá východní Asie. Přidává se u/Airbelum99 s tím, že Japonsko a Jižní Korea jsou také velmi pro AI. Podle u/_Underscore_Number je za tím prostá důvěra v instituce, protože život průměrného Číňana se za posledních třicet let masivně zlepšil, zatímco v USA se pro většinu lidí spíš zhoršil.
+
+Právě kontrast životní zkušenosti se v diskusi vrací nejčastěji. u/_Underscore_Number píše, že technologický pokrok v Číně zvedl životní úroveň, kdežto v Americe prohloubil majetkové rozdíly a pomohl vybudovat dohledový stát v zemi, která si zakládá na svobodě. u/Dangerous-Fig6784 to posouvá k regulaci: Číňané prý věří, že vláda AI zkrotí pracovními zákony, připomíná i květnový precedent zakazující prosté nahrazení zaměstnanců modelem, zatímco Američané se bojí, že směr legislativy určí lobbisté velkých technologických firem a zájem lidí skončí až na druhém místě za ziskem. Podobně to vidí u/Serious-Conversation nebo u/BOSS_OF_THE_INTERNET: pesimismus pramení ze strachu, že firmy použijí AI jen jako záminku k propouštění a k další likvidaci střední třídy.
+
+Zvláštní linku tvoří spor o to, kdo ten strach v Americe vyrábí. u/TheDadThatGrills se ptá, zda pohled na pět nejpesimističtějších zemí nesvědčí o koordinované kampani cizích států, která má v USA rozdmýchávat úzkost z AI. u/nose_poke namítá, že stačí Occamova břitva: Američané prostě nevěří svému vedení, žádné spiknutí k tomu není potřeba. A u/DukeRedWulf to obrací úplně: američtí miliardáři vlastnící AI roky hlásají do všech mikrofonů, že modely připraví masy lidí o příjem a možná i vyhubí lidstvo, a pak se diví, že je veřejnost nemá ráda. Jeho parafráze jejich dvojího vzkazu patří k nejvtipnějším i nejcitovanějším místům vlákna.
+
+Do toho přispívá i u/fancczf, podle kterého Peking výzkum AI pevně drží a řídí jeho nasazení, zatímco v USA šéfují lidé jako Peter Thiel a firmy prodávají AI jako všemocný nástroj singularity, který nahradí člověka — o běžném užitku pro obyčejného člověka prý nemluví nikdo. u/DeedleDumbDee to shrnuje do věty o zemi vedené lidmi s technickým vzděláním proti zemi vedené přestárlými právníky a finančními dědici a u/ManintheGyre dodává, že jedna země vytáhla za jeden život z chudoby stovky milionů lidí, druhá chudobu záměrně prohlubuje. Skeptičtější hlasy jako u/S3pD3cM0n varují, že čistý optimismus i čistý pesimismus jsou špatně a u technologie síly jádra je opatrnost na místě.
+
+Z diskuse tak nakonec méně vyplývá, kdo má o AI „pravdu“, spíš jak moc postoj k ní určuje důvěra, že se o výnosy někdo rozdělí férově.

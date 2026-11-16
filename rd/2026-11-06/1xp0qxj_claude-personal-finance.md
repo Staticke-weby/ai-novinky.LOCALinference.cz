@@ -1,0 +1,16 @@
+# 1xp0qxj
+**Claude se napojil na banky. Personal Finance slibuje přehled o výdajích**
+
+r/ClaudeAI · u/crimonist · 6. listopadu 2026, 02:53 · 907 bodů / 180 komentářů · [diskuse](https://www.reddit.com/r/ClaudeAI/comments/1xp0qxj/)
+
+Anthropic ve čtvrtek představil nový nástroj Personal Finance, který má z Clauda udělat osobního finančního společníka. Uživatel si přes službu Plaid připojí bankovní účty a kreditní karty a pak se může běžnou řečí ptát, kam mu mizí peníze. Přístup je pouze pro čtení, takže nástroj s penězi nemůže hýbat ani je investovat.
+
+Odkazovaný článek popisuje, jak to má v praxi vypadat: na konci měsíce se člověk zeptá, kde skončily jeho peníze, a Claude sečte útraty napříč účty a rozsortuje je do kategorií jako nájem, jídlo nebo nákupy. Má umět i následné dotazy typu, zda je to víc než obvykle, upozornit na duplicitní platby, nečekané poplatky a zdražující se účty, vysvětlit pojmy jako roční procentní sazba a spočítat, kolik člověk zaplatil za rok na úrocích. Beta verze se tento týden začíná zavádět pro tarify Pro, Max a Ultra v USA, konverzace v novém centru se podle firmy nepoužívají k trénování modelů a Claude tím dohání ChatGPT, který podobné napojení na účty nabízí od května.
+
+Diskuse pod zprávou se rychle stočila na klasický souboj pohodlí a soukromí. Nejvýše hodnocený komentář od u/ProjectorInquiry to vystihl přesně: říká si, že to z bezpečnostních důvodů používat nebude, ale už teď ví, že neodolá. Vedle něj se množí rázné odmítnutí, u/CranberryLast4683 ironicky vybízí, ať do Clauda lidé nahrají i zdravotní záznamy, u/picturesfromthesky píše, že finanční data Anthropicu nepošle s nulovou pravděpodobností, a u/paca-vaca označuje laboratoře za vysavače, které stahují každý kousek soukromých informací.
+
+Odpovědí komunity je heslo, které shrnul i automatický souhrn vlákna: použij umělou inteligenci k postavení nástroje, ne jako nástroj samotný. u/fuji_ju popisuje, jak si nechal od Clauda napsat skripty v Pythonu, které mu jednou měsíčně přebírají výpisy ze složky a přes sadu hledger pro podvojné účetnictví z nich staví přehled útrat a investic. Podobně u/nihsett si nechal vylepšit excelovou tabulku a tvrdí, že Excel stačí každému, kdo není Warren Buffett, u/TorbenKoehn si přes německý systém FinTS postavil analýzu ve vlastním domácím cloudu a u/DarkPhoenixRC jede na vylepšeném Firefly s párováním výpisů a napojením na chytrou domácnost.
+
+Třetí linka řeší, zda to vůbec bude fungovat a pro koho to dává smysl. u/tylergravy připomíná, že velké americké a kanadské banky nedávno zakázaly přímý přístup umělé inteligence k účtům kvůli riziku, u/Ken-MT zase varuje z vlastní zkušenosti, že polovina bank se stejně nepřipojí a přehled je pak rozhozený. Naopak u/-Crash_Override- slaví, že konečně může zrušit druhé předplatné u OpenAI, u/willphule v tom vidí náhradu za Quicken bez placení za přístup k Plaidu a u/DarkPhoenixRC dodává smířlivě, že pro lidi se jednoduchými financemi, kteří by si vlastní dashboard nikdy nepostavili, je to po konci bezplatného Mintu dobrá zpráva — pokud pochopí, co za pohodlí platí.
+
+Z vlákna tak nakonec nejvíc zůstává otázka ceny pohodlí, jak ji formuloval stavitel vlastní aplikace Finzytrack u/urglfloggah: principy lokálního a otevřeného řešení pořád platí, jen je strašně snadné je hodit za hlavu, když stačí připojit účet a zeptat se.

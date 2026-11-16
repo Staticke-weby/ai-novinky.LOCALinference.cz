@@ -1,0 +1,14 @@
+# 1xsgmyv
+**Co Anthropic našeptává Fable 5.2. Úryvek ze systémového promptu**
+
+r/ClaudeAI · u/No-Quiet-8304 · 10. listopadu 2026, 08:22 · 392 bodů / 56 komentářů · [diskuse](https://www.reddit.com/r/ClaudeAI/comments/1xsgmyv/)
+
+Výchozí systémový prompt modelu Fable 5.2 v Claude Code obsahuje instrukce, které brzdí pomoc s pokročilým výzkumem umělé inteligence, typicky s optimalizací kernelů a akcelerátorů. Úryvek se na síť dostal jako fotka obrazovky s lakonickým popiskem, že to je celé. Podle shrnutí v diskusi nejde o úplný zákaz, výkon v těchto úlohách má zůstat zhruba na úrovni Opusu 5.5.
+
+Nejhlasitější linka vlákna je zklamání bez překvapení. u/WorriedAssociate7029 píše, že nezná firmu, která by chtěla pomáhat konkurenci, a tenhle prompt ho vůbec nepřekvapuje, protože OpenAI ani čínské laboratoře by lepší modely vyrábět nepřestaly. Na to navazuje u/Overwatcher_Leo s vysvětlením, že Anthropic prostě nechce, aby jeho modely sloužily k výrobě lepších open source modelů, a u/Robonotes1760 kontruje, že právě takové zneužívání by mělo omezit soutěžní právo. Nechybí ani jízlivosti, když u/GoneSilent poznamenává, že Claude sice není investiční poradce, ale Anthropic by ohodnotil jako třikrát koupit, a u/-JuliusSeizure to rovnou označuje za sabotování práce uživatelů.
+
+Druhá linka řeší, jestli šlo o tajnost, nebo o veřejnou věc. u/SmartMario22 tvrdí, že to Anthropic normálně sdílel v oznámení Fable 5.2 na webu v sekci záruk, jen to lidé nečtou, a u/SmileLonely5470 dodává, že podobné omezení firma praktikuje už od června. Do téhle přihrávky zapadá i historka uživatele u/funplayer3s, který nejdřív nevěřil, že je úryvek pravý, pak si ho ověřil a slíbil, že sní klobouk. Vedle toho se ozývají praktici: u/xChrisMas vzpomíná, že Opus 5.5 byl bestie na optimalizaci kernelů pro jeho sestavu, a novinka o Fable je pro něj zklamání, zatímco u/Ok-Moment4309 přemítá, jestli právě proto mu model v poslední době nedokončuje optimalizační práci a místo toho se brání.
+
+Třetí proud diskuse je praktický a obchází prompt oklikou. u/ethereal_intellect, který ladí vlastní lokální model, bere úryvek jako užitečnou zprávu, jež mu ušetří pálení Fable, a raději sáhne po Opusu, ChatGPT a cizích vylepšeních z GitHubu. Podobně u/MadGenderScientist píše, že Opusem ladil kernely pro domácí TPU cluster, a teď si raději sám dotrénuje Kimi nebo GLM. u/Sweet-Brother7246 to shrnuje tak, že na práci s architekturou lokálních modelů je stejně potřeba čínský nebo lokální model. Pointu za celým vláknem pak dává u/Elven_Allerrs: když to Anthropic musel napsat do systémového promptu, model pod ním byl pomáhat naprosto ochotný a mezi konkurencí a ním stojí jen textový soubor.
+
+Pro běžného uživatele z toho plyne, že Fable není rozbitý, jen má v citlivých úlohách nastavenou brzdu, kterou si vědomě nese už z dokumentace.

@@ -1,0 +1,16 @@
+# 50429734
+**E-means zvládne k-means v desetině epoch a s lepší ztrátou**
+
+Hacker News · porridgeraisin · 9. listopadu 2026, 19:45 · 346 bodů / 29 komentářů · [diskuse](https://news.ycombinator.com/item?id=50429734)
+
+Autoři optimalizační metody E-means tvrdí, že klasický k-means jde spočítat zhruba v desetině času a ještě s lepší ztrátou. Hranici, na kterou se Lloydův algoritmus dostane po 25 epochách, překonávají už po 1,2 až 3 epochách. V přepočtu na čas to znamená 10 až 45krát nižší wall-clock čas na GPU proti implementaci Flash-KMeans a 8 až 15krát na CPU proti Faiss. Neobvyklé je právě to spojení: u k-means se rychlost a kvalita obvykle vylučují, tady se zlepšují obě najednou.
+
+Stránka e-means.github.io s interaktivní ukázkou vysvětluje trik výměnou plných dávek za mini-dávky s exponenciálním klouzavým průměrem, který zapomíná stará přiřazení a drží centroid v konvexním obalu bodů. Velikost dávky a krok se nemusí ladit ručně, protože je z charakteristik úlohy dopočítávají škálovací zákony, k tomu se přidává nové startování, kosinové tlumení kroku, finalizace na přesný průměr a oživování mrtvých shluků rozdělením velkého souseda. Autoři zdůrazňují, že řeší pevný dataset, na rozdíl od učení codebooku uvnitř VQ-VAE, kde se clusterovaná distribuce neustále hýbe.
+
+Diskuse se rychle stočila k praxi. Uživatel wood_spirit chválí názorné vizualizace a přeje si metodu ve SciPy, protože je dostupnější než knihovna Faiss, a uživatel real_faxenoff hlásí, že si postup přizpůsobil pro svůj IVF index a na GPU zrychlil 146krát. Pro nováčky uživatelé pcwalton a ttul trpělivě vysvětlují, že jde o třídění třeba miliard e-mailů převedených na vektory do shluků podobných významů bez předem známých kategorií, a uživatel benjiro29 dodává, že právě stavba vektorových indexů tím zrychluje, časy stavby mu klesly o 50 až 80 % a využití procesoru o 50 %.
+
+Nejvíc rezonuje schopnost unikat z lokálních minim. Uživatel robbienukes obdivuje, že místo dvou centroidů na jednom chuchvalci a žádného na druhém dá metoda každému shluku právě jeden, což autoři přičítají zašuměným mini-dávkám prozkoumávajícím krajinu ztráty. Uživatel shiandow v tom vidí expektaci-maximalizaci s třením a oceňuje záruku, že centroid zůstane uvnitř obalu bodů, zatímco uživatel Luke2642 připomíná, že u NP-těžké úlohy je přibližné řešení dost dobré, zvlášť když je mnohokrát rychlejší.
+
+Nechybí ani brzda. Uživatel jlhawn zkusil E-means místo Lloyda na relaxaci rovnoploché sítě na kouli, kde se centroid počítá přímo z geometrie, a skončil s pomalejším a zašuměným rastrem, který se při malém rozpočtu vzorků i zamotával. Uživatel saagarjha namítá, že mini-dávky s klouzavým průměrem nejsou nové a srovnání s Lloydem je nízká laťka, a uživatel xiaoliangliang by chtěl vedle setrvačnosti vidět i kvalitu rozdělení na nepořádných datech, na což uživatel boulos odpovídá, že to křivky kvality a hračkové příklady částečně pokrývají. Kolem volby samotného počtu shluků uživatelé senderista a nighthawk454 připomínají loketní metodu a HDBSCAN, ale shodují se, že ideální recept neexistuje, protože shlukování je nakonec subjektivní.
+
+Pro čtenáře z toho plyne jednoduché ponaučení: na obří pevné datasety stojí E-means za pokus, na geometrické úlohy bez datasetu raději zůstat u klasiky.

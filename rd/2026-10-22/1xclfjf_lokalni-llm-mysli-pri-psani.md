@@ -1,0 +1,14 @@
+# 1xclfjf
+**Lokální LLM myslí, když ještě píšete: 12 s → 3 s na 6GB GPU**
+
+r/LocalLLM · u/Oxygenne_ · 22. října 2026, 17:18 · 245 bodů / 50 komentářů · [diskuse](https://www.reddit.com/r/LocalLLM/comments/1xclfjf/)
+
+Autor u/Oxygenne_ představil Mafdet, open-source aplikaci nad llama.cpp pojmenovanou po egyptské kočičí bohyni běžkyni. Program využívá čas, kdy uživatel teprve píše zadání: průběžně sleduje rozepsaný text včetně překlepů, úprav uprostřed věty i vložených pasáží, takže po stisku Enteru je předvyplnění hotové, a u modelů Qwen3 navíc předběžně sbírá fakta a dílčí úvahy, na které po odeslání naváže. Na své RTX 2060 se 6 GB paměti naměřil u Qwen3-4B na 24 slovních úlohách psaných v reálném čase pokles průměrného čekání z 12,2 na 3,2 sekundy při 24/24 správných odpovědích, u Qwen3-14B, který se do paměti vejde jen z poloviny, pak ze 108 na 47 sekund.
+
+Nápad diskusi viditelně osvěžil. u/WyattTheSkid ho označil za svěží vítr mezi obvyklými dotazy, jaký model na jaký hardware, a u/plainbounds59 nejvíc ocenil právě to, že mezipaměť sleduje živé úpravy bez restartu, což většina jiných řešení podle něj vzdává. Právě zlepšení u většího, do paměti se nevejdoucího modelu považuje za důležitější než čísla ze čtyřmiliardové varianty, protože tam lidé bolest čekání cítí nejvíc.
+
+Zároveň se vlákno rychle stočilo k otázce, jestli předčasné přemýšlení nemate. u/daniellenton nadhodil modelový případ: uživatel napíše 12, model si poznamená 3 × 12 = 36, a pisatel se pak vrátí a přepíše číslo na 15 — nezůstane v poznámkách viset původní dvanáctka a neodpoví model na verzi, kterou nikdo neodeslal. Podobně u/plainbounds59 řešil, že i po speciálním rámci, který stlačil mimooborové poznámky typu „uživatel ještě nedopsal" z 86 na zhruba 20 procent, zbývá dost zbytečného počítání, a ptal se, zda se špatné poznámky jen ignorují, nebo aktivně škodí výsledku. Do stejného rohu hraje i stručná námitka u/NickNau o tichém nepředvídatelném zhoršení kvality a povzdech u/saposmak, který si psaním spíš třídí myšlenky a bojí se, že by pro takové škrtálky byl přístup plýtvavý.
+
+Praktická linka se točí kolem hardwaru a nasazení. u/Sengfroid se ptal na starší čtyřgigové Pascaly, kde by pomoc bolela nejvíc, na podporu novějších verzí Qwen a Gemma a na to, zda by Mafdet šel použít jako mezivrstva pro harnessy typu Claude Code, zatímco u/Maui-The-Magificent zajímalo chování na krátkých promptech. u/myreala si z projektu odnesl nápad posílat svému harnessu předem kontext systémové zprávy a volání nástrojů, aby se předvyplnil ještě před příchodem vlastní zprávy, a u/Inquisitive_idiot ocenil, že autor myslel na tlačítko pauzy pro zaneprázdněné systémy, kde by práce na nedokončeném textu vadila.
+
+Z Mafdetu tak zbyl obraz šikovného triku pro slabší karty: nečekat na Enter, ale počítat už během psaní, s otevřenou otázkou, kolik z předčasných úvah se v ostré odpovědi opravdu hodí.

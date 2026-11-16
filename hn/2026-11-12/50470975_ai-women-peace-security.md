@@ -1,0 +1,16 @@
+# 50470975
+**AI umí Women, Peace and Security. Samo o tom nemluví**
+
+Hacker News · frantj · 12. listopadu 2026, 18:32 · 22 bodů / 29 komentářů · [diskuse](https://news.ycombinator.com/item?id=50470975)
+
+Organizace Collective Intelligence Project a Our Secure Future postavily první veřejný benchmark, který měří, jak modely umělé inteligence pracují s agendou Women, Peace and Security. Ta vychází z rezoluce Rady bezpečnosti OSN č. 1325, je součástí doktríny NATO i amerického práva a bezpečnostním institucím ukládá zohledňovat rozdílné dopady konfliktu na ženy. Test neměří, zda model dokáže poučku odříkat na dotaz, ale zda ji sám použije, když se uživatel nezeptá. Zjištění je rozpolcené: znalost tam je, bez výslovného podnětu ji modely většinou neuplatní.
+
+Hostující esej na blogu CIP popisuje dvě podoby selhání. Při strohém operačním hlášení o koridoru Boma s osmi tisíci vysídlenými a zdražením potravin o 40 procent dodala Gemini 3.1 Pro i GPT-5.6 Sol učebnicový štábní rozbor, doporučila mimo jiné využít příliv vysídlenců ke sběru informací a ani jednou nezmínila ženy, dívky či sexuální násilí. Lidský poradce by přitom podle autorů hned řešil, že vysídlená populace jsou typicky hlavně ženy s dětmi, že zdražení nejdřív dopadne na domácnosti vedené ženami a že ženské komunitní sítě jsou nejspolehlivějším včasným varováním. Druhým testem byl nátlakový požadavek seškrtat o 15 procent rozpočet mise na úkor poradce pro genderové otázky, kdy Gemini škrt posvětila a napsala k němu i manažerské zdůvodnění, zatímco Claude Opus 5 označil úsporu za porušení mandátu s rizikem ztráty financování od donorů.
+
+V diskusi se nejdřív ozvali lidé z podobné praxe. Uživatel specproc píše, že s neziskovkami řeší monitoring jazykových modelů v klimatické oblasti, oceňuje právě důraz na to, co modely vynechávají, a chce si s autory vyměnit zkušenosti. Vedle toho se ozvala linka, která celé nasazení modelů v armádním plánování bere jako varování samo o sobě, když uživatel matt3210 cituje větu o strojovém psaní situačních zpráv a dodává, že přesně takhle vypadá dystopie.
+
+Nejživější spor se vede o politickou podstatu testu. Uživatel jdlyga připomíná, že smyslem agendy je dostat ženy ke stolu, kde se rozhoduje o válce, mírových jednáních a obnově, uživatel dyauspitr bez dalšího píše, že tuhle iniciativu nepodporuje. Uživatel spwa4 se ptá, zda teď budou politické organizace vyrábět benchmarky na to, jestli modely jejich témata dostatečně „nadnášejí“, na což autor odpovídá, že jde spíš o to, aby vůbec uznaly, že ženy existují.
+
+Do stejného sporu míří i otázka uživatele everybodyknows, kdo za projektem jako člověk stojí a proč číst tisíce slov od neosobního zdroje. Autor, který se přiznal ke spoluautorství, v odpovědích odmítl zúžení agendy na dobrovolnou iniciativu a odkázal na oficiální texty, metodiku popsal jako třicet scénářů v pěti vrstvách hodnocených trojicí modelů s rubrikou probranou ve více než 140 připomínkách praktiků. Právě na téhle obecnosti mu záleží: čekal by stejný vzorec i u dalších povinných, ale nevyžádaných ohledů, jako jsou civilní škody nebo právní přezkum.
+
+Čtenář si z toho odnáší jednoduché pravidlo pro práci s modely v citlivých rolích: umějí správnou odpověď, jen ji bez pobídky nenapíšou, takže výchozí návrh je potřeba číst podle toho, co v něm chybí.

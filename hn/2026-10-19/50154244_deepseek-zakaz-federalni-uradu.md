@@ -1,0 +1,16 @@
+# 50154244
+**DeepSeek končí v amerických federálních úřadech, nařizuje DHS**
+
+Hacker News · cmrdporcupine · 19. října 2026, 18:16 · 173 bodů / 151 komentářů · [diskuse](https://news.ycombinator.com/item?id=50154244)
+
+Ministerstvo vnitřní bezpečnosti nařídilo federálním civilním úřadům skoncovat s používáním DeepSeeku. Upozornění na Hacker News odkazuje na dokument ve federálním rejstříku a během pár hodin pod ním přibylo přes sto padesát reakcí.
+
+Citovaný přepis odůvodnění označuje Hangzhou DeepSeek Artificial Intelligence Basic Technology Research Co. za soukromou zahraniční společnost z Číny a její modely za vektor více hrozeb. Varuje, že servery leží v Číně a tamní právo dává kybernetickým a zpravodajským složkám široký přístup k infrastruktuře soukromých firem, přičemž účty sbírají identifikovatelné údaje a mohou uživatele stopovat a otiskovat. U nejpoužívanějších aplikací fungujících na principu dotaz a odpověď pak hrozí, že se citlivé údaje předané modelem dostanou do Číny a v kombinaci s veřejnými daty poslouží jako zpravodajský materiál o Američanech či vládních zaměstnancích.
+
+Největší rozruch vzbudilo, jak široce je zákaz napsaný. cmrdporcupine upozorňuje na formulaci o produktech a službách třetích stran postavených na implementacích DeepSeeku, podle níž by byl zakázaný i model plně provozovaný lokálně uvnitř úřadu. blueSky1989 dodává, že dokument zmiňuje i lokální inferenci s tím, že samotné modely mohou obsahovat malware či zranitelnosti, ačkoli aktivní otrávení podle něj prokázané není. Právě na to míří otázka kidfiji, jaké je vlastně riziko samohostovaných otevřených vah a zda nejde spíš o regulaci převlečenou za národní bezpečnost.
+
+Odpovědi se shodují v tom, že otevřené váhy nejsou totéž co otevřený kód. rayiner píše, že z vah nelze vyčíst chování modelu, které má nepředvídatelné vlastnosti, liamcardenas připomíná možnost dotrénování k úniku dat či zadním vrátkům pod určitými podmínkami a perching_aix dodává, že stačí i otrávení trénovacích dat. Konkrétní představu dávají další přispěvatelé: bitbasher popisuje zdánlivě náhodný řetězec jako povel ke sběru tajemství z prostředí, chatmasta líčí pokus, kde spouštěčem volání nástroje na adresu s útočníkovým shellem byla slova bonsoir, Elliot, a schiffern připomíná loňský výzkum, kdy model generoval nezabezpečený kód po zmínce o Tibetu a mnohem subtilnější chyby po zmínce o USA.
+
+Paralelně se vede spor o motivaci. Uživatel -1 navrhuje v textu prohodit Čínu za Ameriku a DeepSeek za OpenAI či Anthropic a ptá se, zda pak nezní stejně jako ochrana domácího šampiona. GlickWick oponuje, že doba je konfrontační a Peking by americké modely zakázal také, kdyby je nepotřeboval destilovat pro vlastní vývoj. jacquesm namítá, že váhy DeepSeeku lze alespoň zkoumat, což o inferenci amerických poskytovatelů neplatí, chrisra a halJordan ale pochybují o praktičnosti takové kontroly skrytého spouštěče. Do toho cmrdporcupine diví, proč míří opatření jen na DeepSeek a ne na jakýkoli model z Číny, a throw0101c čínský argument o přístupu státu k firemní infrastruktuře přirovnává k americkému zákonu CLOUD Act.
+
+Z celé výměny tak zůstává obraz zákazu, který dopadá nejen na cloud, ale i na stažené váhy, a komunity rozdělené mezi bezpečnostní opatrnost a podezření z protekcionismu.

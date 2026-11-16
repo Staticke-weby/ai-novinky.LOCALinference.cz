@@ -1,0 +1,16 @@
+# 50183892
+**Omnara: open-source platforma pro spravované agenty**
+
+Hacker News · kmansm27 · 21. října 2026, 18:44 · 59 bodů / 16 komentářů · [diskuse](https://news.ycombinator.com/item?id=50183892)
+
+Na Hacker News se představil Kartik z Omnary s otevřeným API pro běh odolných agentů. Agenta založíte voláním API a Omnara pak točí celou smyčku, dává agentovi sandboxy na příkazy a řeší za něj secrety, oprávnění a role. Začínali přitom s telefonní aplikací na dálkové ovládání Claude Code a Codex, kde smyčka běžela na notebooku a po jeho zavření umřela, takže nový produkt postavili tak, aby agent běžel v cloudu a notebook mohl být jen jedním z jeho strojů.
+
+Odkazovaný web popisuje Omnaru jako self-hostovatelnou alternativu ke Claude Managed Agents a OpenAI Agents API, kterou si zdarma provozujete pod Apache 2.0 na libovolném modelu i stroji, s nástroji, secrety, oprávněními a streamováním odpovědí. Každý krok agenta se ukládá do Postgres, smyčku obstarávají bezstavoví workeři a příkazy na strojích běží přes démona omnarad bez otevřených portů. Pro rychlý start slouží hostovaná Omnara Cloud s předpřipraveným modelem a fondem sandboxů, kde stačí konfigurace v agent.yaml a start přes CLI, stejné API a formát pak funguje i při vlastním provozu v Docker Compose.
+
+Nejživější nit se stočila k architektuře. Uživatel swyx přihodil přednášku o tom, že log je agent, na což autor kmansm27 odepsal, že právě to byl důvod, proč udělali odolnost nativní součástí smyčky, a uživatel isehgal dodal, že tahle myšlenka je jádrem celého návrhu. Navázal uživatel asherdale1 poznámkou, že k odolným agentům teď konvergují všichni od Pi Durable přes Cloudflare Agents na Durable Objects až po odolnou smyčku Vercelu. Autor souhlasil, že nativní odolnost budou potřebovat všechny smyčky, ale k dodatečně přišroubované odolnosti je skeptický, protože pak je nutné ořezávat věci, které nelze spolehlivě zdurablenit.
+
+Praktickou linku otevřel uživatel rohan_joshi, který hledal self-hostovatelného odolného agenta na trvalé hlídání klíčových slov na sociálních sítích. Uživatel isehgal mu odkázal na vlastní ukázky agentů, kteří denně procházejí sociální sítě a posílají souhrn do zpráv, s tím, že nejrychlejší je vzít hotový příklad a jen vyměnit klíčová slova. Vedle nadšeného vzkazu uživatele divamgupta, že přesně tohle hledal, a gratulace od uživatele Nischalj10 se ozval uživatel ksajadi s otázkou, čím se to liší od vzdáleného startu agenta na povel a jakou výhodu má stále běžící agent proti režimu start-stop s dlouhodobou pamětí.
+
+Do hloubky šel uživatel aquark, kterému vrtalo hlavou dělení na workery a stroje: smyčka většinou čeká na vzdálený model a pak pouští příkazy, takže těžká práce leží na strojích, které bezstavové nejsou, a nechápal, proč škálovat pool workerů. Uživatel renegat0x0 si povzdechl, že v záplavě orchestrátorů, automatizací a smyček už nepozná rozdíl mezi projekty. Uživatel asar pak přihodil vlastní obdobu, mobilní rozhraní na desktop přes multiplexer typu tmux či Zellij, k němuž existuje i experimentální sada pro odolné agenty Collie.
+
+Kdo si chce agenty provozovat po svém, odnese si z vlákna hlavně debatu o tom, zda má být odolnost vrostlá do smyčky, nebo jen přidaná zvenku.

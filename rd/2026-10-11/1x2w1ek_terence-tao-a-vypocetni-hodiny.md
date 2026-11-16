@@ -1,0 +1,14 @@
+# 1x2w1ek
+**Terence Tao volá po více výpočetních hodinách pro AI matematiku**
+
+r/singularity · u/SammaVaco · 11. října 2026, 03:55 · 276 bodů / 106 komentářů · [diskuse](https://www.reddit.com/r/singularity/comments/1x2w1ek/)
+
+Uživatel SammaVaco do r/singularity nasdílel galerii snímků, podle níž Terence Tao žádá výrazně navýšit výpočetní hodiny pro využití umělé inteligence v matematice. Příspěvek je zároveň obranou matematika před tím, jak komunita jeho výroky překrucuje, a zapadá do současné vlny debat o nových AI výsledcích v otevřených problémech.
+
+Nejhlasitější linka diskuse se ale vůbec netýká matematiky, nýbrž nálepkování. Nejvýše hodnocený komentář u/AshuraBaron si utahuje z takzvaných akceleracionistů, pro něž je prý cokoliv jiného než slepá věrnost AI firmám hned zpomalování pokroku. Na to navazuje u/Tirriss připomínkou, že spousta lidí tu dodnes upřímně věří, že Yann LeCun je proti AI, takže ho překrucování Taa nepřekvapuje. Podobně to vidí u/The_Architect_032, podle něhož se farmáři karmy snaží každého s drobnou kritikou současného zacházení s AI vykreslit jako ludditu, a u/mdomans, který mluví o lidech, co si myslí, že jim čtení o oboru založeném lidmi jako LeCun nebo Tao dává pochopení jejich nuancí.
+
+Věcná část vlákna řeší, co by vlastně AI v matematice měla umět. Výklad u/kgurniak91, že Tao nechce jen samotné řešení, ale popis a vysvětlení kroků, které k cíli vedou, patří k nejlépe hodnoceným. Dnešní modely se podle něj často jen pokrčí rameny ve stylu „prošel jsem dva miliony uzlů stromu řešení a vybral ten, který mě posunul dál". Na to navazuje u/longviddd: umělá inteligence sice zvládne mnohem víc simulací než člověk za celý život a trefí řešení přesně zadaných otevřených problémů, ale bez pochopení postupu na něm lidé nedokážou postavit nové otázky. Doplňuje to stručné zvolání u/IrisColt o hledání motivovaných vysvětlení, jako by šlo o rozluštění smyslu života, jen proveditelné.
+
+Třetí proud je skeptičtější k samotnému Taovi i k ceně jeho vize. U/Davorian přiznává, že závěru o představivosti jako úzkém hrdle nerozumí a nesedí mu ani se staršími Taovými výroky, přičemž má pocit, že Tao schvaluje AI jen v rámci strukturovaných projektů. U/EGarrett28 mu vyčítá, že přeposlal vyšinutý proti-AI dopis Asociace pro lidskou matematiku, čímž si prý svou pověst vysloužil. Mezitím se řeší peníze: u/Ok_Warning2146 se ptá, kdo ty tokeny zaplatí, a u/ooooangeloooo odkazuje na paralelní debatu o tom, jak komunita matematikům kazí snahu získat tokeny zdarma. Nejostřeji to formuluje sestupně hodnocený u/thebadslime s narážkou, že pacienty umírající na rakovinu nezajímá, zda člověk léku rozumí.
+
+Z vlákna tak zůstává obraz sporu, v němž nejde ani tak o důkazy jako o roli matematika: má AI jen chrlit výsledky, nebo vysvětlovat cestu a nechávat lidem prostor pro představivost.

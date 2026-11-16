@@ -1,0 +1,14 @@
+# 1xduimx
+**Hacker našel v Samsung televizi AI, která poslouchá psy i děti. OpenAI ho za to zablokovala**
+
+r/singularity · u/141_1337 · 24. října 2026, 02:21 · 15200 bodů / 1213 komentářů · [diskuse](https://www.reddit.com/r/singularity/comments/1xduimx/)
+
+Uživatel u/141_1337 zveřejnil galerii screenshotů z reverzního inženýrství firmwaru televize Samsung. Podle jeho analýzy běží přímo v televizi umělá inteligence, která průběžně naslouchá okolí a pozná třeba štěkot psa nebo zvuky dítěte. Součástí nálezu má být i služba s názvem csapi-tv-service-alwaysonvoice, sledování toho, co divák sleduje, a trik pro domácnosti bez mikrofonu v televizi – zvuk si má televize potichu půjčit z připojeného soundbaru. Autor odkazuje na vlákna účtu log4j na síti X a tvrdí, že ho za tohle zkoumání zablokovala OpenAI.
+
+Nejvíc hlasů posbíral komentář u/ScratchLatch, že by měl někdo ze státu s oboustranným souhlasem k nahrávání Samsung i OpenAI pořádně zažalovat. Na něj navazuje vlna rezignace i vzteku: u/renob_ta píše, že vláda nebude regulovat ani do očí bijící narušení soukromí a Amerika nikdy nedotáhla žádný zákon o ochraně dat, takže s odpovědností nepočítá. Podobně to vidí u/Stabile_Feldmaus, podle kterého evropská regulace najednou nevypadá tak zle. Praktický návod přidal u/TechnicalAspect9918, který sepsal vzor stížnosti pro americkou centrálu Samsungu právě kvůli neustálému poslechu na pozadí a zabírání mikrofonů příslušenství.
+
+Druhá silná linka diskuse se točí kolem lokálních modelů. Hlasy vyskočily u stručného vzkazu u/MartinLik3Gam3, proč jsou lokální modely nesmírně důležité, a u/doolpicate, který se ptá, proč OpenAI blokuje lidi za legitimní věci, a právě proto jsou podle něj důležité čínské modely. Do stejného tónu zapadá i u/Junior_Tomatillo_243, kterému z celé věci došlo, že je bezmocný, dokud nevytrhá všechnu techniku z domu, i u/Direct_Turn_1484, jenž poděkoval hackerovi za odhalení a napsal, že si Samsung televizi nikdy nekoupí. Nostalgicky to uzavřel u/firstLOL vzpomínkou na prarodiče, kteří v devadesátkách vypínali televizi ze zásuvky – možná měli celou dobu pravdu.
+
+Nejdrsnější přirovnání přinesl u/Brave-Turnover-522: když dá skryté nahrávadlo do pokoje devítileté holky soused, volá se policie a skončí v registru, když to samé dělá korporace pro profilování dítěte, je to v pořádku – a potíže má ten, kdo nahrávání vypne. Zároveň ale zazněly i pochybnosti. U/alystair upozorňuje, že rozpoznávání psa a dítěte je veřejně inzerovaná funkce Samsung SmartThings, a u/Clear_Evidence9218 je skeptický k verzi o banu: lidé běžně veřejně dokumentují hackování vlastního hardwaru s pomocí ChatGPT bez postihu, takže rozdíl mezi „zablokovali mě, když jsem zkoumal televizi" a „zablokovali mě, protože jsem zkoumal televizi" může být zásadní.
+
+Z vlákna tak zůstává obraz chytré televize, která neřeší jen obraz, ale poslouchá domácnost – a komunity, která v tom vidí další důvod utéct k modelům běžícím doma pod vlastní kontrolou.

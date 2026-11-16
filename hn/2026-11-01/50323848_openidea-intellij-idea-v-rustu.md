@@ -1,0 +1,16 @@
+# 50323848
+**OpenIDEA: IntelliJ IDEA přestavěná v Rustu, ale s TypeScriptem uvnitř**
+
+Hacker News · theanonymousone · 1. listopadu 2026, 10:15 · 39 bodů / 53 komentářů · [diskuse](https://news.ycombinator.com/item?id=50323848)
+
+OpenIDEA přináší způsob práce z IntelliJ IDEA – její keymapu, tool window a návyk hledat všechno na jednom místě – do nativní aplikace s Rust jádrem. Nabízí editor, code insight, debugger, Git, terminál a databázového i HTTP klienta pro více než 60 jazyků. Staví pro macOS, Windows i Linux.
+
+Na GitHubu projekt dokládá náskok měřením na pythonovském freqtrade se zhruba 770 soubory, s teplými cache a mediánem z pěti běhů: okno s projektem se otevře za 0,9 sekundy proti 3,1 sekundy, připraveno k práci je za 1,1 sekundy proti 13,2 sekundy a paměť USS všech procesů činí 169 MB proti 2011 MB. Sami autoři dodávají, že IDEA analyzuje Python hlouběji, takže připravenost neznamená na obou stranách stejnou práci, a měření popisují jako vnější, zopakovatelné podle skriptu v repozitáři. Kód je pod Apache 2.0 a čestně uvádí, že nesouvisí s JetBrains.
+
+Komunitu ale nejvíc zaujalo, co se skrývá pod sloganem o Rustu. Black616Angel si rýpnul, že po nahlédnutí dovnitř vidí 60 procent TypeScriptu, a Deukhoofd doplnil, že jde o aplikaci v Tauri, takže řeči o nativnosti jsou přitažené za vlasy, navíc s otazníkem nad výkonem na Linuxu kvůli WebKitGTK. Stitch4223 to hájí odkazem na issue 568, podle kterého se konzistentní frontend pro všechny platformy v Rustu píše těžko, a proto sáhli po webových standardech. Nejvěcněji to rozebral exceptione: vpředu je CodeMirror v TypeScriptu, vzadu Rust, a právě proto ho překvapuje, jak nízko se drží paměť, jen si klade otázku, jak se to zachová u velkých dokumentů a spousty otevřených pohledů.
+
+Druhé velké téma je etika klonu. Betelbuddy to shrnul provokativní otázkou, jestli má smysl obnovovat předplatné JetBrains, aby měli z čeho opravovat chyby, které pak někdo reverzně zkopíruje. rustyhancock přiznává, že readme působí dojmem rychle spíchnutého kódu s pomocí AI, a takový pocit od editoru nechce, takže u placené verze zůstává. Do toho alex_smart nadhodil porušení ochranné známky, ale prmoustache namítá, že projekt se nejmenuje IntelliJ IDEA, samotné slovo idea JetBrains nepatří a prohlášení o nepříbuznosti ztěžuje argument o matení zákazníků. Podobně atrokhymchuk nechápe, proč stavět náhradu, když je Idea sama open source, a srovnání bez rovnocenných funkcí mu nedává smysl.
+
+Třetí linka řeší, jestli je OpenIDEA opravdu chytrá jako vzor. mqus si všiml věty z propagačního videa o dokončování z jazykových serverů a povzdechl, že právě v tom je Idea lepší. jttnr souhlasí, že integrace jazykového serveru nabízí všude stejnou úroveň, zatímco IDEA umí mnohem víc, než co server sám dá. Odtud už vedla cesta k alternativám: ramon156 odbývá debatu výzvou, ať lidé prostě používají Zed, zatímco avallach přidává Lapce, který je v jeho zkušenosti znatelně rychlejší i než Zed a stejně jako Zed staví na LSP. Do pozadí k tomu devnull3 poznamenal, že Rust proti Go neboduje ani tak rychlostí jako spotřebou paměti, což je v době drahých pamětí stále lákavější.
+
+Zůstává tak obrázek lákavě svižného editoru, u kterého se komunita pře hlavně o to, kolik Rustu v něm doopravdy je a zda chytrost původní IDE vůbec jde nahradit jazykovými servery.

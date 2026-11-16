@@ -1,0 +1,16 @@
+# 50443090
+**AMD Zen 6: větší fronty, lepší predikce a levnější špatné skoky**
+
+Hacker News · pixelpoet · 10. listopadu 2026, 18:02 · 211 bodů / 80 komentářů · [diskuse](https://news.ycombinator.com/item?id=50443090)
+
+Server Chips and Cheese rozebral rodinu AMD Zen 6 a srovnal ji se Zen 5 i s úspornější variantou Zen 6c. Z ptačí perspektivy jde o přirozenou evoluci s většími out-of-order strukturami, v detailu ale AMD podstatně přepracoval hlavně integer plánovač, který se vrací k uspořádání blízkému Zen 3 a Zen 4. Autorovi to proto připomíná spíš přechod ze Zen 1 na Zen 2 než běžné mezigenerační ladění.
+
+Predikce směru skoků staví na už tak nejlepší predikci, jakou server u Zen 5 naměřil, přesnost zůstává podobná, ale špatný tip je levnější: zatímco Zen 5 platil zhruba 3,5 až 4 ns za větev navíc, Zen 6 se vejde do 3 až 3,5 ns. V L1 instrukční cache navíc zvládne dvě větve za cyklus a jedno vlákno už dokáže využít oba dekódovací clustery, které Zen 5 přinesl. V exekuční části ubyl třetí integer násobič, naopak VNNI jednotky přibyly ze dvou na čtyři a 256bitové loady zrychlily na čtyři za cyklus.
+
+Nejživější debatu odstartovala otázka, proč k tak rychlým jádrům AMD nepřidá víc paměťových řadičů, třeba jeden na jádro. Odpověď je podle diskutujících hlavně v pinech, ceně a základní desce: uživatel p_l připomíná, že desktopový socket má 1718 pinů a serverový už 6096 pinů, z velké části právě kvůli 24kanálovému DDR5, a matja to shrnuje představou 128 jader krát 288 pinů na DIMM. Ostatní dodávají, že většina úloh netrpí nedostatkem propustnosti, ale latencí, kterou další kanál nezachrání, a Sharlin to glosuje hláškou, že ani devět žen neporodí dítě za měsíc.
+
+Druhá linka řeší, proč se Zen 6c tentokrát tolik liší. Ten má větší reorder buffer se 640 záznamy proti 576, větší integer register file, vektorový plánovač i frontu loadů, a přitom nižší takty a vyšší latenci L3. Uživatel jauntywundrkind to po úvodním smutku z divergence oceňuje jako způsob, jak schovat větší zatížení paměti, a Tuna-Fish doplňuje, že větší struktury stojí skoro nic na ploše, ale zpřísňují časování, takže si je plnotaktovaný Zen 6 dovolit nemůže. V té souvislosti se řeší i škálování čipletů s 12 a 32 jádry a pověst, že Zen 7 má dražším propojením srazit latenci mezi CCD.
+
+Hodně prostoru dostalo srovnání s Applem. Uživatel dmitrygr se směje, že graf SPEC CPU 2026 vynechává jádra Applu, protože s 9,8 a 13 body v integeru a floating pointu všechno ostatní smetou. Remnant44 a trynumber9 namítají jiný trh, jiný kompilátor a nemožnost pustit Linux na M5 či M6, adrian_b pak tvrdí, že v multithreadu na socket Zen 6 jakýkoliv Apple smaže a SPEC ve floating pointu navíc neukazuje plný potenciál optimalizovaného AVX-512.
+
+Zbytek vlákna pitvá detaily. Uživatel Aardwolf se ptá, zda pokles propustnosti PDEP a PEXT ze tří na dvě instrukce za cyklus souvisí se škrtáním násobiček, adrian_b to vysvětluje stejnou dvojicí exekučních jednotek kvůli jednoduššímu layoutu a jandrewrogers dodává, že PDEP a PEXT jsou zobecněním posuvných sítí. U 32jádrového CCD Zen 6c se řeší NUMA: podle uživatele wmf mezi CCD a jádrem žádná menší jednotka není, což pomáhá velkým virtuálům. A zatímco lp92 čeká, kdy se C-jádro osamostatní do vlastní značky, ls65536 podotýká, že Intel jde opačně a efektivní jádra přibližuje těm výkonným až k možné fúzi obou linií.

@@ -1,0 +1,16 @@
+# 50195110
+**eMudhra končí s globálními SSL/TLS certifikáty po kompromitaci CA**
+
+Hacker News · bo0tzz · 22. října 2026, 15:33 · 988 bodů / 663 komentářů · [diskuse](https://news.ycombinator.com/item?id=50195110)
+
+Indická společnost eMudhra oznámila, že její představenstvo rozhodlo o stažení z globálního trhu s SSL/TLS certifikáty. Krok přichází krátce po incidentu kolem její globální certifikační autority a firma ho prezentuje jako vlastní strategické rozhodnutí se zaměřením na podniková řešení.
+
+V tiskové zprávě firma tvrdí, že postižené autority odvolala do 14 hodin od zjištění a vše včas zveřejnila, přičemž z nich nebyly vydány žádné koncové certifikáty, infrastruktura nebyla kompromitována a žádná data neunikla. SSL/TLS podle ní tvoří asi jedno procento globálních tržeb, náklady přitom rostou kvůli požadavkům na datovou suverenitu a složitosti a výnosy sráží i to, že velcí hráči rozdávají certifikáty zdarma. Zákazníkům slibuje plynulý přechod, kdy kořeny G1 RSA poběží až do dokončení migrace, náhradní certifikáty od partnerů dostanou zdarma a služby pro ověřování stavu poběží do expirace posledního vydaného certifikátu.
+
+Diskuse zprávě od začátku nevěří. Uživatel solatic se ptá, zda po takovém selhání vůbec zbývá nějaká důvěra k záchraně a kdo by firmě ještě svěřil důvěryhodné služby. Uživatel jerf to shrnuje hláškou „Nemůžete mě vyhodit, já dávám výpověď!“, tedy že firma jen předbíhá nevyhnutelné vyhazov od browserových programů. Podobně to vidí uživatel AdvitXSingh, podle kterého firma viní humbuk na sociálních sítích z vlastní neschopnosti.
+
+Nejviditelnější vtip vlákna se točí kolem čísla čtyři. Uživatel gamegod píše, že tiskovou zprávu přináší číslo čtyři, a uživatel FinnKuhn vysvětluje pointu pro ostatní: jeden ze soukromých klíčů byl doslova „4“ a další se pohybovaly v řádu jedno- až dvouciferných čísel, s odkazem na známý vtip o náhodných číslech. Uživatel malfist si proto říká o rozbor příčin metodou pěti, škrtnuto čtyř „proč“, a uživatel zulux hlásí, že jeho nová fráze je „eMahidra4444“, takže má nyní čtyřfaktorové ověření.
+
+Vážnější část vlákna řeší, jak se to vůbec mohlo stát. Uživatel ieie3366 odkázal na sadu otázek, které týmu Chrome firmě veřejně položil, uživatel hmokiguess je brání jako věcné a zaměřené na povinnosti autority a uživatel kbar13 přiznává, že i jako přihlížející cítí při čtení stres. Na to navazuje spor o systém: uživatel jesuswasjew viní fórum CA/Browser, Apple, Google a Mozillu, že licenci dostala náhodná firma bez bezpečnostního zázemí z daleka, zatímco uživatel traceroute66 oponuje, že selhává samotný proces schvalování a dohledu nad každou autoritou a příště se to může stát kdekoli. Uživatel paxy připomíná, že eMudhru používá hlavně indická vláda, uživatel adithyareddy doplňuje, že případ už vyšetřuje ministerstvo elektroniky a IT, a cynickou tečku přidává uživatel ahartmetz, podle kterého stačí odejít, chvíli počkat, přejmenovat se a vrátit se zpět.
+
+Z vlákna tak zůstává obraz ústupu, který málokdo čte jako strategii. Ve stejný den se na Hacker News řešilo i související CVE-2026-111943 o kompromitované intermediární autoritě s doporučením aktualizovat ca-certificates v Gentoo a hlášení o obejití OTP přihlášení eMudhry, které ale provázela nedůvěra kvůli obraně webu proti scraperům.

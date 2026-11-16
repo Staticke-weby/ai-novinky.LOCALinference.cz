@@ -1,0 +1,16 @@
+# 50340088
+**Subvocal staví brýle, které čtou tichou řeč přes radiofrekvenční odraz**
+
+Hacker News · aarushyadav · 2. listopadu 2026, 18:16 · 629 bodů / 324 komentářů · [diskuse](https://news.ycombinator.com/item?id=50340088)
+
+Dvojice studentů z Georgia Techu Aarush a Arnav v rámci startupu The Subvocal Company z běhu YC F26 staví chytré brýle, které rozumí tichému mluvení. Brýle vysílají slabý radiofrekvenční signál, který prochází obličejem a pohyby úst a jazyka ho modulují, foundation model pak tyhle perturbace překládá rovnou na text v rychlosti řeči. Prototyp podle týmu zvládá přes 200 slov za minutu a běžnému uživateli stačí krátká kalibrace, první dávka 500 kusů má zamířit k zákazníkům v prvním čtvrtletí 2027.
+
+Cesta k brýlím začala v únoru na hackathonu TreeHacks na Stanfordu, kde se oba pokoušeli za 36 hodin napodobit systém AlterEgo z laboratoře MIT Media Lab pomocí EMG elektrod nalepených na obličej. Snímání elektrických signálů ze svalů se ale rychle ukázalo jako slepá ulička kvůli potu, rušení i tomu, jak se elektrody pokaždé jinak posunou, a hlavně proto, že si nikdo nechce lepit snímače na tvář. Zakladatel aarushyadav v diskusi upřesnil, že rty se vlastně ani hýbat nemusí, protože radiofrekvenční signál vidí dovnitř úst, a po tréninku funguje takzvaná vnitřní řeč připomínající šeptání se zavřenými ústy.
+
+Právě forma brýlí vyvolala největší debatu. paisawalla se ptá, jestli jsou brýle jen stabilním držákem radarového snímače, a nadhazuje mikrofon na krk, kennywinker si v prvním záběru videa dokonce myslel, že ho tam vidí. adamsmark ale namítá, že krční mikrofony podle recenzí nefungují a šeptání do zařízení Vekta mu přijde nepřirozené, takže je z nového přístupu opatrně optimistický. willio58 by zase nejradši jen dokonalé odezírání z kamery telefonu, protože v hloupých obroučkách nechce vypadat jako Zuckerberg, a theturtletalks přiznává, že potichu pohybovat ústy v coworkingu, letadle nebo knihovně stejně přitahuje pohledy.
+
+Podobně se řešilo, proč snímač nemůže jen tak ležet na víku notebooku. Na dotaz uživatele tomhow zakladatelé vysvětlují, že jejich typ signálu se na větší vzdálenost silně utlumí, a pokus s milimetrovým radarem na 60 GHz ztroskotal, protože se od tváře spíš jen odráží, vidí jen vizémy a hrubé bloky o velikosti několika centimetrů. Do budoucna proto lákají spíš na formu náhrdelníku, zatím ale bez termínu. Vedle toho se ozývají hlasy toužící po ještě nenápadnějším řešení, od verze snímající jen svaly v krku přes mikroskopické pohyby jazyka, které by se blížily čtení myšlenek, až po špunt v uchu jako má Jane v Mluvčím za mrtvé.
+
+Do hry vstoupila i otázka, zda má smysl problém vůbec řešit. fowlie píše o přetechnizování a radí trénovat rychlé psaní na klávesnici, waltbosz oponuje bolestí z opakovaného namáhání a rootusrootus připomíná, že i polovina slibovaných 200 slov za minutu by stačila na špičku mezi písaři. Nakonec i dang musel krotit úvodní povzdechy, že je nápad divný a trapný, s odkazem na pravidla Hacker News, aby vlákno hned na startu nesklouzlo k mělkým odsudkům. Kdo by čekal soukromou vysílačku do přeplněných hal, jak si ji maluje hmokiguess, zatím dostane brýle na tiché diktování, které mají šanci uspět hlavně tam, kde se nahlas mluvit nehodí.
+
+[Zpět na index](00-index.md)

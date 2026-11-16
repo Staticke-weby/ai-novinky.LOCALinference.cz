@@ -1,0 +1,402 @@
+{
+ "date": "2026-10-23",
+ "clanky": 44,
+ "temata": [
+  {
+   "title": "Claude Fable 5.1 umí ukrýt tajné zprávy do běžných obrázků",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xdgtas"
+   }
+  },
+  {
+   "title": "Švédské vládní úřady zakážou ChatGPT a Claude, povolí jen Copilot",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50207405"
+   }
+  },
+  {
+   "title": "Švédská vláda od pondělí blokuje ChatGPT a Claude na služebních počítačích",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xdcmm4"
+   }
+  },
+  {
+   "title": "Kimi K3.1 Pro: open-weight model s milionovým kontextem",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50212065"
+   }
+  },
+  {
+   "title": "Black October: 3 % kritických bezpečnostních chyb za jediný měsíc",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xddp4m"
+   }
+  },
+  {
+   "title": "OpenAI popisuje, jak zabezpečuje tréninkové prostředí čelních modelů",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50214416"
+   }
+  },
+  {
+   "title": "Za šest týdnů hru z vlastních kreseb: vývojář bez zkušeností a Opus 5.5",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xdhkzb"
+   }
+  },
+  {
+   "title": "Stejný AI dotaz vypustí v Texasu 8,5× více CO₂ než ve Švédsku",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50205229"
+   }
+  },
+  {
+   "title": "Kimi K3.1 předstihl Fable 5.1 v žebříčku Artificial Analysis",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xdligf"
+   }
+  },
+  {
+   "title": "Vzestup a pád hypeu kolem Jevu",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50206361"
+   }
+  },
+  {
+   "title": "NPCTalk: postavy v GTA V odpovídají v reálném čase vlastním hlasem",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xczh14"
+   }
+  },
+  {
+   "title": "Corgi: multiplexer pro agenty a terminály",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50214373"
+   }
+  },
+  {
+   "title": "Banky odhalují neautorizované AI agenty v účtech klientů",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xd3fwx"
+   }
+  },
+  {
+   "title": "AI napsala wiki z 45 tisíc e-mailů Enronu, každý fakt s citací",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50207620"
+   }
+  },
+  {
+   "title": "Modely mizí z Hugging Face, stahování se přerušuje",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xd7ptj"
+   }
+  },
+  {
+   "title": "Microsoft: AI diagnostikuje obtížné případy dvakrát lépe než lékaři",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50214185"
+   }
+  },
+  {
+   "title": "Ekonomika AI: kolik skutečně stojí předplatné a tokeny",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xcycsk"
+   }
+  },
+  {
+   "title": "Calif tvrdí, že hacknul iPhone, ukázal útoky na Signal a iMessage",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50211474"
+   }
+  },
+  {
+   "title": "Altman: kybernetickou krizi už nedokážeme záplatovat",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xdcjhe"
+   }
+  },
+  {
+   "title": "Androidu zbývá 70 dní do uzamčení: aplikace bez registrace skončí",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50208558"
+   }
+  },
+  {
+   "title": "Vibecoding vlastního inference engine: llama.cpp v WebGL",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xdh57e"
+   }
+  },
+  {
+   "title": "Dessa: model trénovaný jen na řeči, bez textu",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50213925"
+   }
+  },
+  {
+   "title": "Hassabis zkracuje horizont AGI na dva až tři roky",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xcz4o0"
+   }
+  },
+  {
+   "title": "Google může použít Gmail a Fotky k cílení reklam, pokud zapnete AI",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50214218"
+   }
+  },
+  {
+   "title": "Vyber si projekty dobře, slevy na compute skončí",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xd1g18"
+   }
+  },
+  {
+   "title": "eMudhra zmeškala termín Mozilly a viní sociální sítě",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50210067"
+   }
+  },
+  {
+   "title": "Anthropic a klauzule o „feedbacku“ v Claude Code",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xd5ruf"
+   }
+  },
+  {
+   "title": "ClickBench vyřadil pgrust: optimalizace na míru a cachované výsledky",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50205816"
+   }
+  },
+  {
+   "title": "IBM: firmy volí open-weight modely, 90 % výkonu za desetinu ceny",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xddaiz"
+   }
+  },
+  {
+   "title": "OpenSSL 4.1.0: nová verze s optimalizacemi pro postkvantovou kryptografii",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50208099"
+   }
+  },
+  {
+   "title": "Lidský mini-mozek řídí humanoida a učí se uchopovat předměty",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xd8qwb"
+   }
+  },
+  {
+   "title": "Je tohle nový kybernetický normál? Přehled týdne kritických děr",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50207115"
+   }
+  },
+  {
+   "title": "Argon a limity: testovací prompt spolkl 2 % pětihodinové kvóty",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xd6kze"
+   }
+  },
+  {
+   "title": "UUIDv7 nefunguje tak, jak si myslíte: timestampy nejsou seřazené",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50211746"
+   }
+  },
+  {
+   "title": "ChatGPT při pohovoru: prozradil ho odraz v brýlích",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xdmqml"
+   }
+  },
+  {
+   "title": "Nahradili Looker za 150 tisíc dolarů hromadou HTML souborů",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50212320"
+   }
+  },
+  {
+   "title": "Claude přes noc natočil dokument o životě po singularitě",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xd5von"
+   }
+  },
+  {
+   "title": "ThinkingCap pro Gemma-4 snížil uvažování o 39 % bez ztráty přesnosti",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50209907"
+   }
+  },
+  {
+   "title": "MiniMax-M3.1-Flash: nový open-weight model na Hugging Face",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xd0fgs"
+   }
+  },
+  {
+   "title": "Rune 1.3 přidává TypeScript, editor Helix a Kitty grafiku",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50214325"
+   }
+  },
+  {
+   "title": "Kimi údajně žádalo influencery, aby skryli placenou propagaci",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xdquz5"
+   }
+  },
+  {
+   "title": "CVE Tracker: přehled exploze zranitelností v reálném čase",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50215530"
+   }
+  },
+  {
+   "title": "Google představil TPU 8t a 8i pro éru agentů",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xdmnqj"
+   }
+  },
+  {
+   "title": "Všechno bude lokální: sázka na specializované malé modely",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xdcpxb"
+   }
+  }
+ ]
+}

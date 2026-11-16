@@ -1,0 +1,16 @@
+# 50287359
+**Kogui promluvili o AI: technologie bez Aluny je nebezpečná**
+
+Hacker News · andreisag · 29. října 2026, 12:29 · 124 bodů / 104 komentářů · [diskuse](https://news.ycombinator.com/item?id=50287359)
+
+Představitelé lidu Kogui, kteří si říkají Kággaba, z kolumbijského pohoří Sierra Nevada de Santa Marta vydali obsáhlé prohlášení o umělé inteligenci. Text sestavený ze slov máma Vangelia Moscoteho Alberta a saky Rosy Mamatacán Sauny staví na pojmu Aluna, tedy živém myšlení, které má předcházet veškeré hmotě. Kogui se podle svých slov nestaví proti technologiím, varují ale, že umělá inteligence je zrcadlo, které vše, co odráží, nesmírně zvětšuje – a pokud vzniká z ambicí, soutěživosti a touhy ovládat, bude právě to zesilovat.
+
+Stránka, na kterou odkazuje sdílený příspěvek, vznikla právě proto, aby poselství šířila dál: provozovatelé webu Sonido Selva píší, že Kogui pomáhali s překladem a zveřejněním, nejprve ve španělštině a poté v angličtině. Prohlášení v překladu Josého Manuela Mamatacána a Christiana Horstmanna tvrdí, že inteligenci nelze oddělit od myšlení, které ji vytváří, a ptá se, čí etika a čí představa odpovědnosti v modelech vlastně je. Zvlášť naléhavě se ptá, jaké znalosti se do tréninkových dat vůbec nedostaly, protože znalost Kogui nebyla nikdy zapsána, ale předává se přímou zkušeností starších na konkrétním území.
+
+Nejživější spor v diskusi se vede o to, zda je text vůbec pravý. Uživatel peri-cl píše, že pokud je to autentické, je on kachna: velmi odlehlému lidu prý nevěří dikci k nerozeznání od technologického nadšence ze Silicon Valley, s metaforami o kvantovém vakuu a matematicky neslučitelných teoriích reality, a nedůvěřuje ani zdroji na komerčním webu připomínajícím hotel. Gualdrapo namítá, že Kogui nejsou izolovanou karikaturou, část z nich má formální vzdělání a chodí na univerzity, sám je vídal na Universidad Nacional de Colombia v Bogotě.
+
+Vedle pochybností se vlákno točí kolem otázky, zda Kogui odmítají techniku jako takovou. Vasco se ptá, jaký je jejich postoj k počítačům a internetu obecně, tikimcfee ho vyzývá, aby text četl znovu a opravdu pozorně, protože autoři v něm výslovně říkají, že nepřicházejí v opozici, ale ze znepokojení jako starší bratr. Podobně to shrnuje api: technologiím jako takovým se nebrání, ale pozorují, jak destruktivně je používáme z chamtivosti a nerovnováhy, která vyžaduje věčný růst.
+
+Zbytek diskuse je plný ozvěn a ironie. Kevin_Flynn poznamenává, že už samotný fakt, že předkolumbovský kmen vydává komentář k AI, o něčem vypovídá, a přirovnává modely k novému zlatému teleti, andreisag dodává, že i to bylo ulito z vlastních šperků lidí, kteří se mu pak klaněli jako čemusi vnějšímu. Slfnflctd text chválí jako bolestně trefný a poznamenává, že se teď stane součástí materiálu, na kterém se budou trénovat příští modely. Když si rolosa stěžuje, že mu shrnutí stránky nezvládla udělat nová Siri, tikimcfee a dllrr ho prosí, aby si to prostě celé přečetl a nechal si čas na přemýšlení, a monktastic1 k tomu dodává, že jednou si necháme umělou inteligencí shrnovat i vůni lesa a krásu louky, protože na to nikdo nebude mít čas.
+
+Čtenář si z toho odnese hlavně výzvu Kogui neptat se, jak sladit stroje s lidskými hodnotami, ale jaké hodnoty do nich lidé vůbec vložili a jaké nepsané vědění v nich chybí.

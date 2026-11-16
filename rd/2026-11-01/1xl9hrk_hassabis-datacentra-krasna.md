@@ -1,0 +1,14 @@
+# 1xl9hrk
+**Hassabis: datacentra mají být krásná a brát ohled na své okolí**
+
+r/singularity · u/Recent_Fox4339 · 1. listopadu 2026, 18:49 · 364 bodů / 75 komentářů · [diskuse](https://www.reddit.com/r/singularity/comments/1xl9hrk/)
+
+Šéf Google DeepMind Demis Hassabis v rozhovoru s Hannah Fry ze začátku září řekl, že datacentra by měla být esteticky kvalitní a jejich dopad na fyzické okolí je třeba brát vážně. Myšlenka zaujala i komunitu r/singularity, kde příspěvek s úryvkem rozhovoru nasbíral stovky hlasů a rozpoutal debatu o tom, co vlastně lidi na umělé inteligenci nejvíc štve.
+
+Podle nejvýše hodnocených hlasů má Hassabis pravdu, a to i čistě z akceleracionistického pohledu. Jak píše u/Azicald, datacentra tvoří asi 95 % výhrad, které mají vůči umělé inteligenci běžní lidé mimo internet, a necitlivé zasazování staveb do okolí už způsobilo velmi reálné škody na životech lidí i na důvěře, že umělá inteligence v budoucnu lidem pomůže. Navazující nejúspěšnější komentář od u/RiboSciaticFlux to obrací do praxe: firmy mají hrozný PR a kdyby se staly skutečným komunitním partnerem, lidé by je vítali s otevřenou náručí.
+
+Právě od něj pochází i nejkonkrétnější seznam, co by taková kompenzace mohla znamenat — postavit hezká osvětlená basketbalová a fotbalová hřiště, opravit městské ulice nebo zaplatit v celém okrese účty za elektřinu, protože finančně je to pro provozovatele zanedbatelné. U/miaInc k tomu přidává varovný příklad Googlu ve Finsku, kde měl gigant šanci jít příkladem, ale místo toho byl projekt po obvinění z nelegálního kácení zastaven, což je v Evropě obzvlášť citlivé. Jiní ale upozorňují, že fasáda hluk, vodu ani účty nevyřeší. U/jomic01 píše, že obklad je nejlevnější dobrá vůle, jakou si firmy mohou koupit, u/Great_Currency_3998 to ironizuje poznámkou, že hezčí vzhled zázračně neutiší hluk, nevyčistí vodu ani nezlevní elektřinu.
+
+Třetí proud diskuse řeší, jestli má krása vůbec smysl. U/SiriPsycho100 namítá, že moderní datacentra stojí jen výjimečně ve městech a na předměstích, a když budova leží v polích daleko od lidí, proč by měly firmy platit navíc za něco, na co se nikdo nedívá. Podobně u/Responsible-Offer724 připomíná, že v průmyslových zónách je dnes všechno jen krabice a nikdo neutrácí peníze bez důvodu. Proti tomu stojí u/peter_nn0 s tím, že nové infrastruktury bude přibývat a stavět sovětsky ošklivé budovy jen proto, abychom ušetřili milion nebo měsíc, by byla obrovská chyba, zatímco u/TorturedPoet30 připomíná, že Hassabisovou oblíbenou architekturou je art deco. Mezi to se míchají vtipy o povinném brutalismu, o přesunutí datacenter pod zem i prosba u/mybpete1 o měkké podloží před krásnými budovami, aby se při uctívání vládce nebolavěla kolena.
+
+Z vlákna tak vychází střízlivé ponaučení: hezká budova nikoho neurazí, ale odpor vůči datacentrům nerozpustí fasáda, nýbrž tišší provoz, čistá voda a vstřícnost k obci.

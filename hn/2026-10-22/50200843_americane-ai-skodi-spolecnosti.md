@@ -1,0 +1,14 @@
+# 50200843
+**Většina Američanů považuje AI za špatnou pro společnost a nechce další datacentra**
+
+Hacker News · karakoram · 22. října 2026, 22:51 · 71 bodů / 47 komentářů · [diskuse](https://news.ycombinator.com/item?id=50200843)
+
+Uživatel karakoram přinesl na Hacker News čerstvý průzkum ABC News, Washington Post a agentury Ipsos z poloviny října. Podle něj 57 % Američanů označuje umělou inteligenci za špatnou pro společnost, zatímco za dobrou ji má 42 %. Asi dvě třetiny respondentů zároveň odmítají stavbu nových datacenter v USA, a ve vlastní obci je odpor ještě vyšší. Sběr proběhl přes pravděpodobnostní panel KnowledgePanel společnosti Ipsos.
+
+Odkazovaný článek rozebírá, čeho se lidé bojí nejvíc: 73 % vidí vysoké riziko hacknutí zabezpečených počítačových systémů, 65 % zániku mnoha pracovních míst a 62 % toho, že lidé ztratí schopnost rozhodovat se bez AI. V přínosy věří menšina – 34 % čeká velkou šanci na ulehčení každodenních úkolů a jen 13 % na vznik mnoha nových pracovních míst. Dvě třetiny Američanů zároveň tvrdí, že federální vláda pro regulaci vývoje AI nedělá dost.
+
+Nejviditelnější nitku tahá nomel, který s nadsázkou popisuje typického odpůrce: anketu vyplní na webu běžícím v datacentru, jídlo si objedná telefonátem přes datacentrum, řidič k němu trefí díky mapám z datacentra a večer si u streamovaného filmu řekne Alexe, ať ztlumí světla a objedná ubrousky. Ravenstine to shrnuje stroze, že lidé sice říkají, že je AI špatná, ale stačí se podívat, co konzumují. Odpovědi se ale proti námitce pokrytectví staví – turpentine připomíná, že odvolávání se na pokrytectví není platné vyvrácení, up2isomorphism přirovnává situaci k sousedovi se zbraní, kvůli kterému si pořídíš ještě větší, a Henchman21 píše, že když si člověk může dovolit jen teplé odpadky, začne mu hra připadat zmanipulovaná.
+
+Podobně se točí spor o rychlém přijetí AI, které ETH_start vydává za odhalené preference spotřebitelů. Pimlottc namítá, že když je AI nacpaná do každého produktu a na začátek každého výsledku vyhledávání, o volbu se nejedná. Gonzalohm to přirovnává k autu, které denně používá, i když ničí životní prostředí, protože bez něj by nemohl pracovat, a Terr_ mluví o zraněném muži zahnaném lvy na útes, u něhož nemá smysl ze skoku vyvozovat, že skočit chtěl.
+
+Věcnější část debaty patří datacentrům: bezier-curve říká, že mu vadí hlavně energie a znečištění, když se kolem domů skupují pozemky a lidé dýchají emise z přistavených plynových turbín, a turpentine se ptá, co z toho města mají, když z velkých tržeb zůstane jen daň z výplat tuctu zaměstnanců. Platinumrad se nediví skepsi, když jeden šéf laboratoře slibuje, že AI vezme práci, a druhý kontruje, že zabije lidi. Na závěr i_love_retros vypráví, jak přestal AI mimo práci používat a vrátil se k vyhledávači a deset let starým stránkám psaným lidmi, což spicyusername glosuje citátem, že co vznikne po pětatřicítce, je proti přirozenému řádu věcí.

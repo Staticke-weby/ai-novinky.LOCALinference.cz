@@ -1,0 +1,16 @@
+# 50367125
+**AMD poprvé v historii předběhne Intel. Ve čtvrtletí čeká tržby 17 miliard dolarů**
+
+Hacker News · rbanffy · 4. listopadu 2026, 16:38 · 519 bodů / 193 komentářů · [diskuse](https://news.ycombinator.com/item?id=50367125)
+
+AMD čeká ve čtvrtém čtvrtletí tržby kolem 17 miliard dolarů, což by poprvé v historii překonalo projekce Intelu. Firma přitom těží hlavně z procesorů Epyc a akcelerátorů Instinct pro datová centra a AI infrastrukturu, které rostou tak rychle, že s přehledem přebíjejí slabší prodeje pro počítače a herní konzole.
+
+Odkazovaný článek serveru Tom's Hardware připomíná, že třetí čtvrtletí bylo pro AMD rekordní s tržbami 13,377 miliardy dolarů a čistým ziskem 2,43 miliardy. Datacentrová divize tehdy utržila 8,55 miliardy, tedy 64 % celku, zatímco klientská a herní část klesla o 8 % na 3,722 miliardy kvůli slabší poptávce po PC a konzolích. Intel naproti tomu pro stejné období počítá jen s 15 až 16 miliardami a ve výhledu na rok 2027 šéfka AMD Lisa Su slibuje zdvojnásobení tržeb ze serverových CPU.
+
+Diskuse to čte hlavně jako neuvěřitelný obrat. Uživatel theandrewbailey připomíná, jak špatně na tom firma byla před deseti lety před nástupem Zen, další přidává stručné „Lisa je bestie" a davoneus píše, že si AMD předběhnutí Intelu za tu dobu prostě zaslouží. Uživatel Covzire to vysvětluje pragmatismem: nejlepší herní kousky AMD mají často osm plných jader s velkou cache, které v reálných hrách a aplikacích fungují, zatímco Intel honí počty jader, jež dobře vypadají na papíře, ale běžnému uživateli nic nedají. Podle něj je zlomilo, když je opustil Apple, od té doby prý soupeří s Applem na papíře a AMD jim zatím ujídá oběd v realitě.
+
+Nejživější linka se točí kolem toho, co Intel propásl. Theandrewbailey píše, že Intel nikdy nebral vážně grafiky, a proto dnes nemá nic konkurenceschopného pro éru AI, a přidává, že výrobu 3D XPoint ukončil rok předtím, než by ji umělá inteligence skoupila všechnu. Na to navazuje mickeyp poznámkou, že to víc vypovídá o rozkladu Intelu než o zázračném obrácení AMD, a strhne se debata o Optane. Mort96 nechápe zdejší nostalgii, protože paměť pomalejší než RAM a dražší než SSD mu nikdy nedávala smysl, zatímco esseph vzpomíná na podnikové nasazení pro SAP HANA a senderista věří, že se perzistentní paměť vrátí kvůli transakční odolnosti databází. Oponuje tomu i kcb, podle něhož je Instinct dnes jedinou reálnou alternativou k Nvidii a rackové systémy Helios jedinou skutečnou konkurencí na úrovni stojanů.
+
+Zbytek vlákna řeší, co bude dál a kde AMD stále tlačí bota. Dlcarrier doufá, že si firmy jen nevymění role a AMD bez tlaku nezabředne do stagnace, cubefox namítá, že o silné soutěži se dá mluvit těžko, dokud Apple a Qualcomm nesoupeří s x86 a v grafikách všichni ztrácejí na Nvidii. InsidiousWombat připomíná letitou intelovskou politiku zamykání funkcí jako virtualizace nebo AVX do dražších modelů, která lidi hnala k AMD, pachouli-please chválí dlouhodobou dominanci AMD v poměru ceny a výkonu a deepsquirrelnet kazí oslavu zkušeností s APU 8700GE, které mu dva a půl roku po vydání stále párkrát týdně zamrzá obraz v Linuxu.
+
+Z příběhu tak zůstává obraz firmy, která přežila díky Zen a sázce na praktické procesory, zatímco kdysi nedotknutelný rival ztratil náskok v grafikách i v pamětech.

@@ -1,0 +1,16 @@
+# 50217903
+**Apple otevřel přihlášky do programu Security Research Device**
+
+Hacker News · neom · 24. října 2026, 04:36 · 176 bodů / 122 komentářů · [diskuse](https://news.ycombinator.com/item?id=50217903)
+
+Apple znovu přijímá přihlášky do programu Security Research Device, letošní kolo končí 30. října 2026. Na blížící se uzávěrku upozornil uživatel neom, který odkaz na firemní stránku poslal právě proto, aby se k zájemcům včas dostal. Program má podle Applu pomoci novým i zkušeným výzkumníkům rychleji pracovat se systémem iOS.
+
+Podle odkazované stránky dostanou schválení účastníci speciálně upravený iPhone, který umožňuje zkoumat zabezpečení bez obcházení jeho ochran. K dispozici mají mít shell, možnost spouštět vlastní nástroje, volit entitlements a upravovat jádro, vedle toho i náhledy softwaru a přístup ke komunitě výzkumníků. Zařízení se půjčuje na 12 měsíců s možností prodloužení a zůstává majetkem Applu, není určené k osobnímu používání ani každodennímu nošení. Nálezy firma automaticky zvažuje do odměn v rámci Apple Security Bounty, z výzkumu jsou však vyloučeny Apple Pay a aplikace třetích stran.
+
+Nejsilnější kritická linka zpochybňuje smysl celého programu. Uživatel ACCount39 tvrdí, že Apple nejdřív vytvořil problém trváním na tom, že všechny iPhony patří jemu a uživatelé si na ně mohou jen ťukat, a teď se hrdinně tváří, že ho řeší. Kdyby šel odemknout bootloader a dělat si s vlastněným telefonem, co člověk chce, nebyl by prý žádný omezující program potřeba. Odpovědi se různí: uživatel orf podotýká, že by pak nešlo o nejbezpečnější běžný telefon, uživatel numpad0 připomíná požadavky platební infrastruktury na odolnost zařízení a uživatel slashdave píše, že odemykání je přesným opakem zabezpečení.
+
+Druhá velká hádka se vede o mlčenlivost. Uživatel lrvick vidí v programu past, která má výzkumníky předem zavázat ke mlčenlivosti, a radí vše po přiměřené pauze zveřejnit. Uživatel alt227 to nazývá potichu uplácením výměnou za něco, po čem výzkumníci vždy toužili, uživatel tamimio se pak ptá, proč by někdo hledal chyby v podstatě zdarma a hlásil je jen Applu. Proti tomu stojí uživatel Aurornis s tím, že program umožňuje publikovat poté, co je chyba opravena, a označuje rozhořčení za přehnané. Uživatel halJordan doplňuje kontext: dříve se prodávaly zneužitelné chyby v iOS za miliony, přičemž poctiví výzkumníci neměli jak bádat, takže požadavek hlásit nálezy dává smysl. Podobně uživatel pizlonator píše, že nejde o skrývání před médii, ale o to, aby Apple stihl chybu opravit a doručit zákazníkům dřív, než ji někdo zneužije.
+
+Mezi tím probleskují vtipy o ceně přístupu. Uživatel ta8903 se ptá, kde si zařízení může koupit, uživatel birdman3131 odpovídá, že stačí upsati duši, a uživatel potatoproduct navrhuje titulek přepsat na nabídku úplatků výměnou za zařízení zdarma. Uživatel alt227 ještě poznamenal, že jde o opakování diskuse z roku 2020. Autor podání to vysvětlil prostě: Apple otevírá přihlášky každý rok a někdo je během okna obvykle pošle, letos to včas udělal on.
+
+Z diskuse tak zůstává známý rozpor: část čtenářů by chtěla plně vlastnit hardware i se všemi riziky, druhá oceňuje, že existuje alespoň oficiální cesta k hlubšímu výzkumu bez černého trhu se zranitelnostmi.

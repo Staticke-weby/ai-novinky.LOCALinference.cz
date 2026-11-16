@@ -1,0 +1,18 @@
+# 49964537
+**Výdaje na AI se firmám stávají téměř neplánovatelnými**
+
+Hacker News · swolpers · 5. října 2026, 15:22 · 58 bodů / 81 komentářů · [diskuse](https://news.ycombinator.com/item?id=49964537)
+
+Firmám se rozpadá představa, že útraty za umělou inteligenci půjdou naplánovat jako každá jiná rozpočtová položka. Spotřeba jen roste s tím, jak se agenti zabydlují v běžné práci, a vedení zároveň tlačí na ještě větší využívání. Vypnout kohoutek uprostřed týdne a počkat do pondělí proto v praxi nepřipadá v úvahu.
+
+Odkazovaný text Wall Street Journalu se věnuje právě tomuto pnutí kolem tokenů a provozu modelů. V balíčku se ho nepodařilo načíst, samotná debata ale ukazuje, že téma rozpočtování rezonuje v desítkách firemních týmů.
+
+Nejvýraznější linku nastolil FinnLobsien: limity útraty podle něj moc nepomohou, protože lidé jsou na AI zvyklí a nikdo nepřijme, že má zbytek práce dělat ručně. Řešení vidí ve vlastních mezivrstvách s chytrým směrováním, kdy má každý přístup jen k tomu, co opravdu potřebuje – marketér prý k nahrání článku přes MCP nepotřebuje defaultně sahat po Opus 5.5 za desetinásobek ceny. Tanjreeve k tomu připomněl paralelu s cloudem, kde se také nejdřív slibovalo, že si každý bude spouštět vlastní servery, a nakonec experti postavili software kolem softwaru a zbytek firmy používá AI přes přívětivé rozhraní.
+
+Závislost na agentech názorně popsal bunderbunder, jehož tým se v létě po dosažení stropu v podstatě zastavil. Část devops práce se totiž přesunula do agentních dovedností, skripty pod nimi byly děravé a špatně zdokumentované, jenže houževnatí agenti potíže tiše obcházeli a pálili při tom hromady tokenů místo varování. Jako pojistku proti takovému úletu chválí bluGill firemní patra: každý dostane příděl a po vyčerpání automaticky postoupí výš, hlavně aby měl zdivočelý job kde narazit. Hořký vtip k tomu přidal Sevii s příměrem, že řidičům kamionů také nikdo neřekne, aby po vyčerpání rozpočtu na benzín doručili zbytek balíků pěšky, a skeptic_ai z velké banky kontruje, že tam se po vyčerpání měsíčního limitu prostě programuje ručně a management to nezajímá.
+
+Hodně prostoru dostala otázka, kdo má spotřebu vlastně hlídat. awesan tvrdí, že největší úspory přinesla pořádná dokumentace, kontext a dovednosti, po kterých agenti přestali pokaždé pracně rekonstruovat všechno od nuly a stěžovat si na nedostatek tokenů. simianwords k tomu nabízí jednoduchý recept – vybrat dobrý model, přiměřené úsilí uvažování a dobrou výzvu – jenže CharlieDigital se směje, že přimět k takové ukázněnosti tisíc inženýrů se nepovedlo ani ve třiceti lidech. A epistasis dodává, že volba úsilí uvažování je pro něj i po celodenním experimentování záhadou, která se jednoho dne objevila v rozhraní bez vysvětlení. Do toho hilariously kritizuje firmy, že odpovědnost přehazují na zaměstnance, kteří mají najednou rozumět pětadvaceti modelům, rozpočtům, efektivitě a architektuře agentů, ačkoli by nedokázali vybrat ani databázi.
+
+Rozdíly v praxi pak ilustruje srovnání peněženek: bentt si s programováním v Claude vystačí s tarifem za 20 dolarů měsíčně a kroutí hlavou nad lidmi, kteří nechávají agenty běžet hodiny. furyofantares naopak za práci platí API sazby mezi tisícem a dvěma tisíci dolary měsíčně, zatímco koníčky nechává běžet neefektivně, ale s radostí, že věci vznikají před očima. Mezi těmito póly rglover varuje, že bez člověka v cyklu je to jako tahat za páku automatu, a gorjusborg popisuje tři tábory – plnou autonomii, asistenci vývojářům a odmítače – s tím, že kalkulace nákladů je dnes vratká a jasná výhoda se může rychle vypařit.
+
+Kdo čekal tabulku s ideálním rozpočtem, odejde s jinou lekcí: šetřit na tokenech se dá, ale jen když někdo předem rozhodne, co smí který model dělat.

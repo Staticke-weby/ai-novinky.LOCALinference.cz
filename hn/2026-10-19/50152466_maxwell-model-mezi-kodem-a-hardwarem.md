@@ -1,0 +1,18 @@
+# 50152466
+**Maxwell: nový typ modelu mezi kódem a hardwarem**
+
+Hacker News · laginimaineb · 19. října 2026, 15:47 · 49 bodů / 24 komentářů · [diskuse](https://news.ycombinator.com/item?id=50152466)
+
+Gal ze společnosti doubleAI představil Maxwell, nový typ hraničního modelu zvaný code execution model. Má sedět mezi kódem a hardwarem a žít uvnitř spuštěného programu, kde sleduje stopy, profilaci a protékající data. Běh pak zrychluje přímo za provozu, bez jediné změny zdrojového kódu, a zájemci se mohou hlásit do předběžného přístupu na heymaxwell.ai.
+
+Navazující manifest začíná u Alana Turinga, který v roce 1952 odehrál šachovou partii tak, že půl hodiny na tah otrocky následoval vlastní papírový program. Počítače se podle autorů od té doby chovají stejně: provádějí instrukce věrně, miliardkrát za sekundu, ale bez porozumění. Maxwell to má zlomit tím, že za běhu přepisuje algoritmy i strojové instrukce a vydává novou binárku, zatímco zdroják zůstává přesně jak ho napsal člověk nebo agent typu Claude Code. Jistotu má dodat formální verifikace v podobě strojově ověřených důkazů sémantické ekvivalence a první verze nazvaná Maxwell’s Daemon cílí na superoptimalizaci pro CPU i GPU.
+
+Nejnadšenější shrnutí napsal uživatel gavinray: vidí v tom spojení formalizace jazyka Python a modelu, který za běhu vyměňuje kód za prokazatelně stejně se chovající, ale rychlejší variantu. Označil to za geniální a za jeden z těch nápadů, u kterých člověk zpětně nechápe, že to ještě nikoho nenapadlo. Na dotaz, zda je systém stoprocentně deterministický, autor odpověděl, že deterministická je verifikace, což dovoluje dělat optimalizaci naopak hodně širokou a nedeterministickou: u řazení prý může sáhnout po quicksortu pro obecná data a po insertion sortu pro téměř seřazená, dokud se to dá prokázat jako správné.
+
+Odtud se diskuse stočila k marketingu. Uživatel mccoyb nápad chválí, verifikaci, specializaci pro konkrétní stroj i záplatování binárek za běhu označil za skvělé, ale vadí mu fráze typu model, který se musí trefit pokaždé, což podle něj naznačuje, že nehalucinuje, ačkoliv pravděpodobnostní agent je ve skutečnosti jen obalený verifikačními nástroji. Podobně prý není přesné mluvit o sebevylepšujícím se kódu, když kód sám sebe neřídí. Uživatel gavinray oponoval, že to není o nic méně přesné než říkat totéž o aplikaci s JIT kompilací.
+
+Nejobsáhlejší technické otázky položil uživatel epsylon: jak se formalizace Pythonu povedla, jaký důkazový rámec tým používá, zda se stejná práce neopakuje při každém běhu, jak se má ladit program, když démon neustále mění binárku pod rukama, a proč se poznatky o datech nevracejí zpět do zdrojáku. Autor slíbil další detaily, mluvil o chytrém cachování, ohledu na ladicí postupy po vzoru Tier 2 JIT v CPython a o tom, že přepsané úseky často nemají žádný odpovídající zdrojový kód ani v původním jazyce.
+
+Praktickou linku otevřel uživatel Ohentis otázkou, jak se spotřeba modelu započítá proti ušetřenému výkonu, a uživatel fhn navrhl prostě kompilovat pro vlastní hardware po vzoru Gentoo místo neustále běžícího modelu, což podle něj popírá smysl úspor. Autor odpověděl, že tak se zdaleka nedosáhne stejného zrychlení. Uživatel krmmalik zase přiznal, že podle manifestu čekal spíš model, který za běhu hlídá chyby vůči původnímu zadání, a rychlost ho překvapila. Autor připustil, že code execution modely mohou pomoci i s chybami, a tvrdí, že formalizací našli několik chyb v bezpečnosti paměti v jádru CPython, k nimž brzy zveřejní detaily.
+
+Z vlákna tak zůstává obraz odvážného slibu: neměnit kód, ale měnit to, co z něj skutečně běží na železe, a každou změnu krýt důkazem místo testu.

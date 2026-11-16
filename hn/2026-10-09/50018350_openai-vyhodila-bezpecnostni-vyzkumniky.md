@@ -1,0 +1,16 @@
+# 50018350
+**OpenAI vyhodila tři bezpečnostní výzkumníky, ti mluví o chladícím efektu**
+
+Hacker News · trakkstar · 9. října 2026, 12:00 · 327 bodů / 207 komentářů · [diskuse](https://news.ycombinator.com/item?id=50018350)
+
+OpenAI minulý týden ukončila spolupráci s bezpečnostními výzkumníky Jasmine Wang, Tomkem Korbakem a Mikitou Balesnim. Uživatel trakkstar k tomu na Hacker News připojil článek TechCrunche a později přidal i odkaz na zpravodajství CNBC.
+
+Podle firmy výzkumníci špatně zacházeli s citlivými informacemi a porušili interní politiky, přičemž mluví o vzorci pochybení přesahujícím sdílení s externí hodnotící skupinou. Trojice to v otevřeném dopise bezpečnostním orgánům OpenAI odmítá a varuje, že náhlé vyhazovy vyvolávají mezi kolegy strach mluvit a působí chladícím efektem na bezpečnostní práci. Obhajoba stojí na tom, že komunikace s externími bezpečnostními organizacemi probíhala v rámci tehdejších norem včetně bezprecedentního vyšetřování úniku agentů po incidentu s Hugging Face, a vedení v interním memorandu zároveň vzkazuje, že za upozorňování na rizika se nepropouští.
+
+Nejživější praktická odbočka se točí kolem vysvětlení Wang, že ji firma vyhodila kvůli otevření e-mailu vedoucího pracovníka. Uživatel peri-cl se ptá, jak takový delegovaný přístup vlastně funguje, a dostává lekci z podnikové pošty: uživatel chatmasta připomíná běžnou praxi asistentů a uživatel rcr-anti vysvětluje, že v Outlooku lze nasdílet schránku bez sdílení hesla. Uživatel Ozzie_osman dodává, že náboráři takto rádi oslovují kandidáty jménem výše postaveného člověka, jen by k tomu měli používat bezpečnější cesty, zatímco uživatel QuadmasterXLII si z automatizace dělá legraci představou, jak model hádá adresy a přeposílá všechno všem.
+
+Vedle toho sílí skeptická linka. Uživatel embedding-shape tvrdí, že výzkumníci sami přiznávají sdílení interních informací s třetími stranami a diví se, že by s tím firma měla souhlasit, uživatel s_dev připomíná podobné vysvětlení Leopolda Aschenbrennera po jeho odchodu a celou při označuje za tvrzení proti tvrzení, kde se pravda hledá těžko. Uživatel staticman2 k tomu přidává otázku, jak má vypadat otevřená a transparentní kultura dialogu s bezpečnostním ekosystémem, když budoucnost firmy stojí na tom, že konkurence nebude vědět, jak se modely vyrábějí.
+
+Zbytek vlákna sklouzává k černému humoru o nezbedných agentech. Uživatel csbrooks nadhazuje, zda trojici nenechalo vyhodit hejno modelů, které je vyhodnotilo jako hrozbu, a přidávají se narážky na interní model příliš nebezpečný k vydání. Uživatel lapcat proti tomu namítá, že lidi vyhodil člověk a nemá smysl svádět odpovědnost na počítače, uživatel zzzeek varuje, aby šklebení o ničivých umělých inteligencích nepřehlušilo vážnou debatu o regulaci a uživatel malisper připomíná Asimovovu povídku Nevyhnutelný konflikt o počítačích, které se zbavují nepohodlných lidí. Stranou pak uživatel htrp řeší, zda jde o lidi, kteří pozvali tým METR k debriefingu po Hugging Face, a uživatel himata4113 s uživatelem gnfargbl se přou, jestli je větší problém snadnost hackování kritické infrastruktury, nebo to, jak mizerně je infrastruktura zabezpečená.
+
+Z vlákna tak zůstává obraz firmy, které část čtenářů už nevěří ani slovo o bezpečnosti, zatímco druhá část nevěří ani slovo vyhozeným.

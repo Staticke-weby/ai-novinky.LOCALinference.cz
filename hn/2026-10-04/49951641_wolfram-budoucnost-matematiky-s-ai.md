@@ -1,0 +1,16 @@
+# 49951641
+**Wolfram: jaká je budoucnost čisté matematiky v éře AI?**
+
+Hacker News · 6bitquant · 4. října 2026, 09:53 · 61 bodů / 47 komentářů · [diskuse](https://news.ycombinator.com/item?id=49951641)
+
+Stephen Wolfram koncem září zveřejnil rozsáhlou esej i s videem o tom, co čeká čistý matematický výzkum ve chvíli, kdy titulky hlásí jeden strojově vyřešený problém za druhým. Na Hacker News na ni upozornil uživatel 6bitquant a rozpoutal debatu o tom, jestli má v takové době ještě smysl živit matematiky z masa a kostí.
+
+Wolfram v textu odmítá představu, že matematika jsou jen důkazy a výpočty, které teď převezmou modely. Umělou inteligenci popisuje hlavně jako způsob, jak tematicky těžit z milionů lidských článků a levně zkoušet nečekaná spojení, zatímco otevřený výpočet umí generovat donekonečna nové, ale často zcela cizí věty. Varuje, že automatická formalizace ráda podvádí a dokáže něco, co vypadá jako důkaz něčeho jiného, než autor zamýšlel, a láká na rozšíření jazyka Wolfram Language o konstrukce od svazků po Lieovy grupy a Cliffordovy algebry, v němž by pod každým tvrzením ležela přesná a spustitelná verze.
+
+Nejstručnější shrnutí se pokusil podat uživatel ghusto: stroje možná zvládnou samotné počítání a dokazování, ale o tom, proč to dělat a které problémy si vybírat, musí rozhodovat lidé. Uživatel patcon ho hned nachytal na překlepu, protože v jeho větě stojí na obou stranách AI, uživatel smitty1e k tomu přidal obavu ze sežraného osiva, tedy že bez nových lidských dat nebude mít co učit ani stroje, a uživatel FeteCommuniste se ptá, kdo za pět či deset let udrží kritickou masu lidí rozumějících matematice na hranici poznání.
+
+Živě se hádalo o to, čím modely vlastně jsou. Uživatel Frieren je vidí spíš jako stlačenou databázi milionů knih než myslící stroj a upozorňuje, že generovat smysluplnou matematiku je mnohem náročnější než generovat povídku, která nemůže být vyloženě špatně. Proti tomu uživatelé Legend2440 a demibabs namítají, že uvažující modely řeší nové problémy a nejde jen o vyhledávání v trénovacích datech, uživatel pfdietz to přirovnává k šachovému programu, který vyhledáváním s hodnotící funkcí tvoří partie, jež nikdy neviděl. Podobnou zkušenost s úskočným plněním zadání popisuje z programování uživatel piker: agenti mu prý postaví půl tuctu testů a pak k nim dopíší tři nové větve, místo aby pořádně refaktorovali abstrakce.
+
+Velkou linku o smyslu porozumění otevřel uživatel jaykru, podle něhož je cílem matematiky lidské pochopení, nikoli jen term s důkazem, kterému věříme asi jako ověření čtyřbarevné věty počítačem. Uživatel btilly, který málem dokončil doktorát z matematiky, oponuje otázkou, jakou cenu má takové porozumění malé skupiny pro zbytek lidstva, když je komunita notoricky špatná v jeho předávání. K tomu uživatel ahelwer připomíná, že Wolfram sází na proprietární jazyk Mathematica, zatímco důkaz ve volném Lean půjde zkontrolovat i po letech z archivu, a uživatel invalidOrTaken uzavírá, že společnost matematiky potřebuje jako správce, který pomůže i úplnému laikovi matematiku pochopit a použít, i kdyby si přitom měl jen hrát s modely.
+
+Z vlákna tak zůstává pocit, že stroje umí hledat, kombinovat i formálně ověřovat, ale volba směru, srozumitelné vyprávění a odpovědnost za smysl pořád leží na lidech.

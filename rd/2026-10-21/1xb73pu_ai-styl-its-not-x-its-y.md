@@ -1,0 +1,14 @@
+# 1xb73pu
+**Odkud se vzalo „It’s not X, it’s Y“? Styl AI psaní možná přišel z čínštiny**
+
+r/ChatGPT · u/justsayinbye · 21. října 2026, 01:09 · 1432 bodů / 359 komentářů · [diskuse](https://www.reddit.com/r/ChatGPT/comments/1xb73pu/)
+
+Autor příspěvku má za to, že typickým poznávacím znakem strojového psaní je vazba „není to X, je to Y“, která se v běžné angličtině moc nenosí. Zaráží ho hlavně to, že obě poloviny u AI často netvoří skutečný protiklad, spíš si navzájem přitakávají. Vysvětlení hledá v čínštině, kde je spojka „pu-š’, er-š’“ naprosto všudypřítomná – sám si prý na základní škole driloval věty postavené právě na ní a v čínštině slouží k dokreslení odstínu, ne k ostrému popření. Nástup téhle manýry dává do souvislosti i s debatami o tom, že západní modely trénované na čínských datech o sobě občas tvrdí, že jsou Číňané.
+
+Nejvíc hlasů v diskusi ale nedostala lingvistika, nýbrž hláška u/littlecactuscat „Není to donáška, je to DiGiorno“. Vážnější část vlákna pak autorovu tezi o neanglickosti rozebírá na kusy. u/Dramatic_Ad9324 připomíná, že jde o starou řečnickou figuru, kterou dnes v USA neustále používá třeba Bernie Sanders, u/zaiguy ji pojmenovává jako negativní paralelismus neboli antitezi od Shakespeara po Dickense. u/jetpacksforall přidává celou sbírku reklamních sloganů od „Není to televize, je to HBO“ přes Volkswagen až po odkaz z Mad Men a shrnuje to tak, že v reklamě je tahle klička doma desítky let, jen v obyčejné řeči nikdy nezdomácněla.
+
+Druhá linka diskuse řeší, proč tahle konstrukce tak leze na nervy. u/NullzeroJP píše, že nesnáší předpoklad, že si původně myslel to první, co mu text podsouvá, a vadí mu, že AI si nejdřív vymyslí premisu, aby pak mohla důrazně tvrdit to druhé. Podobně u/cascadiabibliomania si všímá, že v kolonce X obvykle stojí slaměný panák, kterého nikdy nikdo neřekl. Pointu trefuje u/Creepy_Bee1396: problém není samotná stavba, ta je prastará v obou jazycích, ale to, že AI druhou polovinou jen hlasitěji parafrázuje tu první, zatímco skutečná antiteze staví protiklady. Do stejného vtipného soudu se trefil i u/Prudent-Corgi3793.
+
+Třetí proud hledá původ spíš v datech než v čínštině. u/deathuberforcutie tipuje trénink na děsivě generickém SEO obsahu, na kterém sám před nástupem ChatGPT psal, u/sourceamdietitian a u/BrookterT kontrují, že v profesionálním a propagačním psaní je vazba v angličtině běžná – ten druhý zmiňuje britskou kampaň na značkové potraviny. u/doomer_irl ji popisuje jako zkrácené „neříkám X, říkám Y“, kterým se lidé brání proti překroucení nepopulárního názoru, jenže ChatGPT ho prý lepí všude a bez potřeby. A u/upalse přidává paralelu se slovem delve, které se do modelů dostalo přes přebujelé nigerijské anglické popisky z outsourcovaného značkování dat.
+
+Z vlákna tak zbyde spíš než jasný čínský původ pocit, že AI vzala starý reklamní a řečnický trik a přetočila ho do své nejoblíbenější polohy – říct totéž dvakrát, podruhé s větším patosem.

@@ -1,0 +1,16 @@
+# 1xs1s3s
+**Ethan Mollick: Fable 5.2 je téměř AGI, ale stále zubatá**
+
+r/singularity · u/japie06 · 9. listopadu 2026, 20:51 · 271 bodů / 76 komentářů · [diskuse](https://www.reddit.com/r/singularity/comments/1xs1s3s/)
+
+Ethan Mollick dostal nový model Claude Fable 5.2 k testování ještě před veřejným spuštěním a označil ho za velmi působivý. Za pracovní definici si vzal umělou inteligenci dobrou jako většina lidských expertů ve většině intelektuálních úloh, které se dají dělat na počítači. Jeho verdikt zní, že Fable 5.2 tuto laťku v mnoha úlohách plní, ale kvůli přetrvávajícím mezerám v úsudku jde zatím o „téměř AGI", tedy zubatou obecnou inteligenci.
+
+V článku ukazuje, co s modelem dokázal: na jediný pokus vygeneroval vtipné video s pointou, z drobné svítící USB klávesnice Codex Micro udělal bez návodu herní konzoli se šesti hrami a navrhl službu Prebid Brief, která měla ze zápisů 201 městských úřadů předpovídat veřejné zakázky. Dále zrekonstruoval legendární Audenův kurz z roku 1941 včetně 35 děl a anotací, napsal 182stránkovou studii o vlivu poplatků na zakládání firem a z jednoodstavcového zadání postavil stovky kódem kreslených 3D světů propojených portály. Právě u portálů se ale objevila nejzajímavější trhlina: když ho požádal o vyleštění světů, agenti si postavili byrokracii se slepým hlasováním, zákazy triků a rulebookem o 204 kapitolách a 87 500 slovech, takže místo stovek světů denně vznikal tucet.
+
+Právě historku s rulebookem vypíchl v úvodu diskuse u/japie06 a nejvíc hlasů posbírala reakce u/QuasiRandomName, že by se tomu spíš mělo říkat zubatá superinteligence, protože v tom, co zvládne, je model vyloženě nadlidský. Tón debaty tím udal: ne jestli je Fable 5.2 šikovný, ale jak pojmenovat stroj, který v jednom dni udělá práci na měsíce, a přitom se zasekne na vlastních pravidlech.
+
+Do tohoto rámce zapadá i komentář u/FateOfMuffins o „proto-AGI éře", v níž se po nástupu Astry a Opusu 5.5 už nedá sebevědomě říkat ani jasné ne, ani jasné ano. Navazuje na něj u/RabidHexley s postřehem, že zmizely tvrdé zlomy, kde model dřív viditelně opouštěl svůj funkční rozsah: dnešní špička prý má jen rozmazané okraje, kde se musí víc snažit, ale pořád se o úkol pokusí na vysokoškolské úrovni. Limitem tak podle něj začínají být spíš vstupy, nástroje a latence než samotná šíře inteligence.
+
+Kritičtější linka míří na samotnou Mollickovu definici. u/ForwardLoop ji považuje za užitečně měřitelnou, ale příliš úzkou, protože z „obecnosti" škrtá schopnost učit se nové věci a řešit nové problémy. Nabízí proto vlastní laťku od spolehlivosti v několikadenních autonomních projektech přes učení bez přetrénování až po pohyb ve fyzickém světě, kde podle něj demonstrace stále chybí. Tvrdší odmítnutí přidává u/_KoingWolf_, podle něhož AGI není pohyblivý terč a současné modely mu nejsou ani blízko, byť s dostatkem tokenů výrazně zrychlují lidskou práci.
+
+Mezitím si praktická část vlákna vystačila s úžasem: u/bpm6666 jen suše poznamenal, že těch 204 světů je šílených. Širší obrázek z diskuse tak odpovídá Mollickovi: Fable 5.2 působí jako expert, který unese obrovský kus digitální práce, ale pořád potřebuje člověka, aby poznal, kdy je výsledek zdlouhavý, repetitivní nebo bez radosti.

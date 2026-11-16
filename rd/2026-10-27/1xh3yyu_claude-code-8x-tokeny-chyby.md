@@ -1,0 +1,14 @@
+# 1xh3yyu
+**Claude Code spotřeboval 8x víc tokenů a chyby služby jdou z placených limitů**
+
+r/ClaudeAI · u/PreEchoDev · 27. října 2026, 21:34 · 1113 bodů / 203 komentářů · [diskuse](https://www.reddit.com/r/ClaudeAI/comments/1xh3yyu/)
+
+Vývojář s placeným tarifem Claude Pro si 27. října všiml, že mu pět hodinový limit v Claude Code mizí před očima, v jednu chvíli prý zmizelo deset procent limitu za tři minuty. Pomocí nástroje ccusage proto porovnal lokální statistiky za říjen: zatímco denní průměr dělal 161 milionů tokenů celkem a 303 tisíc výstupních tokenů, za tento den naměřil 1,306 miliardy tokenů a 7,97 milionu výstupních, tedy podle jeho součtu 8,1krát více tokenů celkem, což v přepočtu na API ceny odpovídá skoku ze 41,17 na 493,04 dolaru. Podpora mu podle jeho přepisu potvrdila dva vyřešené výpadky modelu Claude Sonnet 5.5, přiznala, že opakované pokusy po chybách se započítávají do limitů a nelze je vrátit ani kompenzovat, a označila verdikt za konečný.
+
+Vlákno se rychle zaplnilo lidmi, kterým se limit ten den vypařoval podobně. Nejvýše hodnocený komentář od u/thtanner hlásí, že s tarifem za 200 dolarů spotřeboval za den 70 procent, zatímco dřív to bývalo 10 až 15 procent, a čeká ho tak mnohem méně produktivní týden. U/tinybeads popisuje, že dvě otázky sežraly 2 procenta týdenního limitu na Pro účtu, asi 250 tisíc tokenů za čtyři minuty při pečlivě hlídaném kontextu. U/CataloniaFarms čekal na odpolední reset, pustil jedno review a sledoval, jak využití vyskočilo z nuly na 96 procent, u/Vivid-Advertising-65 zase tvrdí, že začínal den na 20 procentech limitu pouhým pozdravem „dobré ráno“.
+
+Nejhlasitější linka je o náhradě. U/MosskeepForest žádá plošný reset, protože spálil obrovskou část plánu na úkolu, který nepřišel nijak výjimečně těžký. U/akolomf poznamenává, že právě proto Anthropic občas rozdává resety nebo navyšuje limity. Do toho zaznívá černý humor, když u/Impactic_ navrhuje, aby všichni nasadili Opus na to, ať se s podpůrným botem donekonečna dohaduje a spamem si reset vymůže.
+
+Z druhé poloviny diskuse se stala debata o úmyslu. U/apocalypticpickle tvrdí, že předplatné pro jednotlivce je jen návnada se slevou, která má dostat nástroj do firem, a jakmile bude konkurence slabší, přejde se na drsné placení za token. U/Turnvalves a u/marco89nish to spojují s blížícím se vstupem na burzu, u/Mainfurr ironizuje, že manažeři jen „zapomněli“ upravit čísla u Claude Code a teď dohánějí ušlý zisk, a radí hlasovat peněženkou. Část lidí už hlasuje odchodem: u/The-Road píše, že po spálených 100 dolarech za 30 minut mezeru zalepuje Codexem, u/Stellarato11 chválí levné čínské modely a u/TheOnlyVibemaster doufá, že Anthropic převálcují lokální modely.
+
+Z příběhu tak zůstává praktická rada, kterou naznačil sám autor: kdo jede na limitech, vyplatí se vést si vlastní spotřebu a nenechat se ukolébat grafem v aplikaci.

@@ -1,0 +1,16 @@
+# 50085296
+**Nechal jsem AI týden řídit svůj startup**
+
+Hacker News · tinyprojects · 14. října 2026, 12:25 · 61 bodů / 63 komentářů · [diskuse](https://news.ycombinator.com/item?id=50085296)
+
+Sólo vývojář stojící za službou PromptBase se rozhodl na týden předat otěže firmě Grok Bot, tedy malému týmu agentů běžících na linuxovém serveru. Každý z nich má vlastní práci, od odpovídání na e-maily přes psaní kódu až po hlídání podezřelého provozu. Z experimentu sepsal nadšené postřehy o tom, co mu agenti umožnili a kde naráží na strop.
+
+Nejvíc ho nadchla chvíle, kdy boti společně bez jeho zásahu opravili zákaznickou chybu, a možnost řídit firmu z telefonu uprostřed pět hodin dlouhé túry ve Walesu. Založil si proto marketingového bota s cílem růst o dvě procenta týdně, který rozjel TikTok a kanál se Shorts na YouTube, a projektovému manažerovi dokonce přikázal, aby ve čtyři ráno sám vymyslel a nasadil jednu tajnou funkci. Jako brzdu ale přiznává zdlouhavé nastavení a zamykání dat u dodavatele, absenci zázračných nápadů na růst a nepříjemný pocit, že člověk postupně ztrácí přehled o vlastním byznysu.
+
+Právě ten pocit ztráty kontextu v diskusi silně rezonoval. adventure331 popisuje, že chatování s boty z mobilu nejdřív působí jako odemčení neomezené produktivity a dojmem, že za něj entity pracují čtyřiadvacet hodin denně, jenže po čase ho chatovací rozhraní začalo omezovat a od projektu se odpojil. amelius proto volí opačnou taktiku a nechává si od AI jen vytvářet knihovny, které pak sám importuje do vlastního kódu, aby zůstal v pozici řidiče.
+
+Velká část vlákna se stočila k otázce, jestli to jde i bez závislosti na jednom dodavateli. leoedin se ptá po samohostované variantě, protože by nerad stavěl kritický systém na službě, kterou mu třetí strana může ze dne na den vypnout. Odpovědi se jen hrnou: ctolsen provozuje Paseo na orchestraci kódu, beads na úkoly a OpenWebUI na byznysovou část s napojením na disk a CRM, vidarh zase pověsil agenty na vlastní Matrix server s přepínáním mezi modely od Anthropic, OpenAI, Kimi a dalších. Jako podobné alternativy padají jména OpenClaw a Hermes Agent.
+
+Řešila se i bezpečnost a peníze. matsemann se ptá, co brání komukoli poslat e-mail o smyšlené chybě a přimět agenty, aby mu třeba odemkli cizí účet, duttish to dokresluje smyšlenou výhrůžkou o plném disku záloh. s08148692 namítá, že dnešní modely základní podvrhy poznají a rozumný řetězec by měl mít několik obran od posouzení škodlivosti přes reprodukci chyby až po několikanásobnou revizi. Na rýpavou otázku rvze, kolik peněz to vydělá na utracené tokeny, odpovídá madaxe_again historkou o zhruba stopadesátinásobné návratnosti předplatného za dvě stě dolarů měsíčně díky nástrojům na ceny a plánování zakázek, úspoře na právnících při stěhování i přebírání nemovitostí. Odlehčení přinesla hádka, jestli je autor „startup o jednom člověku", nebo prostě živnostník, a poznámka, že příspěvek dlouhý asi 760 slov nemůže bolet ruku od psaní, na což jiní připomínají přiloženou fotku ručně psaného textu.
+
+Zkušenost tak nakonec nevyznívá jako návod k plné automatizaci, ale jako ochutnávka budoucnosti, kdy jednotlivec zvládne práci většího týmu, pokud si pohlídá přehled, bezpečnost a vlastní nápady.

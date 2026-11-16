@@ -1,0 +1,16 @@
+# 50041667
+**„Robot“ je společenský konstrukt: proč vaše myčka není robot**
+
+Hacker News · birdculture · 11. října 2026, 12:34 · 49 bodů / 60 komentářů · [diskuse](https://news.ycombinator.com/item?id=50041667)
+
+Na Hacker News se objevil odkaz na blog robotičky Mikell Taylor, která se v něm přetahuje s kolegyní Tinou. Ta předtím napsala, že myčka je robot, a Taylor jí odpovídá hned dvakrát: technicky i filozoficky. Obojí přitom bere s chutí pedantky, která kdysi strávila dva dny v komisi pro průmyslové bezpečnostní normy jen debatou o definici robota.
+
+Technicky podle ní myčka selhává, protože její trysky a dávkovače saponátu s předměty nemanipulují, jen spouštějí mechanismy – jde o automatizovaný, stále chytřejší systém, nikoli robota. Podstatnější je ale druhá linka: slovo robot nevzniklo v dílně, ale ve sci-fi, v Čapkově hře R.U.R. z roku 1920, dávno před prvním kupovatelným Unimate, a proto nepopisuje funkci, nýbrž pocit. Robotem nazýváme automat, který je nový, trochu děsivý a nutí nás sedět s nepříjemnými pravdami o sobě – o práci, vztazích či tom, co znamená být člověkem. I proto se nálepka stěhuje v čase, ačkoli všechny ty stroje plní ISO definici, kterou použila Tina: od průmyslových paží přes nadšení z Roomb na konferenci RoboBusiness kolem roku 2007 až po dnešní humanoidy, zatímco myčka nikoho k existenciálním otázkám nenutí.
+
+Diskuse jí v tom dává nečekaně za pravdu přes jazyky. vincnetas připomíná český původ z robota a polské cedule „pozor silniční roboty“, které si v hlavě překládá jako varování před roboty na silnici, mauvehaus dodává, že ve francouzštině jsou robotem běžně kuchyňský sekáček a hnětač, a AnonymousPlanet glosuje, že v Jižní Africe se robot říká obyčejnému semaforu. Každá společnost si tak slovo ohýbá po svém, což je přesně ten sociální konstrukt z titulku.
+
+Opačný konec debaty řeší, kam až lze technickou definici natáhnout. michaelt vzpomíná na profesora, podle něhož každá definice šitá na Roombu, samořídící auta a průmyslové paže nevyhnutelně zahrne i řízené střely, takže zabijáčtí roboti tu byli dřív než digitální počítače – a profesor to raději utnul rezignovaným „poznám ho, když ho vidím“. Jenže řada lidí s tím nemá problém: dauertewigkeit by mezi roboty počítal i střelu a CNC stroj a myčce upírá robota, protože není univerzální ani programovatelná, ostacke poznamenává, že švédská armáda střelám robot skutečně říká, a stymaar to dotahuje do pointy, že robotem je pak i protitanková mina.
+
+Třetí proud vlákna popisuje, proč nálepka bledne, jakmile si na stroj zvykneme. wavemode navrhuje robotickou verzi hlášky o umělé inteligenci: když to funguje, už to není robotika, bitwize to rozvádí jako volnou kategorii typu ovoce, kde je stroj robotičtější tím víc, čím víc připomíná člověka vzhledem nebo složitostí rozhodování, jako samořídící kamion. Do toho TacticalCoder hájí Roombu jako námezdní práci v původním smyslu slova – vysává, vytírá, hlásí a poslouchá příkazy – zatímco monitron pobavil historkou, jak v nastavení 3D tiskárny našel volbu „tříosý robot“ a zarazil se, zda je tiskárna bez senzorů kromě termistorů robotem, a bartvk všem pedantům doporučuje podcast Robot or Not, který sbírá právě takové hraniční případy.
+
+Zůstává tak otázka, zda se přeme o motory a senzory, nebo o vlastní nervozitu z nového stroje v kuchyni či na silnici.

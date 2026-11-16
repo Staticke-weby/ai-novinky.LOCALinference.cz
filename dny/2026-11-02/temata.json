@@ -1,0 +1,271 @@
+{
+ "date": "2026-11-02",
+ "clanky": 31,
+ "temata": [
+  {
+   "title": "Qwen slibuje open source i pro Qwen 4 a 5. Obavy z uzavření modelů odmítl",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xm28e6"
+   }
+  },
+  {
+   "title": "GPT-6 Astra umí číst a přepisovat váhy modelů. Malému Qwenu zvedl matematiku z 7,9 na 48,1 procenta",
+   "sources": [
+    "rd",
+    "hn"
+   ],
+   "ids": {
+    "rd": "1xm89o3",
+    "hn": "50341174"
+   }
+  },
+  {
+   "title": "Opus 5.5 přežil celý říjnový nával modelů. Uživatelé Claude Code ho pořád berou jako první volbu",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xlkghv"
+   }
+  },
+  {
+   "title": "Anthropic před IPO zveřejnil tržby 17 miliard za čtvrtletí a závazky 895 miliard dolarů",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50337439"
+   }
+  },
+  {
+   "title": "Anthropic utrácí za interní AI víc než za platy zaměstnanců, spočítáno v maloobchodních cenách",
+   "sources": [
+    "rd",
+    "hn"
+   ],
+   "ids": {
+    "rd": "1xm2sej",
+    "hn": "50339494"
+   }
+  },
+  {
+   "title": "Altman: AI už je chytřejší než naši nejchytřejší vědci a zvládne velkou část bílé límečkové práce",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xm44jm"
+   }
+  },
+  {
+   "title": "SEC by měla zablokovat IPO Anthropicu, píše Matt Scherer",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50344919"
+   }
+  },
+  {
+   "title": "Altman: první Millenium Prize problém vyřešilo 10 000 agentů budoucího GPT za čtyři dny",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xlyml4"
+   }
+  },
+  {
+   "title": "Oracle vydá akcie a dluhopisy za 20 miliard dolarů na financování AI infrastruktury",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50342284"
+   }
+  },
+  {
+   "title": "Rybářskou hru vyvíjel tři měsíce jen s AI. Demo je hotové a zdarma",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xlr3u8"
+   }
+  },
+  {
+   "title": "Čína zavádí první exportní kontroly frontier AI. Na seznamu je 23 technologií",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50334038"
+   }
+  },
+  {
+   "title": "Amazon ruší objednávky GPU a v některých případech zavírá účty. Narazil i Tim Sweeney",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xm8o8g"
+   }
+  },
+  {
+   "title": "OpenAI vydal system card pro GPT-Rosalind-6. Biologický model má méně odmítnutí, ale jen pro ověřené vědce",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50337503"
+   }
+  },
+  {
+   "title": "Momentic spustil QA agenty, kteří sami procházejí aplikaci a hledají chyby",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50339913"
+   }
+  },
+  {
+   "title": "ChatGPT ruší neomezený chat a slučuje Work s Chatem. Uživatelé hlásí ztrátu osobnosti i organizace",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xlq569"
+   }
+  },
+  {
+   "title": "AI agent operoval mozek myši. Vybral látku, oblast i souřadnice a vet měl kill switch",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50336138"
+   }
+  },
+  {
+   "title": "Stáhl si 120B model na herní PC. Běží 17,8 tokenu za sekundu a sežere skoro všechnu RAM",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xlra3n"
+   }
+  },
+  {
+   "title": "LongCat-2.5 od Meituanu sází na nativní multimodalitu pro agentní úlohy",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50337716"
+   }
+  },
+  {
+   "title": "Devět skutečných bugů: lokální kvantované modely dotahují Claude, ale myslí déle",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xlwpqv"
+   }
+  },
+  {
+   "title": "Otrávená předtréninková data dokážou do agenta vpravit zadní vrátka pro vzdálené spuštění kódu",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50341334"
+   }
+  },
+  {
+   "title": "Claude odmítl postavit proxy kvůli limitům. Uživatelé řeší, kde končí bezpečnost a začíná paternalismus",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xlz6m8"
+   }
+  },
+  {
+   "title": "Americký statistický úřad změnil otázku na AI. Podíl velkých firem vyskočil na 40 procent",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50336840"
+   }
+  },
+  {
+   "title": "Stovky agentů v Minecraftu měly postavit civilizaci. Padesátičlenná kolonie zkrachovala na byrokracii",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xm1wor"
+   }
+  },
+  {
+   "title": "Propouštění techničtí pracovníci zůstávají stranou sanfranciského AI boomu",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50337454"
+   }
+  },
+  {
+   "title": "Má smysl každý den číst rekordy v tok/s? LocalLLaMA řeší kvalitu benchmarků",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xljjf2"
+   }
+  },
+  {
+   "title": "Skill pro Claude Code vyrobí produktové video z reálného průchodu aplikací",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50340992"
+   }
+  },
+  {
+   "title": "Přehled lokální AI za říjen: 4B agent na telefonu, DNA v chatu a model pro jednu GPU",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xlwezy"
+   }
+  },
+  {
+   "title": "Subvocal staví brýle, které čtou tichou řeč přes radiofrekvenční odraz",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50340088"
+   }
+  },
+  {
+   "title": "Egoless Mathematics: matematika v éře AI nemá stát na osobním výkonu",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50341736"
+   }
+  }
+ ]
+}

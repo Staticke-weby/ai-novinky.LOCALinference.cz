@@ -1,0 +1,253 @@
+{
+ "date": "2026-11-03",
+ "clanky": 29,
+ "temata": [
+  {
+   "title": "Zvuk letadel ve videu prozradí polohu. Metoda stojí na Dopplerově jevu",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xmviu5"
+   }
+  },
+  {
+   "title": "OpenAI potichu znovu zapnul trénink na chatech Codexu",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50352757"
+   }
+  },
+  {
+   "title": "Xiaomi nasadilo humanoidy na osmihodinovou směnu. Třídí díly zhruba po jednom za minutu",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xn5g1f"
+   }
+  },
+  {
+   "title": "Výzkumníci Googlu chtějí svobodu mluvit o AI. Firma prý hrozí doživotním zákazem",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50355504"
+   }
+  },
+  {
+   "title": "Revolut zlevnil AI kódování desetkrát. Claude vystřídal vlastní GLM",
+   "sources": [
+    "rd",
+    "hn"
+   ],
+   "ids": {
+    "rd": "1xn568h",
+    "hn": "50350004"
+   }
+  },
+  {
+   "title": "Postman sám instaluje AI pluginy do Codexu a Claude Code",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50354960"
+   }
+  },
+  {
+   "title": "RTX 5090 se 64 nebo 96 GB? Opravář GPU tvrdí, že modifikace existují",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xmqq2a"
+   }
+  },
+  {
+   "title": "Google vypne školám vyhledávání, pokud zakážou AI. Search je prý s AI svázaný",
+   "sources": [
+    "rd",
+    "hn"
+   ],
+   "ids": {
+    "rd": "1xmxcxl",
+    "hn": "50353192"
+   }
+  },
+  {
+   "title": "Stejný prompt, 13 modelů Claude a 14 měsíců. Tak se měnil výstup",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xn6eli"
+   }
+  },
+  {
+   "title": "Stringman: lanový robot za 800 dolarů obslouží celou místnost",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50354358"
+   }
+  },
+  {
+   "title": "Který model lidé používají denně? Claude vyhrál u kódu, Gemini u Workspace",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xmgwm1"
+   }
+  },
+  {
+   "title": "Skrytý dluh technologických gigantů na AI vzrostl na 3,2 bilionu dolarů",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50358422"
+   }
+  },
+  {
+   "title": "Opus 5.5 a Blender: středověká scéna vznikla po malých úkolech, ne jedním promptem",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xmcwbt"
+   }
+  },
+  {
+   "title": "Malá kniha základů generativní AI: matematika bez balastu",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50358582"
+   }
+  },
+  {
+   "title": "Hororová úroveň v Godotu za čtyři dny. Solo vývojář nechal kód na Opus 5.5",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xmdih0"
+   }
+  },
+  {
+   "title": "Jak používat AI v říjnu 2026: 3000 dolarů měsíčně a vlastní pravidla",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50355767"
+   }
+  },
+  {
+   "title": "Octomind: open-source harness v Rustu, který hlídá sám sebe",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50352898"
+   }
+  },
+  {
+   "title": "Claude limity hoří rychleji. Max uživatelé hlásí 26 procent týdenního limitu za 12 hodin",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xmmmte"
+   }
+  },
+  {
+   "title": "Posttrainingová data nejsou commons. Kdo je bude vlastnit?",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50352641"
+   }
+  },
+  {
+   "title": "Celou ulici otexturoval lokálními modely. StableGen promítá Qwen Image 2.1 na geometrii",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xmg8au"
+   }
+  },
+  {
+   "title": "xAI postavila osm proudových motorů k mississippskému datacentru",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50354160"
+   }
+  },
+  {
+   "title": "Anthropic zakázal napodobovat konkrétní hry. Vývojáři se bojí, že přijdou i dema",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xn2iq3"
+   }
+  },
+  {
+   "title": "Co rozjede 32 GB RAM a 16 GB VRAM? Gemma 4, Qwen 3.8 a zapomenutý střední segment",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xn2jyz"
+   }
+  },
+  {
+   "title": "Quilicura na den AI: město bez vody upozorňuje na datacentra",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50353475"
+   }
+  },
+  {
+   "title": "Qwen 3.8 Flash-Next přes ADB přepsal launcher v autorádiu. Osm hodin práce za tři dny",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xn2q8a"
+   }
+  },
+  {
+   "title": "Kairos: open-source rozhodování o podvodech bez velkých anotovaných dat",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50358314"
+   }
+  },
+  {
+   "title": "Opus 5.5 na kód, Opus 4.6 na myšlení. Uživatelé brání starší model před zmizením",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xmcdri"
+   }
+  }
+ ]
+}

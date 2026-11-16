@@ -1,0 +1,16 @@
+# 1xwc3m7
+**Osm RTX 3090 v jedné bedně: rig za 600 liber za kartu a topení k tomu**
+
+r/LocalLLaMA · u/dazzou5ouh · 14. listopadu 2026, 21:13 · 239 bodů / 56 komentářů · [diskuse](https://www.reddit.com/r/LocalLLaMA/comments/1xwc3m7/)
+
+Autor doma poskládal sestavu s osmi kartami RTX 3090, všechny do jedné stejný model Gigabyte Gaming OC, protože jinak by mu to nedalo spát. Základem je deska ROMED8-2T, na níž většina karet běží na plném PCIe 4.0 x16, jen dvě krajní se dělí o jeden slot a jedou na x8. Karty nakoupil ještě do začátku roku 2026 v průměru za 600 až 700 liber za kus, limit spotřeby nastavil na 270 W a s upravenými ovladači naměřil propustnost mezi kartami 22 GB/s.
+
+Technicky je to celé lehce punkové i promyšlené zároveň. Procesor chladí vodou, protože radiátor se vejde nahoře a pod kartami by na vzduchový chladič nezbylo místo, grafiky visí na levných PCIe 4.0 riserech z AliExpressu a o napájení se dělí dva zdroje AX1600i a HX1500i. V klidu si mašina vezme 300 W, při kvantovaném Qwen Flash Next pod vLLM dává kolem 60 tokenů za sekundu na jednoho agenta a při deseti paralelních agentech agregovaně až 370 tokenů za sekundu.
+
+Nejvýše hodnocený komentář u/toolisthebestbandevr celou tuhle paměťovou bestii shrnul lakonicky, že se do ní vejde tolik přítelkyň s umělou inteligencí. Hned za ním se rozjela topenářská linka: u/munkiemagik vypráví, jak mu přestavba přízemí nechala dům bez plynu a teplé vody v sychravém britském podzimu, ale server s jazykovými modely v patře ho drží v teple, a už řeší jen to, jak si na něm bezpečně usmažit vejce k snídani. Do stejného tónu hraje i u/FullOf_Bad_Ideas, který má podobnou sestavu s osmi 3090 Ti a poslední týdny ji žene téměř nonstop na plný výkon při 450 W na kartu, účet za elektřinu mu vyskočil několikanásobně a byt se drží na 26 až 30 stupních, některé místnosti atakují 35.
+
+Rychlostní čísla část publika zarazila. u/dowjames se ptá, jestli je to jen 60 tokenů za sekundu, když on sám má přes 180 na dvou R9700, a u/Orchicon dodává, že na Halu s mobilem Strix čekal od osmi 3090 mnohem víc. Odpověď částečně nabízí u/hainesk, který odkazuje na svůj recept pro 3090 s vLLM a tvrdí, že s optimalizovanou šablonou chatu a opraveným P2P ovladačem dává přes 100 tokenů za sekundu na jeden požadavek už na čtyřech kartách. Praktické tipy přidává i u/Biomass23, jenž autorovi radí vyzkoušet různé tvary paralelismu ve vLLM, 27B model v BF16 s 256k kontextem, trénink vlastního modelu přes nanochat i monitoring přes Prometheus a Grafanu.
+
+Zbytek vlákna řeší peníze, hluk a to, že celá věž stojí na botníku. u/Redd411 se ptá na rovinu na návratnost a jestli se na jazykových modelech vůbec dá vydělat jako kdysi na těžbě, když je člověk ještě v mínusu za elektřinu. u/PlasticRevenue4601 kroutí hlavou nad téměř dvěma kilowatty za hodinu, u/magikfly chválí, že rig vypadá na tenhle sub až moc slušně, body ale dává právě za skříňku na boty, a u/Asleep_Document9811 to doráží hláškou, že ten botník je umění. Obavy budí levné 60cm risery: u/Admirable-Leg-4647 doufá, že případný průšvih bude aspoň nefatální, u/leom4862 pochybuje o stabilitě Gen4 na tak dlouhých kabelech a u/theUmo suše varuje, že autorovi chytnou záclony.
+
+Z osmi starších 3090 se tak vyklubala domácí příšera s obrovskou pamětí a propustností, která v zimě nahradí radiátor a v létě se stane důvodem k jeho pořízení.

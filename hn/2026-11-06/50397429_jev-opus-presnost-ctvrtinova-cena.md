@@ -1,0 +1,16 @@
+# 50397429
+**Jev + Opus: přesnost frontier modelu za čtvrtinu ceny**
+
+Hacker News · theanomaly · 6. listopadu 2026, 20:48 · 437 bodů / 98 komentářů · [diskuse](https://news.ycombinator.com/item?id=50397429)
+
+Společnost Hightouch nasadila rozhodovací modely Jev a Luna na kontrolu identity resolution, tedy na posuzování, zda sloučené záznamy opravdu patří jedné reálné osobě a nedošlo k chybnému přemergování. Nejzajímavější výsledek přineslo hybridní zapojení, kdy levný model případy předtřídí a nejisté kusy přepošle modelu Claude Opus: taková kombinace Jev + Opus dosahuje přesnosti frontier modelu za více než čtyřikrát nižší náklady.
+
+V samostatném nasazení se oba malé modely dostaly na 88,8–97,3 % přesnosti, přitom jsou až 90krát levnější a více než desetkrát rychlejší než frontier modely – stojí 0,05–0,10 dolaru za tisíc identit a odpoví zhruba za 0,15 sekundy. Na těžších benchmarcích ale za Opusem zaostávají zhruba o 6 procentních bodů. Rozhodující rozdíl je v kalibraci důvěry: Jev chybuje hlavně s nízkou jistotou, Luna naopak i s vysokou, a právě proto se Jev hodí lépe jako první filtr, který si řekne o druhý názor.
+
+První otázka v diskusi zněla, jestli to musí být zrovna Opus, a jestli by nestačil Sonnet nebo Haiku. Uživatel rickypp odpovídá, že klíčová je dobře kalibrovaná jistota levného modelu, drahý model pak musí být hlavně celkově přesnější. Na to navazuje uživatel ninininino s odkazem na nativní režim advisor v Claude Code, kdy slabší model automaticky volá silnější, když si neví rady, a uživatel pearcoder potvrzuje, že to s tímto vzorem dobře hraje. Uživatel couldaidothis připomíná, že podobné routování už delší dobu zkoušejí i OpenAI a Grok.
+
+Druhá linka vlákna jsou praktické zkušenosti s hybridem. Uživatel gbrindisi píše, že stejný postup používá v bezpečnostním inženýrství pro posuzování volání nástrojů a záměrů, uživatel morsch zase předělal opencode-warden tak, aby vstupy a výstupy nástrojů validoval lokální rozhodovací model, který běží i na staré GTX 1080. Uživatel dangoodmanUT doplňuje, že hodně pomáhá doladění rozhodovacího modelu a stačí nízký práh jistoty kolem deseti procent, který v jeho benchmarcích ušetří asi 70 % práce bez ztráty kvality. Uživatel Fordec v tom vidí budoucnost správy kontextu místo prostého souboru AGENTS.md, kdy kontext pro každou úlohu kurátoruje, zkracuje a aktualizuje právě levný model, na což uživatel yfontana namítá, že dynamický kontext sráží úspěšnost cache.
+
+Třetí proud je skeptičtější a veselejší. Uživatel Jaxkr rýpe, že GPT-6 Luna je malý jazykový model, ne rozhodovací model, na což uživatelé rowanseymour, ax0ar a paxy vysvětlují zmatek kolem Decisions API a nekonečných jmenných her OpenAI. Uživatelé intervolz a ant6n si utahují z formulace o čtyřikrát nižší ceně, uživatel yieldcrv glosuje, že většina lidí potřebuje jen příkaz if a najednou jsou experti na trénování s podmíněným modelem s nanosekundovou latencí. Uživatel boutell chválí paralelu se systémem jedna a dva z psychologie, kdy rychlá intuice ví, kdy počkat na pomalé přemýšlení, a uživatel asar kontruje únavou z titulků, které prý dokazují jen to, že něco funguje v pečlivě uzavřeném testu.
+
+Poučení vlákna je jednoduché: o ceně nerozhoduje jen přesnost malého modelu, ale to, zda pozná, že si není jistý.

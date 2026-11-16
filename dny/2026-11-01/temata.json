@@ -1,0 +1,271 @@
+{
+ "date": "2026-11-01",
+ "clanky": 31,
+ "temata": [
+  {
+   "title": "Únik modelu Mythos: 14 bilionů parametrů na Hugging Face, nebo pečlivý podvrh?",
+   "sources": [
+    "rd",
+    "hn"
+   ],
+   "ids": {
+    "rd": "1xl47f5",
+    "hn": "50326727"
+   }
+  },
+  {
+   "title": "Claude řídí robotické teleskopy: asteroidy, komety i mlhoviny bez zásahu člověka",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xkxsca"
+   }
+  },
+  {
+   "title": "AI cena JavaScriptových frameworků: benchmark místo dojmů",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50323088"
+   }
+  },
+  {
+   "title": "Heretic 2.0: z nástroje na odstranění cenzury je univerzální modifikátor modelů",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xl2tcm"
+   }
+  },
+  {
+   "title": "Brazilský soud potrestal advokáty za prompt injection v podání",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50322173"
+   }
+  },
+  {
+   "title": "DeepSeek zveřejnil prototyp Super-agenta, který si sám bere práci z GitHubu",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xkoi9g"
+   }
+  },
+  {
+   "title": "Apollo: AI firmám mimo technologický sektor nevydělává",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50330456"
+   }
+  },
+  {
+   "title": "Lokální Qwen 3.8 27B prolomil reCAPTCHA. Captcha už modely nezastaví",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xl3yxo"
+   }
+  },
+  {
+   "title": "„Všichni teď používají LLM na myšlení,“ píše výzkumnice",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50330253"
+   }
+  },
+  {
+   "title": "Gemini 4 Argon začal uprostřed anglické konverzace odpovídat čínsky",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xkym72"
+   }
+  },
+  {
+   "title": "OpenIDEA: IntelliJ IDEA přestavěná v Rustu, ale s TypeScriptem uvnitř",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50323848"
+   }
+  },
+  {
+   "title": "CRAP: model Gemma 4 píše rovnou x86 binárky a kompilátor přeskočí",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xl90rr"
+   }
+  },
+  {
+   "title": "Matematika se změnila. Frank Calegari vyzývá obor, ať se chová jinak",
+   "sources": [
+    "rd",
+    "hn"
+   ],
+   "ids": {
+    "rd": "1xlb3ys",
+    "hn": "50328251"
+   }
+  },
+  {
+   "title": "Hassabis: datacentra mají být krásná a brát ohled na své okolí",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xl9hrk"
+   }
+  },
+  {
+   "title": "OmniDiff: obsahově citlivý git diff v Rustu",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50325253"
+   }
+  },
+  {
+   "title": "Stavební inženýr: Claude je v oboru silný, ale mluvit o něm je tabu",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xlc0v6"
+   }
+  },
+  {
+   "title": "JEPA a Platónova hypotéza reprezentací: důkaz místo domněnky",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50325454"
+   }
+  },
+  {
+   "title": "Starý PC jako AI stroj: prodejce vydělal 1300 eur díky R9700 a Qwenu",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xl4ckr"
+   }
+  },
+  {
+   "title": "Pi je poslední harness. Autor sází na minimální a přenositelný engine",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50326025"
+   }
+  },
+  {
+   "title": "Richard Dawkins: AI přišla za mého života a s pomstou",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xl006d"
+   }
+  },
+  {
+   "title": "Seoul Viosys spustil výrobu bílých LED bez vzácných zemin",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50327058"
+   }
+  },
+  {
+   "title": "GLB-3D-Coder: malý 4B model tvoří 3D assety pro Godot",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xlh0zw"
+   }
+  },
+  {
+   "title": "RAMBO: tajemství z air-gap počítače unikají rádiovým zápisem z RAM",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50322022"
+   }
+  },
+  {
+   "title": "Claude Code odemkl běžecký pás: Netflix a Crunchyroll bez iFit předplatného",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xlg9nd"
+   }
+  },
+  {
+   "title": "Kwi: nový terminál pro KDE postavený na Ghostty a Vulkanu",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50324114"
+   }
+  },
+  {
+   "title": "AI bublina se neptá akcií, ale dluhopisového trhu",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50325107"
+   }
+  },
+  {
+   "title": "Čtyři Strix Halo boxy: domácí AI cluster s 512 GB RAM",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xknvog"
+   }
+  },
+  {
+   "title": "Ultracode už není jen na maximální effort. Jde zapnout i na low",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xks0kb"
+   }
+  },
+  {
+   "title": "Claude Code a Obsidian: second brain, který funguje i bez kódování",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xlby9y"
+   }
+  }
+ ]
+}

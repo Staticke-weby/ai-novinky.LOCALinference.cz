@@ -1,0 +1,14 @@
+# 50306442
+**NES emulátor běží ve vahách Qwenu, každý token je instrukce**
+
+Hacker News · dbreunig · 30. října 2026, 17:40 · 231 bodů / 118 komentářů · [diskuse](https://news.ycombinator.com/item?id=50306442)
+
+Projekt nesformer spouští procesor 6502 z konzole NES, jeho 2 KB pracovní paměti i ROMku s hrou uvnitř běžného checkpointu modelu Qwen3.5. Žádná váha se netrénovala, všechny spočítal kompilátor, který emulaci převedl na predikci tokenů. Model tak předpovídá záznam o běhu procesoru token po tokenu a malý hostitelský program kolem toho dokresluje obraz, čte ovladač a vyhazuje přerušení pro vykreslování. Jeden snímek trvá 1–6 sekund, takže 600 snímků vyjde asi na 25 minut, u přibalených testovacích her ale výstup přesně sedí s běžným emulátorem.
+
+Podle popisu na GitHubu stojí celý trik na stavu Gated DeltaNet: jeho matice fungují jako paměťové buňky, ve kterých leží registry, RAM i dvakrát uložených 32 KB programové ROM. Checkpoint má 466,6 milionu parametrů, z nichž je nenulových jen 9,3 milionu, takže se zazipuje na 3,3 MB, a výpočet je rozdělený do sedmi vrstev od čítače instrukcí přes načtení operačního kódu až po výsledný token. Umí jen desky NROM, tedy hry jako Super Mario Bros. či Donkey Kong, a host nikdy nevidí registry ani RAM jinak než skrze stopu tokenů.
+
+Nejhlasitější spor je o smysl celého kousku. WoodenChair se ptá, co je na tom zajímavého, když se digitální logika dá na váhy převést vždycky, a woah to přirovnává k procesoru napsanému v CSS animacích. Odpověď dává jacquesm, který tyhle hacky miluje, i když jeho mozek programující v assembleru děsí jejich neefektivita, a lucasoshiro to shrnuje prostě slovy, že je to zábava. WithinReason dodává, že to pomáhá proti stížnostem, že jazykové modely údajně neumí být deterministické, zatímco ansk oba projekty, nesformer i předchozí Qwenputer, odbývá jako technicky nezajímavý odpad.
+
+Technická část vlákna se točí kolem otázky mlmonkeyho, co je vlastně vstup a výstup modelu. Odpověď skládá cafebeen: uvnitř modelu běží procesor, ROM i RAM a po inicializaci už stačí jen události z ovladače, což mu přijde neuvěřitelné. Sám autor dbreunig k tomu přidává příjemný vedlejší efekt, že se skoro gigabajt vah smrskne na pár megabajtů, protože jsou většinou prázdné. Na pochybnost amelia, jak se pozná, že to funguje, odkazuje autor na testy v repozitáři, kde stopa z vah sedí s referenčním procesorem na tisících instrukcí nestestu i statisících pozic ze startu her.
+
+Třetí linka počítá cenu. pbohun připomíná, že emulátor běží 150–290krát pomaleji než skutečná konzole, a bere to jako ukázku propastného rozdílu ve výpočtech mezi jazykovými modely a obyčejnými programy. Někdo namítá, že stejně je na tom lidský mozek proti kalkulačce, ale jedbrooke vysvětluje rozdíl: tady nejde o naučenou aproximaci procesoru, ale o přesnou emulaci skoro na úrovni obvodů, postavenou architekturou transformeru. Právě proto je tak neefektivní – a právě proto je fascinující, že vůbec běží Mario.

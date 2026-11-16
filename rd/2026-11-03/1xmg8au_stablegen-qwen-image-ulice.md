@@ -1,0 +1,12 @@
+# 1xmg8au
+**Celou ulici otexturoval lokálními modely. StableGen promítá Qwen Image 2.1 na geometrii**
+
+r/StableDiffusion · u/sakalond · 3. listopadu 2026, 02:51 · 377 bodů / 24 komentářů · [diskuse](https://www.reddit.com/r/StableDiffusion/comments/1xmg8au/)
+
+Celou rohovou ulici v Blenderu otexturovaly jen lokální modely přes open-source addon StableGen. Auto, žena, lavička, lampa, hydrant, koš, bedny i keř jsou meshe z TRELLIS.2 postavené podle referenčních obrázků z Qwen Image 2.1, zatímco budovy, silnice a chodník tvoří jednoduché bloky. Samotné textury vygenerovalo Qwen Image 2.1 int8 z deseti kamer a promítlo je na všechny meshe najednou, přičemž každá kamera dostala prompt jen na objekty, které skutečně vidí, aby si nevymýšlela neexistující předměty. Žena se texturovala zvlášť vlastními kamerami, logo na fasádě vzniklo funkcí Masked Edit z referenčního obrázku a stejným způsobem autor opravil i problematická místa, celá scéna pak existuje ve fotorealistické verzi s PBR mapami z Marigold V2, cyberpunkové, anime a papercraft podobě zapečené pro render v Cycles.
+
+Největší ohlas sklidily právě ty proměny vzhledu. Papírovou verzi chválí u/loraproof jako nejlepší důkaz, že projekční workflow funguje, protože ploché stínování by na bednách a lavičce okamžitě prozradilo každý šev. U/ultimate_avacado si neodpustil, že čekal skutečnou vystřihovánku k vytištění a slepení, se záhyby a lepicími chlopněmi. Vedle toho se diskuse plní jen krátkými výkřiky úžasu typu „Jeeeeez" od u/MobileCA, u/gpubattle slibuje, že si to brzy osahá, a u/Hubbardia už plánuje, že by si takhle vyrobil pozadí pro panely Home Assistant.
+
+Zbytek vlákna se rychle stočil k technice. U/jarail se ptá, jestli jde o čisté barevné textury, nebo jestli addon umí i lesky a PBR, a u/loraproof zajímá, zda se těch deset pohledů míchá rovnou v prostoru textur, nebo se švy čistí až po zapečení. U/Acceptable_Home_ řeší, jestli StableGen zvládne i jiné modely jako Flux, Krea nebo Moss, u/More-Ad5919 se ptá, kde jsou hranice plně lokálního běhu, u/CameronSins na opakovatelné textury a u/No_iwontDraw na to, zda lze jako základ použít už existující textury na meshi.
+
+Nechybí ani skeptičtější hlas. U/Intelligent_Feed_417 přiznává, že ze StableGenu nikdy nedostal nic ani vzdáleně dobrého a modely si nakonec musel domalovat ručně, takže prosí o tutoriály. Pro něj i ostatní zvědavce je v popisu odkaz na GitHub a wiki s návodem. Výpočet jinak běžel na pronajatých cloudových RTX 3090/4090 a domácí RTX 4080 se 16 GB paměti a autor připomíná, že Qwen Image 2.1 má nekomerční licenci.

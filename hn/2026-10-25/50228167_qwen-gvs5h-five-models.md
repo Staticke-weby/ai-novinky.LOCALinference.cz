@@ -1,0 +1,16 @@
+# 50228167
+**Pět instancí Qwen3.8-27B dohnalo Claude Fable 5**
+
+Hacker News · rzk · 25. října 2026, 04:56 · 183 bodů / 73 komentářů · [diskuse](https://news.ycombinator.com/item?id=50228167)
+
+Na GitHubu se objevil projekt GVS5H, který slibuje špičkový kód bez špičkového modelu. Místo většího trénování vezme pět čerstvých instancí jednoho modelu Qwen3.8-27B a nechá je spolupracovat jako malý tým: manažer rozseká úlohu a dělníci s čistým kontextem se střídají přes společný adresář s plánem, poznámkami a aktuálním řešením.
+
+Autoři metodu popisují jako ledger-based zero-shot self-orchestraci bez ladění a testovali ji na jedenácti otevřených i uzavřených modelech na stovce nejtěžších úloh LiveCodeBench. Lokálně běžící Qwen3.8-27B se takto zvedl ze 66,8 % na 92,4 % pass@1, orchestrací řízený Qwen3.8 Flash Next dosáhl 93,0 % proti 90,4 % u Fable 5 za 9 % ceny, zisk prý dělá dekompozice a trvalý kontext a u některých modelů se naopak nedostavil vůbec.
+
+Právě ten benchmark vyvolal největší hádku. Uživatel vikramkr píše, že jde o přesycený test z počátku roku 2025 bez srovnání s novějšími verzemi soupeřů a bez testu skutečné agentské práce, navíc s téměř jistou kontaminací, protože sada obsahuje úlohy z května 2023 až dubna 2025. Přidávají se hirako2000 s otázkou, proč se neporovnává harness proti harnessu, sams99 s výtkou, že bench má dva režimy na jeden pokus a bez nástrojů, takže přidat delegování a pythonový náhled znamená porušit jeho pravidla, i hartator a zrg s podezřením na přeučení a honbu za skóre. Uživatel stymaar ale brzdí: i kdyby malý model porazil Fable 5 a nestačil na Fable 5.1, pořád by to byl neuvěřitelný výsledek.
+
+Druhá linka řeší, co stojí pět průchodů. Uživatel sail0rm00n chválí, že lokálně jde po jednorázovém nákupu hardware už jen o elektřinu, esafak se ptá, zda to ale netrvá desetkrát déle, a verdverm odpovídá, že je to otázka železa, a odkazuje na 1500 tokenů za sekundu u Cerebras pro Qwen3.8-27B. Praktiky pak nejvíc zaujal vedlejší výsledek s Qwen Flash Next: SwellJoe rozebírá, že hustý 27B model je na stroji se 128 GB pomalý, zatímco Flash se tam ve čtyřech bitech vejde pohodlně a připadá mu i o něco chytřejší, pro dvě 32GB grafiky s rychlou propustností by ale volil hustý model.
+
+Nejživější je nakonec vlákno lidí, kteří prý dělají totéž doma. Uživatel badsectoracula vypisuje pracovní adresář z článku s task.md, plan.md, notes.md a solution.py a diví se, zda je dělník vůbec nutný, protože s Qwen3.8-27B pracuje podobně přes PLAN.md, STATUS.md a GOTCHAS.md, kam model svádí své poznámky, aby neplevelil jinde. Verdverm souhlasí a mluví o markdown engineeringu ve vlastních agentech, Vaushite a 3836293648 se přou o to, kde končí instrukce a začíná harness, a BubbleRings se ptá, zda model snese přerušení uprostřed úkolu bez rozbité funkce. Když forgingahead shání offline řešení pro 24 GB VRAM, badsectoracula popisuje llama.cpp s kvantizací UD-Q4_K_XL na RX 7900 XTX s asi 50 tokeny za sekundu pro agentskou práci na pozadí, jiní doporučují vlastní skripty kolem llama-cli nebo OpenCode.
+
+Z diskuse tak zbývá ponaučení, které nesouvisí s tabulkou: organizace inference může malému otevřenému modelu hodně pomoci, ale zda jde o obecný recept, nebo jen chytrou optimalizaci pro jeden starý benchmark, ukážou až testy proti o harness vybaveným soupeřům.

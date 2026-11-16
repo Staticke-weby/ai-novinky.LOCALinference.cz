@@ -1,0 +1,18 @@
+# 50273623
+**Harvey vybral 500 milionů. Vývojář postavil právní AI jako open source**
+
+Hacker News · zztopisgreat · 28. října 2026, 14:56 · 69 bodů / 38 komentářů · [diskuse](https://news.ycombinator.com/item?id=50273623)
+
+V reakci na půlmiliardovou investici do právní umělé inteligence Harvey zveřejnil vývojář vlastní alternativu CaseCite jako open source. Slibuje, že zvládne totéž co placené platformy – výzkum, kontrolu smluv i přípravu návrhů – jen na infrastruktuře, kterou si firma řídí sama.
+
+Podle popisu na GitHubu se dokumenty, vyhledávací index i historie chatů ukládají pouze na vlastním nasazení a správcům projektu se neposílá vůbec nic, telemetrii projekt nemá. Funkce umělé inteligence posílají dotazy a příslušné úryvky textu poskytovatelům, které si provozovatel sám nastaví, pod jeho vlastními klíči. Uvnitř je devět nástrojů nad stejným korpusem: chat nad firemními dokumenty s citacemi ke zdroji, kontrola kontraktů s porovnáním dvou až čtyř smluv po klauzulích, tabulková revize stovek smluv, ukládání postupů do workflow se schvalovacím krokem i drafting opřený o vybrané podklady.
+
+Jádro sporu v diskusi je, zda taková napodobenina vůbec může Harvey ohrozit. Uživatel arctic-true tvrdí, že hodnota Harvey netkví v softwaru samotném – open-source „Harvey" jménem Mike prý vznikl už před měsíci a příjem Harvey ani jeho rivala Legora to nepoznamenalo. Rozhoduje infrastruktura, pomoc se zavedením do pracovních postupů a možnost protistranám vzkázat, že firma používá důvěryhodného poskytovatele. DetroitThrow k tomu dodává, že velké kanceláře mají vlastní softwarové týmy a stejně si Harvey kupují kvůli externím integracím a nastavení chování těchto integrací.
+
+Živě se řeší i samotné označení open source. throwup238 upozorňuje, že projekt se popisuje jako „source-available", což prý není totéž co open source, a graemep vytahuje klauzuli o zákazu hýbat s licenčními klíči. Vzápětí ale gexla nachází čerstvý commit s přelicencováním pod Apache License 2.0 starý sedm minut. piterrro si rýpne, že repozitář má 27 commitů, což je na odvážné tvrzení, že autor „postavil totéž", docela málo, a ptá se, jak má uživatel věřit, že je to skutečně totéž.
+
+Praktický pohled přináší jkasevits, který má za sebou deset let jako advokát ve sporech a přes deset let jako vývojář. Hledání v zákonech a judikatuře podle něj není to, kde právníci AI nejvíc potřebují – zkušený specialista právo zná, ale ocení agenta, který v materiálech sporu odhalí rozpory mezi současnou argumentací protistrany a jejím tvrzením před čtyřmi lety nebo nesoulad mezi jejími důkazy a argumenty na nich postavenými. Právě na dohledatelnost sází i CaseCite: každá hodnota v tabulce má citaci s odkazem na přesnou pasáž, recenzent může buňku přepsat, schválit či označit poznámkou a nový běh jeho rozhodnutí nikdy nesmaže.
+
+Podnikatelská logika Harvey se v debatě nakonec ukazuje jako otázka rizika, ne modelu. jackschultz vypráví o velké kanceláři, která za Harvey platí majlant, ačkoli jde v jádru o obalené modely s pojistkami podobnými těm v tomto repozitáři. lp92 odpovídá, že kanceláře platí proto, že zakladatelé jsou bývalí právníci a firmy jim věří – jde o řízení rizika a odpovědnosti stejně jako u bezpečnostních dodavatelů, kde si firma nekutí vlastní řešení. Podobně to vidí freejazz: Harvey je vyladěný pro právníky a jeho hlavní přínos je, že si vedení může říct, že používá předního poskytovatele, včetně personálu, který naučí starší kolegy s nástrojem pracovat.
+
+Čtenář si tak odnese méně příběh o kódu a více o trhu: otevřená alternativa může být technicky přesvědčivá, ale v právu se kupuje jistota, integrace a razítko důvěry.

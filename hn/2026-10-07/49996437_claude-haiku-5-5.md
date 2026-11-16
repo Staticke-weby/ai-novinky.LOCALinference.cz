@@ -1,0 +1,16 @@
+# 49996437
+**Claude Haiku 5.5: nejlevnější a nejrychlejší malý model Anthropicu**
+
+Hacker News · sfkgtbor · 7. října 2026, 20:01 · 769 bodů / 380 komentářů · [diskuse](https://news.ycombinator.com/item?id=49996437)
+
+Anthropic představil Claude Haiku 5.5 jako dosud nejlevnější, nejrychlejší a nejschopnější malý model pro objemné a cenově citlivé úlohy. Má spolehlivě zvládat rychlou repetitivní práci od shrnutí a komprimací přes dotazy do databází až po klasifikaci a po boku Opus 5.5 a Sonnet 5.5 fungovat jako subagent při kódování. Podle firmy je provoz v průměru o zhruba 75 % levnější než u Haiku 4.5.
+
+Odkazované oznámení dokládá výkon srovnáním s Haiku 4.5, GPT-6 Luna a Sonnet 5.5 v testech od OSWorld přes GDPval-AA a Humanity’s Last Exam až po Terminal-Bench a FrontierCode. Haiku 5.5 je prvním modelem třídy Haiku s nastavitelným úsilím, takže si uživatel volí mezi cenou a inteligencí. Zároveň firma zlevnila na polovinu čtení z cache u Sonnet 5.5, což má většinu agentní práce zlevnit asi o 20 %, a předplatitelům Max a Team přidala měsíční kredit na API pro stavbu nových agentů.
+
+Nejživější debatu rozvířil ceník, který rozepsal uživatel minimaxir: 0,10 dolaru za milion vstupních a 0,50 dolaru za milion výstupních tokenů do 100 000 tokenů, nad touto hranicí 0,50, respektive 2,50 dolaru. Hranici označil za absurdně nízkou a platnou jen pro Haiku, takže ji agentní nasazení rychle překročí, zatímco pro běžné generování nebo klasifikátory ve stylu Jev jde o dobrou hodnotu. I po zdražení nad limitem je to podle něj stále výrazně levnější než dolar a pět dolarů u Haiku 4.5 a vyrovná se to GPT-6 Luna za 0,10 a 0,50 dolaru, jejíž hranice je ale podle doplnění uživatelů na 272 tisících tokenech.
+
+Proti výtce o nízkém stropu se postavil uživatel enraged_camel citací z oznámení, že u Haiku 4.5 spadalo 90 % požadavků do nižší kategorie. Uživatel alexchamberlain připomněl, že jako subagent na rešerše nebo shrnutí není 100 tisíc málo, uživatel mnicky dodal, že orchestrátor ze Sonnetu či Opusu může velkou část dílčích úkolů do tohoto rozpočtu vejít. Uživatel jeremyjh to řekl nejtvrději: kdo nic nenaprogramuje se 100 tisíci kontextu, má rozbitý model, postroj, nebo problém ve vlastních dovednostech, sám prý Lunu denně používá jako průzkumníka a pokud bude Haiku o tolik lepší, rád přejde.
+
+Zbytek vlákna řeší ekonomiku drobných úloh. Uživatel dannyw tvrdí, že Haiku 5.5 je znatelně chytřejší než Luna a právě efemérní práce jako sumarizace, komprimace nebo RAG pomocníci se často vejdou pod 100 tisíc, v některých implementačních testech prý poráží i Sonnet 5. Uživatel HarHarVeryFunny si všiml, že zmínka o klasifikaci a cena 0,10 dolaru míří přímo proti Jev za 0,04 dolaru, uživatel Tiberium zase upozornil na odlišnou efektivitu tokenizéru, takže 100 tisíc u Claude odpovídá jen asi 60 až 65 tisícům u GPT. Stranou zůstala filozofičtější linka o obdobě Moorova zákona: uživatel istjohn citoval Epoch AI, podle níž cena za daný výkon klesá od roku 2023 asi o 47 % za čtvrtletí, tedy třináctkrát ročně.
+
+Pro čtenáře z toho plyne jednoduché ponaučení: pod hranicí 100 tisíc tokenů jde o mimořádně levného rychlíka na rutinu a subagenty, nad ní je potřeba počítat s pětinásobkem.

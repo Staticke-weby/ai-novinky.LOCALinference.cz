@@ -1,0 +1,14 @@
+# 1x5pjv7
+**Čínské open-weight modely zaostávají za americkými uzavřenými jen o 7 měsíců**
+
+r/LocalLLaMA · u/jakecoolguy · 14. října 2026, 14:10 · 406 bodů / 205 komentářů · [diskuse](https://www.reddit.com/r/LocalLLaMA/comments/1x5pjv7/)
+
+Autor na r/LocalLLaMA vystavil animovaný graf z vlastního otevřeného žebříčku whatmodel.sh, který včera v komunitě spustil. Základem je 22 113 publikovaných výsledků napříč 987 benchmarky od 1 011 zdrojů, samotný závod textových modelů pak stojí na 18 755 výsledcích pro 1 211 modelů na 617 benchmarcích. Animace podle něj ukazuje, jak se čínské open-weight modely dotáhly na americké uzavřené systémy na odstup kolem sedmi měsíců.
+
+Největší rozruch vzbudila samotná metodika. u/cgs019283 označil za vtip, že Gemma 2 SimPO překonává GPT-4 Turbo, a u/qfox337 přidal, že nikdo při zdravém rozumu nevěří, že Gemma2 9B byla před GPT-4o. u/stereohype upozornil, že nejnovější modely v grafu chybí, Astra je tam ale ano, a odhadl reálnou mezeru spíš na dva až tři měsíce. K tomu se přidala obecnější nedůvěra k bodování jako takovému: u/UsernamesExhausted pochybuje, že vůbec existuje univerzální algoritmus skórování, když se testovací sady vyvíjejí spolu s modely a ty se učí je obcházet, a u/a_beautiful_rhind se ptá, co vlastně náskok znamená, když jde jen o naháněná čísla v benchmarcích.
+
+Druhá linka debaty řeší, jestli na vítězství v žebříčku vůbec záleží. u/BerryBlush_Rogers691 tvrdí, že uzavřené laboratoře mohou dál vyhrávat benchmarky, a přesto mít cenový problém, protože jakmile otevřený model spolehlivě zvládne stejnou měsíční hromadu faktur levněji, těžko se obhajuje příplatek. u/bugra_sa by raději vzal o něco starší model, který si může zmrazit, než chytřejší API, nad kterým nemá kontrolu, protože když poskytovatel v pátek změní formát odpovědi, funkční automatizace se může v sobotu rozbít. Nejvýše hodnocený komentář od u/Macestudios32 to shrnul do věty, že i kdyby to byly dva roky, je lepší něco zastaralého vlastnit než si něco nového pronajímat.
+
+Třetí proud míří k budoucnosti a k čínskému kontextu. u/Present_Resource4022 čeká, že graf se do měsíce změní s příchodem GLM 5.4, DeepSeek V4.1 Pro a Qwen, a u/beached89 už netrpělivě vyhlíží Qwen 4, který má sedmiměsíční mezeru konečně stáhnout. u/HE_6PEBHO přidává výhradu k hardwaru: Čína od roku 2020 přechází na vlastní čipy a její modely běží na horším železe, takže mezera je podle něj spíš daná hardwarem a nutí k důkladnější optimalizaci. Skeptičtější je u/Gjuesev, pro něhož je sedm měsíců v tomhle tempu věčnost a zajímavější je, kde se mezera nezmenšuje: ve spolehlivosti používání nástrojů a kalibraci, ne v syrovém skóre.
+
+Z diskuse tak zůstává obraz těsného závodu, kde číslo v grafu vyvolává spíš otázky, k čemu vlastně náskok je, když otevřené váhy vyhrávají cenou a jistotou, že se model přes noc nezmění pod rukama.

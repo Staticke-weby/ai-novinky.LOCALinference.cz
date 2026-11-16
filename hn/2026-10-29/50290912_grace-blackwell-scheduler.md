@@ -1,0 +1,16 @@
+# 50290912
+**Grace Blackwell potřebuje nový scheduler. Rack locality přinese 27 % GPU**
+
+Hacker News · wondersky · 29. října 2026, 16:45 · 135 bodů / 21 komentářů · [diskuse](https://news.ycombinator.com/item?id=50290912)
+
+Systémy Nvidia NVL72 propojují všech 72 GPU v racku jednotnou NVLink fabric, takže komunikace překračuje hranice uzlů s řádově vyšší propustností než dřív. Jakmile se ale víceuzlová úloha rozprostře mezi racky, spadne zpět na InfiniBand a výkon se propadne až o 43 procent. Udržet přitom úlohy uvnitř jednoho racku komplikují výpadky uzlů i to, že různé úlohy končí v různý čas a volná kapacita se rozprskne po clusteru.
+
+Blog SkyPilot na to odpovídá trojicí topology-aware umístění, obnova na místě a defragmentace clusteru. Úlohy se dělí do 16uzlových řezů umisťovaných atomicky na jeden rack, vadný uzel se za běhu vymění za jeden ze dvou záložních ve stejném racku a roztříštěné racky se uvolňují přesunem přerušitelných úloh. Při dvouprocentní nedostupnosti uzlů mají takové řezy dávat o 27 procent více použitelných GPU než plné 18uzlové racky, u tréninku modelu GR00T N1.7 na 512 GPU pak rackově uvědomělé umístění zvedlo propustnost o 14,4 procenta.
+
+Nejhlasitější linka diskuse ale tvrdí, že v textu žádný nový scheduler není. Uživatel jhgg píše, že článek dlouze vysvětluje nutnost gang schedulingu, která je každému uživateli NVL72 zřejmá, a právě o tom, jak jejich plánovač funguje, mlčí. Přidává se uživatel ismailmaj s pocitem, že text působí jako generovaný umělou inteligencí a po dlouhém úvodu odbude vlastní scheduler dvěma odstavci mlžení, a uživatel novalite to označuje za klamavé a prázdné lákání na SkyPilot, protože gang scheduling a rack-aware plánování zná HTCondor i každé větší GPU nasazení.
+
+Do stejného rohu se opírá uživatel timzaman otázkou, komu tohle po letech práce s topologií v HPC plánovačích ještě není jasné, a uživatel hinkley varuje před nadšením ze starých technik, které budí dojem zaspání za ostatními. Zároveň ale otevírá věcnou námitku, že držet 11 procent drahého hardwaru v rezervě na poruchy je velkorysé, a navrhuje sdílet zálohy mezi úlohami po vzoru sedmi generátorů pro čtyři zóny datacentra, případně nechat na záložních uzlech běžet úlohy s nízkou prioritou a při poruše je vyhodit.
+
+Obranu drží v diskusi uživatel zhwu, který vysvětluje, že cílem bylo představit problém poruchovosti NVL72 těm, kdo nejsou uvnitř xAI, a slibuje další texty o stavbě plánovače. Zkráceně jde podle něj o dekompozici úloh do 16uzlových řezů umístěných atomicky na jeden rack se dvěma náhradníky pro horkou výměnu. Na výtku o předchozí práci odpovídá, že platforma stojí na projektu Kueue ze SIG Batch, jehož topology-aware plánování ale neumí elastické úlohy, což právě znemožňuje horkou výměnu u velkých úloh. Vedle toho uživatel jhgg láká na další iteraci vlastního plánovače pro řádově miliony GPU s cyklem v milisekundách, na což se uživatel covi ptá, zda míří i na drobné elastické sandboxy, a uživatel zan2215 celou debatu odlehčuje poznámkou k úvodní větě o nestejných propojích, že autor bude asi fanoušek Rudé úsvitu.
+
+Z vlákna tak zůstává ponaučení, že samotný rychlý hardware nestačí a rozhoduje, zda úloha skutečně zůstane na NVLink.

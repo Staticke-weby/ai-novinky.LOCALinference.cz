@@ -1,0 +1,14 @@
+# 1x6qczp
+**GPT-6.1 Sol a matematické články: 6 % závažných chyb**
+
+r/singularity · u/141_1337 · 15. října 2026, 18:29 · 522 bodů / 58 komentářů · [diskuse](https://www.reddit.com/r/singularity/comments/1x6qczp/)
+
+Uživatel u/141_1337 nasdílel graf se závěry testu modelu GPT-6.1 Sol, který prošel téměř osm stovek matematických článků a v šesti procentech z nich našel závažnou chybu, v dalších zhruba třiceti procentech drobnosti. Autoři projektu na stránce MathArena odhadují, že kolem devadesáti procent závažných nálezů je správných, a u novějších prací míra závažných chyb klesla na 1,5 procenta, protože vědci si texty s umělou inteligencí sami předem kontrolují. Odkazy na podrobné výsledky doplnil autor do komentářů.
+
+Nejživější výhrada míří na to, co se vlastně měřilo. U/Froggmann5 upozorňuje, že titulek je zavádějící, protože šlo o práce poslané na arXiv, tedy o preprinty před recenzním řízením, které má chyby teprve vychytat. Podobně u/Sure-Principle5511 se ptá, jak by dopadly respektované časopisy místo „nástěnky, kam může publikovat kdokoli", a u/TwoMoons1Sun dodává, že šest procent je na preprintový server bez recenzí spíš málo, zároveň ho ale zajímá, jak se těch osm set článků vybíralo z tisíců nahraných ročně. Proti panice kolem čísla stojí u/SwimmerOld6155, podle kterého se o chybách v pracích často ví jen z doslechu a napsat desítky stran zcela bez chyby je nesmírně těžké, rozhodující je jen to, zda chyba „nezabije" celý článek.
+
+Druhá linka debaty řeší, zda výsledek není tak trochu kruh. U/Ffball píše, že práce kontrolované umělou inteligencí mají logicky méně chyb, které by pak inteligence zpětně našla, což by platilo pro každého recenzenta. Ještě kousavěji to shrnuje u/Organic_Rip2483 poznámkou, že umělá inteligence neodhaluje chyby v článcích, z nichž umělá inteligence chyby už odstranila. Naopak u/Bolu_Cod1106 v poklesu chybovosti u novějších textů vidí dobrou zprávu a dává smysl mu, že vědci si práci s modely dvakrát kontrolují.
+
+Zbytek vlákna balancuje mezi škodolibostí a nadšením z nového recenzenta. Nejvýše hodnocený vtip patří u/ComplexPassage7447, který je rád, že inteligence pilně opravuje „lidský odpad", na což navazuje u/Xaoaky i parodie u/Iapetus_Industrial na řeči o tom, že právě chyby dávají textům lidskou duši. Osobní zkušenost přidal u/Original-League-6094, jemuž model Astra „rozcupoval" pět publikací z teoretické fyziky z dob postgraduálního studia. Věcnější hlasy pak volají po člověku v procesu – u/Food_fatherr připomíná, že desetiprocentní míra falešných poplachů u závažných chyb ho stále vyžaduje – a po rozšíření jinam, třeba u/Godsenfrik na biologické práce s bioinformatickými analýzami.
+
+V souhrnu tak diskuse čte test spíš jako ukázku nového zvyku než jako obžalobu matematiky: preprinty chyby mívají, modely je stále častěji pomáhají chytat předem a otázkou zůstává, jak obstojí recenzované časopisy.

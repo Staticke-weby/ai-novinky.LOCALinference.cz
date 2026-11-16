@@ -1,0 +1,16 @@
+# 1xpshux
+**„Lidé kolem mě dělají, jako by AI neexistovala,“ píše uživatel Claude**
+
+r/ClaudeAI · u/Appropriate-Tie-6524 · 7. listopadu 2026, 01:16 · 427 bodů / 261 komentářů · [diskuse](https://www.reddit.com/r/ClaudeAI/comments/1xpshux/)
+
+Autor příspěvku tráví v Claude hodiny denně a tvrdí, že s ním dnes zvládne i práci, na kterou by dřív potřeboval odborníka. Každý trouba podle něj může být aspoň chabým datovým vědcem, což je pořád obrovský skok. Svět kolem sebe ale vnímá tak, že tenhle nástroj skoro neexistuje, maximálně jako rychlejší cestu ke sportovním výsledkům, a svůj pocit přirovnává k filmu Don't Look Up.
+
+Nejvíc se v diskusi chytla vysvětlení, že většina lidí zná jen bezplatné verze ChatGPT a Claude, a nikdy tak nezažila, co umí silnější model s vyšším usuzováním. u/TodayLoose7794 k tomu dodává, že ani část platících uživatelů netuší, k čemu nástroj doopravdy je, nebo novinky prostě nesleduje. Podobnou linku drží u/EightFolding, podle kterého odpůrci soudí podle nejlínějších ukázek v kanálech – hrozných obrázků a textů – a šikovnější použití vůbec neviděli.
+
+Druhá velká debata je o tom, kdo AI odmítá. u/synexo píše, že většina lidí, se kterými v technologické branži pracuje, schopnosti modelů už přijímá, jen si neodpustí poznámku, že je to užitečné, ale ne doopravdy inteligentní, takže označení AI je zavádějící. Širší veřejnost a velká část Redditu podle něj naopak věří, že jde o neužitečnou kaši, která se vždycky plete, a historky o tom, co umí, jsou lži a nafouknutá bublina. u/SeasawPhilosopher to rozděluje na povahy: část lidí prostě nejsou stavitelé a i nejsnazší nástroj použijí jen na dotaz, jaké kalhoty si vzít na rande, zatímco druzí si na určitém způsobu stavění postavili ego a musí dokazovat, že AI produkuje jen odpad, protože přiznání opaku by zničilo jejich hodnotu.
+
+Starší hlas do toho vnesl historickou paralelu. u/robotlasagna vzpomíná, že stejné to bylo s osobními počítači v osmdesátých letech, kdy je lidé brali jako zajímavost na hraní vedle Atari, a nedokázali si představit, co udělá počítač plus programování plus dvacet let. Totéž prý platilo pro internet, kdy dnes zní nepochopitelně, že člověk kvůli sporu o fakt musel do knihovny a objednávat knihu z jiné pobočky, místo aby to vygooglil. Kdo šel tehdy brzy do počítačů a internetu, má se dnes velmi dobře, a on sází na to, že sázka na nové nástroje se mu vrátí podobně.
+
+Nechybí ale ani střízlivění. u/Borderline769 popisuje ukázku pro nováčky, kdy Claude z tabulky spotřeby vody sebevědomě postavil modely a logické závěry, až hlubší dotazy odhalily, že přehlédl zjevnou chybu v datech a sezónní výkyvy o stovky procent vznikly z měsíců nulové a pak směšně malé spotřeby. u/SilentMode-On proto píše, že většinu práce dnes tráví opravováním výstupů drahých modelů a hlídáním chyb. Podobně u/myfatherthedonkey namítá, že kdo si s Claude sedne a dotáhne to k dobrému výsledku, ten by se před deseti lety stal juniorním datovým vědcem přes Google, bariéra je nižší, ale trpělivost a cit pro zadání jsou pořád potřeba.
+
+Z vlákna tak nakonec čiší hlavně náskok těch, kteří nástroj vzali vážně dřív než ostatní a teď si podle vlastních slov užívají nejproduktivnější období, zatímco zbytek světa změnu teprve vstřebává.

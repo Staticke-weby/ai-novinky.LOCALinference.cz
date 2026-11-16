@@ -1,0 +1,16 @@
+# 50177916
+**eMudhra a klíče CA, které byly jen číslo 4**
+
+Hacker News · hkc · 21. 10. 2026, 11:08 · 869 bodů / 415 komentářů · [diskuse](https://news.ycombinator.com/item?id=50177916)
+
+V sobotu 17. října nahlásil výzkumník Applu, Googlu, Microsoftu, Mozille a eMudhře, že je kompromitováno osm intermediate certifikátů této autority. Chrome je ještě večer zablokoval přes CRLSet a Mozilla o pár hodin později přes OneCRL, v úterý 20. října pak Mozilla věc zveřejnila a vydala aktualizaci NSS odebírající kořen eMudhra. Šlo o šest vydávajících TLS autorit a dvě autority pro podpis kódu z dubna 2025, které byly v květnu 2025 ještě cross-signované kořenem AAA Certificate Services od Sectiga a jejichž odstranění chystá i Chrome Root Store v43.
+
+Odkazovaný text Scotta Helma vysvětluje, že u eliptické křivky P-384 je soukromý klíč jen číslo d a veřejný klíč výpočet d krát G, takže bezpečnost stojí na tom, že d je náhodné 384bitové číslo s asi 10 na 115 možností. Tady tvořilo klíč 47 bytů nul a jediný byte, takže k prolomení stačilo na běžném notebooku spočítat nejvýš 255 násobků bodu G a všechny klíče padly za méně než sekundu. Autor takto z veřejných certifikátů obnovil hodnoty 156, 230, 115, 56, 155, 4, 66 a 237, přičemž vadný klíč byl na pohled platným bodem křivky a odhalil by ho jen pokus o prolomení.
+
+Vlákno se nejrychleji chytlo čísla 4. Uživatel bombcar hlásí, že 4 přece není ani prvočíslo, DavidSJ ho brání, že šlo asi o překlep při míření na Mersennovo prvočíslo 2 na druhou minus 1, a walrus01 poznamenává, že je to stejná kombinace, jakou má na kufru. K tomu se přidávají odkazy na xkcd 221 od uživatelů delibes a Zeetah, rýpnutí uživatele chompychop, že měli raději zvolit 57, a připomínka uživatele wolfi1 s dovětkem uživatele ohuf, že u eliptických křivek prvočísla nehrají roli, protože tohle není RSA.
+
+Z vtipů se rychle přechází ke spekulacím, jak se to mohlo stát. Uživatel Qision nadhazuje, že si klíče někdo vybral ručně, na což uživatel PalmPilotProMax odpovídá řemeslnou kryptografií s ručně sbíranými klíči a organicky získanými noncemi. Uživatel muvlon rozehrává dvě hypotézy o omylem použitém pořadovém čísle a o zkrácení klíče na 8 bitů špatným kopírováním do vynulovaného bufferu, přičemž Monte Carlo simulací dochází k tomu, že dvě po sobě jdoucí čísla by náhodným ořezem vznikla jen asi v 18 % případů. Uživatel Fabricio20 naproti tomu tipuje nepochopení zadání ve stylu náhodného čísla mezi 1 a 384 a uživatel dlcarrier se diví, že autority tak nízké klíče automaticky neodmítnou, když v pokusu o co nejméně bezpečnou stránku narazil autor videa Suckerpinch na stejné omezení.
+
+Zbytek diskuse řeší vinu a nápravu. Uživatel MiroslavPokorny to označuje za lenost opsat víc než jedno 4, uživatel positive-spite za zločinnou nedbalost a uživatel unsupp0rted si klade otázku, zda za tím nebyl úmysl nechat otevřená zadní vrátka k podvodům. Uživatel jlmorton poznamenává, že mít asi sto důvěryhodných autorit bylo zpětně možná přehnané, uživatel tclancy dodává, že chyběla malá zkouška kompetence, a uživatel pwfisher posílá stránku k otestování prohlížeče a aktualizaci systémových certifikátů.
+
+Osm bitů tak sedmnáct měsíců dělilo obrovské množství softwaru mimo prohlížeče od padělaného certifikátu na libovolnou stránku.

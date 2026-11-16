@@ -1,0 +1,16 @@
+# 50293047
+**Čínská špionka a Jensen Huang: Nvidia řeší bezpečnostní aféru**
+
+Hacker News · mgh2 · 29. října 2026, 18:43 · 310 bodů / 217 komentářů · [diskuse](https://news.ycombinator.com/item?id=50293047)
+
+Šéf Nvidie Jensen Huang si podle New York Times vypěstoval blízký vztah s čínskou podnikatelkou Alicí Huang, známou také jako Huang Le. Žena je vysokou manažerkou singapurského cloudu Megaspeed, který prodává výpočetní výkon pro umělou inteligenci čínským firmám včetně Alibaby. Americké zpravodajské služby ji při tajném sledování vyhodnotily jako člověka, který předává informace Pekingu, a mezi jejími kontakty zachytily právě Huanga. Zpráva zároveň nepřinesla žádný důkaz, že by o její údajné špionážní roli věděl.
+
+Odkazovaný článek popisuje Megaspeed jako prostředníka, který nakupuje čipy Nvidie přes americkou pobočku čínského výrobce serverů Inspur a výkon pronajímá z datacenter v jihovýchodní Asii. Americké úřady firmu vyšetřují kvůli podezření, že tak pomáhá obcházet exportní omezení na pokročilé čipy. Prezident Trump byl o zjištěních zpravodajců informován zhruba před rokem, ale rozhodl se nezasahovat, aby nenarušil prodej čipů a obchodní vztahy s Čínou. Nvidia se brání, že schůzky s Alicí Huang byly běžnou prací šéfa s jedním z tisíců zákazníků, že regionální cloudy dostávají jen běžné obchodní informace a že obvinění z přesměrování technologií už loni prošetřila a vyvrátila.
+
+V diskusi převládá skepse k váze celé kauzy. Uživatel pr337h4m ji označuje za nicneříkající historku o běžném obchodním družebnictví a slovní spojení blízký vztah považuje za vyloženě vyhýbavou formulaci. Podobně uživatel tehjoker píše, že šéf firmy prostě mluví se zákazníky a lobbuje u politiků, a celou věc vnímá jako pomluvu. Uživatel Timpanzee naopak glosuje, že právě šéf Nvidie je přesně ten typ kontaktu, jaký by si čínská rozvědka přála, a uživatel wadayano dodává, že by byla dost mizerná špionážní agentura, kdyby neměla lidi alespoň v okolí takových postav.
+
+Nejsilnější linka vlákna hledá za zveřejněním politický motiv. Uživatel nostrademons v tom čte cílený únik administrativy: tolik anonymních lidí obeznámených s utajovaným sledováním by nemluvilo bez posvěcení shora, a článek pak zní jako vzkaz, že pokud Huang nebude spolupracovat, čeká ho obvinění ze špionáže. Uživatel peri-cl na to navazuje spekulací, zda s tlakem na export nesouvisí i mizení čínských modelů z platforem po akvizici HuggingFace Nvidií. Uživatel UncleOxidant ale připomíná druhou stranu téže logiky, tedy že Trump byl informován a nic neudělal, a uživatel jdale27 ironizuje představu, že by únik o porušování restrikcí měl Nvidii vydíráním přimět právě k jejich dodržování.
+
+Zbytek vlákna se rozpadá do bonmotů a odboček. Uživatel slowin přirovnává Huangovy fotky s whiskou k vazbám Jeffreyho Epsteina na Gatese, Brina či Hoffmana, uživatel zkmon v tom vidí zápletku bondovky a uživatel autoexec lituje spíš samotnou údajnou agentku, že musela trávit čas s miliardářem. Ozývají se i varování před protičínskou hysterií, zatímco uživatel markus_zhang pochybuje, že by Huang byl úplně mimo hru. Pointu obchodní reality shrnuje uživatel ActionHank: firma chce vydělávat a příliš se nezajímá, kdo zákazník je a proč utrácí.
+
+Aféra tak zatím stojí na podezření vůči prostředníkovi a na fotografiích z Tchaj-peje, nikoli na důkazu o vině šéfa Nvidie.

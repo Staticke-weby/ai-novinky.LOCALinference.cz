@@ -1,0 +1,18 @@
+# 50438429
+**Smutné manželky AI. Wired popsaly, co boom dělá s rodinami**
+
+Hacker News · rzk · 10. listopadu 2026, 11:40 · 75 bodů / 69 komentářů · [diskuse](https://news.ycombinator.com/item?id=50438429)
+
+Autorka eseje sedí v jedenáct večer v Berkeley sama s desetiměsíční dcerou a psem, zatímco manžel z hotelové postele v Cambridge křičí do FaceTimu, ať se podívá na obrazovku s Claude Code. Doma tak podle ní žijí dvě děti: to malé lidské a velký jazykový model, přičemž to druhé vyžaduje neustálou pozornost a bere čas tomu prvnímu. Z téhle noční scény rozehrává širší příběh o tom, jak posedlost prací v AI v technologických kruzích Bay Area pohlcuje večery a mění partnerky v neplacenou emocionální podporu.
+
+V textu mluví hlavně s bílými límečky z Bay Area, kde on buduje AI nebo se do ní zoufale snaží dostat a ona drží domácnost a poslouchá přednášky o singularitě. Cituje předsedkyni pracovních studií na Rutgers, že boom vytváří dokonalou bouři podél genderových linií, i terapeutky, podle nichž doma mizí hranice a partneři žijí každý v jiném světě – on mezi prompty a benchmarky, ona v realitě účtů a péče. Přidává i paradox, že si některé ženy o manželství povídají s ChatGPT, který je spíš utvrzuje, než aby je v konfliktu někam posunul.
+
+Na Hacker News téma hodně lidí poznává. Uživatel Anonasty píše, že článek popisuje skutečný problém a připomíná mu to dotcom boom, kdy všechno bzučelo a bylo potřeba být na hraně, zatímco skutečný život kolem se vytrácel.
+
+Zároveň je vlákno plné skepse k formě i vzorku. Uživatel tomaytotomato přiznává, že text dočetl včetně pasáží o naturálním víně, ale ptá se, jestli jsou ti lidé skuteční, nebo žije Silicon Valley ve vlastní bublině elitářského pekla. Sám AI používá a má ji rád, jenže pak vypne, jde uklízet zahradu a trávit čas s manželkou – mrkev mu zatím žádný model nenakrájel. Podobně ablation píše, že je text tak odtržený od reality, až se těžko pozná, zda jde o satirickou fikci.
+
+Velký spor se vede o genderové rámování. Uživatel Hendrikto se ptá, proč to musí být o pohlaví, a uživatel pxtail odpovídá, že cílem je vyvolat emocionální a kmenovou reakci na obou stranách pomocí osvědčených motivů. Naopak uživatel pjc50 namítá, že genderová dělící čára je v debatách o AI hodně viditelná, stejně jako předtím u krypta. Uživatel xolox to bere věcněji jako důsledek perspektivy autorky, která sama říká, že mluvila hlavně s heterosexuálními páry z Bay Area, protože tam jí krize připadala nejostřejší.
+
+Nejobsáhlejší linka řeší, zda je na AI vůbec něco zvláštního. Uživatel pjc50 to označuje za podvariantu závislosti na telefonu, respektive za starý vzorec muže pohlceného koníčkem až za hranu únosnosti. Uživatel lz400 dodává, že mu proti AI připadají návykovější hry nebo sociální sítě, zatímco uživatel jhanschoo oponuje měřítkem: jedna posedlá domácnost v okolí je něco jiného, než když je to v Bay Area půlka sociálního okruhu. Uživatel motionlessveloc cituje pasáž o mužích, kteří zkusili scenáristiku i krypto a teď mají pocit, že je to AI, nebo konec. A uživatel Brendinooo nabízí osobní zpověď, že mu AI dává pocit týmu lidí, se kterým je možné cokoliv, a je vděčný, že ho manželka dost vytahuje z kanceláře zpátky do reality.
+
+Z téhle zpovědi se pak stává moralita. Uživatel latexr odpovídá, že je to otázka priorit, a vzkazuje: vypadni od počítače a jdi něco dělat s manželkou, to s AI je proti tomu bezcenné. Uživatel kypro zase píše, že ho překvapuje, jak je ten pocit všemohoucnosti běžný – on prý dřív trávil hodiny zkoumáním věcí na počítači, a od nástupu AI se naopak nemůže dočkat, až se odhlásí a vrátí do skutečného světa.

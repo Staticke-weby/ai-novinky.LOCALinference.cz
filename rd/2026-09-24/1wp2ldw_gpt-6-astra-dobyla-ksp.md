@@ -1,0 +1,14 @@
+# 1wp2ldw
+**GPT-6 Astra dohrál Kerbal Space Program: přistál všude a na Mohu vytěžil palivo**
+
+r/singularity · u/141_1337 · 24. září 2026, 16:06 · 738 bodů / 80 komentářů · [diskuse](https://www.reddit.com/r/singularity/comments/1wp2ldw/gpt6_astra_conquered_ksps_rocket_simulator_by/)
+
+Autor sdílel obrázek s oznámením, že model GPT-6 Astra pokořil raketový simulátor Kerbal Space Program. Podle titulku přistál na všech površích ve hře a na planetě Moho dokonce vytěžil palivo, aby měl na cestu domů. Příspěvek nese označení The Singularity is Near a odkazuje na účet ValsAI.
+
+Nejživější debata se stočila k tomu, jak vlastně může jazykový model takovou hru hrát. U/Original-League-6094 se ptá, jak to lidé zapojují, když ovládání počítače má příliš velkou latenci a model tráví příliš mnoho času uvažováním. Odpověď u/amancxz2 je prostá: hra je většinou pozastavená, zatímco model přemýšlí. Podobně to popisuje u/swarmy1 v reakci na dotaz u/GeorgiaWitness1 — současné postroje hru pozastaví, aby měl model čas na rozhodnutí.
+
+Do detailů jde u/uniquelyavailable, který si po několika hodinách sledování postavil vlastní verzi přes rozhraní kRPC: model dostává technické shrnutí situace ze senzorů ve strukturovaném textu a odpovídá voláním nástrojů. Přiznává, že to fungovalo slušně, jen netuší, jak přesně to dělají lidé z Vals. U/kaityl3 dodává vlastní trik pro nepozastavené hry — autonomní modely u něj píší hlídací skripty, které zasáhnou v časově kritických momentech. A u/GiggleyDuff to shrnuje skepticky: umělá inteligence prostě píše a spouští skripty, nehraje jako člověk. Padla i otázka u/kkingsbe, zda model nepoužil mód kOS, který umožňuje celou misi naprogramovat.
+
+Zbytek vlákna míchá obdiv, humor a menší popichování. U/Charming_Cucumber_15 smutně hlásí, že Astra je v KSP lepší než on, a u/LookIPickedAUsername to rozvádí do širší úvahy, že špičkové modely jsou v tuto chvíli lepší než on skoro ve všem od matematiky po programování. U/sec0nds_left rýpe, že model Casual ani nepochopil, jak se vrátit z Eve, na což u/Front_Candidate_2023 odpovídá hláškou, že návrat z Eve je teprve obecná umělá inteligence. U/BagelRedditAccountII má radost, že se z jeho oblíbené úzce zaměřené hry najednou stává benchmark umělé inteligence — nejdřív Gemini 3.8 Flash, teď Astra — a autor v odpovědi dodává: Opus 5.5 kdy?
+
+Na závěr se objevují i odbočky mimo samotný výkon. U/Distinct-Question-16 tvrdí, že viděl člověka, který Astru zapojil do auta a ta jezdila sama bez problémů, a u/osfric k tomu přihazuje odkaz na drivingbench. U/AlgaeNo3373 navrhuje další metu: dát modelu mezihvězdnou modifikaci a nechat ho stavět gigawattové energetické sítě ve vesmíru, klidně i s průběžnou zprávou o tom, jak brutální jsou „datacentra ve vesmíru". A u/thethirdmancane to celé uzavírá lakonicky: lidé jsou zaváděcí druh.

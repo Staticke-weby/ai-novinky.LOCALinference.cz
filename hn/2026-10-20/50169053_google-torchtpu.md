@@ -1,0 +1,18 @@
+# 50169053
+**Google otevřel TorchTPU, nativní backend PyTorch pro TPU**
+
+Hacker News · ilreb · 20. října 2026, 18:40 · 295 bodů / 66 komentářů · [diskuse](https://news.ycombinator.com/item?id=50169053)
+
+Google zveřejnil projekt TorchTPU, open-source backend, který má umožnit pouštět modely v PyTorchu přímo na čipech TPU. Odkaz na repozitář google-pytorch/torch_tpu se na Hacker News objevil v den konání konference PyTorchu, což část čtenářů brala jako vysvětlení načasování.
+
+Popis projektu slibuje vlastní implementaci ATen kernelů pro TPU a kompilační cache pro optimalizaci běhu XLA výpočtů. Nechybí podpora distribuovaného tréninku s datovým i tensorovým paralelismem, integrace s torch.compile pro grafový režim ani ladicí a benchmarkovací nástroje. Pro začátek autoři lákají na hotové příklady od Llamy a Qwenu přes ResNet, DLRM a minGPT až po UNet a na interaktivní návody ve formátu Marimo, které se spouštějí z TPU VM, nejjednodušeji z instance v6e.
+
+Nejživější debata se stočila k prosté otázce uživatele Lucasoato, jestli vůbec existují TPU mimo Google Cloud. Odpovědi se skládají v obraz prodeje lopat na AI horečce: boulos připomíná prodej velkým zákazníkům mimo cloud, třeba Anthropicu, cavisne dodává pronájem v cloudu i přímý prodej a snake_doc odkazuje na zprávu o mnohamiliardovém obchodu s Metou. Uživatel atty tvrdí, že Google nabízí TPU i pro nasazení u firemních zákazníků, jeho firma je prý vyhodnocovala, ale ještě na jednu generaci zůstala u Nvidie. Doplňkovou linku přidávají sschueller s připomínkou USB a M.2 akcelerátorů Coral a goda90 s poznámkou, že jako TPU se z marketingových důvodů označují i NPU v telefonech Pixel.
+
+Druhé vlákno řeší, proč to vychází právě teď. Uživatel yipinwong se z pozice ne-AI inženýra ptá, zda jde o odpověď na open-source inferenční engine od DeepSeeku. Bitpush odpovídá, že velké firmy novinky takhle narychlo nechystají a vydání se chystalo týdny, Tanjreeve dodává, že obě věci leží v jiné části stacku, trénink proti inferenci, a TorchTPU je spíš snaha dostat lidi k vlastním čipům Googlu. Mathisfun123 to shrnuje lakonicky, že jde o náhradu za pytorch/xla, a JacobAsmuth ironizuje představu, že by někdo ráno přečetl zprávy a rychle spíchnul překladovou vrstvu mezi Torchem a XLA i se čtyřmi navazujícími články inferenčních enginů.
+
+Třetí proud diskuse řeší, co otevření znamená strategicky. Uživatel 23agt píše, že Google prodává lopaty přes cloud i fyzicky vybraným partnerům, airza ale pochybuje, že by se lopat mělo brzy urodit dost. Navazuje nelaggy otázkou, jestli když není příkopem model ani inferenční vrstva, nezbývá jako příkop hardware a co to znamená pro špičkové laboratoře, na což JacobAsmuth kontruje, že příkopem může být i produkt, a badrequest, že hardware byl příkopem v AI vždycky. Technicky nejzajímavější vložku přidal pcmoritz, který prozradil práci na open-source implementaci libtpu pro akcelerátory Tenstorrent, jež prý zvládne většinu TorchTPU a ukazuje, co obnáší převod z Torche na dlaždicové akcelerátory.
+
+Nostalgii starých bojů s TPU dal hlas ismailmaj vzpomínkou na dobu, kdy se člověk musel s XLA prát, aby na TPU PyTorch vůbec běžel, a nadějí, že jde konečně o podporu z první ruky. Fancyfredbot k tomu přidává tezi, že XLA je solidní a potenciálně lepší infrastruktura kompilátoru než Inductor, což může zrychlit všechno, a zároveň v tom vidí poslední hřebík do rakve TensorFlowu.
+
+Pro vývojáře, kteří dnes trénují v PyTorchu a pokukují po alternativě ke grafikám od Nvidie, je vzkaz jednoduchý: cesta na TPU má být nově nativní, zdokumentovaná a s příklady po ruce, dostupnost samotného hardwaru ale zůstává otázkou cloudu a vybraných obchodů.

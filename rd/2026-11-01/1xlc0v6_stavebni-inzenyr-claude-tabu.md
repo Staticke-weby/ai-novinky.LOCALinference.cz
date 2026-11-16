@@ -1,0 +1,18 @@
+# 1xlc0v6
+**Stavební inženýr: Claude je v oboru silný, ale mluvit o něm je tabu**
+
+r/ClaudeAI · u/Turbulent-Conflict84 · 1. listopadu 2026, 20:28 · 339 bodů / 189 komentářů · [diskuse](https://www.reddit.com/r/ClaudeAI/comments/1xlc0v6/)
+
+Majitel malé firmy zaměřené na municipální inženýrství tvrdí, že mu Claude zásadně zrychluje práci, hlavně ve forenzním inženýrství včetně znaleckých posudků pro soudní spory. Nejvíc ho překvapilo, že model dokáže budovat koherentní řetězec úvah, rozvíjet hypotézy a domýšlet jejich důsledky, ne jen shrnovat dokumenty a přeformulovávat odstavce. Výstupy je podle něj nutné ověřit, ale množství práce, kterou lze automatizovat nebo výrazně urychlit, je obrovské, a pro jeho firmu jde o velkou konkurenční výhodu.
+
+Právě proto ho zarazilo, jak tabu je o tom mluvit s kolegy. Popisuje odmítnutí, downvoty a výtky, že kdo používá AI, musí být špatný inženýr, obvykle ve variantách, že AI je k ničemu, halucinuje a nikdy nebude mít úsudek inženýra. Debata se podle něj často ani netočí kolem toho, co technologie umí, ale kolem obavy, že by práce mohla být automatizovatelná, a stává se otázkou osobní hodnoty a strachu z nahraditelnosti.
+
+Jádro sporu vidí v zastaralé zkušenosti kritiků. Když se prý zeptá, o co opírají názor, ukáže se, že mluví o Copilotu nebo bezplatném ChatGPT, který zkusili v roce 2024, a agentní nástroje nikdy neviděli v akci. V diskusi mu dává za pravdu u/awesomeoh1234, že lidé s free verzí nebo zkušeností starou pár let vůbec netuší, jak funguje agentní AI, i u/MeButItsRandom, podle kterého si programování prošlo stejnou fází nedůvěry, než bylo Claude Code od května 2025 tak dobré, že ho nešlo ignorovat.
+
+Nejsilnější ozvěnu má popis tiché adopce. Vědec u/iamthe0ther0ne píše, že AI do jisté míry používají všichni, ale hlavně starší kolegové rozsah tají, protože je to bráno jako slabost, a univerzitní IT jim na pracovních počítačích povolí jen Copilot, takže v kancelářích přibývá soukromých notebooků na hostovací wi-fi. Podobně u/Lower_Fan poznamenává, že na r/sysadmin působí lidé vyděšeně, zatímco v reálném životě si každý integruje AI do postupů a staví si nové workflow, jen se bojí zaujmout veřejně vstřícný postoj. Architekta z velké firmy pak cituje u/recurrence: tamní vedení prý příchod bere vážně a strategicky firmu přestavuje na masivní využití.
+
+Proti nadšení stojí obava z odpovědnosti, kterou nejvýrazněji formuloval u/Einbrecher. Stavebnictví je konzervativní proto, že chyby se tu platí krví, bezpečnostní faktor kolem trojnásobku není náhoda a přísné systémy kontrolují lidské chyby, zatímco AI přináší zcela novou třídu omylů, na které nejsou stavěné. Na to navazují inženýři, kteří nástroj sami používají: u/damu_musawwir ho bere jako velmi rychlého juniora, kterého je třeba dvakrát až třikrát zkontrolovat, protože odpovědnost stejně končí u něj a následky mohou být fatální, a u/plee82 s nadsázkou doufá, že tabu vydrží i v letectví, protože nechce létat v něčem „vibecodovaném“ bez pořádné revize.
+
+Závěr vlákna se tak stáčí k praktické otázce, co s náskokem dělat. Někdo radí výhodu vytěžit potichu, jiný ji proměnit v produkt: u/RottenBananaCore doporučuje spojit oborové znalosti s Claudem, postavit nástroj, který autorovi chybí, a prodávat ho ostatním. Padá i argument, že adopci stejně shora vynutí zakázky, protože firmy bez AI nebudou dlouhodobě konkurovat firmám s AI. A autor se nakonec ptá, proč Anthropic prezentuje Claude hlavně jako coding nástroj, když právě ve stavebnictví vidí obrovský nevyužitý potenciál pro automatizaci opakující se práce.
+
+Čtenář si z toho odnese známý paradox: největší zastánci nové technologie o ní často mlčí, aby si udrželi náskok i klid.

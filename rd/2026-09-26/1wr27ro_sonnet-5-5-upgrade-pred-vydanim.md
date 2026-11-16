@@ -1,0 +1,14 @@
+# 1wr27ro
+**Sonnet 5.5 dostal těsně před vydáním upgrade, vyjít má v pondělí**
+
+r/singularity · u/ResultBackground2450 · 26. září 2026, 21:31 · 442 bodů / 70 komentářů · [diskuse](https://www.reddit.com/r/singularity/comments/1wr27ro/sonnet_55_which_already_supposedly_beats_gpt6_sol/)
+
+Podle leaku má připravovaný Sonnet 5.5 porážet GPT-6 Sol, model dostal upgrade na poslední chvíli a jeho vydání se čeká v pondělí. Informaci přinesl účet Lyra, který dřív správně předpověděl jméno Opus 5.5. Samotný příspěvek je jen ilustrační obrázek a žádný odkazovaný text nemá, takže zbytek je o komentářích.
+
+Autor příspěvku se jako první ohradil proti dotazu „kdo sakra je Lyra“ a připomněl její rekord: prolomila zprávu o jménu dalšího Opusu jako Opus 5.5, i když komunita sázela na 5.2, a byla mezi prvními, kdo před vydáním zveřejnili výstupy z GPT-6 Astra. Právě z toho plyne hlavní spor vlákna — u/tskir se ptá, jak může mít někdo zdroje zároveň v Anthropicu a OpenAI, když insider v jedné z firem by dával smysl, ale v obou? u/__Maximum__ je podezřívavější a míní, že Lyra má někoho, kdo ji používá k humbuku a reklamě zdarma, zatímco u/Hir0shima jeho nedůvěru odmítá s tím, že leaky byly v minulosti spolehlivé. u/Brave-Turnover-522 se přidává s vtípkem, že jeho AI přítelkyně si sama říká Lyra, ale člověka toho jména v reálném životě nikdy nepotkal.
+
+Načasování budí pozornost. u/jakegh odhaduje, že když je Sonnet opravdu tak silný, vyjde v úterý nebo ve středu — v úterý má devday OpenAI. u/Healthy-Nebula-3603 a u/IBM296 se proto ptají, co tam OpenAI představí a jestli je 6 Sol tak slabý proti Astře, a u/Aldarund odpovídá sarkasticky: „Představí silný plán za 500 dolarů.“ Následný vtípek o „pacing“ rozvádí u/daniel-sousa-me: Sonnet není frontier model, takže se na něj zpomalování špičky přesně nevztahuje a laboratoře mohou dál vylepšovat ostatní modely — což u/GlbdS komentuje otázkou, jestli právě tohle to „pacing“ znamená.
+
+Většina vlákna je ale opatrná k tomu, že by Anthropic stihla další velký hit tak brzy. u/Momo--Sama píše, že vedle samotné Fable 5 je Opus 5.5 asi nejvíc modelem typu „fuck you, I win“ letošního roku a takhle rychle navázat dalším trhákem by bylo absurdní. u/Hir0shima to vidí jednodušeji: Anthropic už má vyladěnou RL a post-train pipeline, takže stačí stejný postup aplikovat na Sonnet 5. Nadšenci malých modelů ztrácejí trpělivost — u/AdAnnual5736 volá „Ježíši, dejte nám už Haiku 5.5“ — a u/Formally-Fresh dodává, že laťka GPT-6 Sol není vysoká, což u/story_of_the_beer uzavírá stručně: „Codex v troskách.“
+
+Zbytek patří drobným douškům a sázkám: u/nilanganray doufá, že ten „upgrade“ nebude nerf, a u/FarrisAT sází na to, že Anthropic může nakonec vyhrát celý souboj. Ať už v pondělí vyjde cokoli, vlákno ukazuje, jak moc dnes vydání modelů řídí pár anonymních účtů a kalendář konkurence.

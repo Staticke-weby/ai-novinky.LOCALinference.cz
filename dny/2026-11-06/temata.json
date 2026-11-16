@@ -1,0 +1,384 @@
+{
+ "date": "2026-11-06",
+ "clanky": 42,
+ "temata": [
+  {
+   "title": "Stanford zmáčkl celou historii konverzace do 16 paměťových tokenů",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xpabzx"
+   }
+  },
+  {
+   "title": "Jev + Opus: přesnost frontier modelu za čtvrtinu ceny",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50397429"
+   }
+  },
+  {
+   "title": "Claude Code napsal plachetnicový simulátor a nechal v něm závodit špičkové modely",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xpij9t"
+   }
+  },
+  {
+   "title": "Gemini Omni 1.2 Flash: 15sekundová videa a o 30 % nižší cena",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50392118"
+   }
+  },
+  {
+   "title": "Deset zpráv ChatGPT a věštba o budoucnosti. Z jedné historky je seriál",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xpd15d"
+   }
+  },
+  {
+   "title": "AI zrychluje výzkum AI. METR vidí překročený práh dramatického zrychlení",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50397994"
+   }
+  },
+  {
+   "title": "Claude se napojil na banky. Personal Finance slibuje přehled o výdajích",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xp0qxj"
+   }
+  },
+  {
+   "title": "Anthropic míří na IPO. Investoři mluví i o ocenění 1,1 bilionu dolarů",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50394906"
+   }
+  },
+  {
+   "title": "Anthropic slévá 30 tisíc změn denně, ale 98 procent issue zůstává bez řešitele",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xozfcv"
+   }
+  },
+  {
+   "title": "Firecracker VM Escape: z mikroVM až po root na hostiteli",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50397219"
+   }
+  },
+  {
+   "title": "Osmimiliardový Qwen bez zábran. Vývojář tvrdí, že v tool callingu válí",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xp56x6"
+   }
+  },
+  {
+   "title": "Univerzitní knihovny zavalili AI boti. Online sbírky padají",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50392499"
+   }
+  },
+  {
+   "title": "Model nakreslil psa v Malování. Open WebUI nově ovládá celý virtuální desktop",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xpmvf2"
+   }
+  },
+  {
+   "title": "Nvidia Kubernetes Engine: správu GPU clusterů si vezmete k sobě",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50387738"
+   }
+  },
+  {
+   "title": "Nejlepší Moss workflow? Komunita se pře o pár drobných kroků",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xp7e5x"
+   }
+  },
+  {
+   "title": "Memorilla: paměť pro LLM v několika málo tokenech",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50395919"
+   }
+  },
+  {
+   "title": "Patnáct megabajtů místo šesti aplikací. Claude pomohl s Netflixem pro domácí server",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xp76q1"
+   }
+  },
+  {
+   "title": "Jak vědci používají Claude: 207 tisíc relací a hlavně analýza dat",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50389990"
+   }
+  },
+  {
+   "title": "Claude si napsal konektor do SolidWorks. Za sedm minut měl hotové díly",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xpeg2l"
+   }
+  },
+  {
+   "title": "Microsoft utlumuje pronájem AI kapacity od Oracle",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50395933"
+   }
+  },
+  {
+   "title": "Gemini vypsal seznam interních příznaků pro citlivé prompty",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xpp45c"
+   }
+  },
+  {
+   "title": "ChatGPT poslal tool call jinam. Bug bounty teď chce občanku",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50399569"
+   }
+  },
+  {
+   "title": "Open-weight modely škrtají kyberbezpečnost. Obránci zůstanou na suchu",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xp9jt1"
+   }
+  },
+  {
+   "title": "Zavřené modely ovládly poměr cena/výkon. Otevřené váhy drží 3 % rozpočtů",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50387546"
+   }
+  },
+  {
+   "title": "Šestnáct GPU a 128 GB DDR4. Vyplatí se kvůli MoE přejít na DDR5?",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xph2dn"
+   }
+  },
+  {
+   "title": "Google koupil od Crusoe datacentrový areál ve Wyomingu",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50397711"
+   }
+  },
+  {
+   "title": "Claude maloval akvarel 4,5 hodiny. Barvy si míchal sám podle fotky",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xppyfh"
+   }
+  },
+  {
+   "title": "Perplexity posílá do práce agenty Teammates s pamětí",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50395866"
+   }
+  },
+  {
+   "title": "GPT-6.2 ani Qwen 4 nepřišly. Komunita spekuluje, kde zůstaly modely",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xpo0j3"
+   }
+  },
+  {
+   "title": "App Store v číslech: AI zmiňuje každá desátá aplikace",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50389448"
+   }
+  },
+  {
+   "title": "Gemini 4 Hydrogen stihl motion graphics za dvě minuty, 3.8 Flash za jedenáct",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xpln87"
+   }
+  },
+  {
+   "title": "Nasdaq ztratil 2,5 bilionu dolarů. AI panika přišla po modrém vlnobití",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50386909"
+   }
+  },
+  {
+   "title": "Microsoft si patentoval AI, která v přímém přenosu mění slova i pohyb rtů",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xp3pww"
+   }
+  },
+  {
+   "title": "Které sci-fi trefilo AI? Žebříček vyhrál Ted Chiang",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50388263"
+   }
+  },
+  {
+   "title": "Arete-27B: NousResearch přeučil Qwen na západní hodnoty",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xpmj33"
+   }
+  },
+  {
+   "title": "Protestující vnikli na stavbu Microsoft datacentra v Amsterdamu",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50392330"
+   }
+  },
+  {
+   "title": "Někdo si s AI jen tak povídá. Vlákno o samotě, zvědavosti a nočních otázkách",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xoz04q"
+   }
+  },
+  {
+   "title": "CEO Hugging Face: P(doom) je blízko nule, riziko tvoří zavřené laboratoře",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50388752"
+   }
+  },
+  {
+   "title": "Podivný glitch Opus 5.0. Prefix „see the below“ prý vypne chatovací režim",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xp6g4g"
+   }
+  },
+  {
+   "title": "AMD je teď data-center first. Prodej PC má v roce 2027 spadnout dvouciferně",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50396819"
+   }
+  },
+  {
+   "title": "Půlmiliardový Qwen odpovídá po svém. Komunita se baví nad halucinacemi",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xp8as6"
+   }
+  },
+  {
+   "title": "Oc-e-Non-v1 zkracuje odpovědi o polovinu. Na otázku 1+1 řekne jen 2",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xpfhpm"
+   }
+  }
+ ]
+}

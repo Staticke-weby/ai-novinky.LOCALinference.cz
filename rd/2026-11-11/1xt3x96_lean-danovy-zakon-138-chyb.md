@@ -1,0 +1,16 @@
+# 1xt3x96
+**Lean a AI prošly celý americký daňový zákon. Našly 138 chyb a tři nové mezery**
+
+r/singularity · u/SnooPeripherals5313 · 11. listopadu 2026, 01:47 · 428 bodů / 44 komentářů · [diskuse](https://www.reddit.com/r/singularity/comments/1xt3x96/)
+
+Tým Lexifina převedl celý Title 26 amerického daňového zákona do jazyka Lean a nechal strojově projít všechny křížové odkazy a návaznosti. Z 257 nálezů označil 138 za skutečné vady textu a vedle toho postavil výpočetní model daně z příjmu pro rok 2025 včetně změn z červencového zákona. Automatické prohledávání pravidel pak vytipovalo tři dosud nepopsané kombinace, které umí v konkrétních situacích snížit daň.
+
+Kontrola podle článku rozlišuje 67 odkazů na zrušené či přesunuté předpisy, 24 překlepů a špatných citací a 30 neuzavřených závorek, zbytek tvoří špatná slovíčka pro úrovně členění a dvakrát přidělená čísla, přičemž ke každé vadě existuje krátký certifikát, který Lean znovu ověří asi za dvě a půl minuty. Model daně tým testoval proti tabulkám a příkladům IRS a na 5 000 domácnostech proti PolicyEngine-US, Tax-Calculatoru a UsTaxes, přičemž s PolicyEngine se shodl na všech částkách u 4 993 domácností a zbytek se lišil nejvýše o 11 dolarů kvůli odečtu z tištěné tabulky. Srovnání zároveň odhalilo logické chyby v cizích nástrojích – Tax-Calculator přiznával EITC odděleně podávajícím manželům bez kontroly odděleného soužití a UsTaxes u přiznání za rok 2025 nepřikládal Schedule C, takže mu mizely příjmy ze samostatné činnosti. Ze tří nových nálezů článek popisuje výhodnější zdanění sociálních dávek při odděleném podání manželů žijících spolu, rozdělení mezd a investic mezi partnery kvůli 3,8% dani a formulář Schedule 8812, který vrací o 500 dolarů víc, než dovoluje text zákona.
+
+Největší část diskuse se točí kolem toho, zda má taková formalizace vůbec váhu. u/rambouhh píše, že představa o deterministickém daňovém právu je mýtus, a samotné přepsání do kódu prý k ničemu užitečnému nevede. Na to navazuje u/FarrisAT poznámkou, že hrátky s mezerami končí ve chvíli, kdy právníci finančního úřadu prosadí jiný výklad, a u/Even_Gap_2253 dodává, že v systému common law rozhoduje nakonec soudce, takže by podobný přístup měl větší šanci spíš v zemi s psaným právem.
+
+Do tohoto skepticismu zapadá i výtka ke stylu. u/YoAmoElTacos si stěžuje na typickou strojovou mluvu plnou záporů místo přímého sdělení nálezů a doufá, že autor blogovací nástroj upraví, aby se text lépe četl. Ještě strozeji to vidí u/Ma_Al-Aynayn, podle kterého je celý text v podstatě reklama, zatímco u/PuzzledPie1804 odkazuje na programovací jazyk Catala, který prý totéž už řeší.
+
+Věcnější tón vnáší do vlákna u/finallyransub17, který se představuje jako daňový poradce a popisuje měsíc strávený stavbou vlastního plánovacího softwaru pro rok 2026. Řada jevů z článku je mu povědomá z praxe a většina rozdílů je podle něj pro běžného klienta zanedbatelná, stejně jako strategie odděleného podání manželů dávají smysl jen pro extrémně motivované kutily, protože úspora sotva vyváží námahu. Zároveň ale přiznává, že je to vzrušující i děsivá doba pro jeho profesi.
+
+Čtenář si tak odnáší dvojí obrázek: stroj umí v zákoně najít překlepy i zapomenuté odkazy rychleji než člověk, ale zda z nalezené mezery bude i uznaná úspora, pořád rozhodnou lidé u soudu a na úřadě.

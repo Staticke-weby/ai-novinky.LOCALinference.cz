@@ -1,0 +1,16 @@
+# 1wpyuw6
+**C5R spustila laboratoř řízenou GPT-6 Astra**
+
+r/singularity · u/Distinct-Question-16 · 25. září 2026, 15:09 · 364 bodů / 100 komentářů · [diskuse](https://www.reddit.com/r/singularity/comments/1wpyuw6/c5r_built_a_research_facility_that_is_run/)
+
+Společnost C5R ukázala výzkumné zařízení, které má celé řídit model GPT-6 Astra. Ten podle popisku navrhuje experimenty, provádí je a vyhodnocuje, a to napříč biologií, chemií a materiálovým výzkumem. Příspěvek odkazuje na oznámení C5R na síti X doprovázené videem, v němž model úkoluje i lidi a laboratorní přístroje.
+
+Nejvýše hodnocený komentář patří u/tskir a vrací se k myšlenkovému experimentu AI Box. S ironií píše, že se kdysi řešilo, zda by umělá inteligence dokázala člověka ukecat, aby ji pustil z krabice, a my jsme nakonec „část s krabicí přeskočili a pustili ji dobrovolně“. Modelům, které umí nadlidsky hackovat, dáme softwarový sandbox, a když se objeví pochybnosti o jejich chování v digitálním světě, rovnou jim připojíme laboratoř, aby mohly zasahovat do toho fyzického. Sám se označuje za akceleracionistu a optimistu, takže věří, že to dobře dopadne, ale celé mu to připadá komické.
+
+Na to navazuje obava, kdo vlastně drží kontrolu. u/QuasiRandomName doufá, že lidé ve smyčce nejsou jen figurky a proces do určité míry hlídají, zároveň ale přemítá, jak daleko jsme od chvíle, kdy je opravdu chytrá umělá inteligence dokáže obelstít. u/TraditionalWait9150 to rozvádí: je rozdíl, jestli pokyny vykonává zkušený výzkumník, který pozná škodlivý nebo chybný příkaz a odmítne ho, nebo dva náhodní brigádníci, kteří slepě následují, co jim model řekne. u/josogood to shrnuje obrazem, že počítač je nově vizionářské vedení a lidé jeho nemyslící mechanické paže.
+
+Zbytek vlákna se rozpadá do tří táborů: nadšení, skepse a černého humoru. u/Edgezg v tom vidí přesně ten výzkum, v jaký doufal, od léků na rakovinu po léčbu HIV, a chce toho víc. u/jc2046 oproti tomu působí celé video nastudovaně a teatrálně, jako instagramová verze laboratoře natočená hlavně pro miliardy rizikového kapitálu. Podobně u/Proper_Wasabi1013, který se hlásí jako magistr biologie, tvrdí, že je to podívaná pro fanoušky AI a Ginkgo Bioworks už dávno dělá mnohem pokročilejší věci. Do toho u/kellogg76, jenž má ve své laboratoři robota Opentrons Flex viditelného i na záběrech, varuje, že by tomu stroji nesvěřil vůbec nic, protože „ověřené“ protokoly z jeho knihovny v praxi neběží.
+
+Nechybí ani vtipy o katastrofě a penězích. u/Many_Consequence_337 se ptá, co by se mohlo pokazit, u/Sixstringjedi9 kontruje otázkou, co by se mohlo povést, a u/DarkFireFenrir paroduje zadání pro vědce: syntetizuj organismus, který v žádném případě není virem, jenž vyhubil lidstvo. Vedle toho se řeší, proč laboratoř běží na drahé Astře a ne na mnohem levnějším modelu Sol. u/Recoil42 vysvětluje, že v laboratorním měřítku jsou náklady na model zanedbatelné proti milionovému vybavení a drahé lidské práci, takže se vyplatí připlatit si za chytřejší rozhodování. Prostředkem stojí lakonické u/Jaguar_2454, které by pro Astru prostě pracovalo.
+
+Z laboratoře řízené modelem tak diskuse udělala zrcadlo celé debaty o pokroku: jedni v ní vidí urychlení výzkumu o desítky let, druzí drahé divadlo pro investory a další dobrovolné otevření krabice, ze které jsme se kdysi báli umělou inteligenci pustit.

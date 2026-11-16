@@ -1,0 +1,14 @@
+# 1x606aj
+**Nerfuje Anthropic Opus 5.5? LiveNerf po 20 dnech měření**
+
+r/ClaudeAI · u/TheOnlyVibemaster · 14. října 2026, 21:10 · 420 bodů / 87 komentářů · [diskuse](https://www.reddit.com/r/ClaudeAI/comments/1x606aj/)
+
+Autor projektu LiveNerf se před třemi týdny rozhodl ukončit dohady o tom, zda Anthropic po vydání potichu zhoršuje své modely, a začal schopnosti Opus 5.5 každý den poctivě měřit. Prvních deset dní se rozptyl výsledků teprve usazoval, zatímco se stanovoval základ, v následujících jedenácti dnech se rozptyl naopak zmenšil a hodnoty se vrátily k průměru. Verdikt je tak pro mnohé překvapivý: v datech, která se zatím nasbírala, k žádnému nerfu nedošlo.
+
+O to ostřeji zní reakce komunity, kterou nejlépe shrnuje nejvýše hodnocená poznámka od u/Dolo12345, že nerfnuté nebyly schopnosti, ale limity používání. Automatické shrnutí po padesáti komentářích mluví stejným jazykem: schopnosti drží, jenže limity prý tiše spadly na dno. Přibývají historky o lidech, kteří týdenní limit spálili za tři dny, po hodinách sáhli po bezplatném resetu, nebo jim pět hodin používání zmizelo za patnáct minut při obyčejné úpravě prezentace.
+
+Druhá velká linka vlákna se točí kolem posledních čtyřiadvaceti až osmačtyřiceti hodin, kdy byl Opus 5.5 podle řady hlasů „příšerně hloupý, nejhorší od vydání". u/Helpful_Ranger_1606 připouští, že může jít o pravidelné výkyvy, u/QWERTY_FUCKER doufá v jednorázový výpadek a u/Christian_Anon_ se ptá, zda to dnes odnesl ještě někdo. Nejbarvitěji to popisuje u/TheOtherDArnold, kterému model skvěle pomáhal s fantasy fotbalem, dával data do přehledných grafů a myslel na celou sezonu — až najednou začal čerpat jen z jednoho webu místo z pěti domluvených, mlžil o tom a datovou tabulku vydal až na třetí vyzvání.
+
+Právě rozpor mezi klidnou křivkou a divokými zážitky živí teorie o tom, co měření nevidí. u/oxdev03 připomíná, že předplatitelé mohou být v A/B testu s jinými vahami nebo systémovým pokynem, takže nikdo neví, zda dostal horší, nebo lepší verzi. Sám autor uznává, že Anthropic může škrtit výkon jen v určitou denní dobu, u/HomebodyAlgo dodává, že testovací účty typu LiveNerf by firma mohla poznat a neškrtit. u/SavedWoW rozebírá tvar křivky: plošný schod dolů by odpovídal úspoře na výpočtech, ale vlna v cyklu čtyř až sedmi dnů prý spíš ukazuje na zpožděnou smyčku mezi rychlými automatickými aktualizacemi a pomalejší ověřenou zpětnou vazbou.
+
+Místo odmítnutí tak autor komunitu prosí o pomoc: kdo zaznamenal v konkrétní den a hodinu pocitové zhoršení, ať popíše čas a co přesně se pokazilo. Repo projektu je veřejné, nasbíralo přes jeden a půl tisíce hvězdiček a dary mají jít na další výpočty pro sledování více modelů. Jak píše u/True_Challenge_1301, konečně někdo měří místo dojmů — za deset dní má přijít finální verdikt po třiceti dnech dat.

@@ -1,0 +1,16 @@
+# 50378228
+**Kritická zranitelnost v OpenSSH: obejití hesla na musl systémech**
+
+Hacker News · josemrb · 5. listopadu 2026, 13:19 · 2508 bodů / 614 komentářů · [diskuse](https://news.ycombinator.com/item?id=50378228)
+
+Na Linuxu s knihovnou musl libc a vypnutým PAM lze za určitých okolností obejít ověření heslem v OpenSSH a přihlásit se bez znalosti hesla. Chyba je v tom, jak musl implementuje funkci crypt(): při selhání místo prázdné hodnoty vrátí jeden znak, hvězdičku nebo vykřičník, který si démon vyloží špatně. Ohrožené jsou hlavně Alpine kontejnery a další musl systémy bez PAM, naopak systémy s glibc, se zapnutým PAM, OpenBSD ani Dropbear zasaženy nejsou. Jako okamžitá ochrana do aktualizace na OpenSSH 10.6p2 s nouzovou záplatou slouží vypnutí ověřování heslem.
+
+Odkazovaný web sshhole.com tuhle suchou chybu vypráví jako příběh hvězdičky v souboru s hesly. Začíná v roce 1980, kdy Bill Joy zapsal k účtu daemon do /etc/passwd znak * s významem, že se pod ním nikdy nikdo nepřihlásí, protože hvězdička není platný hash. Právě na téhle staré konvenci pak staví vysvětlení, co se pokazí, když crypt() nikdy neselže a vždy vrátí něco, co vypadá jako hash.
+
+Nejživější spor je o to, koho se to vůbec týká. Uživatel hypfer se ptá, co reálně běží na musl bez PAM a zároveň provozuje démona s povoleným heslem, když hypotetická Alpine konfigurace je jedna věc a skutečný svět druhá. Uživatel jbyers oponuje, že i malý podíl krát obrovské množství Alpine kontejnerů ve světě dá v absolutních číslech hodně strojů, a tvrdí, že veřejné obrazy v řádu milionů stažení se dají najít bez velkého hledání. Uživatel Bender přidává praktický případ veřejných SFTP serverů, sám prý provozuje výhradně Alpine a balíček se stínovými hesly se mu standardně nenainstaloval, a pro zvědavce dokonce na den otevřel server na hraní bez firewallu a bez hesla. Uživatel figassis přihazuje dalšího kandidáta, dnešní sandboxy pro agenty.
+
+Technické jádro diskuse řeší, proč musl takovou náhradu za prázdnou hodnotu vůbec zavedl. Uživatel cube00 se diví, jestli bylo nutné přizpůsobovat se programům, které nezkontrolují selhání a rovnou porovnávají výsledek s uloženým polem. Uživatel red75prime cituje přímo z commitu v musl, že velká část programů volajících crypt není na selhání připravena, a proto je prý lepší vždy uspět s neuhodnutelným hashem než vracet chybu. Uživatel Good4boothee to zobecňuje jako daň za kompatibilitu: nikdo neopraví všechen existující software napsaný přesně podle chování glibc, takže nová implementace musí slevit z čistoty, jinak ji nikdo nebude používat.
+
+Zbytek vlákna se dělí mezi škádlení a praktické ponaučení. Název sshhole.com sklidil pochvaly za kreativitu, uživatel hypfer ho vylepšuje na hvězdičkovou verzi a uživatel bombcar dodává, že hvězdička je tu skutečnou hvězdou představení. Vedle toho se hodně probírá strohá forma webu: někdo chválí srozumitelnost, jiní si stěžují na nízkou hustotu informací, divadelní podání a únos rolování na desktopu. Věcná linka se stáčí k otázce, proč mít ověřování heslem vůbec zapnuté, a směřuje ke klíčům, přístupu přes WireGuard a zásadě nevystavovat SSH veřejně.
+
+Kdo provozuje musl systém bez PAM, měl by zkontrolovat nastavení démona a aktualizovat dřív, než si chybu někdo vyzkouší na něm.

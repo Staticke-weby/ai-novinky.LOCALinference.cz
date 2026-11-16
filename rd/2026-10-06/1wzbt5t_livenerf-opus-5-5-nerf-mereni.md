@@ -1,0 +1,14 @@
+# 1wzbt5t
+**Byl Opus 5.5 nerfnutý? Projekt LiveNerf měří výkon den po dni**
+
+r/ClaudeAI · u/TheOnlyVibemaster · 6. října 2026, 21:28 · 459 bodů / 99 komentářů · [diskuse](https://www.reddit.com/r/ClaudeAI/comments/1wzbt5t/)
+
+Autor před dvěma týdny spustil projekt LiveNerf, aby nezávisle sledoval výkon modelu Opus 5.5 den po dni a zjistil, zda existují důkazy o jeho tichém „nerfování“ po vydání. Za prvních deset dní stanovil základ na 58,4 % s odchylkou 6,6 bodu na desetidenní okno, tedy menší, než čekal, a nyní je tři dny v měřitelném období, po kterém by zhruba do dvacátého dne mělo být jasněji, zda k oslabování dochází. Vzkazuje, že když firmy nebudou otevřeně říkat, co si lidé vlastně kupují, musí si komunita vytvořit nástroje na měření sama, a odkazuje na repozitář na GitHubu.
+
+Podpora je v diskusi hlasitá. Nejvýše hodnocený u/sandywaterside autorovi děkuje za „boží práci“ a u/TupacFR ho povzbuzuje, ať pokračuje a dá firmám vědět, že je komunita sleduje. Přidává se i u/Watblieft, kterému model připadal ten den pomalejší, ale po pohledu na data to přičítá jen vlastnímu dojmu. Stejně tak u/AironParsMan píše, že mu vývoj přesně sedí na jeho vlastní zkušenosti s prací a problémy, na které s modelem narážel.
+
+Opačný tábor ale tvrdí, že žádný nerf neexistuje a celá debata je v hlavách. u/o156 píše, že věděl, že je to psychologické, a u/scodgey dodává, že je snazší svalit vinu na model než převzít odpovědnost za postup, který má vykonat. u/Fiatil mluví o potvrdzovacím zkreslení, které neustoupí před žádnými daty, a popisuje logiku konspirátorů: když data nerf nepotvrdí, musí být špatně data a hledá se další teorie. Podobně u/maxquordleplee3n soudí, že tohle důkazem o neexistenci nerfu není, protože zastánci teorií prostě řeknou, že model pozná testování a v něm zabere.
+
+Jádro věcného sporu je, co se vlastně měří. u/President_Chump_ si všímá možné týdenní sezónnosti s vyšším výkonem o víkendech, u/HairyNumber8775 hlásí extrémně pomalé úkoly a spotřebu tokenů bez změny kvality a u/LobsterBuffetAllDay vtipkuje, jestli autor nepřímo neměří jen vytížení serverů. Nejostřeji to formuluje u/KenosisConjunctio: servery omezují výstup podle zátěže od počátku internetu a bez měření poptávky jsou data k ničemu, pomalost při špičce není nerf. Stejným směrem míří u/r00tdenied s omezováním inference kvůli nedostatku výpočetního výkonu v době vysoké aktivity.
+
+Autor v odpovědích přiznává, že každodenní běh jen pro Opus 5.5 stojí asi pět procent tarifu pro a kalibrace spolkla týdenní tarif, proto by rád měření decentralizoval a přes Discord koordinoval, kdo co sleduje vlastním výpočetním výkonem. Zároveň sní o větším rozšíření LiveNerf, od férového porovnání hodnoty předplatného proti API až po tlak na ochranu spotřebitelů, protože pro ně podle něj neexistuje žádný skutečný regulátor.

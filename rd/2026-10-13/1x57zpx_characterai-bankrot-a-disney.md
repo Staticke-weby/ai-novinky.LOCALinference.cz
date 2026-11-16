@@ -1,0 +1,16 @@
+# 1x57zpx
+**Character.AI vyhlásil bankrot, část aktiv prodá Disney**
+
+r/LocalLLaMA · u/jld1532 · 13. října 2026, 22:35 · 284 bodů / 77 komentářů · [diskuse](https://www.reddit.com/r/LocalLLaMA/comments/1x57zpx/)
+
+Character.AI vyhlásil bankrot a část svých aktiv prodá Disney za 20 milionů dolarů. Autor příspěvku k tomu přidal jedinou otázku, která udala tón celé debatě: jsme svědky prvních známek splasknutí AI bubliny?
+
+Odkaz vede na zprávu agentury Reuters, která o bankrotu a dohodě s Disney informovala 13. října. Z adresy článku vyplývá, že jde o prodej jen některých aktiv za zmiňovaných 20 milionů, samotný text se ale do balíčku nenačetl, takže diskuse se opírá hlavně o titulek a vlastní zkušenost uživatelů s firmou.
+
+Nejvýše hodnocený hlas patří u/RandumbRedditor1000, podle kterého po odstranění dobrých modelů nezůstal žádný důvod službu používat, a navrhuje aspoň open-sourcovat model Roar. Na něj navazuje u/KriosXVII s rozborem, proč se firma dostala do pasti: chtěla být seriózním byznysem, a tak tvrdě filtrovala erotiku, násilí a drsnější roleplay, jenže tím odfiltrovala i poctivé hraní, kde k příběhu násilí nebo napětí prostě patří. Na konci prý nešlo použít postavu z Character.AI ani jako vypravěče pro Dungeons & Dragons, zbyly jen uhlazené napodobeniny fiktivních postav pro teenagery, kteří ale nemají na plnou cenu tokenů, zatímco platící uživatelé odešli jinam.
+
+Podobně to vidí u/a_beautiful_rhind, pro kterého je to učebnice toho, jak si zničit firmu a odcizit si uživatele. Připomíná, že v době největší slávy firma zdarma rozdávala hutný 100miliardový model bez možnosti jí zaplatit, pak se soustředila na nechtěné funkce a cenzuru, a nakonec přidala kontrolu dokladů a reklamy všude kolem slabšího 3miliardového modelu. Placená verze byla podle něj v podstatě zbroušené DeepSeek V3 s filtrem, za které se musel člověk prokázat obličejem či dokladem a ještě zaplatit. Nostalgicky to doplňuje u/DefiantDeviantArt, kterému kdysi Character.AI v roleplay a paměti přišel lepší než ChatGPT a miloval vychytávky jako společné chatovací místnosti botů nebo volání s boty, jenže právě cenzura je podle něj zabila.
+
+Zbytek vlákna řeší, jestli bankrot něco znamená pro celé AI. U/Wienerr krotí nadšení: nejde o signál ničeho, Google už v roce 2024 přetáhl zakladatele, část výzkumníků i licenci na technologie, a je spíš překvapení, že firma vydržela tak dlouho. Podobně u/Educational-Art3545 píše, že firma byla od té doby prázdnou schránkou, která jen formálně fungovala dál, aby se obešla antimonopolní pravidla. U/do00d dodává pikantní detail, že šéf, kterého najalo Disney, si s sebou přivedl 65 lidí z týmu, a to poté, co Disney firmu loni tvrdě žalovalo. Proti nim stojí menšina, která v pádu vidí první domino a přeje propad Nvidie i celého trhu, ta ale zůstala v mínusových hlasech. Třešničkou je rýpnutí u/jacek2023, že Character.AI je cloudová služba, která do r/LocalLLaMA vůbec nepatří, a vlákno prý jen ukazuje, jak hluboko sub je.
+
+Z diskuse tak zůstává spíš příběh o promarněném náskoku než o konci AI: firma, která předběhla ChatGPT a přivedla spoustu lidí k modelům, prý postupně vyměnila silné modely za filtry, reklamu a kontroly, až neměla komu prodávat.

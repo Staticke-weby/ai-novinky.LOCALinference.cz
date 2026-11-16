@@ -1,0 +1,16 @@
+# 50195959
+**Quad9 končí ve Francii kvůli soudnímu nařízení blokovat domény**
+
+Hacker News · farrokhi · 22. října 2026, 16:32 · 1081 bodů / 384 komentářů · [diskuse](https://news.ycombinator.com/item?id=50195959)
+
+Švýcarská nezisková organizace Quad9 oznámila, že od 24. listopadu přestane poskytovat svou bezplatnou ochranu uživatelům ve Francii. Francouzský soud totiž rozhodl ve prospěch sportovní televize beIN a nařídil službě blokovat překlad určitých domén, které prý porušují její vysílací práva. Quad9 se proti verdiktu odvolá, ale do té doby raději zemi úplně opustí.
+
+Na svém blogu Quad9 vysvětluje, že soud sice snížil pokutu z 580 tisíc eur na tisíc eur denně, pro organizaci ale nikdy nešlo o peníze. Odmítá odpovědi falšovat, protože rekurzivní překlad považuje za neutrální a pasivní službu, a tvrdí, že splnit nařízení technicky neumí. Nemá databázi uživatelů ani způsob, jak spolehlivě poznat Francouze, globální blokace by zase vnutila francouzské právo celému světu a s blokací podle polohy už má špatnou zkušenost z Německa, kde žalobu Sony obešla přes VPN a soud to posoudil jako pohrdání. V pozadí navíc visí asi dvacet dalších podobných žalob.
+
+Nejživější linka diskuse se točí kolem přirovnání k telefonnímu seznamu. Uživatel babarock se ptá, zda by někdo trestal vydavatele seznamu za to, že v něm má číslo na zločince, a betterunix2 dodává, že je to ještě horší, protože jde o trest za pouhé vyhledání čísla, které vydal někdo jiný. Uživatel mitxela vysvětluje francouzskou logiku tak, že každý v cestě zločinu může dostat příkaz zablokovat svou část, aniž by sám nesl vinu, zatímco pigggg tipuje, že v tom mají prsty francouzští poskytovatelé, kteří už sami blokují a podle přesměrovaného provozu poznali, že lidé utíkají ke Quad9.
+
+Velké pobouření vzbudila německá epizoda s firmou Sony. Uživatel nadermx kroutí hlavou nad tím, že Quad9 zavedl blokaci podle polohy, žalobce ji obešel přes VPN a soud pak službu potrestal za neplnění, jako by zámek odemkl sám žalobce a vina padla na zámečníka. Uživatel mitxela připomíná, že pohrdání soudem má trestat otevřené ignorování příkazu, ne situaci, kdy opatření prostě technicky nefunguje, a mrandish dodává, že kořenem jsou soudy, které trollům dávají neproveditelná rozhodnutí. Uživatel GTP z toho vyvozuje ironický závěr a čeká, kdy dostane pokutu Netflix za to, že jeho uživatelé obcházejí regiony přes VPN.
+
+Třetí proud řeší, proč si žalobci vybrali zrovna Quad9 a jak má odchod vůbec vypadat. Uživatel artooro tvrdí, že si firmu vybrali proto, že nemá velké finanční zázemí, a uživatel prmoustache oponuje, že za tím není Francie, ale velký fotbal. Technickou debatu otevřel gumby otázkou, proč organizace tolik zdůrazňuje rekurzivní překlad, na což ButlerianJihad odpovídá, že koncové servery prostě jinak fungovat nemohou a rekurze je v řetězci nevyhnutelná. Uživatel Felger se pak ptá, jak chce Quad9 od 24. listopadu Francouze technicky odstavit, když blokace podle polohy nefunguje, a burnte odpovídá, že nemusí, protože národní právo se bez spolupráce za hranicemi stejně nevymáhá.
+
+Z příběhu tak zůstává hořký vtip o novinách držených před plným stadionem: pirátství se tím nezastaví, jen Francie přijde o bezpečnější a soukromí šetrnější ochranu.

@@ -1,0 +1,16 @@
+# 50060694
+**Codex CLI ve výchozím stavu instaluje trvalého démona na pozadí**
+
+Hacker News · whimblepop · 12. října 2026, 20:29 · 502 bodů / 256 komentářů · [diskuse](https://news.ycombinator.com/item?id=50060694)
+
+Uživatel whimblepop upozornil na požadavek v repozitáři OpenAI Codex, podle kterého CLI od verze 0.157.0 při pouhém otevření interaktivní relace spouští trvalého démona na pozadí. Proces běží ve vlastní relaci bez terminálu a přežívá zavření všech oken až do restartu, aniž by se uživatele předem na cokoli zeptal.
+
+Autor původního požadavku popisuje, že démon kopíruje celý balík platformy o velikosti kolem 374 MB do skrytého adresáře ve složce uživatele a od té chvíle běží backend z této kopie, odděleně od verze nainstalované přes správce balíčků. K tomu se přidává odpojený aktualizátor, který kontroluje nové verze pět minut po startu a pak každou hodinu, a dědění proměnných prostředí z první relace, což podle něj rozbíjí proxy a hooky cílené na terminál. Žádá proto, aby se automatické spouštění stalo volitelným a výchozím stavem byl backend, který žije a umírá spolu s oknem.
+
+Nejdelší přestřelka se vede o to, zda je taková samoaktualizace normální. Uživatel dingaling911 tvrdí, že se věci hýbou rychle a měly by se aktualizovat samy, že je to dnes standard a prohlížeče to dělají také. Proti němu stojí uživatel swatcoder s tím, že rychlý pohyb ještě neznamená pohyb kýženým směrem a profesionální nástroj by se neměl měnit uživateli pod rukama uprostřed projektu, a uživatel isityettime dodává, že běžní správci balíčků umí aktualizovat tisíce programů, aniž by narušovali svrchovanost uživatele nad vlastním počítačem. Uživatel bayindirh podotýká, že totéž by šlo zařídit bez démona a bez skladování starých verzí.
+
+Právě hromadění starých verzí druhou část diskuse rozohnilo. Uživatel icantevenhold píše, že mu Codex sebral celkem asi 12 gigabajtů, což mu na pouhý postroj připadá šílené, uživatel rfgplk potvrzuje, že adresář s vydáními si drží všechny staré verze a každá binárka má kolem 300 MB, a uživatel AgharaShyam našel v mezipaměti hned jedenáct samostatných binárek po zhruba 300 MB. Uživatel InsideOutSanta líčí, že si na vývojovém stroji najal model, aby jednou denně procházel disk a mazal pozůstatky po postrojích, což je prý jako hasit požár najímáním žháře, a uživatel jonplackett to glosuje jako extrémně ironické, že software, který má ukončit software, je sám dost mizerný software.
+
+Zbytek vlákna řeší, jak démona vypnout a zda je Codex sám. Uživatel tagorr radí nastavit v config.toml hodnotu daemon_auto_start na false a chtěl by automatický pád do lokálního režimu, když je start démona zablokovaný, a uživatel charliermarsh slibuje opravu čištění starých verzí. Vedle toho sílí přirovnání k malwaru: uživatel laurynas-karvelis to označuje za rys malwaru a pochybuje, že šlo o nehodu, uživatel Logarithmus se ptá, zda je Codex v tomto bodě virem, a uživatel shakefu vzkazuje, že ve firmě ruší licence. Širší kontext přidává uživatel timdorr, podle kterého jede Claude Code ve stejném modelu s verzemi ve skrytém adresáři a procesy na pozadí, což uživatel whimblepop řeší balíčkem pro Nix, který oboje chování odstraňuje.
+
+Čtenář si z toho odnese prosté poučení: než si pustí moderní agentní nástroj, vyplatí se podívat do procesů a do skrytých adresářů, co všechno s ním přišlo.

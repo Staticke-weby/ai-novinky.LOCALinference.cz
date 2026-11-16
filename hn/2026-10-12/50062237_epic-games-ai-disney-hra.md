@@ -1,0 +1,16 @@
+# 50062237
+**Epic Games tlačí zaměstnance, aby s AI dokončili hru pro Disney**
+
+Hacker News · pavel_lishin · 12. října 2026, 22:07 · 80 bodů / 64 komentářů · [diskuse](https://news.ycombinator.com/item?id=50062237)
+
+Epic Games tlačí zaměstnance k výrazně většímu využití umělé inteligence, aby dotáhli rozdělanou hru pro Disney. Střílečka s postavami Marvelu a Star Wars měla původně vyjít v březnu, teď se odkládá a vedení z ní dělá projekt postavený na prvním místě na AI.
+
+Odkazovaný text serveru AV Club, který vychází ze zprávy Bloombergu, k tomu doplňuje zákulisí: firma v březnu propustila tisíc lidí po poklesu zájmu o Fortnite a pak podcenila, kolik lidí bude na disneyovku potřebovat. Interní vzkaz o konci ručně psaného kódu a grafice plně generované s pomocí AI prý personál ohromil, mluvčí Epicu naproti tomu mluví o vývoji zrychleném AI, který vedou vývojáři jako vizionáři a kreativní hybatelé, Disney se ke zprávě nevyjádřil.
+
+Nejdelší spor se vede o to, jestli je ten úžas zaměstnanců na místě. Jcampuzano2 píše, že ho nejvíc překvapuje právě to překvapení, protože v jeho práci už prý skoro nikdo nepíše kód rukou a velké firmy jedou stejně, a joshstrange mu přikyvuje. Oponuje mu hned několik hlasů: danaris se ptá, proč by měla být právě jeho zkušenost ta nejreprezentativnější, jayd16 a CoolestBeans připomínají, že praxe je i v technologických firmách hodně roztříštěná, fabian2k rozlišuje mezi tím, že většina kódu vzniká s AI, a úplným zákazem psát rukou, torben-friis to přirovnává k zákazu použít písmeno A, mycocola připomíná vlastní nástroje studií typu Blueprint a nutnost rozumět systémům hry a gonzalohm dodává, že u nich je ručně psaný kód pořád normou.
+
+Druhá debata je o kvalitě a vkusu hráčů. bigyabai přirovnává plán k drahému propadáku Concord, PunchyHamster čeká zajímavý propadák a hypfer kontruje, že právě taková hra je pro tenhle postup vhodné testovací pole. Madmallard tvrdí, že vývoj her patří pro jazykové modely k nejhorším místům a bez ručního ladění se mechaniky změní v kaši, ncr100 z vlastní zkušenosti oponuje, že promyšlená práce s AI je v pohodě, a yonaguska přiznává, že modely nemají cit pro nuance zábavné hratelnosti. dude250711 se ptá, jestli Disney opravdu potřebuje partu náhodných lidí, aby za něj zadávala příkazy do Clauda, a tayo42 dodává, že hráči a herní branže jsou k AI vesměs nepřátelští.
+
+Třetí linka řeší peníze a umění. slg varuje, že technici přeceňují svůj vhled do cizích řemesel a masové umění se kvůli úsporám znatelně zhorší, nater5000 odpovídá, že nerozhodují technici, ale obchodníci soustředění na návratnost, kterým stačí dost levný produkt, a mcphage dodává, že se zhorší skoro všechno. TFNA namítá, že umělecká komunita je rozštěpená a část výtvarníků a hudebníků o generativní AI zájem má. nirui přiznává, že se mu ten směr nelíbí, ale běžný zákazník kvalitu často nepozná ani neřeší, takže firmě může cesta nejlevnější produkce dávat smysl, dpiers celou kauzu čte jako návnadu na vztek a novou normu vidí v psaní zadání, řízení agentů a kontrole rozdílů, a whateveracct s avh02 uzavírají obavou z doby, kdy vedení vidí do editoru a firemní nástroje zaznamenají každou myšlenku.
+
+Čtenář si z vlákna odnese hlavně otázku, jestli AI dožene chybějící lidi, nebo jen zrychlí výrobu průměrnosti, kterou hráči poznají na první pohled.

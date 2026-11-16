@@ -1,0 +1,16 @@
+# 49949235
+**Simon Willison: potřebujeme tvrdé rozpočtové limity na všechno**
+
+Hacker News · elffjs · 4. října 2026, 02:20 · 605 bodů / 301 komentářů · [diskuse](https://news.ycombinator.com/item?id=49949235)
+
+Uživatel elffjs přinesl na Hacker News text blogera Simona Willisonna o tom, že svět bude s nástupem agentů zoufale potřebovat jednu funkci: výchozí tvrdé rozpočtové stropy u všech služeb s platbou za spotřebu. Měkké upozornění e-mailem podle něj nestačí, provoz se má po překročení částky zastavit a vracet chyby.
+
+Willison argumentuje, že coding agenti a osobní agenti výrazně snížili tření při spouštění kódu, který umí volat placená API a roztáčet výpočty či úložiště, a nikdo se nechce probudit s nočním varováním a účtem o stovky až tisíce dolarů vyšším. Za největší dlužníky označuje AWS, které v září představilo spending limits s pozastavením projektu po dosažení limitu, a Google Cloud, jenž v červenci spustil Spend Caps pro vybrané služby v projektu. Ideálem by podle něj bylo, kdyby agenti sami upřednostňovali providery s tvrdými limity, před necappovanými službami varovali a vypnutí stropu nechávali jen na výslovné přání zákazníka skrze jasný souhlas.
+
+Nejživější praktická výměna se stočila právě ke Google Cloudu. Uživatel modeless se nejdřív zaradoval, že po letech čekání přišly tvrdé limity, aby po přečtení podmínek editoval příspěvek, že jde o podvod, protože to funguje jen pro čtyři náhodné služby a pro zbytek jeho projektů je to k ničemu. Uživatel there_is_try doplňuje, že limity fungují na projektech založených v AI Studiu, zatímco další hlasy přidávají černé puntíky konkurenci: uživatel Arcuru ráno zjistil, že po přesunu CI na Ubicloud tam tvrdé stropy nejsou, a uživatel gman83 lakonicky poznamenává, že je nemá ani Cloudflare.
+
+Do toho se opřela ekonomická linka o motivaci vendorů. Uživatel mitxela se ptá, proč by prodejce chtěl ztížit cestu k náhodnému milionu, a dostává trojí odpověď: uživatel ares623 by šel k prodejci, který ho chrání, uživatel wat10000 připomíná, že takový milion by často stejně nešlo vymoci, a sám simonw dodává, že si vybere jiného dodavatele. Vedle toho uživatel hyperhello tvrdí, že služby bez smluvního stropu by vůbec neměly existovat, a uživatel Retric to přirovnává k elektřině, kde se účet nemůže bez varování zvrhnout z dvaceti dolarů na dvě stě tisíc. Že nejde o teorii, dokládají uživatelé lacunary a dwattttt poznámkami, že překvapivý účet na deset tisíc je ještě mírná verze a jeden z agentů svého majitele nedávno přišel asi na šest tisíc.
+
+Třetí proud diskuse řeší, kdo má pojistky hlídat a zda je má vynucovat zákon. Uživatel bl4kers volá po povinnosti ze zákona, uživatel notatoad navrhuje, aby zákazník ručil jen do výše stropu, který si nastavil, a odpůrci v čele s uživateli SV_BubbleTime a tjwebbnorfolk namítají, že trh a konkurence to vyřeší bez legislativy. Proti tezi, ať si každý naprogramuje vlastní jistič, jak navrhuje uživatel anigbrowl, staví uživatelé zanecodes a matkoniecz zkušenost s neprůhlednými ceníky a zpožděnými či nedostupnými daty o spotřebě, kvůli nimž to na straně klienta prostě postavit nejde. Z nápadů, jak chyby změkčit, zaujala otázka uživatele kadhirvelm, co přepínat po vyčerpání rozpočtu na levnější model místo tvrdého vypnutí.
+
+Kdo staví na agentech, měl by dnes začít výběrem poskytovatele podle stropu, ne podle ceny za token.

@@ -1,0 +1,16 @@
+# 50358582
+**Malá kniha základů generativní AI: matematika bez balastu**
+
+Hacker News · ibobev · 3. listopadu 2026, 22:40 · 293 bodů / 49 komentářů · [diskuse](https://news.ycombinator.com/item?id=50358582)
+
+Tianhua Chen vydal na arXivu pod číslem 2605.29713 útlou příručku matematických základů moderní generativní umělé inteligence, jejíž druhá verze je z 8. září 2026. Vede čtenáře od klasického PCA a pravděpodobnostního PCA přes variační autoenkodéry a difuzní modely až k normalizujícím tokům, autoregresním faktorizacím, GANům, Wasserstein GANům a energetickým modelům. Cílem není přehled všech nových architektur, ale souvislý a odvozený výklad, který ukazuje, jak tyto rodiny modelů spolu souvisejí.
+
+Anotace slibuje kompaktní úvod, který zpřístupní strukturu generativního modelování, aniž by vynechal matematickou podstatu potřebnou k pochopení odvození. Revidovaný preprint má 195 stran a oproti první verzi z konce května přidal vizuální vysvětlení v celém textu, autor vítá připomínky a opravy. Kniha míří na matematicky zvídavé výzkumníky, praktiky a studenty.
+
+Diskuse se rychle stočila k tomu, co číst vedle ní. prideout připomněl svou oblíbenou malou knihu od Françoise Fleureta o hlubokém učení a strhla se debata, zda se obě knihy překrývají, přičemž joe_the_user namítl, že Fleuret dává základy neuronových sítí, zatímco novinka přidává právě tu novější mašinérii kolem transformerů a generativních modelů. p1esk chválí překvapivou čtivost a začátek od základů lineární algebry, amplifydev se ptal po knize vyloženě o attention a dostal tip na video od 3Blue1Brown a na stručný text o formálních algoritmech pro transformery. hasteg doporučil jako jemnější a skvěle dávkovaný vstup knihu Proč se stroje učí od Anila Ananthaswamyho, která buduje intuici pro klíčovou matematiku.
+
+Nejobsáhlejší linka patří cvičením a praxi. Na dotaz nblgbg, zda existují knihy o hlubokém učení s úlohami k řešení, sepsal Valk3_ celý přehled od Understanding Deep Learning od Prince přes Bishopovy základy až po praktický Dive into Deep Learning a úlohy z berkeleyského kurzu o hlubokých sítích, přičemž za teoreticky nejvyváženější označil Bishopa a za programátorsky nejbohatší Prince. vismit2000 přihodil web s interaktivními úlohami a minimaxa prozradil, že si takové knihy a články sype do složky pro rozšířené vyhledávání, která už má osm gigabajtů a slouží mu jako přísný referenční materiál. Právě absence praktických příkladů je přitom v ohlasech nejčastější výtkou k nové knížce.
+
+Třetí proud diskuse řeší drobnosti v podání. StilesCrisis vyčetl hned prvnímu vzorci, označenému jako co nejjednodušší, že používá značení ê1 bez vysvětlení, což podle něj volá po další redakci. nhatcher, mkl a apricot oponovali, že jde o naprosto běžné značení jednotkového bázového vektoru a kniha ho přímo definuje na příkladu dvojrozměrných vektorů, totetsu k tomu poznamenal, že zapomínat matematiku už dnes není omluva. Podobně nh23423fefe kritizoval formulaci o změně souřadnic pomocí vlastních vektorů a KolenCh ji zařadil jako klasický spor aktivní a pasivní transformace, na niž matematici a fyzici nahlížejí odlišně.
+
+Kdo chce pochopit generativní modely odspodu a bez zbytečného balastu, má teď na stole stručných 195 stran, ke kterým si komunita rovnou přibalila tipy na procvičení i lehčí čtení na rozjezd.

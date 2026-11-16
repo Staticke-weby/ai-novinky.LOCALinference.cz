@@ -1,0 +1,330 @@
+{
+ "date": "2026-11-14",
+ "clanky": 36,
+ "temata": [
+  {
+   "title": "Podmořský svět v 97 kB. Claude Code napsal hru bez jediného obrázku",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xw376f"
+   }
+  },
+  {
+   "title": "Claude Code Projects umí řídit paralelní agenty",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50492141"
+   }
+  },
+  {
+   "title": "Fable 5.2 postavil 3D scénu v three.js jen z kódu",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xvqb28"
+   }
+  },
+  {
+   "title": "Claude smazal profesorovi sylabus i roční poznámky",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50499114"
+   }
+  },
+  {
+   "title": "Lokální Opus 5.5? Memy ukazují vzdálenost frontier modelu od domácího PC",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xwcmj3"
+   }
+  },
+  {
+   "title": "Nvidia prý uměle držela ceny GPU přes kruhové financování",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50493251"
+   }
+  },
+  {
+   "title": "AI video jako trailer: montáž zvládne žánry, dlouhá stopáž chybí",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xw0rl8"
+   }
+  },
+  {
+   "title": "GLM-5.3 na dvou DGX stanicích: 607 tokenů za sekundu",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50497155"
+   }
+  },
+  {
+   "title": "Skrýš Quadro RTX 5000: 16GB karty a rady, jak je prodat bez eBay",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xvqubr"
+   }
+  },
+  {
+   "title": "DeepSeek V3 ve 200 řádcích čistého JAX",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50497589"
+   }
+  },
+  {
+   "title": "Fable 5.2 v Pro tarifu jen do 16. listopadu. Advisor prý nebere kvótu",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xw1u7g"
+   }
+  },
+  {
+   "title": "The Claude Delusion: esej o iluzi všemocné AI",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50496921"
+   }
+  },
+  {
+   "title": "Bez jediného řádku kódu: ChatGPT ho dovedl k závodní hře v Godotu",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xvwyni"
+   }
+  },
+  {
+   "title": "agweb: prohlížeč pro agenty, který nekrade fokus",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50497147"
+   }
+  },
+  {
+   "title": "Frontier modely nejsou chytřejší, jen lépe trénované, tvrdí diskuse",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xwegdi"
+   }
+  },
+  {
+   "title": "Ask HN: které AI dovednosti se vyplatí naučit",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50494696"
+   }
+  },
+  {
+   "title": "OpenAI až sedmé v kódování. Volání po Astra 6.1 sílí",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xvqp23"
+   }
+  },
+  {
+   "title": "Lovable aplikace odhalily pasy a 200 tisíc zpráv",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50499017"
+   }
+  },
+  {
+   "title": "Claude a online research: model naráží na weby, uživatelé utíkají jinam",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xvnjsb"
+   }
+  },
+  {
+   "title": "Antigravity /teamwork: agenti vyřešili otevřené vědecké problémy",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50496811"
+   }
+  },
+  {
+   "title": "MOSS Image: jednoduché nastavení poráží placebo ladění",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xw80tg"
+   }
+  },
+  {
+   "title": "Budou datacentra ve vesmíru? Ekonomika orbitálního computu",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50498945"
+   }
+  },
+  {
+   "title": "Lokální AI jako budoucnost. Uživatelé popisují odklon od cloudu",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xwf8bb"
+   }
+  },
+  {
+   "title": "geohot: první úder, ASI a slepá ulička AI závodu",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50491944"
+   }
+  },
+  {
+   "title": "Osm RTX 3090 v jedné bedně: rig za 600 liber za kartu a topení k tomu",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xwc3m7"
+   }
+  },
+  {
+   "title": "Fursoy Slice-1: out-of-order RISC-V jádro bootuje Linux",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50497137"
+   }
+  },
+  {
+   "title": "Anthropic přidal wrap-up: Claude před limitem dokončí práci a rozloučí se",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xvo89j"
+   }
+  },
+  {
+   "title": "Project Zero zkracuje lhůtu na 90 dní kvůli AI",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50496051"
+   }
+  },
+  {
+   "title": "Kdo bude trénovat stovkomiliardové modely? Lokální scéna visí na laboratořích",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xw0xeu"
+   }
+  },
+  {
+   "title": "PyPI má nové stránky s jasnějšími bezpečnostními signály",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50497892"
+   }
+  },
+  {
+   "title": "Sto let ostrova: GPT-6 Astra proti Claudovi Opus v simulaci království",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xwds1h"
+   }
+  },
+  {
+   "title": "Itálie pokutovala Metu 805 milionů eur kvůli fotkám",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50497009"
+   }
+  },
+  {
+   "title": "MiniMax H3 dostal LoRA pro výměnu postav. Podle některých stačí prompt",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xvz8m9"
+   }
+  },
+  {
+   "title": "Claude maluje: další generovaný obraz budí otázku, co je autorské",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xvzair"
+   }
+  },
+  {
+   "title": "Právník s osmi V100 se dostal na Tom's Hardware. DeepSeek běží z domova",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xw2ogq"
+   }
+  },
+  {
+   "title": "Kdo krade umění? Mem o AI a IP rozjel debatu o pokrytectví",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xvmxbh"
+   }
+  }
+ ]
+}

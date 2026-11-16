@@ -1,0 +1,14 @@
+# 1xjqyv2
+**Claude bude vodoznakem značit vše, co napíše. Uživatelé to neověří**
+
+r/ClaudeAI · u/Mainfurr · 30. října 2026, 21:48 · 1856 bodů / 621 komentářů · [diskuse](https://www.reddit.com/r/ClaudeAI/comments/1xjqyv2/)
+
+Anthropic od 3. listopadu rozšiřuje neviditelný textový vodoznak na modely Mythos 5, Opus 4.7, Opus 4.6 a Sonnet 4.6. Každý model vydaný od srpna ho už má, značka platí celosvětově a placení uživatelé se z ní nemohou odhlásit. Autor v dovětku přiznává, že samotný příspěvek napsal Claude Opus 5.5, takže je označený také.
+
+Největší rozruch budí asymetrie v ověřování. Detekce běží jen v soukromém náhledu pro regulátory, média, výzkumníky a firmy s compliance povinnostmi, takže posuzovaný člověk je jediný, kdo si vlastní text nezkontroluje. Do této obavy míří i poznámka u/slimscsi, že pokud značka kóduje „tohle vyrobil Claude", je to v pořádku, ale pokud kóduje „tohle bylo vyrobeno pro uživatele s číslem 12345", v pořádku to není. Nejvýše hodnocená věcná reakce k tomu přidává varování před omyly: u/npsonics píše, že si otestoval diplomku starou šest let a vyšlo mu, že je s 56% jistotou napsaná umělou inteligencí, což podle něj skončí katastrofou a napáchá velké škody.
+
+Druhá linka diskuse řeší, že značka neznamená autorství, jen dotek modelu. I když Claude jen opraví překlepy nebo přeloží cizí text, stopa zůstane, a stejně tak dopadne na nerodilé mluvčí a lidi s dyslexií jako na někoho, kdo si nechal vygenerovat celou esej. u/hollygohardly popisuje, jak nechal Opus 5.5 upravit e-mail a model změnil jen tečku a dvě slova, a ptá se, co se v takovém případě vlastně značí. u/Low_Sheepherder_4574 odpovídá z vlastní zkušenosti, že je dyslektik, na korektury se silně spoléhá a v regulovaném prostředí je to pro něj pohroma. Proti panice stojí u/Bodger1234567 s tím, že u životopisu by ho zajímala pravdivost zkušeností a péče o prezentaci, nikoli cesta k uhlazenému textu, protože skutečné porozumění si ověří až pohovor.
+
+Třetí proud je technický a dost jízlivý. u/waxroy-finerayfool píše, že z technického hlediska to spolehlivě fungovat nemůže, u/redcremesoda si všímá neobratných vol­eb slov a náhodných spojovníků a spekuluje, jestli právě tak vypadá snaha vměstnat značku do textu. u/OmnifiCentric se ptá, kde je spodní hranice, když má model opravit jen velká písmena a interpunkci a na skrytý signál nezbývá prostor. Praktické obcházení popisuje u/myairblaster, který výstup z Claude prožene ještě korekturou v Grammarly, a víc hlasů se shoduje, že přeformulování jiným modelem stopu smaže, takže poctiví zůstanou viditelní a skuteční podvodníci projdou. Nejtvrději to shrnuje u/ENDERH3RO, podle něhož Anthropic trénoval na textech celého lidstva, a teď značkuje člověka, který si nechá jen učesat vlastní psaní.
+
+Kdo si text jen leští, aby obstál v práci nebo ve škole, může si podle vlákna odnést cejch, aniž by kdy zjistil proč.

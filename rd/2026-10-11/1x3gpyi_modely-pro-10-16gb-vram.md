@@ -1,0 +1,14 @@
+# 1x3gpyi
+**Všechny modely, které poběží na 10–16 GB VRAM, seřazené**
+
+r/LocalLLaMA · u/WEREWOLF_BX13 · 11. října 2026, 21:12 · 371 bodů / 89 komentářů · [diskuse](https://www.reddit.com/r/LocalLLaMA/comments/1x3gpyi/)
+
+Uživatel seřadil čtrnáct modelů, které se vejdou do 10–16 GB VRAM a 26–32 GB RAM a zvládnou až 64tisícový kontext v Koboldu nebo LLAMA. Hodnotil rychlost nad 10 tokenů za sekundu, vnitřní soudržnost dialogu, zvládnutí japonštiny, brazilské portugalštiny a americké angličtiny včetně překlepů a drsnější mluvy, četnost otřepaných obratů i míru cenzury. Na první místo postavil Gemmu 4 26B-A4B pro dialog, přesnost a humor, na druhé abliterovaný Qwen 3.6 35B-A3B, a přidal háček z vlastního testu: přehled o anime, manze, filmech a hudbě mají podle něj až modely nad 200 miliard parametrů.
+
+Nejhlasitější odpověď ale jeho žebříček rovnou zpochybnila. u/paq85 napsal, že na prvním místě je Qwen 3.8 27B a dál už není třeba ztrácet čas, a u/starwaves1 ho podpořil tím, že zabere jen kolem 12 GB, nechá místo na slušný kontext a výkonem překvapivě drží. Do stejné linky zapadá i u/Lucky-Noise-4193 s otázkou, kdy přijde Qwen 3.8 Flash. Opatrnější je u/ttkciar, který v textu vidí chyby, možná halucinace: Gemmu 4 19B-A1B prý na Hugging Face nenašel, nejbližší je varianta 19B-A4B, a autora žádá o ověření nebo opravu.
+
+Vedle toho se rozjela debata o tom, co v seznamu chybí nebo přebývá. u/Manerfish se diví starším modelům a podivným finetunům včetně jednoho od Davida AU, u/jacek2023 zase postrádá desítky dalších ladění a ptá se, proč je na seznamu Gemma 3 12B, a u/Biro_Biro_ se přidává s otázkou, proč nepoužít rovnou Gemmu 4 12B. Praktickou námitku má u/AltruisticList6000: Mistral Small s 24 miliardami parametrů prý na 16 GB VRAM běží v pohodě v kvantizaci kolem Q4 a zvládne skoro 50tisícový kontext, chválí i Nemo styl dialogu u verze 22B z roku 2024. u/Witty_Mycologist_995 doporučuje na psaní a hraní rolí modely Drummer nebo StyleTune a u/ANR2ME odkazuje na sbírku více než dvou set Davidových modelů pro roleplay a tvůrčí psaní.
+
+Neživěji působí zkušenosti z provozu. u/deividgp1 zkusil lokální model na překlad titulků a Gemma 4 26B v kvantizaci od Unslotu mu na 3080 Ti jede kolem stovky tokenů za sekundu, s kontextem 50 tisíc a dobře prý zvládá převod anglických vtipů a sarkasmu do brazilské portugalštiny, poslední díl seriálu nemusel skoro vůbec opravovat. Vadí mu jen náhodné hvězdičkování sprostých slov, jenže abliterované odvozeniny mu zase rozbily portugalštinu, takže raději slova dopisuje ručně. Zbytek vlákna tenhle luxus relativizuje: u/pixelbart pláče se svými 8 GB VRAM, u/rgldx prosí o verzi pro 6–8 GB a u/pacocar8 o seznam pro integrovanou grafiku.
+
+Kdo má doma střední kartu, tak si z vlákna odnese jasné vodítko: začít vítěznou Gemmou, pohlídat si Qwen 3.8 27B a nebrat žádný žebříček jako hotovou věc.

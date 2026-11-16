@@ -1,0 +1,262 @@
+{
+ "date": "2026-10-28",
+ "clanky": 30,
+ "temata": [
+  {
+   "title": "Levné GPU už příští rok? Sázka na prasknutí AI bubliny",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xhep6w"
+   }
+  },
+  {
+   "title": "Gemini 4 Carbon: Google útočí na čelo žebříčku i na kyberbezpečnost",
+   "sources": [
+    "rd",
+    "hn"
+   ],
+   "ids": {
+    "rd": "1xhu2sn",
+    "hn": "50276792"
+   }
+  },
+  {
+   "title": "Dessa: plně duplexní hlasový model běží na spotřebitelských GPU",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xhgarj"
+   }
+  },
+  {
+   "title": "Humanista získal první náboženskou výjimku z používání AI v práci",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50273396"
+   }
+  },
+  {
+   "title": "Výzkumníci našli „zlý neuron“ a jeho aktivace mění chování modelu",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xhra80"
+   }
+  },
+  {
+   "title": "Daňoví agenti propadli. Benchmark ukázal, kde AI ztrácí profesní úsudek",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50275626"
+   }
+  },
+  {
+   "title": "RISC-V procesor přímo ve váhách Qwenu: model umí spouštět instrukce",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xhmo1q"
+   }
+  },
+  {
+   "title": "Google AI odmítá říct, kdo vyhrál volby. U ostatních ročníků odpovídá",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50280178"
+   }
+  },
+  {
+   "title": "Mac Studio M5 Ultra s 512 GB paměti startuje na 22 299 dolarech",
+   "sources": [
+    "rd",
+    "hn"
+   ],
+   "ids": {
+    "rd": "1xhu3b0",
+    "hn": "50277166"
+   }
+  },
+  {
+   "title": "Nvidia vydala Nemotron 3.5 Transcribe. Otevřený přepis pro 40 jazyků",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50275128"
+   }
+  },
+  {
+   "title": "Šedesátimilionový AI superpočítač míří na eBay. 9 600 A100 a doprava zdarma",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xhsvmy"
+   }
+  },
+  {
+   "title": "Cursor Agent SDK: agenty jako kód, které hlídají pull requesty",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50273731"
+   }
+  },
+  {
+   "title": "Gemma 5 na obzoru: komunita skládá seznam přání",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xhjn9d"
+   }
+  },
+  {
+   "title": "Harvey vybral 500 milionů. Vývojář postavil právní AI jako open source",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50273623"
+   }
+  },
+  {
+   "title": "Suleymanův odpočet: všechny kancelářské úkoly do 12–18 měsíců?",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xhcq3f"
+   }
+  },
+  {
+   "title": "Microsoft a Epic brojí proti AI kopiím. Sami přitom AI používají",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50271271"
+   }
+  },
+  {
+   "title": "Projektový manažer poslal PR z Clauda. Tým musel nastoupit na review",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xhl5cb"
+   }
+  },
+  {
+   "title": "Valve radí vývojářům, jak se bránit AI klonům: komunita a updaty",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50273192"
+   }
+  },
+  {
+   "title": "Spánkový rámec Google Research: jak naučit LLM nezapomínat",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xhjqsi"
+   }
+  },
+  {
+   "title": "Žízeň datacenter po vodě naráží na odpor po celém světě",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50278754"
+   }
+  },
+  {
+   "title": "Unsloth naučil lokální Qwen ovládat prohlížeč. Stačí jeden příkaz",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xhubiw"
+   }
+  },
+  {
+   "title": "AI šéfové ztrácejí kontakt s běžnými lidmi, míní TechCrunch",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50281826"
+   }
+  },
+  {
+   "title": "Artificial Analysis Intelligence Index v5: open-weight modely se propadly",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xhdmlk"
+   }
+  },
+  {
+   "title": "Vibe coding her má svůj říjnový zlom. Claude Opus 5.5 už umí „zábavu“",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50273753"
+   }
+  },
+  {
+   "title": "Character Reference pro Animu: stejná postava z jedné předlohy",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xhfyso"
+   }
+  },
+  {
+   "title": "Místo promptování: nechte si od Clauda postavit ovládací panel",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xha250"
+   }
+  },
+  {
+   "title": "Ex-výzkumník OpenAI: útok na Anthropic prý získal správce Slacku",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xhr3wv"
+   }
+  },
+  {
+   "title": "Prezidentka Anthropicu: AI přítelkyně jsou špatné využití technologie",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xi1xgl"
+   }
+  }
+ ]
+}

@@ -1,0 +1,16 @@
+# 50415628
+**Goldman Sachs omezil Claude Code. Tradeři a bankéři už si nekódují sami**
+
+Hacker News · TheWiggles · 8. listopadu 2026, 19:16 · 688 bodů / 384 komentářů · [diskuse](https://news.ycombinator.com/item?id=50415628)
+
+Goldman Sachs podle Bloombergu v říjnu omezil Claude Code od Anthropicu a GitHub od Microsoftu jen na své inženýry. Většina traderů a bankéřů tak přišla o agentní nástroje, kterými sledovali klientské toky, modelovali pohyby trhu a pozice a skládali textové i grafické podklady. Banka krok zdůvodňuje prověrkou produktivity a rizik: agent čte soubory, píše programy a spouští je se stejnými právy jako uživatel, aniž by kód prošel běžným schvalováním.
+
+Odkazovaný článek ten obrat zasazuje do širšího příběhu. Ještě v červenci šéf informatiky Marco Argenti chválil „vibe coding" netechnických zaměstnanců, kteří postavili první verze nástrojů a předali je zhruba dvanácti tisícům inženýrů ze zhruba 47 tisíc zaměstnanců k dopracování. Už v dubnu přitom banka odebrala Claude bankéřům v Hongkongu kvůli smluvním podmínkám a nyní je spolu s Morgan Stanley hlavním upisovatelem chystaného vstupu Anthropicu na burzu pod tickerem ANT. Interní firemní asistent využívající modely více firem zůstává dostupný celé firmě, omezení míří na externí agenty, kteří umí sami psát a spouštět kód.
+
+Nejživější linka diskuse řeší, jestli je zákaz správně, nebo jestli banka rezignovala na lepší řešení. Uživatel Ericson2314 píše, že má pro netechnické tvůrce spíš sympatie a úkolem inženýrů mělo být navrhnout bankéřům bezpečné prostředí, kde si nemohou ublížit, a dobré abstrakce ve stylu „low code naruby". Odpovědi to vracejí k realitě regulované banky: uživatel neya připomíná insider trading a compliance, uživatel steveBK123 varuje před obcházením „čínské zdi" mezi dealmakery a tradingem i před nevinným shrnováním e-mailů do databáze, kterou pak omylem nasdílí celé desce a rozbije tím přístupová práva.
+
+Druhá linka se směje představě, že inženýři jsou v bezpečí. Uživatel CharlieDigital glosuje, že i vývojáři ztrácejí schopnost kód číst, protože se po nich chce rychlost a objem zároveň, na což uživatel 0c3ca83 kontruje, že v tu chvíli už to není inženýrství, ale vibe coding. Uživatel cloudednine, který prý takové obchodnické výtvory dostával k „vylepšení", dodává, že to slovo odvádí hodně těžkou práci – ve skutečnosti jde o kompletní přestavbu, nebo o tichý konec v hlubinách backlogu. Někdo se proto ptá, jestli by nebylo jednodušší poslat inženýrům rovnou původní prompt.
+
+Zbytek vlákna řeší srovnání s Barclays a pointu celé situace. Uživatel amelius upozorňuje, že Barclays jde opačným směrem, ale uživatel delis-thumbs-7e upřesňuje, že i tam dostávají agenta vývojáři, které banka o pár týdnů později zařadila mezi pět tisíc škrtaných míst. Uživatel aurareturn omezení hájí tím, že dobří inženýři poznají, když model udělá hloupost, zatímco uživatel timcobb namítá, že tradeři jsou chytří lidé a o skvělého pomocníka pro práci s prostředím je škoda. Uživatel MallocVoidstar ještě dodává, že původ je v Bloombergu a převyprávěný text pochází ze stránky State of AI, kterou považuje za spam.
+
+Z diskuse tak zůstává obraz banky, která nejdřív nechala tisíce lidí stavět nástroje bez dohledu a teď jim je prostě vzala – bez jasné náhrady pro práci, kterou s nimi stíhali.

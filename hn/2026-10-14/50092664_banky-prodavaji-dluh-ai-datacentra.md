@@ -1,0 +1,14 @@
+# 50092664
+**Banky se snaží zbavit dluhu za AI datacentra, který právě upsaly**
+
+Hacker News · smartmic · 14. října 2026, 20:32 · 352 bodů / 243 komentářů · [diskuse](https://news.ycombinator.com/item?id=50092664)
+
+Ještě před půl rokem se banky předháněly v tom, kdo bude financovat výstavbu datacenter pro Oracle, Metu a další hráče AI boomu. Teď se stejné ústavy snaží tenhle dluh dostat ze svých knih a přesouvají jeho nejrizikovější část na vnější investory, protože narážejí na interní limity expozice vůči AI.
+
+Odkazovaný článek popisuje hlavně případ půjčky za 38 miliard dolarů na stavbu areálů v Texasu a Wisconsinu pronajatých Oraclu, kterou se skupina věřitelů snaží rozprodat už více než půl roku, část i se slevou. K tomu přidává zhoršené podmínky Oraclu, jehož náklady na pojištění proti krachu se vyšplhaly na úrovně z roku 2009 a rating agentura S&P už v červenci srazila na BBB-, tedy těsně nad spekulativní pásmo. Podle článku zároveň slábne poptávka po bondech velkých technologických firem a objednávkové knihy se od února do července propadly zhruba z pětinásobku nabízeného objemu na méně než dvojnásobek.
+
+Nejživější linka diskuse řeší, jestli je tohle normální bankovní rutina, nebo ozvěna roku 2007. Uživatel plouffy tvrdí, že banky prostě upíšou půjčky a pak riziko posunou dál, na což uživatel jfsynfyjbdf odpovídá přirovnáním k hypotečním cenným papírům z roku 2007 a uživatel ceejayoz připomíná, že právě takový proces tehdy skončil globální finanční krizí. Uživatel glaucon upozorňuje na rozpor mezi tímto uklidňováním a tezí článku, že sebevědomého dluhu by se banky nezbavovaly, a uživatel beej71 dodává, že podle textu se jim prodej ani nedaří.
+
+Další větev se ptá, zda jde o předzvěst krachu. Uživatel dragontamer odpovídá, že záleží na ceně, za kterou se dluh prodá, zatím ceny dluhopisů sice klesají, ale nic nepanikaří. Uživatel UncleOxidant vzpomíná na léto 2007, kdy mu druhé hypotéky používané jako zálohy přišly podezřelé, vydělal i prodělal na shortování, ale pád pak přišel mnohem později, než čekal. Uživatel Havoc to shrnuje, že na znameních nezáleží tolik jako na načasování, které nikdo netrefí.
+
+Do toho přibývají čísla o ochlazení trhu. Uživatel CodingJeebus cituje data Morgan Stanley, podle nichž firmy v září získaly na AI dluh 23 miliard dolarů, tedy méně než polovinu srpnového objemu a výrazný pokles proti rekordním 113 miliardám z června. Uživatel chasd00 namítá, že bez očekávání nejde pokles interpretovat, a dodává, že samotná Morgan Stanley ho vysvětluje právě velkým objemem dluhu nabraného dříve v roce. Humornou tečku obstarává debata o kolaterálu: uživatel iovrthoughtthis se ptá, kdo bude vykupovat grafické karty ze zkrachovalých datacenter, uživatel cosmotic vysvětluje, že datacentrové akcelerátory do běžného počítače nezapojíte, a uživatel nyorai se ptá, kdy přijdou dluhové cenné papíry kryté grafikami Nvidie.

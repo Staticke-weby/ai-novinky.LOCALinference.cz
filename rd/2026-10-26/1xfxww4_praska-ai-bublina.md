@@ -1,0 +1,14 @@
+# 1xfxww4
+**Praská AI bublina? Uživatelé sledují limity i čínské ztráty**
+
+r/ClaudeAI · u/anonthatisopen · 26. října 2026, 15:10 · 845 bodů / 377 komentářů · [diskuse](https://www.reddit.com/r/ClaudeAI/comments/1xfxww4/)
+
+Autorovi stačí Opus 5.5. Na programování je podle něj zlatým dolem a vyhovuje mu i na 3D práci, novější modely ho už nelákají. Vadí mu ale něco jiného: že za placený nástroj musí neustále přepočítávat, kolik práce si ještě může dovolit, a že se limity předplatného znovu snížily. Ptá se proto, kdy stejnou kvalitu utáhnou lokální modely, a doufá, že právě ony zatlačí na předplatitelský byznys a pomohou bublinu splasknout.
+
+Nejvýše hodnocená odpověď ho vrací na zem. Podle u/chingford-explorer není problém v modelech, kterých je mezi open source dost, ale v hardwaru: velké verze s mnoha parametry potřebují obrovskou paměť a výpočetní výkon, a bez revoluce v železe zůstane rychlost a síla v cloudu. Podobně to vidí u/DrexelMacintosh, podle kterého ptát se, kdy lokální model dožene frontier model, je jako ptát se, kdy osobní počítač s indexem celého internetu dožene Google. Připomíná, že peníze do velkých laboratoří dál tečou, protože každá firma chce být Applem či Googlem svého oboru, a že Amazon prodělával devět let a Uber čtrnáct let, než ovládly trh.
+
+Druhá linka debaty řeší peníze a limity. Nejstručněji to shrnul u/NothingIsForgotten, podle kterého mu bublina praskne pokaždé, když narazí na týdenní kvótu. Věcněji to podává u/shimoheihei2: předplatné je už dnes dotované, skutečné náklady jsou mnohem vyšší, a kdo si otevřené modely rozjede sám, dostane za víc peněz horší výkon. Neomezený výkon na úrovni Opus 5.5 za méně než sto dolarů měsíčně tak v příštích pěti letech při současných cenách hardwaru nečeká. Doplňuje ho u/East-Acanthaceae-879, který odhaduje, že hardware na hostování Opus by vyšel na zhruba 1,2 milionu dolarů, a proto si ho samy nehostují ani firmy, které by si to mohly dovolit.
+
+Naděje podle části vlákna není v plně lokálním běhu, ale v otevřených vahách u levnějších poskytovatelů. U/ShadowBannedAugustus píše, že open weight modely ztrácejí na špičku asi sedm měsíců, takže úroveň Opus 5.5 by mohly mít někdy ve druhém čtvrtletí 2027, a příkopem pak nebude model, ale compute. U/SoCal_Hunter čeká, že otevřené modely budou mít za rok kvalitu Fable, poběží u nezávislých operátorů a závod ke dnu stlačí cenu i na padesátinu. Praktický kompromis už dnes ukazuje u/LankyGuitar6528: web mu z 98 % postavil lokálně běžící model a Opus 5.5 pak jen zahladil hrubé hrany, takže Claude pořád potřebuje, ale mnohem méně.
+
+Vedle toho vlákna se na Redditu paralelně probírají i zprávy o prasknutí čínské AI bubliny a graf srovnávající příjmy Anthropicu s náklady na výpočty. I tady ale zaznívá, že konec se nekoná: podle u/Random_Nickname274 bublina nesplaskne, protože jde o závod Číny a USA, ve kterém si ani jedna strana nemůže dovolit ztratit náskok.

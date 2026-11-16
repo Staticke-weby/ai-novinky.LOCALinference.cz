@@ -1,0 +1,14 @@
+# 1xq1qtj
+**Neomezený chat v ChatGPT končí. Uživatelé zvažují přechod ke Claude**
+
+r/OpenAI · u/ShinyPlasm · 7. listopadu 2026, 09:46 · 213 bodů / 143 komentářů · [diskuse](https://www.reddit.com/r/OpenAI/comments/1xq1qtj/)
+
+Neomezený chat v rámci předplatného ChatGPT Plus končí a místo něj přicházejí limity, které mají vážně dopadnout na zaběhnuté pracovní postupy. Autor příspěvku popisuje, že si Plus držel právě kvůli neomezenému povídání pro plánování, rešerše a práci na různých projektech. Teď proto zvažuje zrušení předplatného a přesun agentní práce ke Claude, za běžný chat ale zatím náhradu nemá.
+
+Nejvýše hodnocená reakce přitom volá po klidu. u/Aglet_Green píše, že počká, jak se ho změna dotkne, protože limity chatu ani generování obrázků stejně nikdy nedosáhl. Podobně uvažuje i u/gewappnet, podle kterého nic nekončí, protože model Instant zůstává neomezený a nejlepší dostupný model v Plus nikdy neomezený nebyl. Do toho u/TeamTomorrow upozorňuje, že děsivý není ani tak samotný limit, jako to, že OpenAI pořád neřekla, jak velký bude od prosince společný příděl pro Chat a Codex, takže se kolem nezveřejněného čísla nedá plánovat pracovní postup.
+
+Nejsilnější proud diskuse ale míří k Anthropicu. u/Espressobytom už předplatné chatu zrušil, na měsíc dostal zdarma a chce měsíc zkoušet Claude, který má mít teď velkorysejší limity, zatímco u/Positive_Box_69 už přesun stihl a nechává si jen minimální předplatné ChatGPT na obrázky a různé drobnosti, protože hlavní kódování a práce je v Claude působivá a za ty peníze má velkou hodnotu. Podobně u/codelyoko_x vypráví, že stejný kódovací projekt zadal Muse, Claude a ChatGPT a výsledek Claude byl o tolik lepší, že přešel na Muse pro každodennosti a Claude pro kódovací projekty. Zaznívá i varování, že útěk k jednomu laboratoři problém jen přesune jinam, protože Claude má zase vlastní týdenní zdi.
+
+Vedlejší linka hledá náhradu pro obyčejné povídání. Odpověď u/FigFew2001 má jediné slovo, DeepSeek, u/ElaBosak sází na Gemini pro běžný chat a dotazy a u/3yl dodává, že na osobní povídání má raději interakci s Gemini, zatímco na genealogii nedá dopustit na ChatGPT. Technickou cestu naznačuje u/CardiologistPlus8488 odkazem na r/LocalLLM a sám autor příspěvku přemýšlí o vlastním modelu na základním M4 Mac Mini se 16 GB paměti, jenže podle prvního průzkumu se jeho lokálně běhatelné modely kvalitou nechytají. Odstrašující zkušenost přidává u/ThaSipah, který si chce lehké mody pro hry psát zpět na lokální Qwen 3.8 27b, což je u delších kódovacích úkolů utrpení. Odlehčení obstaral u/End2EndEncryption hláškou, že právě sedí na porcelánovém trůnu.
+
+Z diskuse tak nevychází jeden vítěz, ale vyčkávání a rozkládání rizika: nechat si Plus jako pojistku, důležité věci mít vyexportované a vedle toho včas otestovat Claude, Gemini, Qwen nebo Kimi.

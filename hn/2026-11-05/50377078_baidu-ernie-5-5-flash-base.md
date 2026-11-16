@@ -1,0 +1,16 @@
+# 50377078
+**Baidu vydal ERNIE 5.5 Flash Base. Má 280 miliard parametrů**
+
+Hacker News · pretext · 5. listopadu 2026, 10:29 · 171 bodů / 96 komentářů · [diskuse](https://news.ycombinator.com/item?id=50377078)
+
+Baidu vydal ERNIE-5.5-Flash-Base, otevřený základní model bez jakéhokoli mid-trainingu či post-trainingu. Jde o řídký Mixture-of-Experts s 280 miliardami parametrů celkem, z nichž se na jeden token aktivuje 14 miliard, předtrénovaný od nuly na 33,5 bilionu tokenů. Má sloužit jako společný start pro vlastní dotrénování, ladění instrukcí a výzkum učení s odměnami, hlavně pro agentní a dlouhokontextové úlohy.
+
+Odkazované oznámení staví celou architekturu kolem úspornosti: 43 Transformer vrstev s hidden size 4096 a 64 attention hlavami kombinuje Multi-head Latent Attention jen v každé sedmé vrstvě se silně komprimovanou pozorností ve zbytku, doplněnou o Multi-Router Latent MoE s 512 routovanými experty a novou výstupní hlavou MultiMax. Tréninkový kontext rostl postupně na 128 tisíc tokenů, pro fine-tuning a inferenci model podporuje až milion tokenů, a ve vlastním srovnání s DeepSeek-V4-Flash-Base, Hy3-preview-Base a MiMo-V2.5-Base vede hlavně v uvažování, kódu a zkouškových testech.
+
+Jádro diskuse je v tom, k čemu takový syrový model vůbec je. Uživatel spwa4 upozorňuje, že bez instruction fine-tuningu se nehodí na nic jako coding agenti, a uživatel stingraycharles se přímo ptá, jestli jde jen o doplňování textu bez alignmentu a uvažování. Proti tomu uživatel adrian_b vysvětluje, že pro týmy se zdroji na dokončení tréninku jsou právě base modely mnohem užitečnější, podobně je vydávají i Google a Nvidia, a uživatel karahime dodává, že odklon od jejich zveřejňování škodil celému oboru. Uživatel A_D_E_P_T model chválí jako silnější než Qwen a DeepSeek Flash a ideální pro firmy, které si ho lokálně dotrénují na vlastní pravidla a styl.
+
+Druhá linka řeší férovost srovnání a podmínky použití. Uživatel input_sh namítá, že Baidu se poměřuje s DeepSeek V4 Flash, tedy v podstatě o dvě generace starší verzí než aktuální Flash, což potvrzuje i uživatel v9v. Uživatel halJordan tvrdí, že čínské laboratoře modely ladí hlavně na benchmarky pro vládní zadavatele, zatímco uživatel mkl varuje, že licence je na otevřený základ překvapivě restriktivní a vylučuje celé použití v Evropské unii, Británii a Jižní Koreji včetně derivátů. Praktičtější dotazy přidávají uživatel Tepix, podle kterého se model při slušné kvantizaci vejde do 2x128 GB, a uživatel bguberfain, který hledá doporučení na framework pro další trénink na clusteru s InfiniBandem.
+
+Neživěji je ale kolem samotného jména. Uživatel speedping píše, že ERNIE zní staře jako BERT a zasloužilo by rebrand, nebo naopak plné přijetí retro atmosféry počátků strojového učení. Uživatel josh-wrale připomíná Berta a Ernieho ze Sezamové ulice, uživatel cubefox vysvětluje, že jde o narážku na BERT z roku 2018, zatímco uživatel roryirvine lituje, že zkratka znamená Enhanced Representation through kNowledge IntEgration, a ne poctu slavnému britskému generátoru náhodných čísel ERNIE z padesátých let pro Premium Bonds.
+
+Z vlákna tak vychází jednoduché ponaučení: syrový základ sice hned nespustíte jako asistenta, ale právě v té nedokončenosti vidí část komunity jeho největší cenu.

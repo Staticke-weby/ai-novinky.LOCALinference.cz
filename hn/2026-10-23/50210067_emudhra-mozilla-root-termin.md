@@ -1,0 +1,16 @@
+# 50210067
+**eMudhra zmeškala termín Mozilly a viní sociální sítě**
+
+Hacker News · IcePenguin · 23. října 2026, 16:52 · 195 bodů / 153 komentářů · [diskuse](https://news.ycombinator.com/item?id=50210067)
+
+Uživatel IcePenguin upozornil na nový vývoj kolem kompromitovaných mezilehlých certifikátů eMudhry. Certifikační autorita měla na dotazy Mozilly nejprve 24 hodin a po vlastní žádosti dostala ještě den navíc, ale do pátku 23. října odpověď nedodala. Své mlčení vysvětluje tím, že ji ochromil intenzivní tlak na sociálních sítích a dotazy investorů a zákazníků.
+
+Odkazovaný záznam Bug 2083449 popisuje kompromitaci privátních klíčů osmi mezilehlých certifikátů, na kterou 17. října upozornil výzkumník Wayne s důkazem o kontrole nad klíči. Mozilla si klíče krátce poté dokázala sama zrekonstruovat a potvrdila, že chyba byla v generování a její zneužití je triviální. Šest zasažených certifikátů sloužilo pro TLS a důvěřovaly jim kořenové programy prohlížečů a operačních systémů, zbylé dva byly určené pro podepisování kódu.
+
+Právě výmluva na sociální sítě diskusi rozlítila. Antonvs se ptá, jak to přesně funguje, a rýpe si, že kdyby firma méně sledovala síť X a více svůj software, stihla by toho víc. Wolvoleo nechápe, jak může povyk zvenčí znemožnit interní analýzu, a InsidiousWombat to čte jako důkaz organizační neschopnosti navíc k selhání procesu. Criddell připomíná, že právě od toho jsou manažeři, aby lidi dělající práci odstínili od vnějšího rozptylování, a bauruine z toho vyvozuje, že by se měla odebrat důvěra všemu, čeho se eMudhra kdy dotkla.
+
+Jedinou vstřícnější linku držel ForHackernews, podle něhož je reakce firmy pochopitelná, protože svolat lidi ke klidné analýze příčin je těžké, když šéfové zuří a investoři křičí po obětech. Roblabla mu oponuje, že v normální firmě řeší křičící investory jiní lidé než analýzu, leda by v eMudhře dělal všechny práce jeden člověk. Altairprime dodává, že provoz certifikační autority je ze své podstaty veřejný a nehody se přiznávají otevřeně, takže pokud vedení nedokáže zajistit prostředí pro dodržování pravidel, je konec důvěry správným výsledkem. Andor a FireBeyond pak upozorňují na věcné trhliny v obhajobě, protože některé otázky byly jednoduché a firma už dříve mluvila o chybě ve skriptu, který ale neukázala, a své první odpovědi plnila odvolávkami na autoritu a délku praxe svých lidí.
+
+Přesah dostala i debata o odpovědnosti. Plasmoid se ptal, jaký díl nese autorita, která mezilehlé certifikáty podepsala, a IcePenguin doplnil, že Sectigo své křížově podepsané certifikáty zneplatnil do dne od přiznání problému. Tamimio srovnává s inženýrem, který z nedbalosti způsobí pád mostu a jde před soud, zatímco v technologickém světě prochází podobné selhání bez trestu, ačkoliv vadné certifikáty mohou být kdekoli od internetu věcí po kritickou infrastrukturu. Jwineinger nadhodil, zda Američan vůbec potřebuje ve výchozím nastavení důvěřovat autoritám z Indie, na což tptacek odpovídá, že eMudhra byla globální autorita s pobočkami obsluhujícími americký trh a problémem nejsou cizí firmy, ale špatné autority.
+
+Z vlákna tak zůstává obraz firmy, která zmeškala klíčový termín vyšetřování a místo technických odpovědí nabízí stížnost na tlak okolí, což komunitu utvrzuje v tom, že případ může skončit odebráním důvěry v její kořeny.

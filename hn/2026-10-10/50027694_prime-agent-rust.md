@@ -1,0 +1,16 @@
+# 50027694
+**Prime Agent přepsán od základu v Rustu**
+
+Hacker News · piotrgrabowski · 10. října 2026, 01:06 · 64 bodů / 20 komentářů · [diskuse](https://news.ycombinator.com/item?id=50027694)
+
+Prime Agent, který od srpnového startu nasbíral přes 300 000 stažení a zpracoval přes 8 bilionů tokenů, vychází nově přepsaný od základu v Rustu. Přepis přitom nepsali lidé, ale samotný agent: během dvou týdnů zorganizoval roj přes 2 000 agentů ve více než 10 000 sandboxech. Na celou akci padlo přes 200 miliard tokenů přes endpoint GLM-5.3 služby Prime Inference.
+
+Důvodem odchodu od TypeScriptu je podle blogu rychlost a spolehlivost – volitelné typy mizející za běhu, nekontrolované výjimky, jediná smyčka událostí, kde vykreslování soupeří o vstup z klávesnice, a režie JavaScript runtime s garbage collectorem. Rust má přinést nativní kód bez garbage collectoru, souběh hlídaný rysy Send a Sync a celé třídy chyb zachycené už překladačem včetně pedantských lintů Clippy. Součástí je i nová modularita do devíti beden s jednosměrným grafem závislostí, izolace pádů do vlastních procesů a podpora Windows. Po dosažení parity tým nasadil ještě třídenní šplhání po vlastním benchmarku, které stlačilo čas do začátku psaní zhruba čtrnáctkrát a spotřebu paměti o více než osmdesát procent.
+
+Největší ohlas vzbudilo právě to, že se agent přepsal sám. Uživatel theturtletalks to shrnuje jako důkaz, že nástroj dělá to, co káže, a rovnou se ptá, zda se stejný přepis promítne i do Pi, které běží pod kapotou a jehož rozšíření jsou psaná v TypeScriptu. Uživatel sejje se přidává jako spokojený uživatel, pro kterého byl Prime Agent dlouho superschopností proti ostatním postrojům – chválí práci se subagenty, hledání starého kontextu a agenty běžící na pozadí bez externího dohledu, i když mezitím přesedlal na novější modely kvůli jejich přesvědčivosti.
+
+Zvídavou linku otevírá uživatel mgreg, kterého zajímá čtyřkrokový řetězec Plánovač, Implementátor, Recenzent a Ověřovatel a zda by fungoval i na zelené louce, nejen na překladu do jiného jazyka a ladění výkonu. Vedle toho uživatel oefrha postrádá poctivé vyúčtování spotřeby a chtěl by rozklad na vstupy se zásahem cache, vstupy bez něj a výstupy, protože souhrnné číslo neříká nic o ceně. Uživatel ram1500natrluvr souhlasí a přidává zkušenost s hledáním těchto rozpadů na OpenRouteru i příklad ze Sonnetu 5.5, kde čtení z cache tvoří zhruba polovinu nákladů.
+
+Podobně se řeší, zda dává smysl další přepis do Rustu. Uživatel Tsarp brání jedinou binárku, kterou stačí zkopírovat a spustit, což se hodí právě v sandboxech, zatímco uživatel binary132 namítá, že pohodlí není výsadou Rustu. Uživatel rvz tvrdí, že TypeScript byl od začátku špatná volba a surová čísla to jen potvrzují, uživatel pjmlp to rozšiřuje na všechny skriptovací jazyky tam, kde rozhoduje výkon kompilovaných jazyků, a v nadsázce dodává, že umělá inteligence bude jednou generovat rovnou assembler. Mezitím zůstala bez odpovědi věcná otázka uživatele esafak, čím se postroj liší od běžného postroje s paměťovým pluginem.
+
+Čtenář si tak odnese dvě věci: přepis je zároveň ukázkou škálování agentních rojů a sázkou na to, že rychlost a přísnější překladač se vyplatí, až bude většinu kódu psát umělá inteligence.

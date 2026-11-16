@@ -1,0 +1,16 @@
+# 49963385
+**Mold Linker 3.0.0 přepsán v Rustu**
+
+Hacker News · roflcopter69 · 5. října 2026, 13:17 · 234 bodů / 167 komentářů · [diskuse](https://news.ycombinator.com/item?id=49963385)
+
+Rychlý linker mold se dočkal nové hlavní verze a jde o první vydání kompletně přepsané z C++ do Rustu. Předchozí řada tak končí verzí 2.42.1 a novinka má být její přímou náhradou se stejnými volbami příkazové řádky i podporovanými architekturami a bez zpomalení linkování.
+
+Podle poznámek k vydání autoři shodu ověřili testy na všech cílech, porovnáním výstupů u široké škály reálných zátěží a sestavením všech balíčků Gentoo. Stavba se přesouvá z CMake na Cargo s požadavkem na Rust 1.95, mizí závislost na oneTBB a poškozený vstup místo pádu s chybou segmentace končí kontrolovaným zastavením. Cílem nové řady je zacelit zbývající mezery v kompatibilitě s GNU ld, zejména u skriptů linkeru, a připravit půdu pro nasazení jako výchozího linkeru v distribucích.
+
+Nejživější debata se stočila k motivaci přepisu. Uživatel uncle_kostya se ptal, proč nestačilo v C++ jen opravit ošetření poškozených vstupů, a zda při přepisu pomohly nástroje umělé inteligence. Odpovědi mířily hlavně k souběžnosti: pornel a saghm připomínají, že rychlost moldu stojí na paralelismu, který se v Rustu díky kontrole výpůjček rozdělují s větší jistotou a bez datových závodů. Fotcorn namítá, že bezpečné zacházení s poškozeným vstupem se v C a C++ nedaří špičkovým programátorům padesát let, someonebaggy dodává, že problém není kód jednou napsat, ale neustále ověřovat jeho bezpečnost při každé změně okolí.
+
+Kolem postupu se mísí obdiv s pochybnostmi o éře agentů. Aissen čekal mnohaměsíční přepis, ne práci na týdny, a odkazuje na starší přípravné commity, chilipepperhott ale připomíná, že autor moldu je mimořádně schopný a zvládl by to i sám. WhereIsTheTruth trvá na tom, že šlo spíš o transpilaci než ruční přepis, s čímž dcre stručně nesouhlasí. LoganDark naráží na nedávné commity jako na nepřímý důkaz asistence, přímé potvrzení ale v podkladech nezaznělo.
+
+Nejpraktičtější spor otevřel lrvick, jehož distribuce používá mold jako bootstrapový linker pro sestavení samotného Rustu a díky běhu v C šetří hodiny při dlouhých řetězcích sestavení. Po přechodu na Rust bude podle něj nutné forkovat a udržovat verzi v C navždy, protože Rust prostě není správný nástroj na všechny problémy. Reakce se různí: DetroitThrow nechápe, proč by snížení náročnosti údržby dělalo z Rustu špatnou volbu, karavelov navrhuje linkovat Rust pomocí LLD, které už je kvůli LLVM stejně potřeba, a Orphis doporučuje hermetické sestavení s cache. Well_ackshually si rýpl, že si distribuce stěžuje na rozhodnutí, které neřeší její vlastní potíže s pořadím sestavení, a ChickeNES s nadsázkou dodává, že s přepisem zpět do C dnes pomůže umělá inteligence. Vedle toho mi_lk navrhoval Zig jako lepší C, jenže vlovich123 oponuje, že v Zigu si člověk vybírá mezi bezpečností a rychlostí, zatímco Rust dává zpravidla obojí, a p-e-w přidává argument ekosystému a jistoty, že tu Rust bude i za deset let. Na dotaz awoimbee, čím se mold liší od linkeru wild, odpovídá vlovich123, že wild cílí hlavně na inkrementální linkování.
+
+Z vlákna tak zůstává obraz přepisu, který technicky dává smysl rychlostí i bezpečností, ale pro část ekosystému přichází s cenou pozdější dostupnosti v procesu zavádění systému.

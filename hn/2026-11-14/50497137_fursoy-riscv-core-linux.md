@@ -1,0 +1,14 @@
+# 50497137
+**Fursoy Slice-1: out-of-order RISC-V jádro bootuje Linux**
+
+Hacker News · fursoy · 14. listopadu 2026, 15:06 · 74 bodů / 26 komentářů · [diskuse](https://news.ycombinator.com/item?id=50497137)
+
+Vývojář pod přezdívkou fursoy představil Fursoy Slice-1, 64bitové out-of-order superskalární RISC-V jádro napsané v SystemVerilogu. Procesor s instrukční sadou RV64IMAFDV a rozšířeními Zba, Zbb či Zicsr je dvoucestný, má 128položkový reorder buffer a osm checkpointů pro rychlý návrat spekulativního přejmenování registrů. V simulátoru Verilator nabootuje mainline Linux 6.6.50 s uživatelským prostředím BusyBox a běží ve virtuální paměti Sv39.
+
+Repozitář popisuje i okolní SoC s pětivstupovým crossbarem, časovačem CLINT, řadičem přerušení PLIC, sériovým portem 16550 a vlastním minimalistickým firmwarem SBI v2.0. Boot podle něj zabral asi 89,8 milionu cyklů a 76,2 milionu dokončených instrukcí při obsluze 2 255 výpadků stránek, přičemž hardwarová telemetrie hlídá rozpad každého cyklu do osmi kategorií bez úniku. Osm hlavních logických bloků autor samostatně syntetizoval nástroji Yosys a OpenSTA a v knihovně Nangate 45 nm uzavřel časování na 500 MHz.
+
+Nejživější technickou linku rozjel uživatel peterfirefly kolem překladu adres. Líbí se mu, že hardwarový průchod tabulkami stránek nedestruktivně odposlouchává špinavá data v L1D, takže aktualizace tabulek od Linuxu vidí přímo bez vystěhování linek. Připomíná, že o odposlechu aktualizací tabulek hardwarou překladu dlouho mluvil Andy Glew, ale v sériovém procesoru to prý nikdy nenasadil, a nadhazuje, zda by šlo rozšířením protokolu typu MOESI zrušit i invalidaci TLB na ostatních jádrech bez meziprocesorových přerušení.
+
+Stejný diskutér se pak pustil do vyváženosti návrhu a přirovnal Slice-1 ke K8 od AMD. Reorder buffer a fyzický registrfile mu přijdou větší, než mělo K8, zatímco šířka dekódování a dokončování dvou instrukcí za cyklus menší, a ptá se na limity exekučních zdrojů: zvládne jádro víc než jednu větev nebo víc než jeden load a store za cyklus? Zajímá ho, jestli autor volil velikosti spíš odhadem nebo podle výkonnostního modelu, zda umí pouštět trasování instrukcí a porovnávat varianty, zda by pomohla malá victim cache proti konfliktním výpadkům a proč vychází pomalu blok CSR.
+
+Zbytek vlákna míchá obdiv s praktickými dotazy. Uživatel phendrenad2 označil out-of-order návrh od jednotlivce za působivý, na což uživatel IshKebab kontroval, že před půl rokem možná, ale dnes to prý zvládne každý, kdo se v návrhu procesorů trochu vyzná. Uživatelé krupan a PowerElectronix se ptají, zda bude čip vyrobený nebo portovaný do FPGA a zda se vejde do služby typu Tiny Tapeout, autor odpovídá, že na Tiny Tapeout je Slice-1 zatím příliš velká. Uživatel Findecanor mu ještě radí, aby projekt vystavil na r/RISCV, kde je podle něj pro takové stavby živější komunita než na Hacker News.

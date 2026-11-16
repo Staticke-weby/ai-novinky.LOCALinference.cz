@@ -1,0 +1,16 @@
+# 50104299
+**Když AI pomůže reverzně analyzovat hardware: případ skeneru Plustek**
+
+Hacker News · ErenayDev · 15. října 2026, 16:35 · 160 bodů / 138 komentářů · [diskuse](https://news.ycombinator.com/item?id=50104299)
+
+Po smrti maminky zůstal autorovi blogu na serveru GNOME velká krabice starých filmových negativů, a tak si pořídil filmový skener Plustek 8200i v domnění, že funguje pod Linuxem. Ukázalo se ale, že výrobce v něm tiše vyměnil čipset za Genesys GL128, pro který podpora v systému SANE chyběla. Místo ručního louskání hexadecimálních výpisů poprosil Claude, aby mu pomohl napsat ovladač sám.
+
+Odkazovaný text popisuje postup, který autor později zobecnil do nástroje hw-harness: pustil originální windowsový ovladač ve virtuálním stroji s předaným USB zařízením a na linuxovém hostiteli tiše odposlouchával provoz přes usbmon. Umělá inteligence pak porovnávala referenční a vlastní stopu, hledala opakující se sekvence a navrhovala význam jednotlivých bajtů. První rozpoznatelný sken vznikl během několika hodin a po pár dnech měl hotový backend včetně infračerveného kanálu, jen aby zjistil, že mezitím podporu stejného skeneru přidal v září 2026 i samotný SANE. Jeho verze je podle vlastního měření rychlejší na plné rozlišení a umí odstraňování prachu, a bokem z toho vznikla i rustová aplikace Negative Vibes a sada záplat pro kameru MIPI v ThinkPadu.
+
+V diskusi je cítit, že na podobný postup čekala spousta lidí se zásuvkou plnou polomrtvého hardwaru. XorNot přiznává, že zrovna nasměroval Claude na ovladač MIPI kamery ve svém pracovním notebooku, tinchos popisuje, jak se stejným způsobem zasekl u přehrávače Onn-x5 a skončil až u vlastního firmwaru, a xnx prosí, aby se někdo pustil do chytrých televizí a vyhnal z nich reklamy a botnety. Na to se nabaluje debata o sluchátkách na zakázku, inkoustových tiskárnách nebo DNS filtrech na Raspberry Pi, jako by každému najednou došlo, že nepodporovaný kousek elektroniky už nemusí automaticky skončit v koši.
+
+Do toho vnesl ambicióznější notu rvz s nápadem, že by se takhle měly rozebrat ty skutečně zamčené ekosystémy od Applu a Nvidie, od ovladačů grafiky pro Intel Macy přes párování hodinek s Androidem až po firmware CUDA. Kirby64 ale chladí nadšení tím, že starý hardware je jednodušší a je o něm zkrátka víc informací, xkcd-sucks dodává, že trh časem rozlouskne všechno masové a smysl má hlavně to, na čem záleží jen vám, a Pannoniae připomíná, že technická možnost je jedna věc a podpora, aktualizace a ekosystém druhá.
+
+Nejsilnější vlákno ale patří uživateli valdiorn, který provozuje malou firmu na kytarové pedály a popisuje tichý třídenní záchvat paniky: prý jedním příkazem za tři hodiny dekompiloval tři konkurenční produkty včetně Strymon Big Sky a za dvacet minut celou řadu Ursa Major. Část komentujících mu radí právníka a šifrování firmwaru s klíči v odolném hardwaru, jiní jako unrented7977 tvrdí, že příkop nikdy nebyl v utajení a kdo nemá zabezpečený čip, ten příkop vlastně nikdy neměl. Zbytek se shoduje, že zbývá značka, zpracování, podpora a náskok prvního, protože nápad už před kopiemi neochrání nic.
+
+Z celého vlákna tak nakonec nejvíc vyčnívá dvojí tvář stejné technologie: pro open source nadšence zkratka k ovladači, na který by jinak měsíce nikdo neměl trpělivost, pro výrobce konec jistoty, že jejich binárku nikdo nebude číst jen proto, že je to otrava.

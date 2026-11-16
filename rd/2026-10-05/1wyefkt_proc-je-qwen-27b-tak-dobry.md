@@ -1,0 +1,14 @@
+# 1wyefkt
+**Proč je Qwen 27B tak dobrý, když GPT-4o měl bilion parametrů?**
+
+r/LocalLLaMA · u/SignificantZebra5883 · 5. října 2026, 19:20 · 1497 bodů / 377 komentářů · [diskuse](https://www.reddit.com/r/LocalLLaMA/comments/1wyefkt/)
+
+Autor narazil v r/amodei na chválu Qwenu a nechápe, jak může malý model s 27 miliardami parametrů překonávat starší GPT-4o, kterému se připisoval bilion. Ptá se, jaké nové technologie jsou za tím a jestli je to jen lepšími a kvalitnějšími předtrénovacími daty. K postu přiložil jen obrázek, takže samotná otázka stojí na jeho zvědavosti.
+
+Nejvíc hlasů dostala stručná odpověď u/One_Internal_6567: lepší data, lepší reinforcement learning, lepší architektura. Nejde prý nutně o lepší projekt strojového učení jako takový, ale o to, že je model lepší v řešení úkolů. Podrobněji to rozvedl u/oxygen_addiction, podle kterého je správná odpověď hlavně lepší reinforcement learning, k tomu ale destilace z většího Qwen 3.8 Max, lepší předtrénink i mid-training, čistší a víc labelovaná data, lepší agentní trajektorie a architektura. Dodal, že do výzkumu jazykových modelů teď teče víc peněz než do čehokoliv jiného na světě, takže není divu, že se zlepšují rychle. Na to navázal u/frozen_tuna poznámkou, že po započtení inflace už jde o dvojnásobek toho, co se utratilo za vesmírné závody.
+
+Zbytek vlákna řeší, v čem je ten „lepší" vlastně úzký. U/ECrispy píše, že novější modely jsou cíleně stavěné na kódování a uvažování a učí se ze vzorců z miliard skutečných programátorských sezení lidí i agentů. Podle u/Qcgreywolf je to prostě specializace: model zahodil spoustu obecných znalostí a to, co zbylo mimo kód a počítače, ořezal do vágnosti. Podobně u/SheeeeeeshAlert varuje, že na benchmarcích vypadá Qwen 3.x skvěle, ale zeptejte se ho na úzce odborné téma mimo IT a bude dělat očividné chyby, zatímco větší GPT má parametry na uložení těchto informací. Proti tomu u/Lerola namítá, že tuhle paměť vlastně nepotřebujeme, protože s vyhledáváním nebo RAG se většina otázek vyřeší aktuálněji než neustálým přetrénováváním, a nechce plýtvat miliony parametrů na to, aby model uměl nazpaměť třeba litevské lidové písně.
+
+Hezký obraz pro celé dilema nabídl u/_VirtualCosmos_, podle kterého jsou transformery jako logické houby ponořené do vody dat a RL prostředí. Větší houba nasaje složitost snáz a odpustí si chyby, a proto se bilionový model učí rychleji než přímo trénovaná 27B, která se ráda zasekne v lokálním minimu. Laboratoře tak prý nejdřív natrénují největší model, jaký se jim vejde do superpočítače, a pak ho destilují do menšího. Že je celé srovnání trochu křivé, připomněl u/Thedudely1: GPT-4o prý bilion parametrů nejspíš nikdy nemělo a bylo menší než původní GPT-4 či 4 Turbo, pointa o rychlém pokroku ale platí.
+
+Malé modely tak dnes vyhrávají tam, kde se hraje na kód, nástroje a agentní práci, a velké modely si pořád drží náskok v šíři světových znalostí.

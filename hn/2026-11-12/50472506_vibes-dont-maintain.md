@@ -1,0 +1,16 @@
+# 50472506
+**Vibes Don't Maintain: prototyp z Claude Code není hotová aplikace**
+
+Hacker News · dxs · 12. listopadu 2026, 20:06 · 57 bodů / 26 komentářů · [diskuse](https://news.ycombinator.com/item?id=50472506)
+
+Majitel restaurace, který nikdy nenapsal řádek kódu, si v Claude Code postavil webovou aplikaci pro úkoly a procesy svého personálu. Na obrazovce působila čistě a data držela mezi načteními, takže majitel byl přesvědčený, že je z devadesáti procent hotovo a zbývá jen hosting. Autor eseje mu po bližším proklikání vzkázal, že jde o klikací prototyp, kterému chybí přihlašování, responzivita pro telefony, nastavení, překlady i ošetření prázdných a chybových stavů.
+
+Esej staví na přirovnání k autu: software jsou podle autora hlavně pásy a airbagy, tedy kód, který se neukáže v demu, ale podrží systém při poškození databáze, rozbité aktualizaci, útoku z internetu nebo posunuté směně po změně času. Umělá inteligence podle něj zlevnila cestu k první ukázce, ne k provozu, protože uvažování zůstalo v nenávratné chatové historii bez specifikace, testů a vysvětlení záměru. Co přežije havárii, tak není samotný kód, ale záznam toho, co měl kód dělat, který autorův tým ukládá jako markdown soubory v gitu vedle nástroje bacon-tracker.
+
+V diskusi se v příběhu poznal nejeden čtenář. Uživatel fk202611 popisuje, že si s pomocí umělé inteligence postavil diagnostickou aplikaci a každá další změna mu něco jiného rozbije, takže musí model opakovaně prosit o kontrolu kódu. Uživatel ylrd91 mu radí, aby si základní architekturu s pořádným oddělením odpovědností navrhl sám a umělou inteligenci nechal stavět až na ní, zatímco uživatel my002 namítá, že většinu vytýkaných nedostatků by Claude doplnil poměrně snadno a těžší by bylo hlavně přihlašování s náročnějším hostingem.
+
+Neživější spor se vede o to, kdo bude udržovat a kdo navrhovat. Uživatel CrimsonCape tvrdí, že historka je už zastaralá, protože Claude si píše testy a ladí se za pochodu, údržbu převezme umělá inteligence a poslední baštou lidí zůstane architektura, jejíž selhání se ukáže obřími úniky dat z naivně zadaných pokynů. Uživatel BubbleRings k tomu přidává představu dlouholetého architekta Larryho, který při ladění složitého problému listuje v hlavě ekvivalentem třígigového návrhového dokumentu, a doufá ve dvojici zkušeného člověka s umělou inteligencí, zatímco uživatel XenophileJKO prosazuje raději interaktivní upřesňování požadavků a kontrolu, že model vidí problém stejně jako člověk, než jednorázové zadání z dokumentu.
+
+Třetí linka se stočila k tomu, kde má ten záznam záměru vlastně být. Uživatel BubbleRings překvapeně zjistil, kolik technických lidí nikdy nepracovalo s markdownem, a poslal je napsat si stránkový soubor v Typoře a předat ho modelu. Uživatel popkkksidhd oponuje, že kód je výstižnější a úspornější specifikací než hromada markdown souborů, a uživatel DonsDiscountGas dodává, že kdyby majitel jasně vypsal směny pro více uživatelů, slučování souběžných úprav, angličtinu se španělštinou, autentizaci a vysokou spolehlivost, dnešní Claude nebo Codex by došly hodně daleko pouhým iterováním.
+
+Z eseje nakonec nejvíc rezonuje hořký vtip na závěr, kdy autor kamarádovi oznámí, že si pořídil Thermomix s umělou inteligencí a za týden otevírá restauraci.

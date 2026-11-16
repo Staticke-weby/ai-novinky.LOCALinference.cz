@@ -1,0 +1,16 @@
+# 50231349
+**Farol: open-source mapa rizika pull requestu pro schvalovatele**
+
+Hacker News · ericholiveira · 25. října 2026, 14:28 · 60 bodů / 37 komentářů · [diskuse](https://news.ycombinator.com/item?id=50231349)
+
+Autor ericholiveira představil Farol, volně dostupný open-source projekt firmy Winnin. Vychází z pozorování, že agenti dnes píší velkou část kódu a jiní agenti ho po řádcích recenzují, ale poslední slovo má pořád člověk, který mačká merge. Právě schvalování je podle něj vzácné a když se pozornost rozprostře rovnoměrně na každý pull request, změní se v povrchní proklikávání, při němž jednorádková změna sdíleného hooku shodí desítky stránek.
+
+Odkazovaná stránka vysvětluje, že Farol funguje jako CLI a GitHub Action a nastupuje až po AI recenzi, místo aby ji nahrazoval. Sám napsaný v TypeScriptu staví na statické analýze z pohledu překladačů, nikoli na odhadu modelu, takže stejný pull request dostane vždy stejnou odpověď: ukáže, kam změna dosáhne, přidělí verdikt od rychlé cesty přes rychlou recenzi po opatrnou recenzi se skóre 0–100 a seřadí soubory podle rizika s vyznačením netestovaných řádků a s checklistem k ručnímu vyzkoušení. K prohlédnutí je živé demo na pull requestu k šabloně s FastAPI a Reactem, běh je lokální nebo v CI bez posílání kódu kamkoli a ke spuštění je potřeba Node 22 a vyšší.
+
+Diskuse se hned zkraje stočila jinam než k riziku. Úvodní komentář samotného autora systém označil jako generovaný umělou inteligencí, což moderátor tomhow potvrdil s odkazem na pravidla, a uživatelé BalinKing a rubyn00bie řešili, proč zákaz platí pro komentáře, ale ne pro samotné příspěvky, a jak funguje ručení za smazaný komentář. Souběžně si uživatel sikozu postěžoval, že rozhraní voní umělou inteligencí bez lidské péče, na což autor přiznal, že design dělal s AI a cit pro něj nemá.
+
+Nejvěcnější výhrady mířily na užitečnost reportu. Uživatel alsiola píše, že mu demo na backendu nabídlo jako první ke kontrole importy, které recenzovat nepotřebuje, autor to vysvětluje grafem závislostí a možností takové soubory přidat mezi ignorované. Uživatel fcarraldo soudí, že podobné nástroje budou brzy standardem, ale ukázkový report je delší a složitější než prosté čtení kódu, pozornost by se proto měla vpisovat přímo do kódu, ne do nového objemného recenzního rozhraní. Podobně uživatel munro mluví o šumu a nízkém poměru signálu k šumu v době, kdy už tak čte spoustu výstupů AI.
+
+Z ukázkového pull requestu zaujala čtenáře hlavně díra, kterou měl nástroj odhalit: skládání SQL přes f-string s identifikátorem vlastníka, nad čímž uživatel munro žasne, zda ještě generovaný kód vypadá takto špatně, a strhne se odbočka k SQLAlchemy Core a ovladači psycopg. Uživatel timcobb varuje, že skórovat riziko modelem je stejně ošemetné jako skórovat jistotu a posuzování rizika by mělo zůstat člověku, na což uživatel pixl97 kontruje, že průměrný člověk se sebevědomě mýlí stejně jako model. Odlehčení dodá uživatel cowlevel otázkou, zda lze uplácet, aby některé řádky z mapy rizika vypadly, zatímco uživatel realitylabs popisuje, že u nich v práci podobný rozbor před nasazením pomáhá QA poznat, koho zavolat a co může spadnout.
+
+Kdo si Farol vyzkouší, odnese si hlavně otázku, zda mu mapa rizika ušetří čtení, nebo mu přidá další dlouhý report k pročítání.

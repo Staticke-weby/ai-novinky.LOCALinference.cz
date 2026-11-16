@@ -1,0 +1,18 @@
+# 1xu2mdo
+**Regulace lokálního AI? Podle autora největší cenzura v dějinách**
+
+r/LocalLLaMA · u/New-Pressure-6932 · 12. listopadu 2026, 04:49 · 374 bodů / 214 komentářů · [diskuse](https://www.reddit.com/r/LocalLLaMA/comments/1xu2mdo/)
+
+Strach z „nebezpečných" jazykových modelů se podle autora využívá k tomu, aby se běžným lidem vzal mocný nástroj. Bojí se, že Spojené státy a Čína prosadí regulaci lokálního AI a dotlačí lidi k modelům běžícím jen na státem sledovaném hardwaru, kde by šlo špehovat, k čemu je kdo používá, omezovat jejich využití a kontrolovat podávané informace.
+
+Svou obavu opírá o text agentury Reuters, podle níž ministr financí Scott Bessent mluvil o tom, že by USA a Čína měly mít v umělé inteligenci jasno a zároveň spolupracovat i soutěžit. Varování před tím, že nadšenci s lokálními modely sestrojí zbraně hromadného ničení nebo ochromí světovou infrastrukturu, považuje za zavádějící. Znalost tématu podle něj ještě neznamená prostředky k jeho provedení: k biotechnologické zbrani je potřeba laboratoř a technika, a on sám sice ví, jak funguje jaderný reaktor, ale na zahradě si ho nepostaví.
+
+Nejvýše hodnocená odpověď tuhle představu o společném postupu obou velmocí nabourává. u/AGM_GM připomíná, že Čína naopak vsadila na otevřené váhy jako na pilíř domácí průmyslové politiky a nástroj rozvoje globálního Jihu, přičemž Si Ťin-pching o AI na letošním summitu WAIC a po schůzce BRICS mluvil jako o globálním veřejném statku. Vedle geopolitiky rezonuje i prostší linka: u/Ok-Solution-7889 píše, že největší výhodou lokální AI je kontrola nad vlastními nástroji a daty, a nerad by viděl dobu, kdy si ji budou moci dovolit jen velké firmy.
+
+Hodně se vlákno točí kolem toho, jestli už vůbec jde otevřené modely zakázat. u/mofo_knows_ to přirovnává k panice kolem 3D tiskáren, kdy si všichni mysleli, že si lidé začnou doma tisknout pistole. u/General-Spite1222 dodává, že kdyby skončil Hugging Face, je tu ModelScope, a kdyby padl i ten, zbývají torrenty. V podobném duchu u/snopolpams píše, že Pandořina skříňka je otevřená a Humptyho Dumptyho už nikdo zpátky nesloží, zatímco u/justwalk1234 shrnuje, že jednou vydaný otevřený model je tu navždy.
+
+Nechybí ani humor a ostřejší nesouhlas. u/Cybertect74 ironizuje sliby cloudových poskytovatelů o bezpečí dat, když data ve skutečnosti leží na cizím serveru, který si se zájmem čte i vtipy o kočkách, a on sám tak raději zůstává u lokálního modelu, který ho vnímá jen ve chvíli, kdy na něj křičí, protože grafika řve jako tryskový motor. u/MegaDork2000 si představuje výslech Velkého Bratra AI, který na otázku, jak dlouho to trvá, odpoví hláškou o věčné válce s Eurasií.
+
+Zároveň část diskuse autorovi vyčítá přehánění. u/marketflex_za vypočítává, kolikrát v textu zaznělo „mám strach" a „dokážu si představit", a ptá se, jestli senzační titulek nestojí jen na obavách a intuici. u/JazzlikeLeave5530 označuje titulek za absurdní s odkazem na země, kde se za kritiku vlády popravuje nebo posílá do táborů. Věcnější prostřední proud zastupuje třeba u/kaisurniwurer s tím, že specializované znalosti nejsou specifikem modelů ani jejich nejlepším zdrojem, nebo u/Greedy-Back-9991, který otevřené necenzurované modely podporuje, ale přiznává, že riziko není nulové a nechtěl by tvrdit opak.
+
+Ať už regulace přijde, nebo ne, vlákno ukazuje sebevědomou komunitu, která věří, že jednou zveřejněné váhy už nikdo zpátky do lahve nedostane.

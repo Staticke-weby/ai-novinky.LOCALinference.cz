@@ -1,0 +1,440 @@
+{
+ "date": "2026-10-21",
+ "clanky": 49,
+ "temata": [
+  {
+   "title": "Claude na dálku odblokoval Samsung TV a postavil vlastní launcher",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xbj7jr"
+   }
+  },
+  {
+   "title": "eMudhra a klíče CA, které byly jen číslo 4",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50177916"
+   }
+  },
+  {
+   "title": "Unitree H2-X: humanoidní robot pro souboje i ostrahu",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xbidfc"
+   }
+  },
+  {
+   "title": "LiteLLM 1.107.0 na PyPI kradl klíče a otvíral backdoor",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50181114"
+   }
+  },
+  {
+   "title": "Odkud se vzalo „It’s not X, it’s Y“? Styl AI psaní možná přišel z čínštiny",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xb73pu"
+   }
+  },
+  {
+   "title": "Gemini 4 Argon pomohl najít kritické zranitelnosti PHP2Shell",
+   "sources": [
+    "rd",
+    "hn"
+   ],
+   "ids": {
+    "rd": "1xbuz4r",
+    "hn": "50180836"
+   }
+  },
+  {
+   "title": "New York chce tlačítko pro lidského operátora proti AI doom loopům",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xblhi2"
+   }
+  },
+  {
+   "title": "Railway: útočník mohl číst dešifrované secrety",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50188228"
+   }
+  },
+  {
+   "title": "Claude Duet: Anthropic spouští proaktivního agenta, který pracuje za vás",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xbz98o"
+   }
+  },
+  {
+   "title": "DuckDB 2.0 LTS: Quack, VARIANT a agent mode",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50181136"
+   }
+  },
+  {
+   "title": "Bývalý zaměstnanec OpenAI čelí obvinění z odposlouchávání kanceláře",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xbkoph"
+   }
+  },
+  {
+   "title": "Claude Duet: agent, který pracuje, i když spíte",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50186037"
+   }
+  },
+  {
+   "title": "Linux kernel už nebude vyžadovat deklaraci použití AI u nového kódu",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xbe2tf"
+   }
+  },
+  {
+   "title": "Mistral Large 4: bilion parametrů s otevřenými váhami",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50186129"
+   }
+  },
+  {
+   "title": "Hassabis zkrátil odhad AGI na 2–3 roky",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xbkhep"
+   }
+  },
+  {
+   "title": "GitLab vydal kritické záplaty pro šest řad verzí",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50185869"
+   }
+  },
+  {
+   "title": "ByteDance, Alibaba a Tencent objednaly NVIDIA čipy za 35 miliard dolarů",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xb9z8e"
+   }
+  },
+  {
+   "title": "Modely OpenAI míří do Google Cloud",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50180079"
+   }
+  },
+  {
+   "title": "Muž v Sydney řekl Claudovi o plánu střelby, policie ho zatkla",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xbroz9"
+   }
+  },
+  {
+   "title": "Patch the Planet: když zranitelnosti hledají agenti",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50181175"
+   }
+  },
+  {
+   "title": "Samsung vyprodal HBM na rok 2027, ceny pamětí dál porostou",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xbfhxp"
+   }
+  },
+  {
+   "title": "Qwen3-Coder píše slabší kód pro „americkou“ personu",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50179706"
+   }
+  },
+  {
+   "title": "Tisíce AI agentů hledají nové cíle v biologii",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50180752"
+   }
+  },
+  {
+   "title": "Figure F.03 ušel 9 dní v kuse: 1,2 milionu kroků a 560 km",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xb8hly"
+   }
+  },
+  {
+   "title": "Claude pomáhá zmenšit útočnou plochu kódu",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50175779"
+   }
+  },
+  {
+   "title": "RecursiveSI/flint: 40B model s 2,5B aktivními parametry",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xbqik0"
+   }
+  },
+  {
+   "title": "Z DeepMind odcházejí lidé kvůli vojenským zakázkám",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50186043"
+   }
+  },
+  {
+   "title": "Za šest měsíců zlevnil výkon nejlepších AI modelů řádově",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xbs5ay"
+   }
+  },
+  {
+   "title": "Kompilátor měl skončit s programováním. Teď přicházejí agenti",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50185045"
+   }
+  },
+  {
+   "title": "Mod do Oblivion Remastered od Claude přidal 40 % FPS",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xbwun6"
+   }
+  },
+  {
+   "title": "LayerFS: filesystem na míru kódovacím agentům",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50179857"
+   }
+  },
+  {
+   "title": "GPT-Rosalind prošel miliony mozkových buněk za 32 minut",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xbx2x9"
+   }
+  },
+  {
+   "title": "Rust off Rails: stack, kde všechen kód píše AI",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50183727"
+   }
+  },
+  {
+   "title": "GPT-6.1-Sol prý v reasoning tracích vynalézá němčinu",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xbnxes"
+   }
+  },
+  {
+   "title": "Omnara: open-source platforma pro spravované agenty",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50183892"
+   }
+  },
+  {
+   "title": "Učitel bez IT vzdělání postavil živé 3D letiště s Claude Code",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xbl9av"
+   }
+  },
+  {
+   "title": "Git infrastruktura pro vývoj v tempu agentů",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50183344"
+   }
+  },
+  {
+   "title": "55 % čínského AI výpočtu jde na krátké drama a videa",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xbarjz"
+   }
+  },
+  {
+   "title": "Alter hlídá, co agenti smějí dělat za uživatele",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50176908"
+   }
+  },
+  {
+   "title": "AA-PersonalityBench ukazuje, jak moc modely podlézají",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xbh9ok"
+   }
+  },
+  {
+   "title": "Proč se LLM nedá věřit vlastní skóre jistoty",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50176082"
+   }
+  },
+  {
+   "title": "Qwen 3.8 Flash Next překvapil i zapřisáhlé lokální skeptiky",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xbqxh5"
+   }
+  },
+  {
+   "title": "Anthropic představil chartu veřejného prospěchu",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50185438"
+   }
+  },
+  {
+   "title": "AI navržené viry poprvé podali lidskému pacientovi",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xbfxiu"
+   }
+  },
+  {
+   "title": "Texaská datacentra mohou zhoršit ovzduší",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50184712"
+   }
+  },
+  {
+   "title": "Opus 5.5 vytvořil Unity VFX: exploze, blesky i ledové hroty",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xbsxxm"
+   }
+  },
+  {
+   "title": "Alibaba ztrojnásobila cenu výstupu DeepSeek V4 Flash",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50176351"
+   }
+  },
+  {
+   "title": "MiniMax H3 a LoRA: konzistentní postava bez „příliš uhlazeného“ looku",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xbobrr"
+   }
+  }
+ ]
+}

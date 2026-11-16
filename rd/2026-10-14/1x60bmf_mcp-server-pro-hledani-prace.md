@@ -1,0 +1,14 @@
+# 1x60bmf
+**MCP server, který hledá práci z Clauda: 450 uživatelů a 83 pohovorů na 100 předplatitelů**
+
+r/ClaudeAI · u/Cojj25 · 14. října 2026, 21:16 · 323 bodů / 63 komentářů · [diskuse](https://www.reddit.com/r/ClaudeAI/comments/1x60bmf/)
+
+Autor začal platformu pro hledání práce stavět s Claude Code poté, co jeho manželku propustil Indeed. Teď ji přestěhoval přímo do Clauda jako MCP server Dreamwork: zdarma umí prohledávat databázi s asi 15 tisíci novými nabídkami denně, porovnat životopis s pozicemi a připravit verzi na míru, placený je až automat, který po schválení podá přihlášku na webu zaměstnavatele a ráno přinese nové shody.
+
+Nejostřejší linku otevřel hiring manažer u/Comfortable_Sink_537, podle kterého nástroje tohoto typu hledání spíš komplikují. Chodí mu prý desítky téměř totožných přihlášek se stejným seznamem dovedností, technologiemi i formulacemi, po kterých je přestává číst a raději by pozici vypsal znovu. Když životopis působí jako hromadně generovaný odpad, těžko prý věří, že kandidátovi na práci a týmu záleží. Na to navazuje u/guy_ships_things otázkou, jak autopilot zvládne filtry, které životopisy psané umělou inteligencí rovnou vyřazují, a u/Sensualities se ptá, zda server opravdu sám zakládá účty ve Workday, vyplňuje čestná prohlášení a projde přes Cloudflare, hCaptcha a detekci botů na všech systémech i jednorázových kariérních stránkách.
+
+Druhá velká debata je o penězích a spolehlivosti. u/drako-lord se ptá, jak autor zpoplatnění obhajuje, u/heychirag rýpe, že „chtěl se podělit o fajn stavbu" znamená nechtít platit za reklamu na vlastní produkt. Automatické shrnutí diskuse to popisuje jako tábor „proč platit" proti táboru „vývojáři se musí uživit", kde autor argumentuje drahými tokeny za automatické podávání. Prakticky se přidává u/Suitable-Sale-9217 s tím, zda odesílání doopravdy funguje, protože jiné nástroje mu jen selhávaly, a u/BP041 radí pravidlo, které ho drží mimo chaos: vyhledávání nechat volné, ale cokoliv, co zapisuje do reálného světa, musí projít lidským potvrzením.
+
+Kolem dokola se přitom řeší video k příspěvku. u/K1ng2012 se diví, jak lidé s Opusem točí tak hladká videa, když jeho jsou vždy trhaná, další se přidávají s dotazem, jak video vzniklo, a odpovědí je Claude 5.5 Opus a spousta konkrétního iterativního promptování. Stranou nezůstává ani pointa celého hledání: u/avarie_soft a u/matjam se ptají, zda se autorovi podařilo práci skutečně najít, zatímco u/hellf1nger hlásí vlastní zkušenost s jedním pohovorem, což mu proti Indeed a LinkedIn přijde mnohem působivější. Tečku dělá vtip u/alloroch, aby autor postavil ještě agenta, co za lidi rovnou absolvuje pohovory.
+
+Z vlákna tak zůstává rozpor, který autor článku nevyřeší: stavba je obdivuhodně rychlá a pro uchazeče lákavá, pro náboráře ale znamená záplavu stejných životopisů.

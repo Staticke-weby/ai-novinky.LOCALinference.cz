@@ -1,0 +1,16 @@
+# 49991580
+**Psát jako v roce 1866: LLM se učí telegrafní zkratky**
+
+Hacker News · Theory42 · 7. října 2026, 14:04 · 88 bodů / 56 komentářů · [diskuse](https://news.ycombinator.com/item?id=49991580)
+
+Uživatel Theory42 představil na Hacker News experiment Telegraph Test. Zkoumá v něm, zda velké jazykové modely dokážou psát ve stylu staré telegrafní zkratky zvané cablese a zda takto zhuštěným záznamům rozumí i modely z jiných rodin. Míří přitom na text, který čte stroj – paměti agentů, poznámky a předávky práce –, nikoli na odpovědi pro lidi.
+
+Odkazovaný článek začíná v roce 1866, kdy zpráva přes nový transatlantický kabel stála 10 dolarů za slovo, a proto firmy používaly tisícistránkové obchodní kódové slovníky i úsečný styl typu ARRIVE TUESDAY BRING FUNDS. Autor to přirovnává k dnešním účtům za tokeny a obě historické strategie testuje na modelech: slovníková náhrada podle něj ušetří jen kolem 10 %, zatímco cablese psané malými písmeny ukrojí na sadě 50 pasáží a zhruba 1 300 otázek 40 až 49 % tokenů podle modelu při přesnosti 0,99 až 1,10 oproti běžné angličtině. Vše má být reprodukovatelné, autor zveřejnil harness, zmrazené podklady a interaktivní notebook na github.com/Travis42/telegraph-test.
+
+Diskuse se nejdřív stočila k tomu, zda nejde jen o převlečený Caveman. Uživatel jubilanti rýpl, že je to další odvar starého jeskynního dialektu, autor oponoval, že Caveman byl zajímavý, ale nezměřený, zatímco on kompresi změřil a ukázal, kde pomáhá nejvíc. Podobnou linku rozvíjí z2, který podle občasných úniků úvah do rozhraní ChatGPT soudí, že něco takového už velké laboratoře interně dělají, a andai vtipkuje, zda za úspornost modelů nemůže skrytý příkaz k úsečnosti. Uživatel lxgr to vysvětluje střízlivěji jako odměňování stručných řetězců úvah během tréninku, které samo vede k úspornému stylu, pokud se zároveň trestá nečitelnost.
+
+Druhá velká odbočka řeší jazyk samotného článku. Uživatel Solomet si stěžuje na typické modelové obraty, kdy zátěž „sedí“ na hranici, poměry „sedí“ na hodnotách a texty „nesou“ signál, a vadí mu vágní fyzikální metafory místo přesných výrazů. Autor odsekl strohým „skvělý příběh, kámo, možná by ses mohl věnovat obsahu“, zatímco Hugsbox se děsí, že takhle mluví i on sám v běžném životě. Uživatel criley2 připomíná návod Anthropicu proti takzvané mannered prose a rovnou ukazuje odstrojenou verzi úvodu, ipdashc přidává postřeh o posedlosti slovy jako „žádný“ či „každý“ a ruuda přiznává alergii na slovo „carry“.
+
+Věcnější výtky míří na metodiku. Uživatel OtherShrezzing ironizuje, že stránka je zahlcená strojovým žargonem, a namítá, že otázky s krátkými odpověďmi trestají i věcně správné formulace, takže základ kolem 91 % zkresluje celé poměry. Autor odpovídá, že přísný automatický hodnotitel je stejně tvrdý ke všem podmínkám a že i záznam přepsaný zpět do běžné angličtiny drží krok s originálem, což by při ztrátě informace nešlo. Odlehčení dodávají alexpotato s klasickou výměnou telegramů mezi hercem a Churchillem o premiéře a swiftcoder s návrhem učit modely psát jako náctiletí s SMS účtovanou po 160 znacích, na což andai odkazuje na xkcd 1083 a lxgr připomíná 70 znaků v unikódu.
+
+Z vlákna tak zůstává jednoduché ponaučení: pro paměť mezi agenty se vyplatí psát úsporně, ale čitelně, aby úspora nezničila auditovatelnost.

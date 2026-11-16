@@ -1,0 +1,411 @@
+{
+ "date": "2026-10-25",
+ "clanky": 45,
+ "temata": [
+  {
+   "title": "OpenAI a Anthropic zablokovaly reverzní inženýrství chytrých televizí",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xer30z"
+   }
+  },
+  {
+   "title": "Deset let stará CNN poráží špičkové LLM v diagnostice rakoviny kůže",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50233779"
+   }
+  },
+  {
+   "title": "Posouvání branek: AI už umí víc, než jsme čekali",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xf3l38"
+   }
+  },
+  {
+   "title": "Amerika ztratila 200 tisíc míst v kreativním průmyslu. Kolik z toho způsobilá AI?",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50226419"
+   }
+  },
+  {
+   "title": "ChatGPT našel ztracené sluchátko v štěrku",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xf17xz"
+   }
+  },
+  {
+   "title": "Cerebras rozjíždí triliónové modely na waferových čipech",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50227356"
+   }
+  },
+  {
+   "title": "MiniMax H3 v ComfyUI: filmová scéna z RTX 3090",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xf5pqg"
+   }
+  },
+  {
+   "title": "OpenAI a Anthropic zlevnily LLM až o 80 %. Proč?",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50236102"
+   }
+  },
+  {
+   "title": "r/opensource zakázal obsah o AI, komunita se bouří",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xf0brw"
+   }
+  },
+  {
+   "title": "Profesor z Berkeley přestal známkovat domácí úkoly. AI je stejně vypracuje",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50233304"
+   }
+  },
+  {
+   "title": "Black October: 48 hodin kybernetických incidentů",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xezaxh"
+   }
+  },
+  {
+   "title": "JetBrains ThinkRail: agentické IDE, které se učí váš projekt",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50233294"
+   }
+  },
+  {
+   "title": "Claude oživil pračku Samsung, kterou výrobce odpojil",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xemw8i"
+   }
+  },
+  {
+   "title": "Pět instancí Qwen3.8-27B dohnalo Claude Fable 5",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50228167"
+   }
+  },
+  {
+   "title": "GPU unlock: RTX 3090 a 3060 získaly po odemčení desítky procent",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xezspt"
+   }
+  },
+  {
+   "title": "Stav context engineeringu: kdy být deterministický a kdy pravděpodobnostní",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50235780"
+   }
+  },
+  {
+   "title": "ChatGPT počítal knedlíky na fotce: 195, pak 190–200",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xezotv"
+   }
+  },
+  {
+   "title": "Vítěz fotografické soutěže Nikon přišel o titul. Snímek vyrobila AI",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50229827"
+   }
+  },
+  {
+   "title": "Claude poslal uživatelku do nemocnice, lékaři potvrdili sepsi",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xenvvi"
+   }
+  },
+  {
+   "title": "AI budoucnost: kdo poruší podmínky, bude ekonomicky zbytečný",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50230995"
+   }
+  },
+  {
+   "title": "ChatGPT si o vás vede psychologický profil, tvrdí studie",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xfapix"
+   }
+  },
+  {
+   "title": "Adobe v. ArtCraft: jak levné AI tokeny podkopaly byznys samotných laboratoří",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50232682"
+   }
+  },
+  {
+   "title": "Zipties: cable management jako ComfyUI node",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xf9x6j"
+   }
+  },
+  {
+   "title": "r/opensource zakázal sólové projekty i kód z LLM",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50231722"
+   }
+  },
+  {
+   "title": "ScreenPlink: laserová střelnice postavená s Claude Code",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xeqtp1"
+   }
+  },
+  {
+   "title": "Challenge Is Gone: když AI vezme smysl technických výzev",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50230965"
+   }
+  },
+  {
+   "title": "Krea 2: 1 255 stylů v tabulce pro začátečníky",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xfeonr"
+   }
+  },
+  {
+   "title": "Farol: open-source mapa rizika pull requestu pro schvalovatele",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50231349"
+   }
+  },
+  {
+   "title": "Anthropic India: stejné jméno, jiná firma",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xet1uk"
+   }
+  },
+  {
+   "title": "Hurston-1: open-source TTS pro jižanskou a afroamerickou angličtinu",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50227330"
+   }
+  },
+  {
+   "title": "Nanbeige 4.3-33B: čínský model tvrdí, že poráží Qwen3.8-27B",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xf0kz4"
+   }
+  },
+  {
+   "title": "Matematik čte budoucnost AI: co zůstane z lidské práce",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50233347"
+   }
+  },
+  {
+   "title": "4B model pro kód i 3D scény",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xeuo7t"
+   }
+  },
+  {
+   "title": "Apollo: AI mimo tech sektor nepřinesla žádný finanční efekt",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50236828"
+   }
+  },
+  {
+   "title": "Je Claude nejméně přitakávající model?",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xfa39o"
+   }
+  },
+  {
+   "title": "AI nezpůsobila propad tech pracovních míst, ale brání oživení",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50234699"
+   }
+  },
+  {
+   "title": "Claude Code opravil Flight Simulator 95 a 98 pro 64bit Windows",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xew9ma"
+   }
+  },
+  {
+   "title": "ADRs for AI: rozhodnutí lidsko-AI práce uložená v Gitu",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50227041"
+   }
+  },
+  {
+   "title": "Zálohujte si kvantované modely, vyzývá komunita",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xf11qj"
+   }
+  },
+  {
+   "title": "CrowdGPT: LLM trénovaný davem bez datacenter",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xff9e4"
+   }
+  },
+  {
+   "title": "Když Claude umí postavit aplikaci, co bude se softwarovými firmami?",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xesfpc"
+   }
+  },
+  {
+   "title": "ETH Zurich naučila humanoida G1 lézt po žebříku z deseti minut dat",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xepabh"
+   }
+  },
+  {
+   "title": "125B model na 16 GB VRAM díky NVMe offloadu",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xev6bo"
+   }
+  },
+  {
+   "title": "Komiks o učení AI lidským hodnotám rozdělil diskusi",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xf6tty"
+   }
+  },
+  {
+   "title": "Čínské modely a cenzura: mem o „protests may contain protests“",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xf613q"
+   }
+  }
+ ]
+}

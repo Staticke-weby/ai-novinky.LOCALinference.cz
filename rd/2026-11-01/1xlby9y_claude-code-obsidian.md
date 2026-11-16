@@ -1,0 +1,14 @@
+# 1xlby9y
+**Claude Code a Obsidian: second brain, který funguje i bez kódování**
+
+r/ClaudeAI · u/mech_beard · 1. listopadu 2026, 20:25 · 194 bodů / 127 komentářů · [diskuse](https://www.reddit.com/r/ClaudeAI/comments/1xlby9y/)
+
+Kombinace Claude Code a Obsidianu funguje jako kouzlo na znalostní práci. Autor si do ní ukládá základní principy, třídí poznámky ze schůzek, posouvá projekty, hodnotí obchodní příležitosti a hlídá, co dluží on a co dluží ostatní jemu. Tvrdí, že je díky tomu zhruba třikrát produktivnější než před půl rokem, a ptá se, zda někdo podobný osobní systém přetavil ve sdílenou platformu pro týmovou práci, kde se nekóduje.
+
+Největší souhlas přišel od lidí, kteří rovněž neprogramují. u/TheDangerist píše, že je pro něj spojení skvělé, u/painterknittersimmer mluví o úplně jiné zkušenosti, než mají ostatní nekódující znalostní pracovníci, a u/coeuss hlásí, že je na tom s produktivitou podobně dobře. Zároveň se ale ozvala silná skeptická linka, která se ptá po smyslu celého Obsidianu: u/RottenBananaCore se ptá, jakou má hodnotu kromě markdown souborů, u/_rocket_boy_ jej přirovnává k obyčejné složce na ploše a u/fuzzypetiolesguy hledá funkční rozdíl oproti gitovému repozitáři.
+
+Do této debaty zapadá i zkušenost u/Traditional-Mall6064, kterému prý sám Claude řekl, že si vystačí s markdown soubory a Obsidian je režie navíc užitečná spíš člověku než modelu. u/CoachAtlus to shrnuje smířlivě, když Obsidian miluje jako rozhraní pro agentskou práci, ale připomíná, že je to opravdu jen rozhraní. Obránci právě tu lidskou přívětivost zdůrazňují a přidávají praktické triky: u/ironmoosen si v Obsidianu drží poznámku-náčrtník, kam mu Claude ukládá postupy a otázky, aby se neztratily v historii chatu, u/ocimbote doporučuje nechat Claude pracovat přes Obsidian CLI místo přímého přepisování souborů a u/lionpal připomíná rychlejší vyhledávání přes nástroj qmd.
+
+Zbytek vlákna řeší přesah mimo osobní poznámky. u/Konlowmee, který v projektovém poradenství zkouší integraci Notionu s Claudem, se ptá na souboj Obsidianu proti Notionu, u/Royalrenogaming popisuje, jak v Obsidianu drží postavy, místa a pojmy pro dlouhé konzistentní RPG příběhy poháněné Claudem. Nejkonkrétnější odpověď na původní otázku o sdílení dává u/elgringo: nechal si od Claude postavit obdobu Obsidianu nad vzdálenou databází pro startup, stahuje do ní plné texty chatů a agent z nich průběžně tahá fakta do rodinného a firemního úložiště, takže noví zaměstnanci prý okamžitě získají přístup k institucionální paměti firmy. Humornou tečku přidává u/Medical-Jicama-575 rýpnutím, že tohle dnes dělá každý a stačí se přiblížit k influencerovi, aby člověk slyšel o druhém mozku, zatímco u/SoundBwoy_10011 kombinaci shrnuje lapidárně jako arašídové máslo s džemem.
+
+Kdo umí psát poznámky v markdownu, má podle diskuse už polovinu druhého mozku hotovou – zbytek je rozhodnutí, zda chce hezké lokální rozhraní, nebo mu stačí složka, kterou prohledá Claude.

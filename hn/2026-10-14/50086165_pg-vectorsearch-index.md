@@ -1,0 +1,16 @@
+# 50086165
+**Pg_vectorsearch: index rychlejší než IVFFlat a HNSW v pgvectoru**
+
+Hacker News · jascha_eng · 14. října 2026, 13:47 · 198 bodů / 50 komentářů · [diskuse](https://news.ycombinator.com/item?id=50086165)
+
+Uživatel jascha_eng odkázal na nový open-source projekt timescale/pg_vectorsearch, rozšíření PostgreSQL pro přibližné hledání nejbližších sousedů. Jeho jádrem je indexová přístupová metoda PRISM napsaná v céčku pro těsnou integraci s databází. Projekt je zatím ve stavu alpha a je určený k testování, ne do produkce.
+
+Dokumentace v repozitáři popisuje PRISM jako rozdělený směrovací index pro párování podobnosti, který rozděluje vektory do shluků hierarchickým stromem centroidů drženým v buffer cache. Vektory ukládá po RaBitQ kvantizaci do posting listů s rozložením stránek optimalizovaným pro SIMD výpočty a dvoustupňovým filtrováním s odhadem chyby omezuje počet kandidátů na přepočet proti plné přesnosti v tabulce. Stejnými operátory umí pracovat s vlastními typy vec32 a vec16 i s existujícími sloupci vector a halfvec vedle pgvectoru bez jejich přepisu.
+
+Sám autor vlákna shrnul doprovodný blog slibem, že při 100 milionech vektorů dosáhl index latence 6 ms na stroji se čtyřikrát menší pamětí než HNSW a s buildy více než dvacetkrát rychlejšími. Zároveň přiznal, že pracuje pro Tiger Data, ale s tímto týmem není spojený, jen ho vydání nadchlo, a vlákno poslal hlavnímu přispěvateli Erikovi. Když se uživatel esafak ptal na čísla dotazů za sekundu a přesnost, odpověděl, že benchmarky jsou v blogu a vyhodnocovací sada je open source spolu s projektem.
+
+Nejživější debata se stočila k praktickým limitům. Uživatel Rapzid se ptal na filtrování a na to, jak lidé efektivně řeší rozsahy pro tenanty, uživatele a oprávnění, na což uživatel enordstr odpověděl, že vícesloupcové indexy pro multitenantní tabulky jsou v plánu do budoucna. Uživatel devy sepsal předběžná zjištění pro zájemce o náhradu HNSW: strop 1968 dimenzí pro vektory, požadavek na PostgreSQL 18 a výše a absence na seznamu povolených rozšíření u velkých spravovaných databází. Uživatel vovavili namítl, že druhé dva body platí asi pro každé zajímavé špičkové rozšíření, uživatel Arch485 radil index zkrátit jen na prvních 768 dimenzí a plné vektory porovnat až dodatečně a uživatel curious_cat_163 se divil, proč to s ohledem na zpětnou kompatibilitu nešlo rovnou jako příspěvek do pgvectoru.
+
+Do toho vstoupila zkušenost i historie. Uživatel EgregiousCube vyprávěl, že s VectorChordem a rychlým diskem snížil náklady na Postgres na polovinu, a těší ho konkurence v nástrojích s nízkou potřebou paměti, kdy rychlá NVMe mění pravidla hry. Uživatel mfreed připomněl, že stejný tým stojí i za pgvectorscale postaveným na DiskANN, kde se u některých dat stávaly části grafu nedosažitelnými a nenápadně padala úplnost výsledků, což prý bez principiálního řešení v literatuře nechtěli dál ladit heuristikami. Odlehčení přinesl uživatel alexpadula poznámkou o odvrácené straně PRISM a inspiraci loga deskou Dark Side of The Moon, zatímco uživatel dmix si nový index spletl s plnotextovým pg_search a uživatel thenoahhein ho opravil, že jde o nesouvisející vektorové vyhledávání s volnější licencí.
+
+Kdo zůstane na vlastním Postgresu nové generace, má slibný důvod k testování, kdo sází na spravované služby a složité filtrování, zatím spíš počká na dospělejší verzi.

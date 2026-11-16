@@ -1,0 +1,16 @@
+# 50109707
+**Proč to vlastně všechno děláme? Hostující úvaha na Taoově blogu**
+
+Hacker News · smilelamp · 15. října 2026, 22:22 · 175 bodů / 140 komentářů · [diskuse](https://news.ycombinator.com/item?id=50109707)
+
+Uživatel smilelamp přinesl odkaz na hostující text Rikaba Gambhira na blogu What's new, který vede matematik Terence Tao. Teoretický částicový fyzik se v něm sžíravou ironií ptá, jaký smysl má ještě vědecká a badatelská práce ve chvíli, kdy výsledky ve velkém chrlí modely umělé inteligence.
+
+Gambhir začíná parafrází o umělcích, matematicích a fyzicích a pak se obouvá do říjnového oznámení OpenAI o 722 strojově sepsaných matematických textech. Přirovnává je k Borgesově Babylonské knihovně plné všech možných knih: místo aby se chápání a ověřování bralo jako součást práce, přehazuje se úmorné třídění „slopu" na komunitu a nikdo už neztrácí čas tím, aby byly texty pro člověka srozumitelné. Smyslem vědy se tak prý stává rituál zvaný posouvání hranice lidského poznání, tedy hromadění potenciálně pravdivých střípků, kterým nikdo nebude číst, a autor na závěr vyzývá, aby si čtenáři vzpomněli, proč do vědy a matematiky původně šli.
+
+Nejhlasitější ohlas sklidilo tohle rozhořčení. Uživatel FLeXMurphy píše, že jde o pěkný rant, kterých bude přibývat, dokud všichni nevyhoří, ale korporace smutek badatelů nezajímá a jen se mu vysmějí. Na to navazuje rozvětvená debata o smyslu: uživatel TheOtherHobbes se ptá, proč ze všeho možného děláme právě tohle, když je to iracionální, posedlé a ekologicky i politicky katastrofální, zatímco uživatel Gigachad cituje pasáž o kvantitativních financích, sázkařských aplikacích a hádkách s politickými boty jako ponurý, ale přesný popis směru společnosti.
+
+Druhá linka se stočila k penězům. Uživatel _doctor_love s diplomem z ekonomie tvrdí, že všechno kazí ziskový motiv a některé věci by se pro zisk dělat neměly. Uživatel juvvel souhlasí, že pokud před tlakem na maximální efektivitu neochráníme umění, vědu ani bydlení, je s námi konec, a uživatel goatlover glosuje, že skutečná superinteligence řídící svět je kapitalismus. Ozývá se ale i odpor: uživatel buriram připomíná vězňovo dilema, podle kterého se někdo pro zisk rozhodne vždy, a další hlas dodává, že důkazy o nějakých ziscích se hledají jen těžko.
+
+Třetí část diskuse řeší, kolik lidí satiru vůbec poznalo. Uživatel A_D_E_P_T namítá, že simulátor Babylonské knihovny po kliknutí na náhodu vrací vždy jen nesmysly, zatímco nové matematické výsledky od AI mají vysoký poměr signálu k šumu, takže jde o pravý opak knihovny. Odpovědi na sebe nenechaly čekat: uživatel ahsgtq odbývá výtku jediným „kdoosh", uživatel lkey mluví o selhání v rozpoznání ironie a metafory a uživatel vhantz rýpe, že by kritik měl text číst, případně si ho nechat vysvětlit svým oblíbeným modelem. Smířlivější tón vnesl uživatel joefourier, podle kterého ani lidské články z jeho oboru nebývají dobře napsané a srozumitelné, a modely mu je aspoň trpělivě překládají do pseudokódu a odpovídají na dotazy. Uživatel ahsgtq to shrnuje pochvalou skvělé satiry a lidského ducha, který v ní zůstal.
+
+Z vlákna tak nakonec čiší stejná otázka jako z eseje: jestli má věda sloužit hromadění faktů, nebo radosti z chápání a tvorby.

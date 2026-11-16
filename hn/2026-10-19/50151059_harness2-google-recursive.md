@@ -1,0 +1,16 @@
+# 50151059
+**Harness²: Google Research učí agenty vylepšovat vlastní harness**
+
+Hacker News · irthomasthomas · 19. října 2026, 13:28 · 74 bodů / 18 komentářů · [diskuse](https://news.ycombinator.com/item?id=50151059)
+
+Na Hacker News se objevil odkaz na Harness², nový otevřený projekt Google Research pro rekurzivní vylepšování agentů v otevřeném světě. Má to být plug-and-play nadstavba nad libovolným modelem, která agentovi dovolí potkávat úlohy, s nimiž se při návrhu jeho harnessu nepočítalo. Příspěvek od uživatele irthomasthomas míří rovnou na GitHub repozitář s dokumentací a návody ke spuštění.
+
+Framework drží váhy modelu zmrazené a pracuje se dvěma úrovněmi rekurze: na úrovni úlohy zkouší úpravy harnessu postupem Propose–Probe–Compose, kdy navrhne úpravy, vyzkouší je na stejné úloze a z rozdílů mezi běhy složí vylepšený harness bez potřeby správných odpovědí, zatímco na úrovni vylepšování si ukládá převzaté harnessy a podložené poučení pro příště. Podle repozitáře stačil jediný takový krok ke zlepšení o až 11,5 bodu na WorkBuddy-Bench, 4,5 bodu na JobBench a 11,8 procentního bodu v částečné úspěšnosti na LAB. K tomu nabízí paralelní i sekvenční režim rekurze a executory OpenCode a Codex.
+
+Diskuse začíná zmatením z definice. Uživatel tjpnz cituje větu o frameworku pro otevřený svět a přiznává, že netuší, o co jde, na což uživatel imafish reaguje ironickým zopakováním té samé věty, jako by to vše vysvětlovalo. Věcněji to podává uživatel eithed: harness agentovi říká, co dělat, když potká B, a když potká neznámé C a zvolí špatné D, oprava na E se uloží, aby příště zvolil rovnou E. Uživatel rancar2 pak radí přeskočit readme a jít rovnou na přiložený odborný článek, který je podle něj pro pochopení projektu užitečnější.
+
+Druhá linka řeší formu prezentace. Uživatel xyzsparetimexyz si rýpne, že i Google už do readme dává mdlé obrázky z generativní AI, uživatel 0gs přisazuje, že velký G má na rozmachu ledabylého obsahu na webu lví podíl, a uživatel RamblingCTO to dotahuje sarkasmem o exponenciálním růstu balastu, kterému čím méně rozumí, tím lépe. Praktičtější výtku přidává uživatel ridgeComet617, kterému vadí víc než obrázek absence jediného spustitelného příkladu od začátku do konce, a uživatel amritananda dodává, že video přehled je jen animovaná přehlídka benchmarků, což prý prozrazuje, pro koho je to určené.
+
+Třetí spor je o novost. Uživatel mchusma souhlasí s tezí článku, ale ptá se, zda tohle už dávno nedělá každý, kdo vyvíjí AI systémy a z minulých běhů si aktualizuje dovednosti a systémový prompt, a uživatel jmathai odpovídá, že mnozí si to už automatizovali tak, aby se poučení aktualizovala spolu se změnami kódu. Podobně uživatel cykros po letmém pročtení srovnává s Hermes-agent, který se učí ze zpětné vazby a tvoří znovupoužitelné dovednosti, a ptá se, co je zde druhově jiného. Nedůvěru pak přilévá uživatel endangeredhuman připomínkou osudu Gemini CLI, které komunita pomohla ověřit a pak se přešlo na uzavřené Antigravity CLI, takže se ptá, proč otevírat „harnessing", když je harness zavřený.
+
+Z vlákna tak zůstává obrázek zajímavé myšlenky, kterou ale komunita čte spíš jako úhledně zabalenou praxi zkušených stavitelů agentů než jako průlom.

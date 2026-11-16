@@ -1,0 +1,16 @@
+# 50176351
+**Alibaba ztrojnásobila cenu výstupu DeepSeek V4 Flash**
+
+Hacker News · GloVin · 21. října 2026, 07:17 · 25 bodů / 26 komentářů · [diskuse](https://news.ycombinator.com/item?id=50176351)
+
+Uživatel GloVin přinesl odkaz na newsletter Stork AI Daily, který sleduje ceníky laboratoří a tvrdí, že Alibaba přes noc zvedla u modelu DeepSeek V4 Flash 0731 vstup z 0,20 na 0,44 dolaru a výstup ze 0,40 na 1,32 dolaru za milion tokenů, tedy zhruba o 230 %. Vlastní text k tomu autor nepřidal, celá pointa stojí na převzatém článku.
+
+Autor newsletteru Wren Calloway to podává jako konec líbánek s dotovanou inteligencí: kdo stavěl byznys na tom, že tokeny budou navždy zlevňovat, tomu se právě rozpadl finanční model, a přežijí jen týmy, které osekají prompty a poctivě cachují. Ve stejném vydání se ještě řeší prodej computu SF Compute za 245 milionů dolarů, debut Meta Muse Wonder Full spolu s otevřeným třicetibilionovým Muse Glimmer na jednu spotřebitelskou grafiku, odhalení MiniMax M3.1 Flash jako utajeného Space Bunny s třetinovými náklady a třikrát vyšší rychlostí proti M3, a úsporný Nemotron 3.5 od NVIDIE se 120 miliardami parametrů a jen 12 miliardami aktivními na token.
+
+Diskuse se ale z velké části stočila k tomu, že titulek je nafouknutý. InsideOutSanta to shrnul větou, že se jen utlumuje starý model a ceny aktuálních se nezměnily, blakeman8192 doplnil, že verze 0731 je už dvě vydání stará a proti novějším 4.1 Flash a 4.1 Flash 1017 je méně schopná i méně efektivní. Solatic odkázal na ceník Alibabu, kde je právě model 1017 za běžných 0,15 a 0,06 dolaru, a přirovnal to k tomu, když AWS zdraží údržbu Kubernetes či MySQL po konci životnosti – kdo neupgraduje, platí víc. Podobně to vidí throwa356262 a sureMan6, podle kterých dává zdražení smysl i kvůli omezeným výpočetním kapacitám a snaze neuživovat příliš mnoho historických verzí najednou.
+
+Vedle toho se řešilo, čí ceny to vlastně jsou. Denzil připomněl, že DeepSeek a Alibaba jsou různé firmy a Alibaba je tu jen jedním z druhotných poskytovatelů API, impure dodal, že otevřený model nabízí spousta služeb a na OpenRouteru patří Alibaba spíš k dražším. Bargainbin se ptal, zda je to i po zdražení levnější než Luna a Haiku, na což import odpověděl, že Luna je o něco levnější. Roenxi pak nadhodil, že cena za splněnou úlohu podle dat Artificial Analysis dlouhodobě padá na setiny, takže jednorázový skok o stovky procent v šumu zanikne a model z léta je stejně skoro zastaralý.
+
+Nejkousavější linka patřila formě. Ipsum2 odbyl text jednoslovně jako blogspam a eur0pa si rýpnul, že by rád viděl prompt, který tenhle článek vygeneroval. Na opačném pólu uživatel xvxvx vyhlíží schadenfreude firem, které vyházely lidi kvůli levné umělé inteligenci a teď budou představenstvu vysvětlovat nulové výnosy i žádost o vyšší rozpočet, jubilee33 oponoval, že některým firmám nejde o cenu, ale o kontrolu a klid od dovolených, stížností a regulací. Sz4kerto to mírnil tím, že vedle zkrachovalců jsou i provozy s obrovskou návratností, kterým by nevadilo ani pětinásobné zdražení, protože stejná inteligence bude za rok stejně zase levnější.
+
+Kdo si z toho má co odnést: než přepíšete rozpočty podle jednoho řádku v ceníku, zkontrolujte si verzi modelu a ceník primárního poskytovatele.

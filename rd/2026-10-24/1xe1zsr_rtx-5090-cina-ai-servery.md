@@ -1,0 +1,14 @@
+# 1xe1zsr
+**RTX 5090 v čínských laboratořích rozebírají na čipy pro AI servery**
+
+r/LocalLLaMA · u/chemist_slime · 24. října 2026, 09:09 · 399 bodů / 139 komentářů · [diskuse](https://www.reddit.com/r/LocalLLaMA/comments/1xe1zsr/)
+
+Uživatel chemist_slime nepřidal žádný vlastní text, jen čtenáře z r/LocalLLaMA poslal na report o dění v čínských dílnách. Podle něj se tam ve velkém scházejí herní GeForce RTX 5090, které místo do obchodů míří na linku, kde z nich technici berou to nejcennější. Příspěvek je označený jako News.
+
+Odkazovaný článek serveru Wccftech s odvoláním na video HKEPC popisuje regály plné stovek karet od různých výrobců včetně prémiového ROG Astral za 10 000 dolarů i Founders Edition. Sejmutý čip a 32 GB rychlé paměti GDDR7 pak putují na vlastní desku s dvouslotovým chladičem s radiálním ventilátorem, aby se vešly do AI serverů. Text zároveň tvrdí, že zakázané karty do Číny proudí dál a NVIDIA nad tím přivírá oči, protože je to výnosnější než prodej hráčům, a to i přes popření zpráv o konci výroby vlajkové lodi Blackwell.
+
+Nejvíc hlasů posbíralo povzdechnutí u/anotheruser323, že za drahé grafiky můžou Číňané, a hned pod ním u/jeebojeeb ironizuje, že lidé sledují úžasné AI benchmarky na kartách, na které si jako hráči nikdy nenašetří. Proti tomu se postavil u/theendbeginz s tím, že karty ve skutečnosti leží ve skladech v USA a po světě, čínské firmy jsou jen malá část příběhu a jde o propagandu. Podobně u/guardwoman12345 volá po otevření skladů a prodeji naskladněných 5090 hráčům, zatímco u/vulcan4d tvrdí, že Čína jen chytře seděla na levných zásobách a teď je se ziskem prodává zpět, takže grafiku prý sežene snáz na Alibabě než doma.
+
+Druhá větev řeší, proč to vůbec dělat. u/ttkciar nechápe, co by vlastní deska uměla navíc oproti původní, a nadhazuje, zda jde o podporu rychlého propojení na způsob NVLink. u/kinkvoid připomíná propustnost kolem 1 792 GB/s a paměť bez ECC a dává mu smysl, že by někdo chtěl karty osadit na 96 GB a víc pro AI. u/LabanauskasNajeeba to shrnuje jako nevyhnutelnou arbitráž: když má čip pro AI zátěž mnohem vyšší hodnotu než pro hráče, kuchání se vyplatí, a zajímavé bude, zda to změní budoucí třídění čipů.
+
+Zbytek vlákna si bere na paškál NVIDII. u/marclbr píše, že firma používá čipy z 5090 pro karty RTX Pro, hlavně nedávné RTX Pro 5500 84GB, a u/prusswan dodává, že tamní vláda je koupila za původní cenu starší Pro 6000 bez mrknutí oka. u/tecneeq to glosuje gifem s popiskem „Jak šokující odhalení!“ podepsaným NVIDII a u/brainmydamage se ptá, která firma porušuje zákon tím, že karty do Číny posílá. Praktický dovětek přidávají u/GestureArtist, který by si přál stejnou přestavbu v Americe, protože by rád nasadil dvě 5090, u/khronyk, jenž doufá v levný výprodej na bazaru za pár let, a u/zackku, pro kterého se už teď stala noční můrou samotná cena pamětí.

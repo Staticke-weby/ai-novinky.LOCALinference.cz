@@ -1,0 +1,16 @@
+# 1wy8c0l
+**ChatGPT opravil PC, na kterém dva technici selhali**
+
+r/singularity · u/zodiac9094 · 5. října 2026, 15:17 · 441 bodů / 122 komentářů · [diskuse](https://www.reddit.com/r/singularity/comments/1wy8c0l/)
+
+Autor si počítač postavil sám, ale bez technického zázemí, a od začátku ho trápily pády, zamrzání, podivné chyby i automatické opravy disku C při startu. Dvakrát ho odnesl do servisu, dvakrát zaplatil a dvakrát slyšel, že je opraveno, než se potíže vrátily. Nakonec s ChatGPT strávil celý víkend laděním přes screenshoty, kdy mu model krok za krokem říkal, kam kliknout, kterou paměť přehodit a jak nabootovat testovací MemTest86.
+
+Testy ukázaly zvláštní vzorec: každý paměťový modul fungoval samostatně v jakémkoli slotu bez chyby, ale oba zasunuté dohromady házely tisíce chyb. ChatGPT ho pak doslova po jednotlivých obrazovkách provedlo aktualizací BIOSu základní desky, po které stejný test s oběma moduly skončil s nulou chyb. Stejným způsobem přes fotky kabelů, BIOSu a správce zařízení poznali, že neviditelný disk potřebuje jen správný ovladač úložiště, doinstalovali zbytek ovladačů a autor uzavřel, že už technika nikdy platit nebude.
+
+Nejvíc hlasů dostala hláška u/Jskidmore1217, že autor je teď technik, protože přesně takhle se to všichni naučili, jen dřív s Googlem. Na to navázala nostalgická linka o učení se z manuálů, počítačových časopisů a fór, kdy u/ssshield popisuje, jak se člověk při shánění pomoci nenápadně stane tím kompetentním, za kým chodí ostatní. Uživatel u/YellowElk921 k tomu přidal vlastní stejnou zkušenost s Linuxem, kdy mu chat radí krok za krokem a on mu jen kopíruje výpisy z terminálu nebo fotí výsledky.
+
+Druhá část vlákna řeší, co vlastně dělali ti placení technici. Uživatel u/hondashadowguy2000 píše, že když ani jeden servis na padajícím systému nespustil MemTest86, selhal v úplných základech diagnostiky. Podobně u/Mediocre-Mobile-5423 bere příběh spíš jako vysvědčení o neschopnosti techniků, protože navržený postup byl celkem základní, a u/MrDeekhaed přirovnává pochybné opraváře k věčně podezíraným automechanikům, kteří si účtují práci, již neudělali. Autor se v odpovědích brání, že poslal stroj do dvou různých dobře hodnocených obchodů, a dodává, že BIOS sice před lety aktualizoval, ale ChatGPT trvalo na opakování a navíc ho donutilo stáhnout chybějící ovladače desky.
+
+Třetí proud diskuse bere historku jako ukázku toho, v čem je umělá inteligence silná. Uživatel u/OneMoreName1 ji přirovnává k elektrickému nářadí pro každého, kdo je ochotný věnovat čas, a u/enlaseven vysvětluje, že znalosti byly vždy na Googlu, ale model je umí ušít na přesné specifikace a vést člověka krok za krokem. Přibývají i podobné zázraky: u/AnythingOk5 po letech padání na 3600 MT/s poradil Claude Opus přepnout Command Rate z 1T na 2T a konečně to fungovalo, u/ItsALaserBeamBozo stejným způsobem zkrotil tiskárnu, která po Windows 11 tiskla bez přestání. A nechybí ani rýpnutí u/Hilldawg4president, že když se mluví o halucinacích modelů, je dobré si vzpomenout, jak chybami proslulý druh je homo sapiens.
+
+Z vlákna tak zůstává jednoduché ponaučení: trpělivé testování jedné možnosti po druhé dokáže i laik s telefonem v ruce dotáhnout dál než dvě placené „opravy".

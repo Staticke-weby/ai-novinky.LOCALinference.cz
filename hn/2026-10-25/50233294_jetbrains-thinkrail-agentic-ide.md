@@ -1,0 +1,16 @@
+# 50233294
+**JetBrains ThinkRail: agentické IDE, které se učí váš projekt**
+
+Hacker News · hmokiguess · 25. října 2026, 17:27 · 203 bodů / 148 komentářů · [diskuse](https://news.ycombinator.com/item?id=50233294)
+
+JetBrains zveřejnil ThinkRail, agentické IDE postavené nad open-source coding agentem pi. Láká na prostředí, které si má s každým použitím pamatovat víc o projektu a časem si samo dotvářet schopnosti. Odkaz míří na GitHub a web thinkrail.ai.
+
+Podle README se repozitář otevře jako projekt a práce se řeže do izolovaných workspaces v podobě git worktrees s vlastní větví, takže agenti běží paralelně bez zásahu do pracovního stromu a dobrá větev se jen mergne. Trvalou znalost nese propojený graf souborů SPEC.md vedle kódu, který agent čte a udržuje přes vlastní nástroje, a přenositelné dovednosti a workflows pro setup, návrh i vydání pull requestu. Nechybí souběžné chaty s vlastním modelem a přehledem tokenů a ceny, zobrazení CI a recenzí u GitHub pull requestů, MCP servery, přihlášení přes JetBrains AI nebo vlastního providera a běh jako nativní desktopová aplikace nebo stejná aplikace v prohlížeči přes CLI. Dalším krokem má být plná podpora rozšíření, aby si ThinkRail vytvářel nástroje podle toho, jak skutečně pracujete.
+
+V diskusi se hned řeší uzamčení na pi. Uživatel zahrevsky píše, že bohaté rozhraní kolem pi mu přesně chybělo, zatímco uživatel aliasxneo by musel být silně přesvědčen, aby opustil oh-my-pi a Paseo. Do toho uživatel InsideOutSanta namítá, že když agenti spouštějí kód, dělají screenshoty a klikají, nedává moc smysl tohle všechno honit na lokále a raději by to hostoval jinde s viditelným UI na zařízeních. Uživatel dr_kiszonka se ptá, jestli pi taky znamená nekonečné ladění drobností jako u Hermes.
+
+Hodně prostoru dostaly worktrees a bezpečnost. Uživatel VMG si posteskl, že sotva si zvykl na jj, jsou všichni posedlí git worktrees, na což uživatel mpalmer připomíná, že nová verze jj umí kolokované git worktrees v rámci workspaces. Uživatel shepherdjerred dodává, že s jj začal právě když agenti začali být použitelní, ale pro paralelní práci mu harnessy jako Claude Code nebo Codex s jj moc nefungují. Uživatel collimarco zase kroutí hlavou nad během agentů mimo kontejnery a chtěl by pro každý úkol separátní microVM nebo kontejner.
+
+Nejostřejší výměna se točí kolem stylu. Uživatel troupo tvrdí, že web je horší slátanina než README, a ptá se, jak mají být ukázkové specifikace „ground truth", když působí jako vylitý obsah od modelu. Přidávají se uživatelé woadwarrior01 a yoyohello13 s tím, že i README je plné strojových frází a sekce o výhodách je zbytečně nesrozumitelná. Proti tomu stojí uživatelé asteroidburger a quasarj: když README vznikne ze specifikací a repozitáře podle jasného zadání, nevidí na strojovém textu nic špatného a bývá prý úplnější než lidský. Začátek vlákna odlehčil uživatel fellowniusmonk přirovnáním k francouzské liště na nářadí, jejíž kouzlo je v přesunu všeho pro jeden projekt na jednu kolejnici bez zbytečného tápání, načež se uživatel owl_might_ musel zeptat, co to francouzská lišta vůbec je.
+
+Kdo má rád JetBrains, ale nebaví ho jejich dosavadní AI, má důvod zpozornět: uživatel hsuduebc2 označuje integraci agentů v jejich IDE za příšerně neohrabanou a uživatel tclancy dodává, že musel agentům do instrukcí psát, proč je terminál v JetBrains spálí.

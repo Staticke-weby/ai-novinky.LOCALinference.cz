@@ -1,0 +1,14 @@
+# 50326727
+**Únik modelu Mythos: 14 bilionů parametrů na Hugging Face, nebo podvrh?**
+
+Hacker News · handfuloflight · 1. listopadu 2026, 16:45 · 45 bodů / 46 komentářů · [diskuse](https://news.ycombinator.com/item?id=50326727)
+
+Na Hugging Face se objevil repozitář burner22/numbat prezentovaný jako uniklý checkpoint Anthropicu třídy Mythos. Původní odkaz v příspěvku na Hacker News administrátoři smazali kvůli obavám z malwaru, takže se celá debata točí kolem jediné otázky: je to skutečný únik, nebo důmyslný podvrh.
+
+Většina hlasů stojí za skepsí. Uživatel ripbozo připomíná, že před pár dny se podobně „prodával" checkpoint Fable 5 na darknetovém fóru, a tipuje to na návnadu, která má lidi přimět spouštět cizí kód. Ostatní ale namítají, že tak objemné váhy s téměř osmi terabajty dat si příležitostný zvědavec jen tak nestáhne a nespustí z rozmaru. Uživatel superkuh rozebírá, jak by takový útok vůbec fungoval: otrávená architektura srozumitelná existujícímu inferenčnímu softwaru, která by zlobila až v agentním zapojení s nástroji. Uživatel judge2020 k tomu přidává otrávené váhy přes X-LSB útoky i starou zranitelnost PyTorch, zatímco uživatel twigger2 oponuje, že při stažení pouhých safetensorů žádné riziko malwaru nehrozí.
+
+Druhá linie debaty pitvá důkazy pravosti. Uživatel Catloafdev odkazuje na třináctou diskusi přímo pod repozitářem, podle které je podvrh jasný, uživatel CamperBob2 se tam ironicky diví, jak by vůbec někdo „recept na generování" modelu odkoukal. Uživatel remuskaos se ptá, proč by některé tenzory vypadaly jako deterministická pseudonáhodná čísla netknutá tréninkem, zatímco uživatel _ache_ naopak píše, že na první pohled mu repozitář připadá věrohodný, a cituje řádek tréninkového logu se ztrátou kolem 1,05 a propustností přes 12 milionů tokenů za sekundu. Uživatel yorwba si z časových razítek dopočítává, že běh by v ten moment musel trvat skoro pět měsíců.
+
+Zbytek vlákna patří vtipům a nedůvěře k samotné představě úniku. Uživatel kraken_cult glosuje, že model unikl sám, uživatel xqcgrek2 fantazíruje, že se model sociálním inženýrstvím vymluvil zaměstnanci na vědomé vězení a nechal se vysvobodit. Uživatel cbg0 to přirovnává ke starému trollení na torrentech, kdy se pod názvem nového filmu skrývalo něco úplně jiného, uživatel Synthetic7346 pochybuje, že by si v laboratoři nikdo nevšiml odchozích dat takového objemu. Svéráznou tečku přidává právní odbočka: uživatel intrasight tvrdí, že váhy jako pouhá data chrání jen obchodní tajemství, uživatel ummonk oponuje, že i uspořádání dat může být chráněné. Uživatel loveparade pak celou kauzu shrnuje hláškou, že model bylo příliš nebezpečné nevydat.
+
+Kdo čeká jasný verdikt, nedočká se ho: Anthropic ani Hugging Face ve vlákně nic nepotvrdily a stopy vedou spíš k opatrnosti než k nadšení z otevřených vah.

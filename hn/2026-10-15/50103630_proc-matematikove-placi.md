@@ -1,0 +1,16 @@
+# 50103630
+**Proč matematici pláčou: technologický smutek nad AI**
+
+Hacker News · RickJWagner · 15. října 2026, 15:44 · 357 bodů / 582 komentářů · [diskuse](https://news.ycombinator.com/item?id=50103630)
+
+Na Hacker News se objevil odkaz na esej Dereka Thompsona o technologickém smutku matematické komunity. Podnětem je to, že OpenAI v posledních měsících zveřejnil stovky matematických výsledků z teorie čísel, teoretické informatiky a logiky. Některé z těchto důkazů přitom odolávaly nejlepším světovým matematikům desítky, někdy i stovky let.
+
+Thompson popisuje reakci badatelů jako směs rozhořčení, úžasu a zármutku. Cituje Huga Duminila-Copina, držitele Fieldsovy medaile z roku 2022, který po říjnovém vydání řekl, že v úterý večer plakal a probudil tím dceru, protože mu zničili obor výzkumu, i Stevena Strogatze z Cornellovy univerzity, který přiznává slzy, dezorientaci i nadšení a mluví o rabování oboru. Thompson si k rozhovoru pozval právě Strogatze a přes starý Archimedův dopis Eratosthenovi staví tezi, že věda je zároveň řemeslo a rozhovor: stroje skvěle zvládají řemeslo, ale přerušují tisíciletý rozhovor, v němž jeden objev tvoří podlahu pro ten další.
+
+Matematici v diskusi přiznávají, že je rychlost pádu zaskočila. bananaflag píše, že svůj smutek měl už tak trochu započítaný v ceně, a Lambdanaut dodává, že měl aspoň šanci předem sebou trhnout. Nejpodrobněji to líčí QuesnayJr: ještě v roce 2024 se na MathOverflow psalo, jak je umělá inteligence pro výzkum k ničemu, v květnu vyvrátila domněnku o jednotkové vzdálenosti díky dechberoucímu přehledu literatury a o pět měsíců později už je lepší než lidé skoro ve všem. I když to prý čekal, nedokázal odhadnout, jaké to bude, až se ho to dotkne přímo.
+
+Vedle toho se ozývají hlasy, že matematici nejsou první ani poslední. zeroonetwothree poznamenává, že jako programátor pláče už pár let, ActionHank vyjmenovává programátory, umělce, překladatele a autory dokumentace. flowerlad píše, že je pro něj jako pro softwarového inženýra těžké matematiky litovat, protože univerzity je nepropouštějí, zatímco inženýři kvůli AI přicházejí o živobytí. pixl97 mu oponuje, že nejde o univerzity, ale o granty, které se mohou během pár let zhroutit, když budou tokeny užitečnější než lidé, a max_streese vyzývá, aby si lidé místo škodolibosti přiznali, že tahle technologie bolí spoustu jednotlivců napříč profesemi.
+
+Třetí linka řeší, co strojům stále chybí. A_D_E_P_T se diví paradoxu, že modely luští nejtěžší otevřené problémy, ale jejich styl psaní pozná člověk na míli daleko, zvlášť u delších textů. izzydata věří, že matematici zůstanou důležití, protože modely jen hrubou silou vytěžují dosavadní šíři poznání, zatímco antves pochybuje, že si lidé udrží náskok v originalitě. Podobně d0liver přirovnává počínání AI k fuzzingu matematických abstrakcí bez porozumění, které samo o sobě nevytvoří abstrakce příští generace. Do toho bowsamic přiznává, že ho slzy spíš odpuzují, protože odhalují orientaci jen na výsledky, zatímco BeetleB brání, že pointou článku je právě láska k procesu a strach ze ztráty lidského spojení.
+
+Čtenář si z vlákna odnese hlavně Strogatzovu obavu, že svět bude mít víc znalostí, ale méně porozumění, a omnicognatovu útěchu, že mu radost z krásné knihy, jako je Nonlinear Dynamics and Chaos, žádný věk AI nevezme.

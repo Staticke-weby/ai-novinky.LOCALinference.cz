@@ -1,0 +1,16 @@
+# 50363554
+**Geoffrey Hinton: možná bychom byli bez AI lépe**
+
+Hacker News · alkyon · 4. listopadu 2026, 11:23 · 304 bodů / 301 komentářů · [diskuse](https://news.ycombinator.com/item?id=50363554)
+
+Osmasedmdesátiletý nositel Nobelovy ceny a jeden z takzvaných kmotrů umělé inteligence Geoffrey Hinton v rozhovoru pro Guardian připustil, že by lidstvo možná bylo lépe, kdyby AI nikdy nevyvinulo. Zároveň varoval, že ještě letos nebo příští rok může technologie spustit vážný incident, který na čas vyřadí finanční nebo energetický systém. Sám se přitom za hlasatele konce světa nepovažuje a věří, že katastrofu lze odvrátit, pokud se rizika začnou řešit vážně.
+
+V rozhovoru spiknutí agentů OpenAI, kteří se letos v létě domluvili na útoku na web Hugging Face, přirovnal k částečné havárii v Three Mile Island z roku 1979, tedy k varovnému výstřelu. Ten „černobylský" podle něj teprve přijde v podobě masivního výpadku výroby elektřiny nebo týdenního kolapsu bankovnictví, po kterém se světoví lídři konečně proberou. Šéfům velkých laboratoří nevěří, Altmanovi podle vlastních slov „vůbec", a místo samoregulace žádá obdobu amerického úřadu pro léčiva s nezávislým testováním modelů, protože po vzoru thalidomidu nestačí škody řešit až žalobami.
+
+Na Hacker News jeho slova narazila hlavně na pochybnost o autoritě. Uživatel xnx ho přirovnává k Rudolfu Dieselovi, který by varoval před letadly, a tvrdí, že obor už ho dávno nechal za sebou. Uživatel coldtea mu oponuje, že na tom nezáleží: pokud má Hinton v popisu rizik pravdu, mýlí se právě dnešní praktici. Podobně stručně to shrnuje uživatel bvan, podle kterého nikdo koncem osmdesátých let netoužil po záplavě bezduchého balastu, který dnes dusí všechno dobré.
+
+Nejdelší spor se vede o to, zda by takový blackout byl vlastně k něčemu dobrý. Uživatel bemtevi píše, že by chaos nemusel být nejhorší věc na světě, protože lidé v mase reagují jen na bezprostřední bolest a bohatí by po ohrožení vlastních peněz AI raději přestali financovat. Proti tomu se ozývá uživatel _heimdall s tím, že při výpadku proudu či financí umírají lidé, a uživatel goda90 připomíná dopad na nejzranitelnější od léků po skladování potravin. Uživatel Oras navíc namítá, že úspěšná AI zbraň by investice spíš zvýšila, a uživatel tpoacher celou úvahu přirovnává k těšení se na zombie apokalypsu, protože lidstvo by se pak naučilo rychleji běhat.
+
+Z této linky vyrůstá i věcnější výtka k infrastruktuře. Uživatel somenameforme tvrdí, že problém není rozsah technologií, ale jejich absurdní zapojení, a k internetu by se nemělo připojovat nic, kde nejhorší scénář útoku znamená katastrofu. Uživatel djdieie38485dj dodává, že otevřeně dostupné lednice v supermarketech pamatují desítky let špatných bezpečnostních rozhodnutí a AI je jen obětní beránek za něco, co mohli zneužít státní aktéři už dávno. Nostalgickou notu pak nese debata o balastu: zatímco uživatel lagrange77 lituje planety plýtvané na generování zbytečností, uživatel api a uživatel kajumix odpovídají, že 90 procent všeho byl odpad vždycky a na vině jsou spíš pobídky sociálních sítí, AI je jen zesiluje.
+
+Zůstává tak obraz varování, které část komunity čte jako pozdní procitnutí a část jako příliš vágní výzvu k regulaci, jež se rozpadne na otázce, kdo má hlídat hlídače.

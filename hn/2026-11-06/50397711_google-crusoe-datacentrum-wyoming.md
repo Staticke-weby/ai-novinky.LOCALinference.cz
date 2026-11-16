@@ -1,0 +1,14 @@
+# 50397711
+**Google koupil od Crusoe datacentrový areál ve Wyomingu**
+
+Hacker News · rexbee · 6. listopadu 2026, 21:09 · 65 bodů / 13 komentářů · [diskuse](https://news.ycombinator.com/item?id=50397711)
+
+Google převzal od společnosti Crusoe rozestavěný areál datacentra v jihovýchodním Wyomingu. Transakce ze 6. listopadu uzavírá předvývojovou fázi projektu, během níž Crusoe zajistilo výběr lokality, vládní povolení a energetickou koncepci, a otevírá cestu k samotné stavbě a pozdějšímu provozu.
+
+Podle oznámení z Denveru stála za energetickou stránkou spolupráce s Tallgrass Energy. Kampus má kombinovat palivové články, síťovou elektřinu a plynové turbíny s dlouhodobým plánem na zachytávání uhlíku přes regionální úložiště CO2. Šéf Crusoe Chase Lochmiller k tomu prohlásil, že firma je „v byznysu aktivace gigawattů pro inteligenci" a má přes 6 GW kontrahovaných projektů a více než 40 GW v pipeline. Crusoe zároveň připomíná, že pro Google vyvíjí i areál v Armstrong County u Amarilla v Texasu.
+
+Diskuse se ale rychle stočila od oficiální verze k zákulisí. Uživatel tristanj doplnil, že Google den předtím ohlásil do wyomingského projektu investici 17 miliard dolarů, a citoval Bloomberg: Crusoe prý bylo od projektu odstaveno poté, co se mu nepodařilo zajistit zákazníky včetně Googlu a ten měl výhrady k nákladům a harmonogramu. Už červnové „pozastavení" stavby, která by spotřebou odpovídala městu velikosti Denveru, tak prý ve skutečnosti znamenalo tlak na odchod.
+
+Na to navázala debata o důvěryhodnosti firmy. Uživatel pm90 připomněl, že Crusoe začínalo jako bitcoinový těžař, pak přes využití odhořelého plynu přešlo na AI neocloud, a z vlastní zkušenosti z pohovoru hodnotí inženýry jako slušné, ale vedení jako velmi pochybné. Uživatel alpb pochybuje, že firma bez zkušeností se stavbou datacenter měla tak velký projekt vést, a zmiňuje i roli v texaském Stargate o výkonu 1,2 GW. Proti tomu uživatel echelon namítá, že nedostatek zkušeností nezastavil ani CoreWeave, které se stejně úspěšně překlopilo z krypta do datacenter.
+
+Zbytek vlákna řeší, co tahle rošáda znamená pro trh. Uživatel simonw soudí, že hodnota existujících center se zajištěnou energií a vodou teď prudce poroste, a uživatel notfried dodává, že zlato mají hlavně areály s možností rozšíření na vlastním, už povoleném pozemku. Skeptičtější uživatel rooftopzen mluví o účetním „nekonečném triku s penězi" a tvrdí, že tolik center nikdo nepotřebuje, na což uživatel WarmWash odpovídá, že tomu uvěří, až laboratoře zruší limity a kvóty. Odlehčení přinesla otázka uživatele zerozerotwo, zda nejde o trans kapelu Crusoe, na kterou uživatelé oofabz a drooopy reagují pobaveným povzdechem, že už jsou staří. Vážnější tečku přidává uživatel cmarschner s kritikou, že stavět centra bez obnovitelné energie je v rozporu s bojem proti oteplování.

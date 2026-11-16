@@ -1,0 +1,14 @@
+# 50251127
+**CorridorKey 2.0: keying z green screenu jedním klikem a lokálně**
+
+Hacker News · ravenical · 26. října 2026, 22:18 · 191 bodů / 60 komentářů · [diskuse](https://news.ycombinator.com/item?id=50251127)
+
+Na Hacker News se objevil odkaz na CorridorKey 2.0, první oficiální plugin youtubového studia Corridor Digital, který navazuje na úspěšnou verzi 1.0. Slibuje, že z green screenu i blue screenu vytáhne čistou masku na jedno kliknutí a celé to poběží lokálně přímo ve střižně.
+
+Web produktu láká na podporu Resolve, Nuke, After Effects, Premiere a Blenderu s tím, že jedna koupě odemkne všechny pluginy. Cena je 59,90 dolaru bez předplatného a oficiálně je potřeba Windows s Nvidií, na Macu funguje samostatná aplikace. Vývojáři se chlubí potlačením problikávání díky analýze celého klipu, přesným odhadem poloprůhledných okrajů i testováním na více než čtyřech stech záběrech chystaného filmu Son of a Dungeon.
+
+Největší část diskuse se stočila k tomu, co je vlastně zdarma a co je open source. Uživatel lambfoo upozorňuje, že mimo velké firmy je nástroj zadarmo, a elijahciali to upřesňuje: váhy modelu a nástroj pro příkazovou řádku byly vždy zdarma, platí se za pohodlné oficiální pluginy včetně podpory. O to ostřejší je pak rozbor uživatele bramhaag, podle kterého nejde o open source, ale jen o dostupné zdrojové kódy pod licencí CC BY-NC-SA s dodatky, která se navíc nehodí na software a měnila se bez souhlasu přispěvatelů.
+
+Řada lidí chválí poctivost řemesla i cenu. ShakataGaNai píše, že padesát dolarů v betě je za takový nástroj krádež, přirovnává ho k Magnet Mask ve Final Cutu a přiznává, že zaplatil hlavně na podporu práce Corridoru. Uživatel teach doporučuje video z natáčení, kde jde Niko do detailu i o licencování, a CitrusFruits z něj vytahuje hlavní pointu: přizvaný špičkový supervizor vizuálních efektů našel v masce jen drobnosti viditelné po přiblížení. Eji1700 k tomu dodává, že kvůli algoritmickému stylu připomínajícímu laciná virální videa by takové věci normálně přeskočil, a radí skeptikům skočit rovnou k času 23:40, kde mluví profesionál.
+
+Zajímavou odbočku otevřel jarjoura poznámkou, že tohle není generativní umělá inteligence ve stylu Nano Banana, nic si nevymýšlí, jen využívá moderní výzkum k tomu, aby umělci měli lepší nástroj místo toho, aby je obcházel. DrewADesign na to odpovídá dost ponuře: čerstvý absolvent oboru píše, že jeho kariéra skončila dřív, než začala, protože firmy chtějí prodávat cokoliv co nejlevněji. Praktičtější linka se ptá po budoucnosti, wongarsu a keyle by chtěli stejnou kvalitu v reálném čase na webkameru či do OBS, cubefox tipuje, že ve verzi 3.0 už nebude potřeba ani zelené plátno. Pro nováčky to shrnuje hackingonempty: chroma key prostě nahrazuje zelenou jiným pozadím, ale na okrajích, ve vlasech a v pohybové neostrosti selhává, a právě tam má model pomoci.

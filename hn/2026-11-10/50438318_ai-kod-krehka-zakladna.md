@@ -1,0 +1,16 @@
+# 50438318
+**Když se kód píše s AI, vzniká křehká základna. Vývojář popsal, co viděl v Meta**
+
+Hacker News · plun9 · 10. listopadu 2026, 11:25 · 459 bodů / 454 komentářů · [diskuse](https://news.ycombinator.com/item?id=50438318)
+
+Evan X. Merz tvrdí, že v posledních měsících v Meta generoval s pomocí AI nejméně 90 % kódu, protože to byl minimální standard pro dobré hodnocení. Práci mu to ale ani zdesetinásobila, ani nezdvojnásobila, a u kolegů silně závislých na modelech pozoroval křehký kód a drobné problémy přerůstající v technický dluh. Jako příklad uvádí merge od jednoho z nejlepších programátorů v týmu, který řešil efekt při najetí myší přes JavaScriptové události místo CSS selektoru :hover, tedy těžko škálovatelným způsobem.
+
+Ve svém textu pak rozlišuje čtyři mechanismy, kterými podle něj AI základnu oslabuje: píše povrchní testy, které míjejí podstatné případy, vytváří zbytečně složitý kód se spoustou pomocných metod, snižuje porozumění lidí vlastnímu systému a žene tempo pull requestů tak rychle, že nezbývá čas na poctivou revizi. K tomu přidává čtyři příznaky, že už je základna křehká: přibývá incidentů, jejich řešení trvá déle, chyby vidí až koncoví uživatelé a celková zkušenost se zhoršuje. Spekuluje také, že jeho větší odpor k nasazení modelů mohl sehrát roli při květnovém propuštění z firmy.
+
+Nejživější spor se vede o to, zda je na vině nástroj, nebo způsob jeho použití. Uživatel ricardobeat přirovnává model k juniornímu inženýrovi: i tomu je třeba dávat vodítka, hlídat výstupy a nést za ně odpovědnost, stejně jako se nedá přečíst všechen kód ve velkém týmu. Odpověď na sebe nenechala čekat, cassianoleal namítá, že juniora vede člověk k tomu, aby rostl a přinášel vlastní pohled, zatímco u modelu se stejná rada opakuje dokola jen proto, aby se věc vůbec dodělala. Do toho se přidává ernst_klim s poznámkou, že poctivé čtení kódu je v rozporu s představou bleskového zrychlení, které management očekává.
+
+Druhá linka diskuse míří k byznysu a disciplíně. Uživatel snarfy píše, že AI je multiplikátor čehokoliv, na co se použije, a většinu firem zajímá hlavně binárka s novými funkcemi, ne kvalita zdrojáků, takže kdo se snaží psát kvalitně, může zůstat pozadu. Naproti tomu CharlieDigital tvrdí, že to tak být nemusí: když se začne od dobrých vzorů, které by tým ručně nedodržoval, umí model psát testy a držet robustní kód. Podobně to vidí Topfi, podle něhož se dá pracovat pomaleji a model si vybírat, protože některé píší hustý, těžko čitelný kód bez ohledu na rychlost dodávání.
+
+Třetí příběh přinesl uživatel user43928, který za sedm měsíců postavil zhruba 500 tisíc řádků mobilní aplikace a křehkost označuje za nepodstatnou, údržba se prý s novými modely spíš zjednodušuje. Ostatní se hned ptají, zda kódu vůbec rozumí, kolik stojí tokeny s růstem projektu a zda je aplikace k vidění. Uživatel jvidalv přidává podobnou zkušenost s horskou aplikací, kterou postupně předal autonomnímu psaní a dluh prý maže pár prompty ve volné chvíli, zatímco gonzalohm odsekává, že sedm měsíců ještě není dlouhodobý provoz.
+
+Z diskuse tak zůstává hlavně otázka, kdo ponese odpovědnost za celek, když dílčí úkoly model zvládne dobře, ale dlouhodobé souvislosti v jeho kontextovém okně mizí.

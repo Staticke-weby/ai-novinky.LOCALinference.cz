@@ -1,0 +1,16 @@
+# 50471431
+**Google vydal Gemini 4 Hydrogen. Model pro agentní workflow míří i do Antigravity**
+
+Hacker News · dvaplima · 12. listopadu 2026, 19:01 · 502 bodů / 320 komentářů · [diskuse](https://news.ycombinator.com/item?id=50471431)
+
+Google představil Gemini 4 Hydrogen jako každodenní model pro rychlé agentní workflow a kódování. Má doplnit silnější modely Gemini 4 Carbon a Argon určené pro hluboké uvažování nad nejtěžšími úlohami a je ode dneška dostupný v API, AI Studiu, aplikaci Gemini, Vyhledávání i v Google Antigravity pro předplatitele Pro a Ultra. Oznámení podepsal Koray Kavukcuoglu z Google DeepMind.
+
+Podle firemního blogu Hydrogen v defaultním nastavení překonává Argon v žebříčku Artificial Analysis Intelligence Index poměrem 51 ku 50 a úkoly často dokončí rychleji než modely své třídy. Stojí jednotně 1,50 dolaru za milion vstupních a 7,50 dolaru za milion výstupních tokenů při milionovém kontextu a ve čtyřech úrovních uvažování slibuje hladce škálovat mezi cenou, latencí a kvalitou. Pro Antigravity k němu Google přidal režim Orchestrator, který v rámci jedné relace dynamicky přepíná mezi Hydrogenem a Carbonem a na Terminal-Bench 4.0 dosáhl téměř úspěšnosti Carbonu při průměrně o 24 % nižší spotřebě kvóty a o 19 % rychlejším dokončení.
+
+Diskuse se ale místo benchmarků stočila téměř výhradně k názvům. Uživatel jawns sepsal rozbor, proč pořadí Hydrogen → Argon → Carbon nedává smysl: není abecední, neodpovídá atomové hmotnosti ani výskytu ve vesmíru, elektronegativitě, bodu varu či tání, a dokonce ani počtu písmen, scrabblovému skóre nebo hořlavosti. Přidal se InsideOutSanta s narážkou, že zatímco u konkurence lze logiku astra, sol, terra a luna či haiku, sonnet a opus ještě vysvětlit, u Googlu jde o čisté bláznovství, a uživatel flakiness už věří, že si z lidí dělají legraci naschvál.
+
+Vysvětlení nabídl uživatel amanda4 s odkazem na Business Insider: interně Google testoval abecední řadu Argon, Barium a Carbon a Hydrogen k ní přilepil dodatečně jako odkaz na nejlehčí prvek, protože má být lehkým modelem. I tak podle něj zůstává zmatek, na čemž se shodli i mattlondon a jrflo – starší Pro a Flash prý intuitivně říkaly, co čekat, zatímco u prvků nikdo nepozná, který je menší. Vtipná linka pak jela dál: ElProlactin si řekl o kyslík, tintor se ptal, kdy dorazí Gemini 4 Lead a Uranium, a vardump kontroval, zda bude mít Gemini 4 Plutonium polčas rozpadu.
+
+Za pojmenováním se ozvala i praktičtější debata o tom, co Hydrogen vlastně je. Uživatel cflewis ho popsal jako Flash skrz naskrz a dobrého pracanta pro implementaci kódu, když specifikaci a revizi dělá vyšší model, a uživatel npn poznamenal, že má stejnou cenu jako 3.8 Flash. Uživatel thereitgoes456 řešil, zda jde o náhradu Flash-Lite pro obsluhu Vyhledávání, JacobAsmuth v něm viděl skok ve vnímané inteligenci pro běžnou veřejnost, zatímco redox99 varoval, že malé modely bývají silné v benchmarcích a slabé v reálném použití. K tomu sergiotapia posteskl, že netuší, kterou ze sedmi cest k modelu od Googlu má použít, a james2doyle aspoň pochválil, že novinka je tentokrát skutečně dostupná v den oznámení.
+
+Z kyselého vlákna o názvech tak nakonec vyplývá docela jasný vzkaz: rychlý a levný pracant pro agenty by se komunitě hodil, jen by mu ráda říkala srozumitelně.

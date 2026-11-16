@@ -1,0 +1,296 @@
+{
+ "date": "2026-11-13",
+ "clanky": 33,
+ "temata": [
+  {
+   "title": "ChatGPT se po deseti dnech ozval sám. Uživatelé sbírají nevyžádané zprávy",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xv32sv"
+   }
+  },
+  {
+   "title": "Claude a Claude Code měly výpadek. Přihlašování padalo skoro dvě hodiny",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50481187"
+   }
+  },
+  {
+   "title": "FAA nasadila AI na řízení letového provozu. Nástroj stál 875 milionů dolarů",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xvl00y"
+   }
+  },
+  {
+   "title": "AI rozluštila Gödelovy sešity. Skrývají stovky dokázaných teorémů",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50486748"
+   }
+  },
+  {
+   "title": "llama.cpp vydal verzi 1.0. Lokální inference dostala stabilní základ",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xv8t2e"
+   }
+  },
+  {
+   "title": "Z kamionu zmizel Nvidia hardware za 11,4 milionu dolarů. Policie vyšetřuje krádež",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50487864"
+   }
+  },
+  {
+   "title": "Na Steamu přiznal každý AI díl své hry. Disclaimery se staly hlavním tématem",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xus0wz"
+   }
+  },
+  {
+   "title": "AI ničí důvěru mezi spisovateli a čtenáři, tvrdí esej v Atlantiku",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50481870"
+   }
+  },
+  {
+   "title": "Necenzurované modely frčí. Lidé porovnávají DeepSeek, Qwen a GLM bez odmítání",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xutc35"
+   }
+  },
+  {
+   "title": "Brave Search API přijímá platby od AI agentů přes protokol x402",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50477649"
+   }
+  },
+  {
+   "title": "Dario Amodei si rýpl do konkurence: my modely neavizujeme, my je vydáváme",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xvi97m"
+   }
+  },
+  {
+   "title": "Šest set experimentů s JEPA. Světové modely zvládly dlouhé úlohy bez dalšího tréninku",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50487185"
+   }
+  },
+  {
+   "title": "A100 zlevnily o 20 až 30 procent. Trh s ojetými GPU se hroutí",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xuxbeb"
+   }
+  },
+  {
+   "title": "Jonathan Blow: když AI umí programovat, proč je software pořád stejný?",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50484658"
+   }
+  },
+  {
+   "title": "Necenzurovaný Qwen-Image-2.1 vystoupal vysoko v trendech Hugging Face",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xvc0lz"
+   }
+  },
+  {
+   "title": "No AI Slop: manifest ze summitu AIE Code 2026",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50488769"
+   }
+  },
+  {
+   "title": "Pangram CEO: otázka na svačinu v přihlášce zkrátí revizi o 60 procent",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xvizxy"
+   }
+  },
+  {
+   "title": "Google kvůli AI Overviews odřízne školy od Vyhledávání. Rodiče jsou rozzlobení",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50484960"
+   }
+  },
+  {
+   "title": "Syn vytáhl z kůlny 3090ky z těžby. Otec na nich rozjel lokální AI",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xvbcfp"
+   }
+  },
+  {
+   "title": "OpenAI zrušila samostatný robotický tým. Výzkumníky přesunula k obecným modelům",
+   "sources": [
+    "rd",
+    "hn"
+   ],
+   "ids": {
+    "rd": "1xvgyfd",
+    "hn": "50487184"
+   }
+  },
+  {
+   "title": "Umělá videa už nejde rozeznat. Diskuse: děti neuvěří ničemu, co uvidí",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xvfehk"
+   }
+  },
+  {
+   "title": "Perplexity vydala Decider 1.3. Rozhodovací model cílí na strukturované výstupy",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50488464"
+   }
+  },
+  {
+   "title": "Dwarkesh Patel: lavina z matematiky míří na vývoj AI. Superinteligence do roku 2030",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50487854"
+   }
+  },
+  {
+   "title": "OpenAI interní model ExploitGym: 77 procent, Anthropic 39",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xurxd4"
+   }
+  },
+  {
+   "title": "Kvůli AI se ničí staré knihy. Kritici mluví o nové Alexandrii",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50487469"
+   }
+  },
+  {
+   "title": "ChatGPT Wallet: agenti nakupují, ale každý nákup musí schválit uživatel",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xvd1ci"
+   }
+  },
+  {
+   "title": "Existuje správná míra AI? Esej o tom, kdy ji pustit do nástrojů",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50480659"
+   }
+  },
+  {
+   "title": "Liquid AI vydala LFM3. Dvoumiliardové multimodální modely slibují rychlost",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xuz7ao"
+   }
+  },
+  {
+   "title": "Ask HN: Umí AI vůbec něco skutečně nového?",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50484426"
+   }
+  },
+  {
+   "title": "Edge0-145B: open-source model se 145 miliardami parametrů běží na vlastním počítači",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xuuq0b"
+   }
+  },
+  {
+   "title": "Gnomon přináší git do dat v Postgresu. Každý agent dostane vlastní větev",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50486480"
+   }
+  },
+  {
+   "title": "CXMT ztrojnásobí výrobu RAM. Čínské paměti mají uvolnit AI trh",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xvam8o"
+   }
+  }
+ ]
+}

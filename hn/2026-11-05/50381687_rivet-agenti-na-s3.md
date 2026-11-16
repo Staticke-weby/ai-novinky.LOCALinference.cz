@@ -1,0 +1,18 @@
+# 50381687
+**Rivet: agenti na S3 místo drahých sandboxů**
+
+Hacker News · NathanFlurry · 5. listopadu 2026, 18:17 · 86 bodů / 46 komentářů · [diskuse](https://news.ycombinator.com/item?id=50381687)
+
+Rivet (YC W23) představil open-source orchestrátor agenturních úloh postavený na modelu aktorů a úložišti S3, který lze provozovat i plně self-hosted. Každý agent v něm dostane lehkého aktora s dlouho žijícím procesem, stavem v paměti, WebSockety a hibernací při nečinnosti místo těžkého sandboxu. Jako důkaz zakladatelé Nathan a Nicholas uvádějí Amp, který se prý přesunul z Cloudflare Durable Objects na Rivet za víkend a nasazuje on-prem.
+
+Odkazovaný web slibuje hustotu, která má sandboxy nechat daleko za sebou: 72,4 KB RAM na aktora proti 512 MiB na minimální sandbox a 4,99 ms p99 cold start proti 1,7 s u sandboxu. Data žijí v S3, přičemž durable SQLite má 1,07 ms na zápis a 1,36 ms na čtení na p99 a úložiště má být asi 10,4krát levnější než replikované SSD. Cluster se má díky tomu škálovat až na miliardy aktorů, jedinou závislostí je přitom S3 bucket a běh na běžném Node.js a Bunu bez vlastní runtime.
+
+Nejživější debata se vedla kolem toho, jestli agent vůbec potřebuje sandbox. apsurd se ptal na základní mentální model, zda jsou stav a běhové prostředí v Rivetu oddělené věci, a k9294 mu vysvětlil trend oddělení smyčky agenta od sandboxu: většina času se jen čeká na inferenci, takže stačí platit za jednotlivé exekuce čtení, zápisu či hledání a zbytek držet v lehkém aktoru. Zakladatel NathanFlurry to potvrdil a popsal tři vzory – agenti jen s nástroji bez sandboxu, agenti s lehkým sandboxem agentOS ve V8 a WebAssembly, a běh „hlavy mimo ruce", kdy se plný sandbox vystaví agentovi jen jako nástroje.
+
+Skepsi vnesl esafak, podle kterého rychlost orchestrace není problém agentů, protože se většinou čeká na model, a spíš by vedl s trvanlivostí. feifan oponoval, že jde o lidi, kteří běží desítky až stovky agentů souběžně, kde se starty a paměť nasčítají. Podobně se ptal ATechGuy2, zda sandboxové startupy nebudou s tvrzením o drahých a pomalých sandboxech nesouhlasit, a NathanFlurry odkázal na benchmarky Compute SDK a úspory u velkých firem třeba při učení se zpětnou vazbou.
+
+Hodně se řešila i magie S3 s latencemi pod stovky milisekund. chicagobuss se ptal na rozdíl proti celld a na to, jak lze S3 dělat durabilně a bezpečně tak rychle, a Tanjreeve vytáhl vysvětlení z textu: zápis se potvrdí po uložení na SSD ve dvou ze tří zón dostupnosti a do S3 se dávkuje až na pozadí, čtení jde z SSD cache a na S3 sahá jen při miss. Bezpečnostní linku přidal SriniK, podle kterého srovnání s E2B kulhá bez debaty o izolaci, na což NathanFlurry slíbil Linuxově kompatibilní agentOS se stejným modelem jako Cloudflare Workers a Chromium.
+
+Zbytek vlákna byl směsí nostalgie, vtipů a praktických zkušeností. haseebws94 pamatoval Rivet ještě z herních Playflow časů a popisoval vlastní pipeline s efemérními linuxovými stroji pro Claude Code a Codex, fastball chválil přesun kousku infrastruktury z „pohádkové země" Durable Objects do vlastního VPC a wsxiaoys přiznal, že po průzkumu skončil u Cloudflare, která se ale rozpadla do dvou cest. stiiv se ptal, jestli lze chtít jen self-hostovatelné typescriptové aktory bez agentů ve stylu Akka, a dozvěděl se, že jádro je čistě aktorské a agentní knihovna s Pi Durable je volitelná. Nechyběly ani úsměvy kolem jména, záměna s Rivet od Ironcladu a Tcl mod_rivet, ani stížnost minraws na zmatené chování v Claude a Codexu a hláška timsuchanek o nefunkčním odkazu na balíček gasoline v README.
+
+Kdo provozuje hodně souběžných agentů a trápí ho studené starty a nečinné stroje, má teď další open-source cestu, jak držet paměť mimo sandbox.

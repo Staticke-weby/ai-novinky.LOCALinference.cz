@@ -1,0 +1,14 @@
+# 1x6j536
+**No to se zvrhlo rychle: AI a bezpečnost uzavřeného kódu**
+
+r/ChatGPT · u/Confident_Salt_8108 · 15. října 2026, 13:28 · 735 bodů / 190 komentářů · [diskuse](https://www.reddit.com/r/ChatGPT/comments/1x6j536/)
+
+Autor do r/ChatGPT vložil bez vlastního textu krátký videoklip označený jako Funny, v němž mluvčí varuje, že umělá inteligence dokáže rozebrat uzavřený a kompilovaný kód, a tím ohrožuje banky, infrastrukturu i placený software. Stejný klip se ve stejný den objevil i v r/OpenAI se 701 body a v r/agi, takže se stejná hádka vedla na třech místech najednou.
+
+Nejhlasitější část diskuse mluvčího opravuje a tvrdí, že si plete dvě různé věci. u/zar0nick připomíná, že velká část internetu běží na otevřeném Linuxu, takže veřejně dostupný kód není sám o sobě nezabezpečený – mrtvá je podle něj jen „bezpečnost skrze utajení“. Na to navazuje u/Mysterious-Dot2879 z paralelního vlákna: kompilace prý slouží hlavně rychlosti a jen mimochodem chrání zdroják, zatímco bankovnictví a internet stojí na kryptografii, se kterou zatím AI žádný zásadní problém nemá. Podobně u/Keganator píše, že kopie bankovního softwaru útočníkovi nepomůže, protože banky nestojí na utajené funkčnosti, ale na tajemstvích a oprávněních, ke kterým se uživatel nikdy nedostane. Nejpříkřeji to shrnuje u/Wise_Freedom_6595, podle něhož mluvčí vůbec netuší, jak IT bezpečnost funguje.
+
+Druhá polovina vláken bere stejný vývoj jako dobrou zprávu a vítá konec starých byznys modelů. u/CobaltLemur odmítá rovnítko mezi reverzním inženýrstvím her a rozhraní a lámáním prvočísel, a to, na co si mluvčí stěžuje, chválí jako technickou demokracii: lidé si prý konečně budou moci postavit vlastní rozhraní, která dělají, co chtějí oni, třeba sociální sítě bez vnucených reklam nebo systémy, které se nerozbijí každých pár měsíců. u/beanofdoom001 se k tomu přidává s tím, že problém není v samotné technologii, ale v tom, jak se v novém paradigmatu bude vydělávat, a doufá v přerozdělení karet k něčemu spravedlivějšímu. u/Vaeon to vyhrocuje do volby, zda děti dnešních čtenářů budou žít ve světě Blade Runnera, nebo Star Treku.
+
+Zbytek diskuse balancuje mezi únavou z katastrofických videí a černým humorem. u/Hortlek si stěžuje, že všechna ta videa začnou jednou myšlenkou a pak jen věští, že „brzy bude všechno špatné“, aniž by vysvětlila jak a proč. Praktičtější notu přidává u/Future_Geologist5925, který v reverzním inženýrství vidí hlavně modding, klony předraženého softwaru a naději pro uživatele Linuxu, zatímco u/Orkapork straší zkušeností síťaře z vodáren, kde by krátký výpadek znamenal ucpané potrubí za miliony. Mezi tím probleskuje u/Wiinterfang s glosou, že popisovaná apokalypsa byl prostě život v devadesátkách.
+
+Z vlákna tak zůstává paradox: kompilovaný kód nikdy nebyl trezorem, jen zámkem na čas – a AI ten čas podle diskutujících teď prodává v balení, které jedněm bere iluze a druhým dává naději.

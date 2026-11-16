@@ -1,0 +1,14 @@
+# 1xev6bo
+**125B model na 16 GB VRAM díky NVMe offloadu**
+
+r/LocalLLaMA · u/MaxDev0 · 25. října 2026, 07:41 · 241 bodů / 58 komentářů · [diskuse](https://www.reddit.com/r/LocalLLaMA/comments/1xev6bo/)
+
+Autor rozjel Qwen3.8-Flash-Next se 125 miliardami parametrů na běžném počítači. Místo aby držel všech 24 tisíc expertů v systémové paměti, kde běžná sestavení jako Strata potřebují 48–64 GB, sáhl po vahách s hustotou 3,05 bitu na váhu, Q4 KV cache a offloadu expertů na NVMe. Na RTX 4090 s pouhými 8 GB přidělené systémové RAM tak v krátkém kontextu dává 28–33 tokenů za sekundu a při plných 262 tisících tokenech drží kolem 20 tokenů za sekundu při prefillu zhruba 1 627 tokenů za sekundu, na notebooku s RTX 3080 pak při 100 tisících tokenech 18–21 tokenů za sekundu se špičkou 15,5 GB VRAM. Postup navazuje na glm-flash-lite a ExLlamaV3 a skripty s návodem autor zveřejnil na GitHubu.
+
+Největší nadšení vzbudil samotný princip streamování obří směsice expertů z disku. u/cubebash označuje Qwen 3.8 Next za svůj hlavní model pro agentní programování, který je překvapivě schopný a velké části se dají průběžně tahat z SSD bez hromady RAM. Věří, že s rychlejšími disky a úspornějšími architekturami brzy k domácímu běhu velkých modelů skoro nebude potřeba RAM ani VRAM, a těší se na plně dotrénovanou Qwen 4. u/BlasterGales jen stručně doufá, že mu to na silnějším železe poběží ještě lépe.
+
+Druhá linka řeší, jestli má smysl právě tahle kombinace kvantizace. u/Danmoreng si stěžuje, že má disk plný všelijakých inference enginů, a bojí se znatelné ztráty kvality u Q4 KV cache, takže by raději sáhl po Q8. u/MerePotato v podobném duchu rýpe, že s takto tlačenou přesností by člověk mohl rovnou provozovat menší 27B model ve vyšší přesnosti. u/FullstackSensei zase shazuje měření KL divergence v původním glm repozitáři, podle něj stojí na pár tisících tokenech triviálních otázek, které zvládne i silně ořezaný miliardový model.
+
+Neživěji se ale diskutuje o životnosti disků a o dostupnosti pro slabší sestavy. Dotazy na to, zda neustálé čtení neodrovná SSD a zda by nedávalo smysl vyčlenit si na to samostatný disk, pokládají u/NoShoulder69 i u/canConfirmCanConfirm, u/AdIllustrious436 přímo varuje před dopadem na výdrž. u/ScaryGamerHD přidává vlastní zkušenost s offloadem GLM, který prý slušně generuje, ale zpracování promptu je pomalé a zdraví disku rychle klesá. Vedle toho se ptají majitelé skromnějšího hardwaru: u/Humble_Rabbt na šanci pro 6GB kartu, u/philmarcracken na dělení mezi 12GB a 8GB kartu při požadavku 16 GB VRAM, u/Nick88v2 na tvrdý limit paměti kvůli systému na pozadí a na podporu AMD a u/K4k4shi se zajímá o Windows na 9070 XT.
+
+Z vlákna tak zůstává obrázek elegantního triku s reálnou cenou: 125B model se vejde i na notebook, ale platí se za to agresivní kvantizací, závislostí na rychlém NVMe a otázkou, kolik toho disk dlouhodobě vydrží.

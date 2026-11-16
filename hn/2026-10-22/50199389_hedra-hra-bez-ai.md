@@ -1,0 +1,16 @@
+# 50199389
+**Hedra: open-world hra, kterou autor napsal od nuly bez AI**
+
+Hacker News · maxilevi · 22. října 2026, 20:44 · 169 bodů / 31 komentářů · [diskuse](https://news.ycombinator.com/item?id=50199389)
+
+Autor maxilevi na Hacker News odkázal na větev pre-ai svého projektu Hedra, ambiciózního open-world low-poly RPG. Hru tvořil téměř deset let a sdílení pojal jako ohlédnutí za dobou před nástroji na programování s umělou inteligencí. Sám o výsledku mluví jako o reliktu jiné éry a podivuje se nad představou psát tolik kódu dnes ručně.
+
+Stránka projektu na GitHubu popisuje, jak začal v patnácti s cílem naučit se OpenGL a postupné přidávání nápadů ho dovedlo k plnohodnotné hře i vlastnímu enginu. Kód má kolem 100 tisíc řádků a hra má nativní podporu Linuxu a Windows. Svět je plně procedurálně generovaný z voxelů pomocí metody Marching Cubes, nechybí úkoly, bossové, přes sto předmětů se vzácnostmi, povolání se specializacemi, rybaření, obchodování, společníci ani modování v Pythonu.
+
+Nejživější linka diskuse se stočila k tomu, co dá ruční práce a co se s generováním kódu ztrácí. Uživatel dachris chválí vizuál i přehlednou strukturu kódu a vzpomíná, že takhle s vlastní hrou začínala polovina vývojářů. Lituje hlavně tréninku analytického myšlení, ladění a narážení hlavou do zdi, který prý příkazem „vyrob mi hru“ nenahradíš. Podobně to vidí adamddev1, podle kterého je na první pohled znát, že jde o pravé originální dílo bez typického nádechu generovaného obsahu, a vyzývá, aby se vášnivé projekty dál stavěly pečlivě ručně. K tomu se přidává stručný dík jh3nd3rs0n za hru vzniklou bez AI a zpráva od aoguerrero, že mu na stárnoucím počítači běží plynule a hraje se s chutí.
+
+Proti nostalgii se ozval sublinear, podle kterého označení relikt jiné éry přehání, protože jsme pořád ve stejné době. Tehdejší kopírování zveřejněného kódu a dnešní modely jsou si podle něj blízké, jen projekty jako tento se staly trénovacími daty. Na proměnu slov navazuje panza, kterého baví, jak v roce 2026 znamená „napsané od nuly“ pro každého něco jiného, od vlastního enginu po práci bez AI. Uživatel serf dodává, že už jeho generace měla pocit, že psát od nuly znamená bez balíčků v čistém jazyce, a starší by se zase smáli představě hotového překladače zdarma. Do toho zapadá i otázka sabujp, zda psaním rukou myslí autor úplně bez našeptávání, na kterou ideasphere reaguje parodií o psaní programů na ubrousky, skenování a vlastním rozpoznávání textu, protože všechno ostatní už mu připadalo jako podvod.
+
+Zbytek vlákna patří srovnáním a drobnostem z řemesla. KolmogorovCompovi připomíná Hedra Cube World, což myslí jako pochvalu, a chrysoprace mu na oplátku doporučuje svobodné Veloren pro ty, kterým se původní vzor líbil vzhledem, ale ne vývojem. Uživatel skyberrys vtipkuje, že on a polovina webu psala na střední videohru, takže autor našel to správné publikum. Stejný chrysoprace chválí, že je hra postavená kolem modovacího rozhraní, pjmlp přidává body navíc za volbu C#, dead_hn_theory se dojímá nad zmínkou o formátu Collada a vzpomíná na Ogre3D a Sauerbraten. Praktickou tečku přidává skizm dotazem, podle jakých tutoriálů se autor OpenGL učil.
+
+Z Hedry se tak na Hacker News stala spíš záminka k debatě o učení programování než o samotných herních mechanikách.

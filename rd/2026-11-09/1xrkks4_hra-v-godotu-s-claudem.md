@@ -1,0 +1,14 @@
+# 1xrkks4
+**Patnáct týdnů vývoje hry v Godotu s Claudem. Autor ukázal novou čtvrť**
+
+r/ClaudeAI · u/RUSuper · 9. listopadu 2026, 07:35 · 476 bodů / 64 komentářů · [diskuse](https://www.reddit.com/r/ClaudeAI/comments/1xrkks4/)
+
+Po patnácti týdnech stavění hry Nightshoal v Godotu s modelem Opus 5.5 má autor hotovou podobu mostní čtvrti a černého trhu. Slunce v ní putuje po obloze, stíny se večer prodlužují, v noci přebírá vládu měsíc, svítí okna a otáčí se paprsek majáku. Do města se zatím nedá dostat, má být kulisou pro druhou zónu, demoverze je zdarma ke stažení na itch.io a příští týden mají přijít dokovací scény s obchody, postavami a questy.
+
+Nejhlasovanější komentář celé diskuse obstaral u/MiddleCommercial1875 hláškou, že autor prostě udělal Dredge. Přirovnání k rybářské hororovce se ujalo jako pochvala a táhne se celým vláknem. Vzápětí ale přišla věcnější otázka od u/the-liquidian, jestli je hra vlastně zábavná, kolik stála a kolik by mohla vydělat. Na ni navázal u/Weekly_Cap9526 úvahou z lokální herní akce, kde prý hráči hry dělané s umělou inteligencí odmítají, a ptal se, zda lidem vadí umělá inteligence jako taková, nebo jen odfláknuté kusy.
+
+Druhá velká linka jsou peníze a výroba. u/Liqhthouse nevěřícně kroutí hlavou nad osmi sty dolary za předplatné Claude Max a u/Anxious_Marsupial_59 se ptá, jak se se dvěma předplatnými pracuje. Autor v příspěvku přiznává, že narazil na 94 procent týdenního limitu a pořídil si další plán Max, kterému se už říká Ultra, celkové náklady za patnáct týdnů vyčíslil zhruba na 1100 až 1150 dolarů. Vedle toho popisuje řetězec, kdy návrhy čtvrti kreslí obrazový model OpenAI, 3D modely dodává TripoAI a Opus je pak čistí v Blenderu a píše všechen kód, u/retrodropgames si z toho bere hlavně Tripo, protože modelování je u 3D her největší brzda.
+
+Technické fajnšmekry nejvíc zaujala optimalizace. Autor si do hry vestavěl panel, který měří, co kolik stojí, nechal Opus projít záznamy a opravit největší žrouty: zamrznutí přístavu při prvním zakotvení spadlo ze dvou sekund na dvě desetiny, mapa se po opravě chyby smrskla ze 4 GB grafické paměti na zhruba 0,3 GB a start hry se zkrátil ze 26 na 13 sekund. Právě za to ho chválí u/ZookeepergameHead380, protože modelu dal nejdřív měření a nechtěl po něm naslepo optimalizovat kód. Stejný uživatel se ale ptá, jak autor hlídá konzistenci světa, když čerstvá session ráda zapomene, že se píše rok 1920, což autor sám ilustruje historkou o červených koncových světlech aut, které musel nechat smazat. Podobně dopadl souboj s vlastním hodnoticím smyčkovým systémem, kritik chtěl z města vyhodit paprsek majáku jen proto, že ho neměl obrázkový návrh.
+
+Z patnáctitýdenního deníku se tak stává spíš zpráva o řemesle než o hraní: světlo, voda a provoz na mostě vypadají lákavě, ale dokud nebudou hotové doky, obchody a úkoly, zůstává Nightshoal hlavně působivou ukázkou toho, co jde s Godotem a Claudem stihnout.

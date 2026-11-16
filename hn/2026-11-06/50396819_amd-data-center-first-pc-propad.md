@@ -1,0 +1,16 @@
+# 50396819
+**AMD je teď data-center first. Prodej PC má v roce 2027 spadnout dvouciferně**
+
+Hacker News · haunter · 6. listopadu 2026, 20:05 · 26 bodů / 23 komentářů · [diskuse](https://news.ycombinator.com/item?id=50396819)
+
+Šéfka AMD Lisa Su v rozhovoru pro Yahoo Finance prohlásila, že AMD je „data center first company“, a dodala, že umělá inteligence a superinteligence budou čím dál zásadnější pro každou část života. Na hovoru k výsledkům za třetí čtvrtletí zároveň řekla, že prodeje PC ke konci kvartálu zpomalily kvůli drahým pamětem a komponentám, a pro rok 2027 firma počítá s dvouciferným propadem dodávek na trhu s PC. Zmírnit ho má podle ní nástup procesorů Zen 6 a růst v komerčním segmentu.
+
+Odkazovaný text serveru TechRadar to čte jako přiznání, kam tečou peníze: datacentrové tržby AMD za poslední kvartál vyskočily o 97 % na 8,5 miliardy dolarů, zatímco klientská a herní divize klesla o 8 % na 3,7 miliardy. Přitom ještě začátkem roku 2024 na tom byl konzum o chlup lépe než datacentra, dnes je poměr dávno obrácený. Článek proto varuje před chmurným rokem pro stolní počítače a notebooky, kdy se zdražování grafických karet sveze s bolestivou inflací pamětí a SSD a hráči mají pocit, že je jejich „tým červených“ opouští.
+
+Diskuse na Hacker News se kolem toho pocitu opuštění točí od první chvíle. Uživatel vannevar píše, že technologická oligarchie nechce ovládnout jen trh s AI, ale trh s výpočetním výkonem jako takovým, a wormius ho s úsměvem opravuje na oligopol. Nejpromyšlenější linku ale přinesl CoolestBeans: mluví o „korporátní holandské nemoci“, kdy firmy napříč oborem obětují tradiční byznys generální dostavbě AI infrastruktury, a až dostavba skončí, může být návrat k zákazníkům smrtelně drahý. Jedinou firmou, která podle něj zatím jede opačně, je Apple, ať už z přesvědčení, nebo z donucení.
+
+Hodně hlasů v tomhle duchu zní rezignovaně. Uživatel expedition32 lituje, že až mu doslouží současné PC, s hraním asi skončí, útěchou mu prý bude, že si přes jazykový model aspoň objedná pizzu. Shitty-kitty na to reaguje, ať se nebojí, že mu model mezitím hry dohraje, než pizza dorazí. Podobně nostalgicky vzpomíná mrandish na dobu, kdy byla stavba parádního desktopu zábavný koníček, na což cite_please suše odpovídá, že přesně tím koníčkem to zase bude — jen koníčkem.
+
+Třetí proud debaty řeší, jestli se tahle sázka na datacentra vůbec vyplatí. Uživatel secondcoming věří ve velký trh s modely běžícími doma, gdulli ho ale chladí příkladem streamovacích služeb, po jejichž úpadku žádný masový návrat k domácím serverům typu Plex nepřišel. Uživatel gkhartman dodává, že v domácím AI má Apple obrovský náskok, takže dává smysl, že se s ním AMD nechce honit a raději se pere s Nvidií o datacentra. A zaznívá i naděje na obrat: jmercouris čeká „zkrystalizované“ modely o základní kompetenci po vzoru ASICů a následný přebytek grafických karet, naveen99 dokonce výprodeje datacenter jako po splasknutí komerčních nemovitostí. Nejostřeji to formuluje BatchJob, podle kterého vede technologický průmysl proti veřejnosti zdrojovou válku o půdu, vodu, elektřinu i výpočetní techniku.
+
+Pro čtenáře z toho zůstává prostý vzkaz vlákna: PC éra nekončí ze dne na den, ale levný a dostupný počítač už není priorita ani pro ty, kteří ho vybudovali.

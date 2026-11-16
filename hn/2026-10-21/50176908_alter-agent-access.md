@@ -1,0 +1,16 @@
+# 50176908
+**Alter hlídá, co agenti smějí dělat za uživatele**
+
+Hacker News · simfinii · 21. října 2026, 08:42 · 58 bodů / 25 komentářů · [diskuse](https://news.ycombinator.com/item?id=50176908)
+
+Zakladatelé Srikar a Kevan představili Alter, službu pro řízení přístupu agentů, kteří jednají jménem více uživatelů. Vycházejí z běžné praxe, kdy se lidé přihlásí každý za sebe, ale agent se k CRM nebo fakturaci připojuje jedním sdíleným klíčem a může tak dělat cokoliv, co klíč dovolí. Alter má stát mezi agentem a cizím API, u každého požadavku zohlednit identitu koncového uživatele a vynutit detailní pravidla.
+
+Web projektu to popisuje jako privilegovaný přístupový management pro AI agenty: pověření leží jednorázově ve vaultu a do volání se vkládají až při průchodu, takže je agent nikdy nevidí přímo v kódu ani v konfiguraci. Každý agent má vlastní identitu a rozsah práv, citlivé operace mohou čekat na schválení člověkem a každá akce končí v auditní stopě. Stránka uvádí 140 integrací, vynucování přímo v cestě požadavku a rozpracovanou certifikaci SOC 2.
+
+Nejživější debata se stočila k úniku kontextu mezi sessions s různými právy. Uživatel souvik1997 nadhodil příklad, kdy agent pro šéfa firmy zapíše do paměti citlivé e-maily od investorů a později si je přes stejnou paměť přečte dodavatel. Zakladatel simfinii odpověděl, že paměť lze dělit podle koncového uživatele a identity agenta, a odkázal na návod k dělení identity v paměti. Do toho uživatel ptkachykby navrhl značkovat každou vzpomínku autorem a při čtení filtrovat, zatímco uživatel 911viper posunul problém do sdílených místností, kde se hranicí oprávnění stává samotný přepis a odvozené artefakty přežívají do dalšího sezení.
+
+Na to zakladatelé doporučili brát agenta ve společném kanálu nikoli jako zástupce uživatelů, ale jako samostatného uživatele s vlastní identitou a právy. Podobně prakticky mířila otázka uživatele avikonduru, co dělat, když služba nabízí jen sdílený klíč a dva obchodníci by měli vidět jen vlastní účty. Odpověď mluví o připojování klíčů přes Alter Connect a mapování přes abstrakci grantů na straně vývojáře. Uživatel yaoke259 se ptal na rozdíl proti zavedenému Infisicalu a dostal vysvětlení, že samotné ukládání tajemství zvládne kdekdo, ale Alter řeší mapování identity uživatele na pověření, ochranu před nevyzpytatelnými akcemi a auditní stopu.
+
+Infrastrukturní obavy přinesl uživatel luis_valerio: co s agentem, který má platné oprávnění, ale někdo ho zasáhl prompt injection. Spoluzakladatel Kevan pod přezdívkou kdodhia napsal, že s injekcí se počítá a nic se nevynucuje na vrstvě modelu, ale na proxy mezi agentem a API, která jediná drží klíč. Pro nevratné operace doporučil kombinaci omezení metod a endpointů, podmíněného schválení člověkem se serverově zmrazeným požadavkem a auditních logů včetně zamítnutí. Důvěru v bezpečnostní produkt pak zpochybnili uživatelé mauvehed a jeswin narážkami na šablonový web bez zdrojových kódů, na což zakladatelé reagovali odkazy na centrum důvěry, dvěma penetračními testy bez nálezů a popisem posunuté bezpečnosti do vývoje včetně kontrol závislostí a statické analýzy.
+
+Kdo staví agenta pro více lidí, odnese si z vlákna jednoduché ponaučení: nestačí řešit přihlášení uživatelů, hlídat se musí i klíče, paměť a každé jednotlivé volání ven.

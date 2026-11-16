@@ -1,0 +1,16 @@
+# 50352641
+**Posttrainingová data nejsou commons. Kdo je bude vlastnit?**
+
+Hacker News · lukasschwab · 3. listopadu 2026, 15:45 · 53 bodů / 16 komentářů · [diskuse](https://news.ycombinator.com/item?id=50352641)
+
+David Hall z Open Athena tvrdí, že umělá inteligence měla u předtrénování mimořádné štěstí: obrovský korpus textu ležel volně na internetu. Wikipedie, open source kód, Stack Exchange, arXiv, Projekt Gutenberg a desetipetabajtový Common Crawl daly vzniknout revoluci velkých jazykových modelů. Pro posttrénink ale žádná taková veřejná vrstva neexistuje, protože nevzniká samovolně a firmy si ji vyrábějí uvnitř za peníze.
+
+Odkazovaný esej vysvětluje rozdíl tím, že předtrénink spotřebovává dokumenty, zatímco posttrénink spotřebovává úkoly. Lidská činnost je přitom prchavá a situační, pro posilované učení se musí zmrazit do světa, záměru, nástrojů a hodnoticího mechanismu. I v nejsnazším případě softwaru je to podle Halla spíš výroba než kurátorství: z více než 90 tisíc pull requestů zůstalo v původním SWE-bench jen 2294 použitelných úloh a z ověřované pětistovky byla později další šestina označena za rozbitou.
+
+Jádro diskuse se hned stočilo k vlastnictví. impossiblefork píše, že posttréninkový commons by musel být nějak chráněný, protože jde o pracně vytvořenou věc, která lidem sahá na obživu, a umí si ho představit i jako státní projekty pro konkurenceschopnost. dannyw odpovídá, že chráněný už dnes je, protože otevřené váhy málokdy vycházejí i s daty, výjimkou je podle něj NVIDIA, a s nadsázkou dodává, jestli už laboratořím kvůli bezpečnosti nepředává odposlechy NSA. lukasschwab, který odkaz na Hacker News poslal, to rámuje ekonomicky: OpenAI a Anthropic utratily za uzavřená posttréninková data mnoho milionů a otázka zní, zda mají otevřené modely zůstat v těchto specializacích konkurenceschopné.
+
+Do vlákna pak vstoupil i sám autor pod přezdívkou dlwh a posunul debatu od licencí k tomu, jak sběr dělat neextrakčně, ale participativně. Automatizovat by se podle něj mělo to, co vědci sami vnímají jako otravnou dřinu, a lidé by měli mít skutečné slovo v tom, co se staví a jak se s jejich prací nakládá. Na to navazuje mindwok, pro kterého je posttréninkový commons s infrastrukturou kolem dalším velkým open source projektem na úrovni Linuxu či Postgresu, a jako nadějnou cestu jmenuje Marin, komunitní projekt Stanfordovy univerzity dnes zastřešený Open Athenou.
+
+Nejsdílenější vtip obstaral mrkn1, který Hallovu akademickou tezi překládá do firemní praxe: firma má prý proces, ten je v tabulce, jenže existuje stará tabulka, nová tabulka a tabulka, kterou vede Karen, a Karen odešla v roce 2021. Vedle toho běží dvě vize budoucnosti. lnkdinsuxs čeká, že vývojáři si budou stavět vlastní posttrénované experty na svou doménu se svým tajným kořením a budou je chtít hostovat sami kvůli nákladům, kontrole a nesouhlasu zákazníků s cloudem. Odpovědí na problém trustů je nápad david_shiho: srozumitelnost pro filantropii na způsob Internet Archive, kam lidé nosí nahrávky z půdy po babičce, jen s důvěryhodným správcem pro anonymizaci a tvorbu hodnocení, kterému by byly ochotny darovat data i odcházející daňové účetní.
+
+Z eseje i diskuse tak vychází stejné ponaučení: předtréninkový commons jsme dostali darem, posttréninkový si musíme vědomě vybrat a postavit.

@@ -1,0 +1,16 @@
+# 50415078
+**FuckCaptcha: otevřený průvodce typy CAPTCHA a tím, jak se lámou**
+
+Hacker News · vasylsmutok · 8. listopadu 2026, 18:09 · 43 bodů / 12 komentářů · [diskuse](https://news.ycombinator.com/item?id=50415078)
+
+Na Hacker News se objevil projekt FuckCaptcha, open-source příručka, která sbírá do jednoho místa 39 typů ověřovacích testů od textových přepisovaček přes reCAPTCHA v2, Cloudflare nebo hCaptchu až po TikTok či Temu. Součástí je interaktivní field guide s katalogem, kde si čtenář rozklikne konkrétní rodinu a porovná si ji s ostatními. Ambicí je nahradit roztříštěné návody po internetu jednou udržovanou referencí, která se dá procházet a citovat.
+
+Samotné README vysvětluje práci s příručkou prostě: najít typ, přečíst si jeho přehled a vedle sebe postavit dokumentované postupy, odkazy na původní materiály a jejich limity. Katalog doplňuje přehled solverů a služeb, sbírka dalšího čtení a pětistupňová škála od nízké po velmi vysokou obtížnost, která má sloužit jen pro orientaci, ne jako záruka chování v konkrétní situaci.
+
+Nejživější přestřelku vyvolal rozpor mezi drsným názvem a uhlazeným posláním. Uživatel xgulfie cituje větu o vzdělávání a autorizovaném výzkumu a dodává, že kdo tomu pod hlavičkou s nadávkou v názvu věří, tomu má na prodej most. Uživatel viccis ironicky děkuje za milý repozitář, na který mohou autoři botů ukazovat své agenty, zatímco uživatel rf15 rýpe, že stránka stejně vypadá jako odfláknutý obsah a praktický užitek tak může být menší, než se zdá. Uživatel SkiFire13 k tomu dodává, že text působí dojmem psaní jazykovým modelem, takže agenti tohle všechno už dávno znají.
+
+Věcnější linka patří reCAPTCHA v3, kterou uživatel rwmj prý nikdy neviděl, a ptá se, jestli se vůbec běžně používá. Uživatel chowells odpovídá, že ji nevidět je právě její smysl, protože to není hádanka k luštění, ale behaviorální profilování. Uživatel iagiagiag to popisuje jako neviditelné vyhodnocování rizika napříč stránkami, po kterém web místo testu rovnou vrátí chybu 403. Rwmj si zároveň stěžuje na QR kódy, které po něm Google občas chce, odmítá je následovat a čte v tom snahu svázat desktopový prohlížeč s mobilním číslem, bez kterého už prý nejde založit ani účet na YouTube.
+
+Třetí proud řeší, jestli má CAPTCHA ještě budoucnost. Uživatel jwr píše, že testy, které potká, prostě předhodí umělé inteligenci, protože mu přijdou zastaralé, otravné a omezující, a navrhuje je rovnou zrušit. Uživatel lifeisloving oponuje, že běžným klikáním přes turniket už velkou detekci neobejde a že škrabání ve velkém stejně vyžaduje solvery, přičemž jazykový model řídící prohlížeč by byl drahý a neefektivní způsob luštění. Do toho uživatel dangistan202611 popisuje nekončící smyčku checkboxu reCAPTCHA v2, která točí dál i po správném vyřešení. Uživatel LoganDark vysvětluje, že to není vina samotné reCAPTCHA, ale webu, který výsledek neuzná a pošle další výzvu, podobně jako Cloudflare zneplatní i čerstvě splněný test, když zůstane podezření. Uživatel iagiagiag se pak už jen diví, že takové smyčky ještě někdo potkává, sám je prý dlouho neviděl.
+
+Z vlákna tak zůstává obrázek příručky, která chtěla být učebnicí obrany, ale komunita ji okamžitě čte i jako návod k útoku a jako důkaz, že samotné testy už o vítězi nerozhodují.

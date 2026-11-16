@@ -1,0 +1,354 @@
+{
+ "date": "2026-10-27",
+ "clanky": 41,
+ "temata": [
+  {
+   "title": "Claude Opus 5.5 dostal Maria 64 do rozšířené reality",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xgw6sk"
+   }
+  },
+  {
+   "title": "Ghostty 1.4 přináší velké zrychlení a kompletní Kitty graphics",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50261998"
+   }
+  },
+  {
+   "title": "Opus 5.5 vyrobil minutové 3D video na jediný prompt",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xgu73u"
+   }
+  },
+  {
+   "title": "Google představil Genie 4, světový model pro real-time simulaci",
+   "sources": [
+    "rd",
+    "hn"
+   ],
+   "ids": {
+    "rd": "1xgwsjx",
+    "hn": "50261319"
+   }
+  },
+  {
+   "title": "Lokální král, nebo 34 milionů tokenů za minutu",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xgy5ic"
+   }
+  },
+  {
+   "title": "AI slíbila méně práce. Autor tvrdí, že jí má víc než kdy dřív",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50257325"
+   }
+  },
+  {
+   "title": "Claude Code spotřeboval 8x víc tokenů a chyby služby jdou z placených limitů",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xh3yyu"
+   }
+  },
+  {
+   "title": "Anthropic trénoval Claude na pirátských knihách stanfordských profesorů",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50260814"
+   }
+  },
+  {
+   "title": "Proč skoro všechny open-weight modely vznikají v Číně",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xgo2eh"
+   }
+  },
+  {
+   "title": "Wikipedie čistí texty vytvořené AI. Dobrovolníci je poznávají stále těžší",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50257326"
+   }
+  },
+  {
+   "title": "ChatGPT a francouzština: jméno, které zní jako „j’ai pété“",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xh1hut"
+   }
+  },
+  {
+   "title": "Roblox stáhl 145 GB modelů z komunitních serverů. Autoři mluví o tréninku AI",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50256985"
+   }
+  },
+  {
+   "title": "Mýtický člověk-měsíc v éře AI: proč víc agentů neznamená víc práce",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50255298"
+   }
+  },
+  {
+   "title": "Mythos 5 útočil dál, i když věděl, že škodí lidem",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xgwskk"
+   }
+  },
+  {
+   "title": "Policie v USA zastavuje řidiče kvůli „podezřelému“ chování. Rozhoduje AI",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50261819"
+   }
+  },
+  {
+   "title": "Dva fyzici nechali AI vybrat problém, vyřešit ho a napsat paper",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xgo1i9"
+   }
+  },
+  {
+   "title": "Apple představil MacBook Pro a iMac s čipem M6",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50261352"
+   }
+  },
+  {
+   "title": "Openjutsu: lokální výměna postav ve videu s MiniMax H3",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xgt2h1"
+   }
+  },
+  {
+   "title": "Amazon omezuje vlastní AI divizi. Model Nova končí v útlumu",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50261589"
+   }
+  },
+  {
+   "title": "Dvanáct modelů o lidech: pravda je méně důležitá než skupina",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xgu1tw"
+   }
+  },
+  {
+   "title": "Survival LLM: AI asistent a nouzová knihovna, která běží bez internetu",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50264853"
+   }
+  },
+  {
+   "title": "LiquidAI vydalo LFM3-1.7B pro lokální agenty",
+   "sources": [
+    "rd",
+    "hn"
+   ],
+   "ids": {
+    "rd": "1xgy8s3",
+    "hn": "50262229"
+   }
+  },
+  {
+   "title": "Tailscale vyšetřuje zranitelnosti SSH. Šlo hlavně o eskalaci oprávnění",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50264857"
+   }
+  },
+  {
+   "title": "Claude Code reverzně analyzoval jádro Xbox 360 a napsal ovladače",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xgtghe"
+   }
+  },
+  {
+   "title": "Kdy Anthropic používá vaše data k tréninku? Claude vysvětluje politiku",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50259406"
+   }
+  },
+  {
+   "title": "Anthropic ukazuje, kde Claude zatím pomáhá při vývoji léků",
+   "sources": [
+    "rd",
+    "hn"
+   ],
+   "ids": {
+    "rd": "1xh4yqn",
+    "hn": "50265609"
+   }
+  },
+  {
+   "title": "Ling-3.1-flash-1019 je venku i se základním modelem",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xgrr8n"
+   }
+  },
+  {
+   "title": "Klasifikace konečných jednoduchých grup je formalizovaná v Lean. Pomohl roj agentů",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50261647"
+   }
+  },
+  {
+   "title": "Třináct hodin denně s Gemini: když se asistent stane jedem",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xgjqvk"
+   }
+  },
+  {
+   "title": "PHP2Shell: útoky přicházejí, většina zranitelných strojů se už opravila",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50259343"
+   }
+  },
+  {
+   "title": "„Nejvíc modelového čísla za dolar“: meme, které shrnulo hon na verze",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xgjqrf"
+   }
+  },
+  {
+   "title": "Když agenti píší kód: co ještě musíte umět, abyste systém vlastnili",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50258868"
+   }
+  },
+  {
+   "title": "OpenSI? Debata o tom, jestli si OpenAI nezmění jméno",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xh5phe"
+   }
+  },
+  {
+   "title": "Raj, survivorship bias a mýtus startupového génia",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xgxy95"
+   }
+  },
+  {
+   "title": "Abliterovaný DeepSeek má už pět inference poskytovatelů",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50254836"
+   }
+  },
+  {
+   "title": "Chyba v UEFI firmwaru umožňuje spuštění kódu na většině serverů světa",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50265393"
+   }
+  },
+  {
+   "title": "Trump chce zakázat termín „umělá inteligence“",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50264228"
+   }
+  },
+  {
+   "title": "Hex přepsal analytickou platformu pro agenty a vybral 100 milionů dolarů",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50265413"
+   }
+  }
+ ]
+}

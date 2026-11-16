@@ -1,0 +1,16 @@
+# 50487864
+**Z kamionu zmizel Nvidia hardware za 11,4 milionu dolarů. Policie vyšetřuje krádež**
+
+Hacker News · crescit_eundo · 13. listopadu 2026, 19:40 · 334 bodů / 184 komentářů · [diskuse](https://news.ycombinator.com/item?id=50487864)
+
+Šest palet počítačového hardwaru Nvidia zmizelo při přepravě z Kalifornie do Texasu. Kamion je vyzvedl v Oaklandu 29. srpna s cílem ve Fort Worthu, vůz nesl logo potravinářské přepravní firmy a cestou na jih absolvoval několik mnohahodinových zastávek. Vyšetřovatelé ztratili jeho stopu v okrese San Bernardino County a oaklandská policie po stížnosti podané 13. září 2026 potvrdila, že případ šetří jako velkou krádež.
+
+Server FreightWaves případ zasazuje do širší vlny krádeží vybavení pro datacentra v hodnotě téměř 111 milionů dolarů. Připomíná loňské vloupání v okolí Fremontu a Union City i zářijovou krádež dvou přívěsů s brandingem firem PlusAI a Nvidia, ve kterých místo hardwaru našli zloději asi dvacet tun písku. Policie zatím nepotvrdila hodnotu zásilky ani jejího majitele, přepravce a řidiče, neoznámila žádné zatčení ani nález a Nvidia na žádost o vyjádření neodpověděla.
+
+Nejživější debata se vedla o tom, proč tak cenný náklad jel obyčejným kamionem. Uživatel tencentshill se diví, že firmy s neomezenými penězi nevyužijí plně zabezpečenou logistiku, a ptá se, kde je FBI, když hardware často končí v Číně. Uživatel Aurornis oponuje, že komerční přeprava nefunguje jako balík z obchodu a okamžik předání odpovědnosti je věcí vyjednaných podmínek, pojištění pak riziko dané metody dopravy zohledňuje v ceně. Podobně uživatel roenxi píše o ekonomice jednotlivých zásilek a uživatel manquer počítá, že jde asi jen o dvě skříně NVL72, zatímco logistika hyperscalerů měsíčně přesouvá hardware za desítky miliard, takže určité procento ztrát se prostě pojišťuje.
+
+Do toho přibývají praktické postřehy i vtipy o velikosti. Uživatel kube-system upozorňuje, že šest palet není velká zásilka a podle článku to vypadá, že si je vyzvedl vůz, který je vyzvednout neměl. Někdo náklad přepočítává na čtvrtinu návěsu plného krabic s RTX 5090, jiný na asi 150 karet, které by se vešly do sedanu, na což další odpovídá, že šest palet s výstelkou do osobáku nikdo nenarve. Uživatel mihaaly žertuje, zda je to z jižní Kalifornie do Číny blízko, a uživatel atmavatar dodává, že by to stačilo na pořádnou lokální herní párty. Zkušenost z praxe přidává diskutér, který se bavil s člověkem z logistiky o mizejících zásilkách konzolí Xbox: řidič měl jet bez zastávky, sjel z trasy, a když se vrátil, část nákladu chyběla.
+
+Nechybí ani filmové odkazy a jedna politická konspirace. Na adresu zmizelého kamionu padá dotaz, kde je Dominic Toretto, jiní navrhují přepsat úvodní loupež z Rychle a zběsile z DVD přehrávačů na grafiky. Uživatel treebeard901 v tom vidí sledovanou federální akci a obcházení exportních kontrol přes Bílý dům a ministerstvo obchodu, jenže uživatel KeplerBoy namítá, že tak malá částka konspiraci v této velikosti neospravedlní, uživatel jjtheblunt žádá počkat na důkazy a další diskutér přirovnává vinu velkých kauz k obvinění z malé loupeže večerky.
+
+Z diskuse tak zůstává obraz nikoli přehnané paniky, ale kalkulu: drahé čipy se kradou snadno, převážejí levně a ztráty se rozpouštějí v objemu a pojištění.

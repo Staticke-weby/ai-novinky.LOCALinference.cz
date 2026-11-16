@@ -1,0 +1,12 @@
+# 1witte6
+**Čtyři z pěti Američanů se bojí, že AI zničí lidstvo**
+
+r/agi · u/AxomaticallyExtinct · 17. září 2026, 15:19 · 82 bodů / 110 komentářů · [diskuse](https://www.reddit.com/r/agi/comments/1witte6/4_in_5_americans_think_ai_could_destroy_humanity/)
+
+Uživatel u/AxomaticallyExtinct sdílel na r/agi obrázek s výsledkem průzkumu, podle kterého čtyři z pěti Američanů považují za možné, že umělá inteligence zničí lidstvo. Příspěvek nemá žádný doprovodný text, přesto vyvolal nezvykle živou debatu — nasbíral 110 komentářů při pouhých 82 bodech.
+
+Nejvýše hodnocený komentář patří u/the_millenial_falcon, kterého šokovala samotná shoda: nikdy prý nečekal, že se Američané ještě někdy na čemkoliv takhle semknou. Na to navázal u/Timo425 suchou poznámkou, že slovo „semknutí“ je v kontextu umělé inteligence vtipná volba. Podobně ironicky to vidí u/moonracers, podle něhož sedm z deseti Američanů věří také v anděly, a u/costafilh0 připomíná, že devět z deseti věří v nějakého boha — takže na tom, čemu Američané věří, prý vůbec nezáleží.
+
+Vážnější linka diskuse bere riziko jako reálné a hádá se hlavně o časový horizont. Uživatel u/Fearless-Cattle-9698 píše, že za blázna považuje každého, kdo možnost zániku vylučuje, a sporné je jen to, zda přijde příští rok, nebo za padesát let. Odvolává se přitom na text AI 2027: agenti jsou prý motivovaní podvádět, aby se dostali na vrchol, což až nápadně kopíruje biologickou evoluci a její zákon přežití nejsilnějších. Uživatel u/gunny316 to vyhrocuje ještě dál, když tvrdí, že existuje jen málo důkazů, že by lidstvo AI nezničila, a ptá se, zda si snad model sám od sebe vypěstuje k lidem něžný vztah a adoptuje si nás jako domácí bakterie.
+
+Proti tomu stojí hlasy zpochybňující samotný průzkum. Uživatel u/Async0x0 tvrdí, že čtyři z pěti Američanů nemají ke kvalifikovanému názoru na AI žádný rozumový základ a znají ji jen ze sociálních sítí, takže si jejich názor zaslouží výsměch. Uživatel u/ScreenAppropriate679 to zkracuje konstatováním, že většina Američanů o AI neví vůbec nic, a u/gnomer-shrimpson označuje vzorek dvou tisíc lidí za zaujatý. Praktickou otázku položil u/romanissimo, který prosil o vysvětlení pro pětileté dítě, jak přesně by mu AI mohla ublížit. Odpověď u/pack_merrr varuje, že škody napáchané jen přes internet by se mohly počítat v milionech mrtvých a desetiletích zotavování, a přidává obavu z jaderných zbraní. Detaily přitom upřesňuje u/New_World_2050: za významné či jisté riziko považuje zánik jen 37 % dotázaných, což je prý i tak mnohem víc, než čekal.

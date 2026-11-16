@@ -1,0 +1,16 @@
+# 50059204
+**Myšlení se stane koníčkem**
+
+Hacker News · pranitha_m · 12. října 2026, 18:54 · 259 bodů / 349 komentářů · [diskuse](https://news.ycombinator.com/item?id=50059204)
+
+Uživatel pranitha_m přinesl na Hacker News blogový text Diomidise Spinellise s provokativním názvem Thinking will become a hobby. Příspěvek bez vlastního komentáře spustil rozsáhlou debatu o tom, zda umělá inteligence skutečně přebírá myšlenkovou práci a co to znamená pro vzdělávání, práci a společnost.
+
+Spinellis začíná přiznáním, že se mu teze píše těžko, jako by si kopal vlastní hrob: od roku 2022, kdy ChatGPT neuměl ani správně spočítat písmena v jeho jméně, se modely dostaly až k řešení stovek dosud otevřených matematických problémů. Za tři hnací síly jejich dominance označuje lepší výkon, nižší cenu a nepřetržitou dostupnost, zatímco lidské dovednosti v klíčových informačních schopnostech podle dat OECD spíše klesají. Kognitivní práce se proto podle něj zmenší a myšlení se stane volnočasovou zálibou, stejně jako se po domestikaci stal koníčkem lov, po knihtisku kaligrafie nebo po motorizaci jízda na koni.
+
+Nejživější spor se vede o to, zda modely vůbec myslí. Uživatel dvt označuje celou tezi za divokou a tvrdí, že jde jen o mocné automatické doplňování s obrovskou pamětí, přičemž jeho vlastní kognitivní zátěž při programování s AI naopak roste, protože musí neustále hlídat hloupé chyby a špatně zobecněná řešení. Uživatel warkdarrior namítá, že na tom nezáleží: firmu nasazující AI na zákaznickou podporu zajímá výsledek srovnatelný s lidským myšlením, ne vnitřní proces. Do toho uživatel jlhawn přidává technickou poznámku, že modely dnes myslí v jazykových tokenech hlavně kvůli auditovatelnosti, ale abstraktnější vrstvy by mohly uvažovat v pojmech podobně, jako lidé nemyslí vždy ve slovech.
+
+Druhá velká linka řeší obživu. Uživatel goda90 obrací Spinellisovu pointu o životě, pro který stojí za to žít, otázkou, kdo bude mít na koníčky, když bude ekonomika plně automatizovaná a miliardy lidí přijdou o práci bez plánu na post-scarcity svět. Ozývají se protihlasy: uživatel specproc nevěří v nikdy plně automatizovanou ekonomiku a trvá na tom, že výstupy bude vždy třeba řídit, kontrolovat, vybírat a upravovat, uživatel zelcon připomíná, že s atomy se hýbe mnohem hůř než s bity, a uživatel flowerlad vypočítává profese od sester přes kuchaře po instalatéry, kde rozhoduje fyzická zručnost, důvěra, odpovědnost a lidský kontakt. Stejný uživatel dodává, že někteří včetně Gatese a Muska čekají po bolestivých dvaceti letech svět hojnosti, kde roboti zlevní jídlo i bydlení.
+
+Zbytek vlákna balancuje mezi odpovědností a nadhledem. Uživatel bentt píše, že kdo za něco odpovídá, musí dělat nejlepší volby, a toto myšlení na AI delegovat nelze, jen se mění jeho povaha. Uživatel jonathanstrange vidí v tezi starou sci-fi a varuje před zásadou o odpadu na vstupu i výstupu: kdo bude AI učit brakem, dočká se umělé hlouposti. Odlehčení přináší uživatel UncleOxidant poznámkou, že myšlení je aspoň levný koníček, a uživatel 01284a7e, podle kterého se z kola pro mysl stala terénní motorka, na které stačí si užít jízdu a vyhodit svíčku.
+
+Čtenář si z toho odnese prosté rozcestí, které formuloval uživatel andai: buď oddělíme hodnotu lidského života od ekonomického výkonu, nebo se tato hodnota rychle přiblíží nule.

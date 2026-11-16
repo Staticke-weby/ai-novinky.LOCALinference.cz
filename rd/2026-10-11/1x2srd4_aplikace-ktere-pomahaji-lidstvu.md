@@ -1,0 +1,16 @@
+# 1x2srd4
+**Místo dalších herních klonů: výzva stavět aplikace, které pomáhají lidstvu**
+
+r/ClaudeAI · u/footofwrath · 11. října 2026, 01:09 · 1308 bodů / 372 komentářů · [diskuse](https://www.reddit.com/r/ClaudeAI/comments/1x2srd4/)
+
+Uživatel u/footofwrath v r/ClaudeAI vyzval komunitu, aby schopnosti moderních modelů napřela jinam než do dalších klonů her a firemních aplikací. Chtěl by nástroje, které řeší nedostatek, korupci a úpadek společnosti, a varoval před temnou cestou technokracie, v níž majitelé umělé inteligence vlastní všechno a zbytek lidstva dře jako v sedmnáctém století.
+
+Sám nabídl k volnému sdílení několik rozdělaných konceptů: sběrnu nápadů Shower Thoughts s hodnocením od AI, platformu Civil Good propojující lidi v nouzi s těmi, kdo mají čas pomoci, vyrovnávání faktur mezi firmami do nejnižší možné platby a eseje o nových rámcích vládnutí s AI v roli hodnotitele či architekta. Z reakcí a tipů, které se sešly pod výzvou, pak poskládal jednoduchý rozcestník projects.engineeringhumanity.org se seznamem projektů, do nichž by se lidé mohli pustit.
+
+Nejhlasitější odpověď byla úsečná. Dotaz u/jaegernut, proč si to autor nepostaví sám, když to podle něj dnes zvládne kdokoli, nasbíral přes dvě stě hlasů a přidaly se k němu podobně laděné vzkazy u/Responsible-Ebb1722 a u/MegatechMike. Autor si toho všiml a příspěvek dodatečně doplnil o povzdech nad ironií, že výzvu k pomoci lidem lidé odbydou pokynem, ať si pomůže sám, přestože vlastní projekty vypsal. Do stejného tónu zapadá i pošťouchnutí u/Double_Suggestion385, že chtít napravit svět a přijít se sprchovými úvahami je k smíchu, nebo poznámka u/grudev, že lidi ve skutečnosti chtějí Instagram a Tinder.
+
+Vedle rýpání se ale ozvala řada lidí, kteří už něco podobného staví. U/braunsHizzle popsal web ottawaspends.ca, který převádí kanadské vládní výdaje do dashboardů a přehledů, komu peníze tečou, u/ToastedandTripping představil OpenCave.ca, kde Claude pomáhá rozplést místní kauzu od klíčových hráčů přes hlasování politiků až po žádosti o informace. U/samuelcole přiblížil neziskový projekt foodhelpline.org pro vyhledávání potravinové pomoci, do něhož po nástupu generativní AI přidali agentní průzkum a lepší hodnocení záznamů, a u/gregable nabídl PorchWeather.com, který zdarma posílá upozornění, kdy je venku dost hezky na vypnutí klimatizace.
+
+Věcnější část vlákna řešila, proč spásné aplikace nevznikají samy. Podle u/bugra_sa není úzkým hrdlem kód, ale vlastnictví, motivace, zakázky a distribuce, takže malý nástroj s jedním úřadem ochotným ho zavést pomůže víc než velká aplikace bez garanta. U/Relevant-Ad6374 zase připomněl, že většina lidí nejdřív shání příjem a na boj s chamtivostí nemá čas, a pomoc čeká až od lepší výchozí životní úrovně za pár let. Odlehčení dodal u/Master-Trifle8683 tvrzením, že nejrychlejší cestou proti koncentraci peněz a moci je klonovat hry, a u/DasBoots dystopií z roku 2036, kde vládci hemisfér Dario, Altman a Musk čekají na model, který bez chyb vyléčí všechny neduhy společnosti a ještě bude předplatným.
+
+Z vlákna tak zůstává rozpor mezi touhou po technologiích pro společné dobro a únavou z velkých slov, když funkční drobnosti z transparentnosti, potravinové pomoci nebo úspor energie už tiše běží vedle.

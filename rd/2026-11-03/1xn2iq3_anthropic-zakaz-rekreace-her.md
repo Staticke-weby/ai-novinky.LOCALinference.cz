@@ -1,0 +1,14 @@
+# 1xn2iq3
+**Anthropic zakázal napodobovat konkrétní hry. Vývojáři se bojí, že přijdou i dema**
+
+r/ClaudeAI · u/tradelydev · 3. listopadu 2026, 20:26 · 292 bodů / 101 komentářů · [diskuse](https://www.reddit.com/r/ClaudeAI/comments/1xn2iq3/)
+
+Anthropic tiše doplnil systémové instrukce o pravidlo pro tvorbu her: stavět originální hry, hry v žánru a hry z vlastních návrhů a assetů, ale nestavět rekreaci konkrétní existující hry. Zákaz platí i tehdy, když je kopie přejmenovaná nebo vydávaná za originál. Autor příspěvku změnu chválí, protože vývojáři se podle něj nebudou muset bát ukazovat dema ze strachu, že je někdo nakrmí do umělé inteligence a nechá si vyrobit kopii zdarma.
+
+Většina diskuse je ale proti němu a pravidlo považuje za tupý zásek, který dopadne hlavně na poctivé uživatele. Nejvýrazněji to formuloval u/dotjob, podle kterého novinka blokuje vzkříšení klasických her, a podobně mluví u/Syntra44, který se snažil obnovit téměř třicet let opuštěný SimCopter a teď mu zbývá jen stavět vlastní nápodobu, ve které se ztratí část původního kouzla. Do stejné linky zapadá i stížnost u/qwhipwhitley, jemuž model odmítl pomoct s rootem jeho vlastního Echo Show, nebo povzdech u/Confident_Hyena2506, že při práci na počítačových hrách má pocit, jako by ho model podezíral z navádění raket.
+
+Nejúspěšnější odpověď v celém vlákně přitom zní lakonicky: na tohle je tu prý DeepSeek. Jak píší u/Clean-Data-259 a u/DefinitelyNotEmu, DeepSeek, Kimi i lokální modely z Ollamy taková omezení nemají a čínské a open-source modely morálku Anthropicu neřeší. Praktický návod přidává u/Confident_Hyena2506: problematickou část nechat udělat druhého agenta od jiného výrobce a pak pokračovat s Claudem. Skepsi přilévá u/notextinctyet, podle něhož šlo jen o změnu systémového promptu v jednom režimu u jedné firmy, kterou lze přebít přepínačem, takže strach vývojářů z kopírování dem to sotva rozptýlí.
+
+Třetí velká linie diskuse míří na pokrytectví. U/markovcd glosuje, že porušování autorských práv vadí jen tehdy, když ho páchají jiní, a u/TeamTomorrow připomíná kauzu Bartz v. Anthropic, interní Projekt Panama popisovaný jako snaha naskenovat všechny knihy světa a stažení více než sedmi milionů pirátských knih, za které firma zaplatila 1,5 miliardy dolarů. Zatímco někteří jako u/HoboDeveloper zákaz částečně chápou, protože umělá inteligence nedokáže poznat, zda se za nevinnou prosbou o reverzní inženýrství neskrývá zloděj bankovní aplikace, jiní volají po vlastní tvorbě s tím, že Minecraft už tu je. Smířlivou notu vnáší u/Pale-Bother-2778: citované pravidlo je úzké a zákazy rootování nebo práce s firmwarem podle něj pocházejí odjinud, což vysvětluje, proč část lidí nenarazila na žádný problém.
+
+Z vlákna tak zůstává rozpor mezi pochopitelnou snahou chránit živé vývojáře a obavou, že paušální filtr smaže i nostalgii, žánrovou inspiraci a kutilství na vlastních zařízeních.

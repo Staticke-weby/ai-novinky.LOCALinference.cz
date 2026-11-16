@@ -1,0 +1,14 @@
+# 1xsk8n9
+**Čtyřicet mini PC rozjelo GLM 5.3 Flash. Cluster dává 14 tokenů za sekundu**
+
+r/LocalLLM · u/Environmental_Hour66 · 10. listopadu 2026, 12:11 · 902 bodů / 186 komentářů · [diskuse](https://www.reddit.com/r/LocalLLM/comments/1xsk8n9/)
+
+Kutil poskládal rack ze čtyřiceti mini PC s procesory Intel N150 a 12 GB DDR5, které mu zbyly z jiného projektu. Bezdiske uzly propojil přes 10Gbps USB 3.2 s využitím funkce DbC do stromové topologie 1 → 3 → 9 → 27. Na sestavě běží GLM 5.3 Flash v nativní přesnosti s místem pro osm kontextových oken po milionu tokenů, při kratším kontextu dává kolem 14 tokenů za sekundu a při milionovém kolem dvanácti, s dávkováním se dekódování vyhoupne až ke čtyřiceti a prefill dělá asi 85 tokenů za sekundu při spotřebě 740 W ze zásuvky a ceně asi pět tisíc dolarů.
+
+Nejvýše hodnocenou reakci napsal u/ak_sys, podle kterého je sestava za ty peníze slušný lokální základ pro autonomní kódovací úlohy nechané běžet přes noc, i když slovo Flash je v názvu modelu trochu zavádějící. Na to navázal u/Icy-Degree6161 poznámkou, že právě takhle vypadá budoucnost technologicky zdatných uživatelů bez velkých grafik: poslepovat mini PC nebo telefony se zapájenou pamětí a prodrátovat je dohromady, jen ten pomalý prefill podle něj hrozně bolí. Do stejné noty hraje u/GreenHell, kterému sestava přijde úplně nepraktická, a právě proto ji miluje jako ztělesnění ducha celého subredditu.
+
+Vedle obdivu se rychle rozjela technická linka. u/kwinz se ptá, jestli jde o rozhraní Intel xHCI-Debug Capability, a prosí o návod na propojení přes DbC. u/Br-Horizon se zajímá o inferenční engine, protože rpc v llama.cpp mu přišlo nedotažené a nasazení vLLM na CPU ještě horší, a u/onephn přiznává, že ho důvod nestavby nezajímá, ale hrozně by chtěl vědět, jak se to autorovi povedlo dotáhnout. Alternativní cestu nadhazuje u/Guinness s nápadem poskládat za dvojnásobek peněz čtyřicet karet AMD BC 250 se 16 GB paměti, tedy 640 GB VRAM napříč uzly.
+
+Zbytek vlákna balancuje mezi rýpáním a obranou projektu. u/Shoddy_Fish31 v nejvtipnější narážce tvrdí, že modlit se k bohu o opravu kódu by bylo efektivnější, u/FinalTap zase nechápe proč, když by prý bylo chytřejší staré stroje prodat a koupit si za to něco rozumnějšího na lokální AI. Praktičnost zpochybňují i u/John_Jack_Jamenson a u/Mondernborefare, zatímco u/Infamous-Bed-7535 počítá, jak dlouho by trvalo naplnit větší kontext, a u/Jumpy-Operation-4615 to paroduje plánem rozjet Kimi K3 na pěti tisících počítačích s procesorem 386. Proti tomu se staví u/Same-Description4171 s tím, že kritici by se měli starat o své a o radu, co si má autor počít se svými zdroji, nikdo nestál.
+
+Je to krásná ukázka toho, proč lidé stavějí domácí clustery: ne proto, že je to nejlevnější cesta k rychlosti, ale proto, že je lákavé vymáčknout maximum z toho, co už leží doma ve skříni.

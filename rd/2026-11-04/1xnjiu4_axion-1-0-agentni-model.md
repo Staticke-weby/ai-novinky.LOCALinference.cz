@@ -1,0 +1,16 @@
+# 1xnjiu4
+**Axion 1.0: 35miliardový agentní model od ByteDance s otevřeným receptem**
+
+r/LocalLLaMA · u/pmttyji · 4. listopadu 2026, 10:02 · 263 bodů / 39 komentářů · [diskuse](https://www.reddit.com/r/LocalLLaMA/comments/1xnjiu4/)
+
+ByteDance představil Axion 1.0, plně otevřený agentní foundation model, který má spojovat silné a široké agentní schopnosti s překvapivě jednoduchým tréninkovým receptem. Model se učí jen ve třech krocích – dvou lehkých fázích ladění na instrukcích a následném posilování – a podle autorů se i bez složitého tréninku vyrovná na vybraných agentních benchmarcích předním komerčním modelům.
+
+První fáze ladění buduje samostatné uvažování pomocí dat šitých na míru základnímu modelu, kdy autoři syntetizují náročné úlohy a znesnadňují je podle toho, jak je model sám úspěšně řeší. Druhá fáze pak tyto schopnosti rozšiřuje o uvažování závislé na nástrojích, a to přes škálovatelnou pipeline úloh ukotvených v reálných zdrojích dat a ověřitelných deterministickým výpočtem. Závěrečné posilování má posílit dlouhé uvažování a interakci s externími nástroji a prostředími. Kromě vah tým zveřejnil kompletní recept včetně konstrukce dat, filtrování, ověřování, promptů a trénovacího kódu, a přidal i studii na arXivu pod číslem 2611.03233, repozitář bytedance/axion1_0 a trénovací dataset na Hugging Face.
+
+Nejvýše hodnocený komentář vlákna se ale netýká výkonu, nýbrž kultury srovnávání. Uživatel u/ResidentPositive4122 se zlobí, že místo ocenění týmu, který vydal studii, kód, recepty i data, řeší diskuse jen to, jestli číslo na grafu překonalo oblíbený model. Jeho povzdech, že tohle přece není pointa, vystihl náladu části komunity, která otevřenost staví výš než tabulky. V podobném duchu u/FastHotEmu slaví skutečně otevřený zdroj, u/ApprehensiveTart3158 chválí už jen fakt, že jsou venku trénovací data, i kdyby model nebyl nejlepší, a u/ilintar označuje plnou otevřenost za šíleně velkou věc.
+
+Druhá linka diskuse je opatrnější a míří právě na benchmarky. U/BringTea_666 píše, že výsledky zní až příliš dobře na to, aby to byla pravda, právě kvůli podivnému výběru testů. U/MomentJolly3535 ironicky navrhuje zakázat grafy finetunů bez zakresleného základního modelu a další uživatelé žádají srovnání s příbuznými – Qwen 3.8, Qwen 3.5 122B nebo Qwen 3.6 35B. Uživatel u/nunodonato dodává, že by model rád zařadil do své Tiny League, ale zatím pro něj chybí použitelné benchmarky.
+
+Praktický tón vnesl do debaty tentýž u/BringTea_666, když zjistil, že jde o finetune modelu Qwen3.6-35B-A3B, a proto si ho může rychle vyzkoušet ve vlastním nástroji. Oceňuje, že za modelem stojí legitimní firma a postup je popsaný ve studii: místo počítání v úvahách model nutí používat nástroje, čímž dělá méně chyb. Na dlouhé úkoly to podle něj stačit nemusí, ale na menší agentní práce typu vyřizování ticketů by mohl být ideální, navíc s rychlostí lehčí směsi expertů. Podobně u/Every-Fortune-3151 v modelu vidí cílený úsporný trénink s malým počtem hodin na grafických kartách a náznak budoucnosti, kdy agenti poběží na malých, ale šikovných modelech vyladěných pro konkrétní úkoly.
+
+Z diskuse tak zůstává obraz slibného, plně reprodukovatelného receptu, jehož skutečnou hodnotu teprve prověří nezávislé testy na známých základech.

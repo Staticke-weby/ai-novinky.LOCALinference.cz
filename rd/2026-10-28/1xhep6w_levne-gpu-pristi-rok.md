@@ -1,0 +1,14 @@
+# 1xhep6w
+**Levné GPU už příští rok? Sázka na prasknutí AI bubliny**
+
+r/LocalLLaMA · u/sayamss · 28. října 2026, 05:34 · 2102 bodů / 737 komentářů · [diskuse](https://www.reddit.com/r/LocalLLaMA/comments/1xhep6w/)
+
+Ceny grafických karet by se v příštích měsících mohly zhroutit a příští rok už by mohly být směšně levné. Autor příspěvku to vyvozuje ze souhry několika signálů: jediný rack GB300 prý zvládne obsloužit veškerý provoz OpenRouteru pro model DSV4.1 Flash, menší modely převezmou většinu dotazů, polovina staveb datacenter se ruší nebo stojí, neocloudy se dusí dluhem za výpočetní výkon bez potvrzené poptávky, adopce AI zaostává za očekáváním a OpenAI s Anthropicem prý nadcházející kontrakty na výpočetní kapacitu neutáhnou.
+
+Vlákno příspěvek spíš než jako analýzu četlo jako kolektivní terapii. Nejvýše hodnocený vzkaz od u/CATLLM hlásí, že hlasuje, protože nutně potřebuje obrovskou dávku uklidňujícího copium, a u/BannedGoNext se přidává s tím, že hlasuje ne proto, že by tomu dával sebemenší šanci, ale protože na téhle planetě má ještě někdo naději. Podobně to shrnují hlasy o čistém hopiu a o naději vyvolávající úlevu, která je ale odtržená od reality.
+
+Věcná opozice staví na kapacitách a penězích. Uživatel u/Wraith_Kink, který tvrdí, že pracuje ve velkém techu, popisuje zcela zablokovaný dodavatelský řetězec, vyprodané kontrakty až do roku 2028 a datacentra, která za karty platí mnohem víc než běžní spotřebitelé, takže se výrobci s křemíkem pro plebs zdržovat nebudou. K tomu se přidává u/I-cant_even s ponurou prognózou, že výroba nejdřív uteče od spotřebitelů k datacentrům a případný krach jen nahraje budoucím dominantním hráčům, takže rozumné ceny pro běžné kupce jsou v nejlepším případě dva až tři roky daleko, pokud vůbec někdy přijdou.
+
+Další linka sporu se točí kolem důkazů a motivací. Uživatelé u/foxpro79, u/rdpl_ i u/blackenswans chtějí zdroj pro tvrzení o polovině zrušených staveb a odkazují na výsledky Nvidie, kde se nic takového nerýsuje, zatímco u/ClownEmoji-U1F921 dodává, že větší rušení projektů zatím způsoboval odpor místních a nedostatek elektřiny, nikoli konec chuti stavět. Vedle toho zaznívá podezření, že ceny drží nahoře uměle zamluvená příští produkce, že krach dopadne jen na plebs, a že krachující firmy stejně zachrání stát, protože je bere jako otázku národní bezpečnosti, podobně jako Intel.
+
+Zbytek diskuse řeší, co by zlevnění vůbec znamenalo pro domácího nadšence. Uživatel u/Psychological_Ear393 připomíná, že racky do obýváku nikdo nedostane kvůli prostoru, příkonu a chlazení a reálně by tak zlevnily spíš Epyc procesory a DDR5 RDIMM, zatímco u/MooseEfficient2151 varuje, že levnější inference nafukuje poptávku, takže víc efektivity nerovná se méně výpočetního výkonu. A pro ty, kdo čekali na opakování slev po pádu krypta, má u/cube2kids trpkou vzpomínku, že na slibované levné karty čeká už tři roky marně.

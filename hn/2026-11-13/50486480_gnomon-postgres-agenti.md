@@ -1,0 +1,14 @@
+# 50486480
+**Gnomon přináší git do dat v Postgresu. Každý agent dostane vlastní větev**
+
+Hacker News · shawkisukkar · 13. listopadu 2026, 18:09 · 22 bodů / 11 komentářů · [diskuse](https://news.ycombinator.com/item?id=50486480)
+
+Firma bitsinfra vydala Gnomon, rozšíření pro PostgreSQL, které dává databázovým datům větve jako v gitu. Každý agent tak dostane vlastní větev reálné databáze a jeho dotazy čtou i zapisují do ní, zatímco aplikace se vůbec nemění – větev je pro ni jen connection string. Když je práce hotová, jde výsledek zkontrolovat, sloučit do hlavní větve, nebo vzít zpět.
+
+Podle dokumentace na GitHubu větev čte vše z hlavní větve a drží jen vlastní změny, takže vzniká okamžitě a nic nekopíruje, byť by databáze byla jakkoliv velká. Ke kontrole slouží sledování tabulek, rozdíl po řádcích a polích a třícestný merge, který počty sčítá, text spojuje po řádcích a skutečné střety vrací jako řádky ke smíření, s možností vzít zpět transakci i celý merge. Instalace stojí na jediném příkazu create extension a funguje na PostgreSQL 15 až 18, na vlastním serveru i v RDS, Auroře nebo Supabase, s kontrolami psanými v SQL a doprovodem v podobě MCP serveru a sad pro TypeScript a Python.
+
+Diskuse se ale rychle stočila k tomu, jak je projekt čerstvý. bedstefar se ptá, jestli to vůbec někdo používá, a vzápětí dostává odpověď od jolmg, že repo bylo nahráno před hodinou. 0o777 to potvrzuje ještě ostřeji: před dvěma hodinami ještě neexistovalo, commit přistál před hodinou. Do stejné noty hraje i xyzsparetimexyz se slovní hříčkou, že by si dal „gnomore“, tedy ještě trochu víc.
+
+Nejdelší výhrada míří na formu, ne na větve samotné. ulrikrasmussen píše, že mu nevadí kód generovaný jazykovými modely, ale už je unavený z readme psaných umělou inteligencí, která umí každou myšlenku nasvítit jako dobrý nápad. Chtěl by prý číst člověka, který vlastními slovy popíše skutečnou potřebu a nápad, jak ji řešit, jinak kartu prostě zavře. ShinyLeftPad mu přitakává, že zpětnou vazbu mají dát skuteční čtenáři, kteří klidně pošlou i opravu, protože právě k tomu je open source. A nepthar to shrnuje do podezření, že zadání znělo „vyrob projekt na titulku Hacker News včetně příspěvku, dokumentace, repa a tutoriálu a vyber dva populární koncepty“.
+
+Věcná linka se ptá po smyslu větví vedle migrací. sp4cec0wb0y váhá, zda chce agentovi dávat přímý přístup k migracím databáze, když migrace v aplikacích obvykle žijí v kódu a spravuje je git, a hledá případ užití, který tohle nepokryje. alexpadula připomíná, že podobné větvení už mají Neon a Xata, a nápad označuje za zajímavý, ale s dírami v technických detailech. Podobně horsawlarway se ptá, zda to funkčně není velmi blízko Doltgres. Čtenář si tak odnese jednoduchý obrázek: větve pro data znějí lákavě pro agenty a testy, ale tahle novinka bude muset ještě doložit, čím je jiná a zralá.

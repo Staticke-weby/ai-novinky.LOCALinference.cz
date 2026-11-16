@@ -1,0 +1,14 @@
+# 1xesfpc
+**Když Claude umí postavit aplikaci, co bude se softwarovými firmami?**
+
+r/ClaudeAI · u/DexterTalks101 · 25. října 2026, 05:02 · 293 bodů / 340 komentářů · [diskuse](https://www.reddit.com/r/ClaudeAI/comments/1xesfpc/)
+
+Autor používá Claude od roku 2024 a posun popisuje jako bláznivý: od ručního kopírování kódu z chatu k tomu, že ráno zadá prompt, odejde do posilovny a odpoledne se vrátí k funkční první verzi aplikace. Sám provozuje softwarovou firmu, a tak se ptá, kam se mají tradiční agentury během příštích dvou až pěti let posunout, když se běžné aplikace, dashboardy a jednoduché SaaS produkty stanou triviálními. Nadhodil, jestli skutečnou výhodou nebude doménová znalost, distribuce, vlastní data, nebo prostě vědět, co stavět.
+
+Diskusi jasně ovládl komentář u/GoldenPeanut90, že se nestane v podstatě nic, protože polovina lidí neví, co by postavila, a druhá polovina je příliš líná to udělat pořádně. Lidé budou za software dál platit, stejně jako dál platí za kávu. Na stejnou strunu zahrál u/ExcitingLandscape otázkou, proč existují restaurace, když si umí uvařit doma, a přidal se i u/fuzzypetiolesguy s tím, že vařit umí každý, a restaurace tu jsou pořád. Trefné se zdálo i přirovnání u/ZLATAN_IBRAh, jestli motorová pila schopná porazit skoro každý strom znamená konec těžařů.
+
+Věcnější hlasy upozorňují, že psaní kódu nikdy nebyla hlavní část práce. u/Boofschneef píše, že lidé nechápou, že vývojáři většinu času kódem netrávili, a u/kemalios dodává, že klientské projekty se nezadrhávají na stavbě, ale na tom, že nikdo neumí rozhodnout, co vlastně chce – a Claude na takové schůzce sedět neumí. Podobně u/howitzer1 připomíná otravné vysvětlování klientům, že jejich nápad je příšerný: rozdíl je prý jen v tom, že se ty nápady teď promění v něco příšerného, místo aby včas umřely.
+
+Zazněla i obava z detailů, které laik nepohlídá. u/The_chosen_turtle se ptá na bezpečnost a design: kdo o nich nic neví, nezadá umělé inteligenci správně, co má hlídat, a jediný řádek kódu pak může celý software položit. u/HeyItsYourDad_AMA to shrnuje jako čtyřletou debatu dokola – nástroje jen posouvají laťku a berou rutinní dřinu, takže odpověď se skrývá v tom, co přesně umělá inteligence abstrahuje. A u/prevent-the-end varuje, že stavět stokrát rychleji znamená taky stokrát větší hromadu údržby.
+
+Nakonec se vlákno stáčí k cenám a službám kolem kódu. u/radio_four čeká výbuch produkce během příštích dvanácti měsíců, zlevnění softwaru a tlak na jednodušší produkty, ale věří, že zákaznický servis a podpora dál rozhodnou, komu lidé zaplatí. u/evado to říká ještě kratčeji: prodáváte službu, podporu, školení, konzultace a klid. Pro čtenáře z toho plyne jednoduché poučení: umět zadat prompt zvládne skoro každý, umět rozhodnout, co má smysl postavit a udržet v chodu, zůstává řemeslo.

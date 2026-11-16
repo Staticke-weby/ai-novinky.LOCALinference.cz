@@ -1,0 +1,16 @@
+# 50239027
+**Kognitivní merkantilismus: AI panika připomíná strach z raného kapitalismu**
+
+Hacker News · ianand · 26. října 2026, 05:11 · 79 bodů / 108 komentářů · [diskuse](https://news.ycombinator.com/item?id=50239027)
+
+Esejista Venkatesh Rao přišel s pojmem kognitivní merkantilismus. Tvrdí, že dnešní panika kolem umělé inteligence podivně připomíná úzkost, která provázela zrod raného kapitalismu, a trh chápe jako první planetární inteligenci, na niž AI navazuje.
+
+Rao se opírá o knihu Joyce Applebyové The Relentless Revolution z roku 2010. Kapitalismus podle ní nebyl projevem vrozeného instinktu směňovat a hromadit, ale historicky nahodilý kulturní vynález, který vyžadoval opustit hru s nulovým součtem a objevit, že bohatství lze vytvářet a obyčejní lidé mohou být zdrojem poptávky. Starý merkantilismus stavěl na nedostatku, hromadění půdy a drahých kovů, nedůvěře k chudým a kontrole nabídky, a Rao tyto čtyři pilíře překládá do světa inteligence: hromadění mozků a patentů, strach svěřit myšlení masám, fetiš nabídky a představa neužitečných myslí. Proti tomu staví „pracovitou revoluci“, kdy Britové dobrovolně přidávali pracovní dny z 250 na 300, aby si mohli dopřát čaj, cukr či bavlněné látky, a naznačuje, že levná inteligence podobně nafoukne chuť myslet, a dokonce by se jejími spotřebiteli mohly stát i samotné autonomní agentury.
+
+Právě u zemědělské analogie se diskuse nejvíc zasekla. Uživatel zkmon namítá, že přechod od svalů k mysli dával smysl, protože obojí bylo lidskou předností, ale pokračování svaly – mysl – otazníky děsí, protože není jasné, čím bude člověk hodnotný. Navazuje na něj samrus: lidé po zemědělské revoluci nezískali jen čas více chtít, ale hlavně čas více vyrábět, zatímco po automatizaci duševní a s roboty i manuální práce zůstává otázka, co budeme produkovat a proč by nám vlastníci AI nechali jakoukoli páku.
+
+Historickou linku rozporuje keybored, podle něhož byl dělník za kapitalismu právě jen zbožím ovládaným kapitálem a střední třída s poptávkou a iniciativou je až poválečný výdobytek odborů a ústupků. EdwardDiego mu přitakává připomínkou víkendu, osmihodinové pracovní doby a oběda horníků nad zemí. Ještě tvrději to podává epsteingpt, který text označuje za velmi špatnou úvahu: zisky z technologií prý z velké části skončily u nejbohatších a pestrá strava autora stojí na bedrech miliard chudých. Podobně pzski varuje, že tentokrát je hodnota v počítačích, a proto se snáz centralizuje, takže se můžeme vracet k merkantilismu, ne od něj.
+
+Mezi vážnými hlasy probleskuje ironie. Uživatel raised_by_foxes suše děkuje, že kapitalismus naštěstí neměl žádné negativní důsledky, a worthless-trash dodává, že autor očividně nikdy nefarmoval. Konstruktivnější tón nabízí logicchains: co AI neumí, je podnikání, protože nemá vlastnická práva, takže se lidé vrátí k samostatnosti po vzoru Ameriky 19. století. Visarga zase připomíná, že AI nezvládne začátek, prostředek ani konec úkolu bez lidského kontextu, protože následky si odžít nedá, a aswegs8 to shrnuje poznámkou, že novým rozlišovákem se stala vůle.
+
+Z diskuse tak zůstává jiná otázka, než položil Rao: ne zda poptávka po inteligenci poroste, ale kdo bude mít co nabídnout, až stroje zastanou myšlení i ruce.

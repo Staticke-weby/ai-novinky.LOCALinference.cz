@@ -1,0 +1,14 @@
+# 1xlz6m8
+**Claude odmítl postavit proxy kvůli limitům. Uživatelé řeší, kde končí bezpečnost a začíná paternalismus**
+
+r/ClaudeAI · u/proomptengineer · 2. listopadu 2026, 15:49 · 305 bodů / 157 komentářů · [diskuse](https://www.reddit.com/r/ClaudeAI/comments/1xlz6m8/)
+
+Stejný požadavek, který autorovi bez problémů procházel z Macu, mu Claude po přesunu na cloudový stroj okamžitě zamítl. Když se pak zeptal na proxy jako na zjevné obejití limitu, model stavbu odmítl s tím, že fungování limitu neumí ověřit, protože ho poskytovatel nezveřejňuje, a podmínky sám nečetl. Autor namítá, že za nástroj platí, riziko ztráty přístupu nese sám a stačilo by ho jednou varovat a pak práci udělat.
+
+Vlákno se rychle slilo do společného povzdechu nad tím, že Claude čím dál častěji moralizuje i u banálních věcí. u/chanomi píše, že je otravné model pořád přemlouvat, aby prostě něco udělal, a přijde mu línější i navzdory vyladěným promptům. u/ThePsyPaul_ to shrnuje poznámkou, že úpadek kvality nabral plné obrátky ještě před vstupem na burzu, a u/Key_Confusion_576 přidává historku, jak mu Claude u 3D modelů pro domácí tisk začal kontrolovat licence, ačkoliv šlo o díl pro vlastní potřebu.
+
+Nejsilněji rezonují příběhy lidí, kterým odmítnutí zastavilo rozdělanou práci. u/The_DigitalAlchemist popisuje, jak s Claudem od nuly postavil soukromého správce vlastní knihovny videí a hudby, a po měsících mu model při opravě drobných chyb v uživatelském rozhraní najednou odmítl pomáhat s odkazem na možné porušení autorských práv, přestože šlo o data, která si legálně koupil. Podobně u/dadnothere narazil u roky běžícího WhatsApp bota s yt-dlp na zamčený chat kvůli ochraně, ačkoliv řešil legitimní chybu, a u/TrabajoTears vypráví, jak mu Claude po dvou třech výměnách nad výsledky testů manželky odmítl pokračovat, přisoudil mu úzkosti a poslal ho na linku pomoci. u/Jack-Burton-Says pak přidává celou sérii: odmítnutí pomoci s komerčními scrapery pro veřejná data kvůli obcházení botí ochrany, odmítnutí napsat potvrzení o příjmu pro chůvu kvůli údajnému obcházení daňových předpisů i odmítnutí poradit s blokací obcházení wi-fi restrikcí na iPadu syna.
+
+Zbytek diskuse se tak stočil k praktickým fintám, jak přísného rádce obejít. u/thesilentrebels radí neříkat účel a začít novou konverzaci obecně: když místo stahovače z konkrétních audioknižních webů chtěl jen obecný stahovač, najednou to prošlo, audioknihu si pak jen chtěl pustit ve VLC místo nepohodlného přehrávače na webu. u/Lim3Hero doporučuje nechat slabší a ochotnější model odvést odbydou práci a Claudia pak poprosit, ať ji opraví, a u/Zachattackrandom to shrnuje tak, že je dnes prakticky nutné mít vedle Clauda ještě jiného agenta na věci, které Claude považuje za příliš nemorální.
+
+Z vlákna tak zůstává otázka, kterou nadhodil sám autor: má model riziko jednou vysvětlit a pak respektovat rozhodnutí platícího uživatele, nebo má raději odmítnout už při pouhém podezření na porušení podmínek.

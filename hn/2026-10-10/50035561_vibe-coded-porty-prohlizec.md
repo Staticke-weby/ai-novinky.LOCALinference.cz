@@ -1,0 +1,16 @@
+# 50035561
+**Vibe coded porty Halo, GTA a Simpsonů v prohlížeči fungují**
+
+Hacker News · astlouis44 · 10. října 2026, 20:11 · 93 bodů / 76 komentářů · [diskuse](https://news.ycombinator.com/item?id=50035561)
+
+Na Hacker News se řeší vlna fanouškovských předělávek slavných her, které běží přímo v záložce prohlížeče bez instalace. Patří mezi ně Halo: CE, GTA: Vice City nebo Simpsonovi: Hit and Run a podle prvních zkoušejících překvapivě dobře fungují včetně multiplayeru.
+
+Odkazovaný text z Kotaku od Lewise Parkera to přičítá nové verzi Claude Opus 5.5, která umí extrémně dobře dekompilovat. Rekonstrukce zdrojového kódu, jež dříve zabrala kodérům měsíce, se tak dá nechat běžet přes noc, a limitem už dávno není paměť, když PS3 měla asi 512 megabajtů a samotný prohlížeč autora dnes bere kolem 1200 megabajtů. Autor popisuje, že jeden z portů mířil až na 240 snímků za sekundu a jiný měl funkční online servery s nízkou odezvou, takže právní týmy vydavatelů podle něj čeká nekonečná honba za staženými kopiemi.
+
+Nejživější je vlastní zkušenost lidí z diskuse. moritzwarhier popisuje, jak podobně přepsal Winamp AVS na web přes Emscripten a po pár sezeních bylo prostě hotovo, včetně opravy detekce rytmu, se kterou mu pomohlo ChatGPT. Podobně cjstewart88 čekal, že si v prohlížečovém Quakeovi jen proběhne první úroveň, a místo toho ho ohromila plnohodnotná multiplayerová hra, u níž by jinak musel shánět cédéčka, mody a komunitu. finger k tomu připomíná, že Quake Live v prohlížeči takhle dobře fungoval už kolem let 2010 až 2011, a schonfinkel dodává, že pozdní devadesátky měly vášeň bez dnešních predátorských mikrotransakcí.
+
+Druhá linka se točí kolem práva a toho, co s tím vydavatelé udělají. sobiolite nechápe rozruch kolem ochrany duševního vlastnictví, protože hostování portu se podle něj neliší od hostování souboru pro emulátor, a zajímavější mu přijde legální cesta, kdy si hráč přinese vlastní data a hraje na modernizovaném enginu s vysokým rozlišením, odemčenými snímky a opravami, což už oživuje i DOSové hry se ztraceným kódem. mjr00 k tomu dodává, proč firmy tlačí na porušování práv, když dvacet let starou hru stačí lehce upravit pro širokoúhlé monitory a prodat znovu za 60 dolarů. rvz, usui, tiborsaas a urbnspacecowboy pak rozebírají návrat cloudového hraní přes Amazon Luna, GeForce Now a Xbox Cloud Gaming, včetně nápadu, že špičkové modely budou vykastrovány, aby dekompilaci odmítaly, což ale otevřené modely snadno obejdou.
+
+Třetí spor je o kvalitu a smysl. VCFundedGenYer tvrdí, že takové projekty dávají dekompilacím špatné jméno a jde o nekvalitní spam od lidí, kteří kód ani nechápou. Proti tomu hgoel se ptá, co je nekvalitního na funkčním přepisu, GaggiX odpovídá, že jsou prostě dobré, proto jsou populární, i když mnohé hry už emulovat šly, a Jcampuzano2 se sigmar připomínají, že smyslem vždy bylo hraní, přičemž před nástupem jazykových modelů bylo plně hratelných přepisů jen minimum. Do toho gste povzdechne, že po dvou portech se nudil, protože v tom není nic nového, na což KeplerBoy kontruje, že Halo a GTA jedou na stejné hratelnosti už přes dvacet let.
+
+Z diskuse tak zůstává pocit, že technická bariéra padla a dál se bude hrát hlavně o práva, cenu remasterů a to, zda komunita raději sáhne po rychlém portu v prohlížeči.

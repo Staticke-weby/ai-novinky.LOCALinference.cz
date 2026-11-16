@@ -1,0 +1,18 @@
+# 50344919
+**SEC by měla zablokovat IPO Anthropicu, píše Matt Scherer**
+
+Hacker News · cdrnsf · 2. listopadu 2026, 23:30 · 288 bodů / 223 komentářů · [diskuse](https://news.ycombinator.com/item?id=50344919)
+
+Anthropic minulý týden podal registraci k primární nabídce akcií s plánovaným listopadovým debutem a Matt Scherer v Tech Policy Press tvrdí, že by americká komise pro cenné papíry měla vstup na burzu zastavit, dokud firma nedoloží dva kvartály auditovaných výsledků. V dodatku prospektu firma odhalila závazky za 895 miliard dolarů, z toho nejméně 582 miliard nevypověditelných vůči Amazonu, AMD, Broadcomu, Googlu a Microsoftu za výpočetní výkon. Výsledky za rok 2026 přitom neprošly formálním auditem a růst tržeb se ve třetím čtvrtletí výrazně zpomalil. Autor mluví o skrytém dluhu mimo rozvahu a varuje, že účet po splatnosti složí drobní investoři a střadatelé na penzi.
+
+Tlak na marže vysvětluje čtyřmi silami, které se potkávají v nejhorší možnou chvíli. Poptávka po generativních modelech je podle něj nejistá, což dokládá i vlažné komerční přijetí letního modelu Fable 5, zatímco konkurence včetně čínských open-weights modelů tlačí ceny dolů a letní cenová válka s OpenAI stále trvá. Proti tomu stojí zdražující čipy, stavba a provoz gigawattových datacenter a zpoždění kvůli odporu obcí a napjatým dodavatelským řetězcům. Vstup dalšího obřího neziskového hráče by podle Scherera nafoukl už tak přehřátý a koncentrovaný trh, takže po případném pádu by ztráty nesly penzijní účty a indexové fondy.
+
+Nejživější linka diskuse řeší, zda by se penzijní fondy do Anthropicu vůbec dostaly automaticky. davidguetta se ptá, jestli fondy firmu po vstupu na burzu nakoupí samy přes index S&P 500, podobně jako se řešilo SpaceX. gloryjulio a judge2020 připomínají, že SpaceX do indexu zatím zařazen nebyl a předčasné přijetí mu bylo odepřeno, a phyzix5761 dodává podmínku dvanáctiměsíčního odstupu a čtyř ziskových kvartálů. JumpCrisscross na otázku rychlého zařazení odpovídá stručným ne a msy namítá, že povinnost komise platí vůči všem účastníkům trhu, ne jen držitelům indexů.
+
+Druhá linka je střet o roli státu. JumpCrisscross označuje volání po zákazu za hloupost a vzkazuje, ať to vyřeší trh: když firma spadne, ušetří se desítky miliard zbytečných investic. digitaltrees ho žádá, aby ubral na ostrosti, ale s věcnou částí polemizuje a tvrdí, že právě povinné nákupy indexovými fondy vytvářejí deformaci, která přesouvá peníze od veřejnosti k insiderům. fzeroracer dodává, že firmy se cíleně staví do pozice příliš velkých na pád a skončí to sanací z důvodů národní bezpečnosti, kterou zaplatí daňoví poplatníci, zatímco thinkingtoilet píše, že v sázce jsou důchody lidí, kteří si recesi nemohou dovolit.
+
+Zbytek vlákna hledá praktická východiska. singron nadhazuje, že když Anthropic nebude stíhat platit, mohou věřitelé raději přistoupit na mírný konkurz naruby a závazky protáhnout nebo poměrně seškrtat, protože na krachu firmy nemá zájem nikdo. stingraycharles tvrdí, že když prošlo IPO SpaceX, projde i Anthropic, které mu připadá poctivější, a chválí fondy, jež neziskové firmy rovnou vylučují. jawiggins lituje, že firma nešla na burzu dřív při ocenění kolem sta miliard, aby se na růstu svezla i veřejnost, na což thevinter odpovídá, že ještě před rokem firma prodělávala miliardy ročně a za dumping ztrátové firmy by ji kritizovali stejně. CamperBob2 to celé rámuje politicky výčtem darů Bílému domu a glosou, ať si každý spočítá sám.
+
+Čtenář si z toho odnese hlavně varování, že v prospektu nejsou nejdůležitější tržby v grafu, ale drobné písmo pod čarou o tom, kdo bude platit, až dojdou účty.
+
+[Zpět na index](00-index.md)

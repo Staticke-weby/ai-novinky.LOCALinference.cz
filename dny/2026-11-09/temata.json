@@ -1,0 +1,334 @@
+{
+ "date": "2026-11-09",
+ "clanky": 38,
+ "temata": [
+  {
+   "title": "Claude Fable 5.2 a Mythos 5.2: rychlejší, levnější a s rekordy v benchmarcích",
+   "sources": [
+    "rd",
+    "hn"
+   ],
+   "ids": {
+    "rd": "1xs0d1i",
+    "hn": "50429068"
+   }
+  },
+  {
+   "title": "Fable 5.2 není vždy levnější. Cena za úkol závisí na zvoleném úsilí",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xs292a"
+   }
+  },
+  {
+   "title": "Google rozšířil TPU osmé generace: 8tx pro důvěrný provoz a 8i Max pro obří kontexty",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50432831"
+   }
+  },
+  {
+   "title": "Fable 5.2 postavil hratelný klon Gears of War z třířádkového promptu",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xs1y29"
+   }
+  },
+  {
+   "title": "ChatGPT Desktop posílá váš SSH agent do vzdálených strojů",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50422628"
+   }
+  },
+  {
+   "title": "Tisíc agentů Fable 5.2 formalizovalo Fermatovu větu za 30 hodin",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xs0tk3"
+   }
+  },
+  {
+   "title": "DeepX slibuje inferenci 100B modelů pod 5 W. Čísla jsou ale simulovaná",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50429545"
+   }
+  },
+  {
+   "title": "Claude vyřešil dva otevřené problémy fyziky černých děr",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xs33s1"
+   }
+  },
+  {
+   "title": "Autor tvrdí, že AI bublina neexistuje. Výdaje jsou jednorázové, příjmy rostou",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50418975"
+   }
+  },
+  {
+   "title": "Ethan Mollick: Fable 5.2 je téměř AGI, ale stále zubatá",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xs1s3s"
+   }
+  },
+  {
+   "title": "Gemini posílá osobní soubory z Disku a e-maily lidským anotátorům",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50429426"
+   }
+  },
+  {
+   "title": "Patnáct týdnů vývoje hry v Godotu s Claudem. Autor ukázal novou čtvrť",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xrkks4"
+   }
+  },
+  {
+   "title": "Muse Ember: nejmenší model Meta chce válcovat Haiku i GPT-6 Luna cenou",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50429024"
+   }
+  },
+  {
+   "title": "Vývojář postavil RPG inspirované Baldur's Gate 3 pomocí Opus 5.5 a Three.js",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xrentf"
+   }
+  },
+  {
+   "title": "Stejný H100 za 2,69, nebo 12,29 dolaru na hodinu. Rozdíl je 4,57krát",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50427085"
+   }
+  },
+  {
+   "title": "Šachy, box a židle. ChatGPT postavil hratelnou chessboxingovou hru",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xrl4b7"
+   }
+  },
+  {
+   "title": "Rok po mandátu 100 % AI nikdo v týmu nerozumí vlastnímu kódu",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50433079"
+   }
+  },
+  {
+   "title": "Modder použil AI k reverznímu inženýrství Skyrimu. Přidal terén i navigaci NPC",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xrvqoo"
+   }
+  },
+  {
+   "title": "Apple omezil inženýrům denní AI rozpočet na 200 dolarů",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50421426"
+   }
+  },
+  {
+   "title": "Boston Dynamics ukázal Atlas na kolech. Tančí v prázdném skladu",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xrxbul"
+   }
+  },
+  {
+   "title": "Asahi Linux opouští MIT kvůli AI. Přechází na GPL",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50420532"
+   }
+  },
+  {
+   "title": "Trump tvrdí, že chtěl nechat zatknout šéfa AI laboratoře",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xrhqeh"
+   }
+  },
+  {
+   "title": "Být „masový prostředník“ pro AI má být důvod k vyhazovu",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50422001"
+   }
+  },
+  {
+   "title": "Uvnitř Qwenu: neuron pro trollení, propagandu i televizní program",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xrydgx"
+   }
+  },
+  {
+   "title": "Culper Research: až pětina tržeb Nvidie šla přes čínské prostředníky",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50424604"
+   }
+  },
+  {
+   "title": "Fotka regálu a dotaz na víno. ChatGPT se stal nákupním poradcem",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xrm6lk"
+   }
+  },
+  {
+   "title": "Ginux: nezávislé jádro vzniklo za 11 dní řízenou agentní prací",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50424147"
+   }
+  },
+  {
+   "title": "Claude oživil starý iPhone. Z logů našel vadný konektor a obešel pád",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xrevbv"
+   }
+  },
+  {
+   "title": "LiveNerf po 47 dnech: Opus 5.5 se měřitelně nezhoršil",
+   "sources": [
+    "rd",
+    "hn"
+   ],
+   "ids": {
+    "rd": "1xriv9l",
+    "hn": "50422069"
+   }
+  },
+  {
+   "title": "Claude Pro je v Indii levnější přes App Store. Ušetří 400 rupií měsíčně",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xrop4r"
+   }
+  },
+  {
+   "title": "E-means zvládne k-means v desetině epoch a s lepší ztrátou",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50429734"
+   }
+  },
+  {
+   "title": "Seinfeld s MiniMax H3: AI vrátila sitcom do devadesátek",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xs5i0t"
+   }
+  },
+  {
+   "title": "Raspberry Pi 5 16GB zdražil na 385 dolarů. Za dva roky trojnásobek",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50428801"
+   }
+  },
+  {
+   "title": "Přístup k Mythos 5.2 za pár minut. Jiní dostali blok za poznámky z mikrobiologie",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xs3e2p"
+   }
+  },
+  {
+   "title": "Infineon vyrobil první 300mm SiC wafer pro výkonové čipy",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50429430"
+   }
+  },
+  {
+   "title": "Anime postavy v realistických kulisách. Autor ukázal workflow v Krea2",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xrv40z"
+   }
+  }
+ ]
+}

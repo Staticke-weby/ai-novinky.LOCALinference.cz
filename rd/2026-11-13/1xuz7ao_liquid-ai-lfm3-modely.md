@@ -1,0 +1,16 @@
+# 1xuz7ao
+**Liquid AI vydala LFM3. Dvoumiliardové multimodální modely slibují rychlost**
+
+r/LocalLLM · u/martinrojas · 13. listopadu 2026, 06:11 · 169 bodů / 72 komentářů · [diskuse](https://www.reddit.com/r/LocalLLM/comments/1xuz7ao/)
+
+Liquid AI představila třetí generaci svých základních modelů LFM3. První vlna stojí na společném základu LFM3-1.7B-Base a větví se do šesti modelů kolem dvou miliard parametrů pro text, obraz, zvuk, kombinované omni použití a dva rozhodovací modely. Autor vlákna byl dosud spokojený s LFM 2.5 24B, který mu na M5 Pro připadal zhruba dvakrát rychlejší než Qwen 3.8 27B, a novou rodinu chce vyzkoušet na běžné úkoly, i když mu její sliby znějí až příliš dobře.
+
+Podle firemního oznámení má nová hybridní architektura kombinovat hrazené krátké konvoluce, sliding-window a globální pozornost ve 24 vrstvách. Základní textový model se učil na 22 bilionech tokenů s důrazem na vědu, kód, matematiku a agentské stopy a umí až 256tisícový kontext, přičemž na zařízení má dekódovat 1,8 až 2,8krát rychleji než nejbližší konkurence a vystačit si s výrazně menší pamětí. Váhy jsou otevřené a dostupné na Hugging Face, v Playground a v API firmy, která je prezentuje jako malé specialisty pro lokální běh a doladění na jednom GPU.
+
+Diskuse se hned stočila k věčné otázce malých modelů proti velkým. Nejvíc hlasů posbíral ironický povzdech u/exaknight21, že tohle je fastfood a tady se prý berou jen stoprocentní miliardové modely. Vážněji to formuloval u/LoneArcher96, který textovou verzi 1.7B označil za upřímně působivou, ale Qwen3.5 4B ji podle něj s přehledem poráží. Podobně u/Effective-Giraffe655 píše, že modely Liquidu jsou hloupější než Qwen3.5 4B, přesto je aktivně používá na titulky, vidění a hodnocení – jen si stěžuje, že textová verze spolehlivě nerozliší instrukce od dat, takže jí projde každý prompt injection.
+
+Druhá linka vlákna ale řeší to, v čem malé modely vítězí: rychlost a nenáročnost. U/enternoescape nasadil LFM3 1.7B na Home Assistant a chválí překvapivou kvalitu i rychlost, u/Sh1ftyFella stejný obrazový model na iPhonu zvládá dokumenty, e-maily a hlasové vyhledávání. U/Broad-Sun-3348 změřil na RTX 5070 Ti u LFM3 VL 2B 363 tokenů za sekundu při 2,8 GB paměti proti 254 tokenům a 4,5 GB u Gemma 4 E2B, přičemž zpracování dokumentů mu přišlo srovnatelné. U/Front-Ad-2981 dodává, že díky neúplné pozornosti v každé vrstvě se mu 16tisícový kontext vejde pod 500 MB RAM, takže modelem lepí úzké úlohy, kam se nic jiného nevlezlo.
+
+Třetí hlas patří praktikům, kteří od modelu nechtějí zázraky. U/Kimononono chválí přesné plnění přímých pokynů třeba při scrapování webu, i když v agentním prostředí Pi bez jasných systémových pokynů model tápal. U/crusaderky miluje verzi 1.7B a plánuje na ní stavět, vadí mu ale, že u obrazových, zvukových a omni variant chybí textové benchmarky, takže nikdo neví, kolik inteligence se proti čistě textové verzi obětuje. Skepsi shrnul u/eightone-81 hláškou o rychlých špatných tokenech, které se hodí nanejvýš do hodně omezeného postroje na jednoduchou práci.
+
+Kdo hledá malého rychlého specialistu na zařízení a smíří se s limity velikosti, má podle vlákna důvod LFM3 zkusit, kdo čeká náhradu velkých modelů, zůstane u Qwenu či Gemmy.

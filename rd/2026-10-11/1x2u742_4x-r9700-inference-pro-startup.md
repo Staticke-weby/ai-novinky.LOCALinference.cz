@@ -1,0 +1,16 @@
+# 1x2u742
+**Stavba 4× Radeon R9700 za 18 tisíc dolarů pro desetičlenný startup**
+
+r/LocalLLaMA · u/sayamss · 11. října 2026, 02:20 · 964 bodů / 386 komentářů · [diskuse](https://www.reddit.com/r/LocalLLaMA/comments/1x2u742/)
+
+Uživatel u/sayamss ukázal stavbu, kterou chystá pro klienta: za 18 tisíc dolarů poskládal Threadripper 9970X se 128 GB DDR5 ECC, čtveřicí Radeonů R9700 AI Pro po 32 GB a 1600W zdrojem, přičemž karty jsou podvoltované pod 210 W. Jako engine používá fork Radiance pro Qwen 3.8 Next flash, 27b variantu a DeepSeek V4 Flash a slibuje 16 souběžných relací s agregovaným prefillem kolem 6,3 až 6,8 tisíce tokenů za sekundu a decodem od 80 do 900 tokenů za sekundu podle délky kontextu.
+
+Nejvýše hodnocená reakce patří u/MurmurRunner, podle něhož je „nápis na zdi" pro OpenAI a Anthropic jasný, protože jde už asi o pátou stavbu pro startup na lokálních modelech, co v poslední době viděl. Na to navazuje u/mohelgamal s notně cynickou předpovědí, že většina těchto startupů do pár let zkrachuje a hardware pak bude čekat na eBay na něj. Podobně to vidí u/HighSeasArchivist, který sám provozuje 9850X3D s 96 GB RAM a dvěma R9700 ve stejné skříni Define 7 XL, a doufá, že takových startupů bude víc, aby se daly jejich karty levně vykoupit.
+
+Druhá velká linka řeší, jestli se to vůbec vyplatí. U/sleight42 spočítal, že při obsluze 16 uživatelů by se investice vrátila asi za 5,75 roku, pokud by důvodem bylo soukromí. U/West-Way-All-The-Way vážně pochybuje o smyslu spotřebitelského hardwaru za 18 tisíc na „bezplatný čínský model", když by za stejné peníze šly roky platit tokeny u libovolného poskytovatele včetně mnohem lepších modelů. Do toho zapadá i rýpnutí u/Future_Pianist9570, že by za tu cenu pořídil tři až čtyři Nvidie DGX Spark, každou se 128 GB paměti, a otázka u/TywinRightfullyLann, zda jde hlavně o soukromí, nebo může lokální sestava skutečně soutěžit s cloudem.
+
+Třetí spor se vede o to, jestli stroj utáhne deset lidí v reálné práci. U/This_Maintenance_834 tvrdí, že bez obav o únik dat do cloudu to startupu moc nepřidá, protože běh je pomalý a s rostoucím kontextem se výhoda souběžnosti ztrácí, takže deset kolegů bude spíš čekat, až se stroj chytí. U/CarelessPerspective se ptá, kolik agentů tu může běžet paralelně, protože při souběžných dotazech ho přepínání kontextu citelně zpomaluje. A u/pplgltch, který musel čtvrtou kartu ve skříni Lancool 217 montovat vertikálně, doufá v lehké využití, protože sám při práci s Claudem a čtyřmi až pěti subagenty naráží na limit.
+
+Zbytek vlákna pitvá řemeslné detaily. U/robertpro01 varuje před vodním chlazením procesoru v provozu 24/7 a zároveň brblá, co to má společného s lokálním Lamou. Hned několik lidí si všimlo nezajištěných karet visících v PCIe slotech, u/Hopeful-Test-2105 a u/Kahvana proto nabádají přišroubovat je. U/nauxiv upozorňuje na desku Asus TRX50 Sage WiFi, jejíž poslední slot neumí oficiálně PCIe 5.0 a s řadou 9000 se může nestabilně snažit ho vyjednat, takže radí vynutit režim 4.0 nebo sáhnout po Gigabyte AI TOP. U/Ambitious-Trip9330 se zase ptá na konkrétní zdroj, protože problémem prý není wattáž, ale dostatek PCIe napájecích konektorů.
+
+Pro čtenáře z toho plyne jednoduché ponaučení: sestava ukazuje, co dnes jde lokálně postavit za firemní peníze, ale zda uživí desetičlenný tým, rozhodne až délka kontextu a míra paralelního vytížení.

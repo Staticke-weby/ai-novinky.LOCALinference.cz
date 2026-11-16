@@ -1,0 +1,16 @@
+# 50339494
+**Anthropic utrácí za interní AI víc než za platy zaměstnanců, spočítáno v maloobchodních cenách**
+
+Hacker News · entryleveljobsc · 2. listopadu 2026, 17:40 · 308 bodů / 245 komentářů · [diskuse](https://news.ycombinator.com/item?id=50339494)
+
+Anthropic interně spotřebuje tolik výpočetního výkonu svého modelu Claude, že by jeho hodnota v maloobchodních cenách převýšila celkové náklady na platy zaměstnanců. V přepočtu to vychází zhruba na 300 tisíc dolarů výpočetního výkonu na jednoho zaměstnance, což má dokazovat, jak hluboce firma vlastní AI v každodenní práci využívá.
+
+Nejhlasitější námitku vznesl uživatel hungryhobbit: Anthropic ve skutečnosti neutrácí za AI víc hotovosti než za mzdy, jen svou interní spotřebu oceňuje ceníkovými cenami pro zákazníky. Kdyby prý každá firma s vlastními servery počítala interní využití tímto způsobem, vypadalo by každé využití dramaticky, a přirovnává to k tomu, jako by Microsoft každé otevření Wordu zaměstnancem účtoval plnou cenou licence. Podle něj jde o marketing před vstupem na burzu, k čemuž se přidal uživatel doctorwho42 s poznámkou, že číslo vůbec neříká, kolik výroba spotřebovaných tokenů firmu skutečně stála.
+
+Obránci tohoto přepočtu naopak tvrdí, že maloobchodní cena je jediná srozumitelná míra. Uživatel Aurornis píše, že interní náklad by byl pro zbytek světa nesrovnatelný, uživatel reducesuffering dodává, že právě srovnání s ceníkem ukazuje, kde jsme: koupit si špičkovou inteligenci na trhu dnes stojí víc než najmout lidi. Uživatel ai-x to vysvětluje cenou ušlé příležitosti, kdyby výpočetní kapacitu místo interní spotřeby prodal zákazníkům, podobně jako Google musí volit mezi prodejem cloudu a přidělením výkonu DeepMindu. Praktickou zkušenost přidávají uživatelé buildbot a maccard, podle nichž je účtování mezi útvary v komerčních cenách ve velkých firmách naprostý standard a Microsoft to takto dělá s interním Azure.
+
+Vedle účetnictví se diskuse stočila k tomu, zda interní AI nahrazuje lidi, nebo jen mění strukturu firmy. Uživatel Palomides rýpe, že všichni, kdo se ptali, proč AI firmy nenahrazují zaměstnance vlastní AI, by měli přehodnotit postoj, zatímco uživatel ar_lan kontruje, že pokud má jít o zabijáka lidské práce, měly by Anthropic a OpenAI začít s masovým propouštěním. Uživatel IncreasePosts připomíná, že Anthropic za tři roky počet zaměstnanců zdesetinásobil, takže o nahrazování lidí zatím řeč není, a uživatel runarberg celou zprávu čte jako firemní propagandu placenou z marketingových milionů. Do toho uživatel kragen vytahuje daňový pohled amerického finančního úřadu, který zaměstnanecké výhody také oceňuje tržní cenou hotelového pokoje, ne tím, kolik stojí navíc ustlat postel, a uživatel Akababa upozorňuje na datacentra s obřími fixními náklady, kde je interní provoz plánovatelný do slabších hodin.
+
+Nechybí ani vtipy na účet samotné spotřeby. Uživatel blobbers se ptá, jestli už AI dostává akciové opce, nebo se osvobodila a převzala představenstvo, a uživatel InsidiousWombat glosuje, že to všechno jen kvůli dostupnosti na dvě devítky. Celá debata tak nakonec není o tom, kolik Anthropic skutečně utratil, ale jak se má drahá inteligence vůbec počítat, když ji firma zároveň vyrábí, prodává i sama ve velkém spotřebovává.
+
+[Zpět na index](00-index.md)

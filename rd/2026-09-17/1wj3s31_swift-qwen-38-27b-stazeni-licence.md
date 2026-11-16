@@ -1,0 +1,14 @@
+# 1wj3s31
+**Swift Qwen 3.8 27B slaví 100 tisíc stažení, komunita řeší licenci**
+
+r/LocalLLaMA · u/Secure_Recording_472 · 17. září 2026, 21:30 · 978 bodů / 615 komentářů · [diskuse](https://www.reddit.com/r/LocalLLaMA/comments/1wj3s31/thank_you_swift_qwen_38_27b_now_has_100k/)
+
+Jovan z malého labu UkisAI přišel do r/LocalLLaMA poděkovat: jejich první model Swift Qwen 3.8 27B překročil 100 tisíc stažení, stal se finetunem číslo jedna a devátým modelem v žebříčku Hugging Face Trending. Finetune podle něj škrtí patologické přemýšlení malých modelů, takže spotřeba tokenů klesá o 58,3 % a rychlost roste 1,95krát bez ztráty přesnosti. Lab už chystá vylepšený checkpoint Swift1.5 Qwen3.8 27B a verzi Flash Next a ptá se komunity, jaké kvantizace a funkce by chtěla.
+
+Nejvýše hodnocená výtka ale míří na slovíčkaření. u/ttkciar upozorňuje, že licence Swiftu nesplňuje kritéria OSI pro open source licenci, takže označení open source je nesprávné a zavádějící. Druhá nejsilnější linka je naopak překvapená slávou: u/PraiseThePidgey se diví, že o finetunu se sto tisíci staženími nikdy neslyšel, na což autor s úsměvem odpovídá, že model vyšel teprve před šesti dny, a nabízí, že mu ukáže pořádnou kvantizaci.
+
+Velká část vlákna se pak točí kolem necenzurované verze. u/freesnackz píše, že kdyby existoval necenzurovaný finetune, byl by legendární, a autor odpovídá, že komunita ho už vyrobila a po otestování ho sloučí. Zbytek diskuse je přehlídka komunitních úprav: u/crablu si model předělal do Ninfer V3 a na RTX 5090 z něj prý ždíme plných 262 tisíc kontextu s vizí a kolem 190 tokenů za sekundu, u/joost00719 zase převedl NVFP4 kvantizaci do GGUF pro llama.cpp. Chválu sklízí i autor za to, že odpovídá organicky a lidsky, u/Trademarkd mu děkuje, že sdílí spoustu znalostí v době, kdy se všechno dělá s AI.
+
+Nechybí ani kritické hlasy a praktické tipy. u/DystopianRealist si stěžuje, že na otázku, jak se počítá pí, dal Swift proti podobnému modelu znatelně chudší odpověď, a autor ho prosí o vzorkovací konfiguraci, protože to bude nejspíš chyba nebo špatný seed. u/LetsGoBrandon4256 si naopak pochvaluje 3,5bpw EXL3 kvantizaci při reverzním inženýrství a radí, kdo má dost VRAM na váhy i KV cache, aby neusínal na Exllama a vLLM. Někdo vtipkuje, že ceny karet 5090 teď explodují, jiný prosí o ByteShape verzi, která by z optimalizace vytěžila ještě rychlejší odpovědi.
+
+S tím souvisí i sloučená diskuse k postu o kvantizaci qwen3.8-27b-gsq-rco ([diskuse](https://www.reddit.com/r/LocalLLM/comments/1wj4w8q/)). Komunitní web llm-bench.io tam naměřil skóre kvality 88,84/100 na jediné AMD Radeon RX 9070 se 16 GB VRAM při kontextu 96 tisíc, z něhož se využilo 38 tisíc, a rychlosti 31,7 tokenu za sekundu. V komentářích se řeší, že šlo o výchozí Ollama bez optimalizací, poptávka po srovnání s ByteShape kvantizací a hlášení, že llama.cpp na této konfiguraci občas padá.

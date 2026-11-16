@@ -1,0 +1,16 @@
+# 1x4l058
+**Tim Sweeney o nasazení AI ve vývoji her**
+
+r/singularity · u/Kanute3333 · 13. října 2026, 04:29 · 675 bodů / 384 komentářů · [diskuse](https://www.reddit.com/r/singularity/comments/1x4l058/)
+
+Uživatel u/Kanute3333 zveřejnil v r/singularity obrázek s vyjádřením zakladatele Epic Games Tima Sweeneyho k využití umělé inteligence ve vývoji her. Podle pasáží citovaných v diskusi v něm Sweeney tvrdí, že cílem není dělat stejné věci s menším počtem lidí, ale dělat víc věcí se stejným týmem. Příspěvek na sebe rychle strhl pozornost právě proto, že přichází od šéfa jedné z největších herních firem.
+
+Nejvýše hodnocené hlasy čtou vzkaz jako potvrzení směru celého odvětví. u/aKaizuh píše, že všechna velká studia budou umělou inteligenci v blízké budoucnosti masivně využívat, protože rozsah her pořád roste a deset až patnáct let čekání mezi díly nikdo nechce. Podobně u/Flaxseed4138 tvrdí, že průmysl je v tomhle bodě už delší dobu, Claude je podle něj v programování lepší a rychlejší než prakticky kdokoli v oboru a výsledek zhroutí víceleté cykly větších titulů, což bude pro odvětví dobře. Sám autor příspěvku to v komentářích označuje za jediné správné rozhodnutí, protože kvalitu dosavadních her podle něj zvládne mnohem rychleji mnohem méně lidí, a velká studia by tak měla tvořit věci, které dřív nebyly možné.
+
+Druhá silná linka řeší, že Epic tím spíš otevírá stavidla ostatním. u/ZealousidealBus9271 píše, že by to mohlo spustit lavinu a další firmy se přidají, u/M4roon připomíná rychlý obrat od zapírání k hrdému přiznání na příkladech her s grafikou z AI. u/VR_Raccoonteur v tom vidí i důvod, proč Epic utlumuje Blueprints, protože nechat umělou inteligenci psát kód v C++ je snazší než ji nechat skládat vizuální bloky. A u/katoptronophile tvrdí, že nástroje AI dnes používá skoro každý tým a kdo se nepřizpůsobí, zůstane pozadu, jen část vývojářů o tom kvůli nenávisti části Redditu raději mlčí.
+
+Právě slib o zachování týmů ale budí největší nedůvěru. u/Paragonswift píše, že cílem jsou samozřejmě méně početné týmy, jen to Sweeney nemůže říct nahlas, aby mu lidé neodešli dřív, než je stihne nahradit. u/AIUnbuiltWorld to shrnuje větou, že dělat víc věcí se stejnými lidmi je sen, zatímco dělat stejné věci s méně lidmi bývá obvyklá realita, u/julioqc v tom čte přímo blížící se propouštění a u/KamisamaPT dodává jízlivé přirovnání o ždímání citronu. Podobně u/big_dumby_dumb rozlišuje mezi marketingem o vyšší kapacitě a tlakem na nižší náklady ve prospěch akcionářů. Do toho zapadá i podiv u/Deto, jaká je motivace takový vzkaz zveřejňovat v době, kdy tolik lidí umělou inteligenci nesnáší, a glosa u/pingwing, že to v herní komunitě dobře nepřijmou.
+
+Mezi vážnými hádkami se drží i humor a nadhled. u/Singularity-42 si rýpl, že komunita kolem vývoje her je v troskách, u/fs2222 navrhuje, aby Sweeney raději použil AI na pořádný obchod s hrami, a u/Chronotheos vtipkuje, že her bude tolik, že na jejich hraní budeme potřebovat AI agenty. Věcnější tečku přidává u/Akrmstr s přirovnáním, že tvrzení o lepších hrách díky AI je jako říkat, že psací stroj napsal lepší knihy, zatímco u/katoptronophile oponuje, že běžným hráčům je jedno, jakými nástroji hra vznikla, a záleží jim jen na tom, jestli je dobrá.
+
+Z diskuse tak zůstává hlavně napětí mezi příslibem rychlejších a větších her a strachem, že zrychlení zaplatí vývojáři místy.

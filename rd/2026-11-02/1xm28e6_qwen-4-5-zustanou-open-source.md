@@ -1,0 +1,16 @@
+# 1xm28e6
+**Qwen slibuje open source i pro Qwen 4 a 5. Obavy z uzavření modelů odmítl**
+
+r/LocalLLaMA · u/ResearchCrafty1804 · 2. listopadu 2026, 17:42 · 4038 bodů / 420 komentářů · [diskuse](https://www.reddit.com/r/LocalLLaMA/comments/1xm28e6/)
+
+Vedoucí Qwenu Liu Dayi Heng na prezentaci potvrdil, že Qwen 4.0 i Qwen 5.0 zůstanou otevřené. Reagoval tím na spekulace posledních dnů, že právě řada Qwen 4 bude poslední s otevřenými vahami a další modely už budou dostupné jen přes API. Slib doprovodil prohlášením, že hodnota umělé inteligence nemá patřit jen hrstce lidí, ale má se stát základní schopností, ke které má přístup, s níž tvoří a kterou si může dovolit každý.
+
+Čísla, která příspěvek zmiňuje, zní impozantně: řada Qwen přesáhla 3 miliardy stažení po celém světě, vyšlo přes 460 otevřených modelů a z nich vzniklo víc než 300 tisíc odvozenin. Diskuse se právě kolem těchto rekordů rychle stočila k otázce, jestli se takovému slibu dá věřit a co čínská otevřenost ve skutečnosti znamená.
+
+Nejvíc hlasů posbíralo dojetí. u/vogelvogelvogelvogel citoval pasáž o umělé inteligenci pro všechny a přidal pět srdíček, s dodatkem, že děkovné odznaky patří samotnému Liuovi. Vedle toho se rozjela vtipná linka s překladem slidu z prezentace – u/MindfulMan1984 tvrdí, že chystaná rodina Qwen 4 vyjde v den vstupu Anthropicu na burzu jako dárek pro, cituji, „Dariův podvod". Jiný vtip míří na americkou konkurenci: u/YourShowerHead si pochvaluje, že je to zadostiučinění pro „určitého pána, kterému vadí, že mají lidé v počítačích RAM", na což navazuje u/Complex_Reality_116 rýpnutím, že Sam Altman prý považuje za plýtvání, když má Qwen přístup k tolika paměti.
+
+Proti nadšení stojí zkušená skepse. u/gladfelter připomíná, že slib „navždy otevřené" od člověka vychází z principů, které se mění pomalu, zatímco u korporace z aktuálního vedení a obchodních podmínek, které se mohou změnit rychle. Podobně stručně to shrnují u/KneelB4S8n s poznámkou, že žádné prohlášení není konečné, a u/CriticalMastery glosou „dokud to dovolí komunistická strana". Věcnou korekci přidává u/nanihikaru01: přesně vzato jde o open-weight, protože skutečný open source by znamenal i otevřená data a trénovací pipeline.
+
+Třetí proud diskuse bere čínskou otevřenost jako geopolitiku a praktickou výhru. u/Cory123125 píše, že Čína poslední roky jen sbírá vítězství a v dlouhodobém horizontu právě ona brání tomu, aby američtí miliardáři světu přichystali drsné časy – prý nejde o kouzelný altruismus, ale o výsledek. u/combrade to rozvádí: řeči o konci otevřeného Qwenu se opakují před každým vydáním, přitom otevřenost je pro čínské firmy totéž, co pro BMW levná auta – smysl jim dává kulturní a tržní podíl, zájem rozvojových zemí a třeba i podpora afrických jazyků, které uzavřené americké společnosti zanedbávají. Do toho uživatelé sčítají vlastní zkušenost, jako u/feelspeaceman, který se hlásí do oněch tří miliard stažení a obdivuje, jak schopné a hardwarově přívětivé modely Qwen umí, a vyhlížejí budoucnost – u/Nick-Sanchez se ptá prostě „wen qwen 4" a u/pmttyji doufá, že mezi čtyřkou a pětkou vyjdou i menší verze jako 4.1 či 4.5.
+
+Ať už slib vydrží, diskuse ukazuje, proč na něm lidem záleží: otevřené váhy, které rozumně běží i na domácím železe, berou jako pojistku proti monopolu několika firem.

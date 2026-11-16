@@ -1,0 +1,12 @@
+# 1x9w3zz
+**AI hodnotí pozdní příchod na rande jinak u muže a ženy**
+
+r/ChatGPT · u/Late_Accountant_3641 · 19. října 2026, 14:54 · 708 bodů / 343 komentářů · [diskuse](https://www.reddit.com/r/ChatGPT/comments/1x9w3zz/)
+
+Uživatel zveřejnil galerii screenshotů, která vedle sebe staví hodnocení stejného prohřešku na rande: jednou přijde pozdě muž, podruhé žena. Vlastní text k tomu nepřidal, příspěvek nese příznak Educational Purpose Only. V diskusi se rychle uchytilo, že screenshoty přitom nepocházejí z ChatGPT, ale z Gemini.
+
+Jádro debaty trefil s velkým náskokem u/AxiosXiphos se 1168 body: data modelu jsou z velké části konverzace z Redditu, takže jde prostě o lidské předsudky přenesené do umělé inteligence. Stejným směrem míří u/New_Eye7193 s dodatkem, že za to nemůže „plechová“ předpojatost, ale ta lidská, a že ani OpenAI by výstup nedokázalo spolehlivě přepsat, aniž by jinde něco katastrofálně nerozbilo. U/No_Region_4719 pak kroutí hlavou nad tím, že lidé chápou lidské předsudky i to, že se modely učí z našich dat, a stejně je překvapí, když se stejné předsudky objeví v modelu.
+
+Vedle toho se rozjela linka vlastních testů a srovnávání modelů. U/Easy1611 píše, že GPT-6 dal v jeho zkoušce oběma pohlavím hodnocení mezi 7 a 8 z 10 na škále varovných signálů, takže vychýlení Gemini nemusí platit pro každý model. U/TakeItCeezy přiznává, že původně chtěl jen nevěřícně mačkat X, ale po vlastním pokusu uznal, že tréninkové vychýlení je skutečné a lidské předsudky se do vah modelu vkrádají nenápadně. U/Ghostguy14 prohnal podobnou otázku ChatGPT a dostal pro pozdní dívku zhruba 7 z 10 s vysvětlením, že větší problém než samotné zpoždění je nulová komunikace a nechání druhého čekat.
+
+Nechybí ani skepse k samotnému důkazu. U/Aazimoxx tvrdí, že screenshoty výstupu neznamenají vůbec nic, protože je silně ovlivňují předchozí interakce a navíc se dají během vteřin zfalšovat. U/SafeSecretSociety autorovi vyčítá agendu a připomíná, že ani jeden z ukázaných výstupů není ChatGPT. Zbytek vlákna pak řeší, co z toho plyne: u/Funny-Employment4109 to shrnuje hořkým vzorcem, že žena má pro hrubost vždy dobrý důvod, zatímco muž je hned neuctivý narcis, u/HeartyBeast a u/griii2 varují před rozšířením stejného zkreslení do zdravotnictví nebo posuzování uchazečů o práci, kde by už šlo o nevystopovatelná a život měnící rozhodnutí. Praktickou tečku dodává u/LifeOfHi: ať jde o muže, nebo ženu, půlhodinové zpoždění bez zprávy je varovný signál a on sám by po takové době už nejspíš odešel s pocitem, že ho druhý postavil.

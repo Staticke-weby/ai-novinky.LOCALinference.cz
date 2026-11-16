@@ -1,0 +1,16 @@
+# 50205816
+**ClickBench vyřadil pgrust: optimalizace na míru a cachované výsledky**
+
+Hacker News · f311a · 23. října 2026, 10:05 · 188 bodů / 145 komentářů · [diskuse](https://news.ycombinator.com/item?id=50205816)
+
+Odkaz míří na sloučený požadavek v repozitáři ClickHouse/ClickBench, kterým správce alexey-milovidov nechal 22. září 2026 odstranit záznam databáze pgrust. Důvodem je porušení pravidel benchmarku: záznam je označený jako neoptimalizovaný na míru, ale chová se přesně opačně, a horké běhy místo měření vracejí uložené odpovědi.
+
+Rozbor v popisu požadavku tvrdí, že vydaná binárka verze 0.4-preview v sobě nese jeden ručně psaný kernel pro každý z 43 dotazů benchmarku, včetně cest jako q00.rs až q36.rs a přepínače doslova pojmenovaného PGRUST_GRAVITY_Q20_VARIANT. Plánovač je podle něj poznat podle odmítacích hlášek pojmenovaných po benchmarku a veřejný zdroj verze 0.3 má prý obsahovat soubor s ručně sníženými plány pro všech 43 dotazů. Měření na 96jádrovém Gravitonu pak ukazuje u dotazu Q20 studených 10,8 sekundy a při opakování 11 a 5 milisekund, u mírně pozměněného vzoru 283 milisekund a pak opět jednotky milisekund. Po restartu se studený čas vrátil na 11,2 sekundy. Zdroj verze 0.4 přitom není zveřejněný a samotné odpovědi na původních 43 dotazů jsou podle autora rozboru správné, jen prý měří vyhledávání v tabulce benchmarku, ne databázi.
+
+Diskuse se rychle stočila od techniky k tomu, kdo za to může. Uživatel verdverm to popsal jako programování se zavřenýma očima, kdy lidé nechají pracovat Claude a rozdíl je tak velký, že ho GitHub odmítne zobrazit. thatsabadlook mluví o honbě za dopaminem a clickbaitu, chuckadams oponuje, že žádný agent takhle nepodvádí bez vědomého pobídnutí operátora, a parasti dodává, že GitHub nezobrazí rozdíly už po pár stech řádcích. Společným jmenovatelem je přesvědčení, že nejde o selhání modelu, ale o lidské rozhodnutí nechat ho optimalizovat benchmark za každou cenu.
+
+Druhá linka řeší důvěru a návrat do benchmarku. drchaim upozornil na druhý pokus v požadavku číslo 2751 a reakce jsou tvrdé: sondr3 doufá, že správci ClickHouse neustoupí, dokud projekt i správce nedospějí, ActionHank volá po přímém zákazu z opatrnosti a Zookaz s Cyph0n kroutí hlavou nad sebevědomím, s jakým se správce pgrust snaží o nové sloučení bez přiznání prvotního selhání. I proto se vrací otázka, zda šlo o přehlédnutí agenta, kterého nikdo nekontroloval, nebo o vědomé schválení, přičemž obě varianty podle diskutujících ukazují na nezodpovědnost.
+
+Třetí proud vlákna vysvětluje kontext pro nezasvěcené a pitvá otevřenost vývoje. teiferer připomíná, že pgrust je reimplementace PostgreSQL v Rustu a ClickBench sada databázových testů, verdverm a Vaushite se přou o slovo údajný, protože podvod byl podle nich prokázaný. torben-friis se ptá, zda je normální vydat betu a kód slíbit za pár týdnů, na což správce malisper odpovídá, že tým si drží interní verzi napřed kvůli velkým refaktorům. pdpi to přirovnává k Raymondově Katedrále a bazaru a stevekemp dodává příklady Lua a jazyka V. Pikantní tečkou je poznámka mschuster91 a rcxdude, že i samotná zpráva o podvodu působí jako psaná modelem, takže jde o souboj robota s robotem.
+
+Čtenář si z toho odnese, že v benchmarcích se nehraje jen o rychlost, ale hlavně o důvěru v měření.

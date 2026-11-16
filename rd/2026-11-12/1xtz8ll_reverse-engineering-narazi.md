@@ -1,0 +1,16 @@
+# 1xtz8ll
+**Reverse engineering s AI narazil. Claude i Codex začaly blokovat účty**
+
+r/LocalLLM · u/retro_mod · 12. listopadu 2026, 02:04 · 603 bodů / 109 komentářů · [diskuse](https://www.reddit.com/r/LocalLLM/comments/1xtz8ll/)
+
+Ještě před pár týdny lidé hromadně předělávali vlastní elektroniku s pomocí umělé inteligence, teď narážejí na zeď. Uživatelé Anthropic Claude a OpenAI Codex hlásí bezpečnostní kontroly, varování i omezování účtů, když chtějí odblokovat zařízení internetu věcí, vyměnit systém v chytré televizi nebo odstranit reklamy. V r/ClaudeCode mezitím koluje hodně hlasovaný post „The Dream is dead" o tom, že Reverse Engineer Anything s Claudem nefunguje, a skončil i projekt Decomp.wtf, který měl reverzní inženýrství softwaru a her usnadňovat.
+
+Server 404 Media, na který odkaz vede, to popisuje jako střet malých uživatelů s velkými korporacemi. Hromadné stahování celého internetu pro trénink modelů firmám prošlo, ale když lidé stejné nástroje použijí k osvobození vlastní televize nebo oživení výrobku opuštěného výrobcem, přijdou omezení. Budoucnost reverzního inženýrství tak podle článku leží v otevřených a lokálních modelech, kam firmám nedosáhnou pravidla. Inženýr OpenAI Tarun Gogineni k tomu uvedl, že blokace v Codexu jsou většinou nechtěné, jsou výsledkem těžko nastavitelných hranic a žádný zákaz reverzního inženýrství neexistuje.
+
+V diskusi nejvíc rezonuje pocit konce divokého západu. u/Southern_Sun_2106 píše, že utahování kontrol bylo jen otázkou času, stejně jako u internetu a jiných technologií, a těší se na „Napstera necenzurovaných lokálních modelů" trénovaných distribuovaně mimo korporace. u/UltraSPARC to shrnuje ironií: když firmy AI kradou práci milionům lidí, je to v pořádku, ale když si lidé klonují často drahé produkty firem s majetkem v bilionech, v pořádku to není. Podobně u/l3usterFriendly vadí, že firmám nevadilo ohrozit celá pracovní odvětví, ale zasáhnou ve chvíli, kdy malý člověk může konkurovat korporaci.
+
+Druhá linka vlákna je hodně osobní a vulgární ve smyslu vlastnictví. u/sleight42 odmítá, aby mu někdo diktoval, co smí dělat s fyzickým zařízením, které si koupil, a mluví o pokrytectví bohatých, kteří si krádeže duševního vlastnictví dovolit mohou. u/ID-10T_Error přitakává příkladem z praxe, že by si nejraději koupil tiskárnu HP jen proto, aby její systém rozebral a zbavil se hlášení o prázdném inkoustu po padesáti výtiscích. u/Grumpflipot to pak glosuje heslem, že svou lokální AI vydá, až mu ji vezmou z chladných mrtvých rukou.
+
+Třetí proud diskuse už lokální cestu zkouší. u/retro_mod poznamenává, že s lokálními otevřenými vahami by to mělo jít i do budoucna, u/henbone11 tvrdí, že na necenzurovaných lokálních modelech to funguje skvěle. u/netspherecyborg si všímá, že všichni zablokovaní se teď ptají na totéž, jak pokračovat lokálně. Konkrétní historky přidávají u/Royale_AJS, který s Qwenem rozebral starý firmware základní desky Asus, dostal se do příkazové řádky a přepisuje ho moderně, i u/AcostaJA, jemuž Gemini a Claude odmítly pomoct s úklidovým skriptem pro tiskárnu Canon z OpenWrt, zatímco DeepSeek, Qwen a Kimi sepsaly funkční návod.
+
+Kdo chce kutilsky předělávat vlastní hardware, zřejmě si bude muset vystačit bez velkých cloudových pomocníků.

@@ -1,0 +1,16 @@
+# 50212065
+**Kimi K3.1 Pro: open-weight model s milionovým kontextem**
+
+Hacker News · Jowsey · 23. října 2026, 18:59 · 839 bodů / 494 komentářů · [diskuse](https://news.ycombinator.com/item?id=50212065)
+
+Společnost Moonshot představila Kimi K3.1 Pro, první model nové řady K3.1 a dosud nejschopnější open-weight model třídy 3T s kontextovým oknem milion tokenů. Model je od dne vydání dostupný na Kimi.ai, v aplikacích Kimi Work a Kimi Code i přes Kimi API, plné váhy mají vyjít do 4. listopadu. Vedle něj vychází i varianta Highspeed, která má být dvakrát až třikrát rychlejší pro svižnější interakce.
+
+Podle firemního blogu jde o post-trénovanou verzi Kimi K3 s výrazně větším objemem post-training výpočtů a škálovaným reinforcement learningem napříč stovkami domén, od kódování přes 3D tvorbu po finanční výzkum. Na Terminal-Bench 4.0 model dosahuje 65,7 %, čímž překonává GPT-6 Astra s 58,2 % a těsně zaostává za Claude Opus 5.5 se 66,4 %, na interním Kimi Code Bench 3.0 Long-horizon si proti K3 polepšil z 55,95 % na 61,2 %. Zajímavý je i přiznaný zásah do tréninku: z dat pro open-weight verzi firma cíleně odstranila kyberneticky citlivý obsah, takže na interním xdev-bench-hard klesla úspěšnost ze 90,5 % na 81,0 %, stále však nad úrovní předchůdce.
+
+Právě to „ořezání" kybernetických schopností rozpoutalo největší debatu. Uživatel throwa356262 si povzdechl, že verze pro smrtelníky je v kyberbezpečnosti osekána stejně jako americké modely, TuxSH citovanou pasáž o odstranění dat glosoval jediným slovem „slabé". Naopak AspireOne zpomalení šíření neomezených útočných schopností vítá, svět se podle něj musí nejdřív připravit. Přidal se i typický hackerovský cynismus: CamperBob2 by na jejich místě váhy vydal a tvrdil, že je osekal, i kdyby to neudělal, scottyah to přirovnal k výmluvě, že by klidně předběhl Usaina Bolta, jen rekordy z principu neběhá. Vážnější linku přidali rudolftheone a segmondy — firma otevřeně přiznává, že by uměla víc, ale nechce rozšiřovat absolutní špičku útočných schopností v otevřených vahách, mimo jiné aby se vyhnula zákazu a problémům s vlastní vládou.
+
+Druhá velká linka se točila kolem čísel. Když si uživatel SomeonesAccount stěžoval, že zatím nejsou výsledky Artificial Analysis, odpověděl minimaxir, že stránka sice ještě neběží, ale model má 55 bodů a je celkově čtvrtý, tedy na Paretově linii poměru ceny a výkonu. Uživatel rudolftheone vypíchl pokles halucinací na interním Hallu Bench Hard z 23,4 % u K3 na 8,3 %, což označil za velmi pěkné zlepšení. Uživatel wolttam se pozastavil nad tím, jak si každá laboratoř buduje vlastní unikátní RL prostředí, a přemýšlel, kdy se obor sjednotí kolem pár klíčových vzorců, Philpax namítl, že řada RL dodavatelů prodává i čínským laboratořím.
+
+Celkovou náladu shrnul redox99 poznámkou k výzvě „musíme zpomalit špičku", že tohle špičku neposouvá, jen na ní sedí vedle Opus 5.5. A uživatelé už vyhlížejí další kolo: moecables vtipkuje, že příští týden přijde Astra 6.1 a Fable 5.2, onlyrealcuzzo rozepisuje předpokládaný závod MiniMax, Qwen, DeepSeek, Gemini, Fable a Astra, kdy se špičkový model objevuje skoro každý týden.
+
+Čtenář si z toho odnese jednoduchý obrázek: otevřený model na úrovni proprietární špičky, jehož největší otazník není výkon, ale to, kolik z jeho schopností se do otevřených vah nakonec smí dostat.

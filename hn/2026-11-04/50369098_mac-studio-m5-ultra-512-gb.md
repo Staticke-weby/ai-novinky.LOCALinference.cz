@@ -1,0 +1,20 @@
+# 50369098
+**Mac Studio s M5 Ultra a 512 GB paměti míří na lokální velké modely**
+
+Hacker News · immutlex · 4. listopadu 2026, 18:51 · 33 bodů / 27 komentářů · [diskuse](https://news.ycombinator.com/item?id=50369098)
+
+Apple zařadil do nabídky Mac Studio s čipem M5 Ultra a 512 GB sdílené paměti, stroj šitý na míru lidem, kteří chtějí provozovat obří jazykové modely doma nebo v malé firmě. Díky obrovské paměti pojme i velmi velké modely bez agresivní kvantizace, což je u běžného spotřebního hardwaru výjimka. Právě tahle kombinace z něj dělá nejdostupnější cestu k frontier modelům mimo cloud.
+
+Odkazovaná stránka v Apple Storu popisuje konkrétní sestavu se 36jádrovým CPU, 80jádrovým GPU a 1TB úložištěm, vedle ní figurují i dostupnější varianty s čipy M5 Max a slabším M5 Ultra s 96 GB paměti. Zbytek stránky tvoří obvyklé prodejní informace o přechodu z PC, připojení monitorů, financování, výkupu protihodnotou a prodloužené záruce.
+
+Diskusi otevřel immutlex otázkou, zda si stroj už někdo z jednotlivců nebo menších firem koupil, a přiznal, že návratnost dává smysl jen pro ty, kdo modely těžce využívají na programování a multiagentní postupy. Sám stroj označil za zhruba o 68 tisíc dolarů levnější než nejbližší alternativa a ptal se po reálných číslech z provozu GLM-5.3 se 753 miliardami parametrů ve 4 bitech. Odpovědi byly opatrné: bigyabai varuje, že model bude brzdit grafika M5, protože Apple Silicon má u velkých modelů včetně směsí expertů tradičně slabý prefill. nsagent dodává, že stroje ještě nedorazily a první kupci mají termín doručení až ke konci měsíce, rychlost tak odhaduje podle 256GB verze – u Qwen3.8 se 27 miliardami parametrů v 8 bitech lidé naměřili kolem 2000 tokenů za sekundu při prefillu a 70 až 80 tokenů při generování.
+
+Druhá linka vlákna řeší cenu a dodání. WarOnPrivacy si všiml, že stránka po načtení na vteřinu ukáže nižší částku a pak ji přepíše na mnohem vyšší číslo, což tomschwiha vysvětluje jako cenu 96GB verze. jonplackett poznamenává, že s maximálním úložištěm se cena vyšplhá až na 29 tisíc, na což DerekL reaguje připomínkou, že Macintosh IIfx se 4 MB paměti a 160MB diskem stál v dnešních dolarech zhruba 28 tisíc. mannyv doplňuje, že 512GB model má datum odeslání 3/5/27 a nelze ho pořídit přes Apple Upgrade, zatímco drsalt jen suše konstatuje, že si Apple za paměť a disk vždy účtoval šílené částky.
+
+Nejpodrobněji se probíraly alternativy se stejnou pamětí. evanjrowley staví vedle sebe tři cenově srovnatelné sestavy: jedno Mac Studio s 512 GB a 4TB diskem, čtyři Nvidie GB10 s celkem 512 GB paměti propojené 100gigovou linkou přes Mikrotik CRS504-4XQ-IN, a tři stroje s Ryzen AI Max+ 495 po 192 GB, tedy celkem 576 GB, propojené přímo 40gigovou linkou. Právě na tu poslední propojku se ptá mrheosuper, a jpitz se ptá, s čím srovnává, jaké benchmarky má na mysli a nabízí i odměnu za tip na levnější a lepší hardware.
+
+Nejživější je debata o tom, co se vlastně vyplatí. vivzkestrel se ptá, jaký je nejlevnější nejdražší stroj s nejlepším poměrem ceny a výkonu, když 8GB Mac mini s M6 je na modely plýtvání penězi a tahle sestava je naopak extrém. Odpovědi se rozcházejí podle použití: illusive4080 doporučuje 64GB MacBook Pro, který pohodlně utáhne 27miliardový model, paxy zdůrazňuje, že bez znalosti největšího modelu, účelu a požadované rychlosti nelze poradit. hebetude radí počkat na bazarové 128GB M4 Max, až je majitelé vymění za M5 Ultra, sám na něm provozuje soukromé agenty, zpracování hlasu bez drahých cloudových služeb a úpravy fotek, a justauserid shrnuje, že pro většinu práce stačí počítač se 48 až 64 GB paměti doplněný o API a předplatné.
+
+Do toho Naru41 rýpe, zda má 512 GB paměti vůbec jiný smysl než čisté hromadění techniky. Philpax odpovídá věcně: smysl je spouštět inferenci modelů, které se do 512 GB vejdou, třeba GLM-5.3-Flash nebo DeepSeek V4.1 Flash 1017, oba velmi slušné modely. Otázkou podle něj zůstává, zda za stoprocentní soukromí stojí 25 tisíc dolarů.
+
+Kdo nepotřebuje největší modely lokálně a v soukromí, vystačí si s mnohem levnějším strojem a cloudem, pro hrstku náročných ale Apple právě posunul hranici toho, co se vejde na jeden stůl.

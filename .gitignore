@@ -1,0 +1,16 @@
+logs/
+.lock
+*.log
+__pycache__/
+.openchamber/
+
+# stažené podklady a meziprodukty běhu — do (veřejného) repa nepatří:
+# surové dumpy Redditu, plné texty cizích článků (bundles), převzaté obrázky,
+# překlady, worklisty a plány. Dají se kdykoli stáhnout nebo vyrobit znovu.
+**/_data/
+
+# publikovaný přehled dne (generuje build-prehled.py / publish-yeet.py)
+**/prehled.md
+
+# dny/ a docs/ se commitují: dny/ je zdroj webu, docs/ je vygenerovaný web,
+# ze kterého jedou GitHub Pages (main /docs, doména ai-novinky.localinference.cz).

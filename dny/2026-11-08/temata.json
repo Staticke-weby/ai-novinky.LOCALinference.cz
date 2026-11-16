@@ -1,0 +1,323 @@
+{
+ "date": "2026-11-08",
+ "clanky": 36,
+ "temata": [
+  {
+   "title": "Robot Theo nastoupil do curyšského supermarketu. V noci zvládne 400 položek za hodinu",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xqjk2e"
+   }
+  },
+  {
+   "title": "Goodbye Claude, hello Pi: vývojář opustil Claude Code kvůli drobným frustracím",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50410107"
+   }
+  },
+  {
+   "title": "Nekonečné Backrooms pohání Opus 5.5. Svět si staví sám, autor už neví, co přijde",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xqp0p0"
+   }
+  },
+  {
+   "title": "Goldman Sachs omezil Claude Code. Tradeři a bankéři už si nekódují sami",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50415628"
+   }
+  },
+  {
+   "title": "Nvidia vyšetřuje Jensena Huanga. Přiznal poměr s údajnou čínskou špionkou",
+   "sources": [
+    "rd",
+    "hn"
+   ],
+   "ids": {
+    "rd": "1xr8moa",
+    "hn": "50418016"
+   }
+  },
+  {
+   "title": "Mapa cenzury: LLM odpovídaly, jestli cenzura existuje v každé zemi",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xr09nq"
+   }
+  },
+  {
+   "title": "284B DeepSeek běží na 64 GB RAM bez GPU. Projekt sází na dvoubitovou kvantizaci",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50411961"
+   }
+  },
+  {
+   "title": "Hráči masově kupují RTX 5060 Ti 16 GB. Kvůli lokálním AI modelům",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xr01bj"
+   }
+  },
+  {
+   "title": "RAM Altman: linuxový skript posílá Samu Altmanovi, kolik máte volné RAM",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50415172"
+   }
+  },
+  {
+   "title": "Apple naučil robota Unitree G1 běhat z Mac mini. Qwen běží lokálně",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xr6w6w"
+   }
+  },
+  {
+   "title": "AI brain fry: fronta úkolů v gitu má vrátit soustředění při práci s agenty",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50416363"
+   }
+  },
+  {
+   "title": "Jaký prompt používáte pořád? Komunita Clauda sdílí osvědčené postupy",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xr0drc"
+   }
+  },
+  {
+   "title": "OpenAI vybrala 11 miliard dolarů. Ocenění 1,25 bilionu je pod jejím cílem",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50413822"
+   }
+  },
+  {
+   "title": "ChatGPT opravil pocuchaný čárový kód. U pokladny to vyvolalo spor",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xr01jx"
+   }
+  },
+  {
+   "title": "Paměť agentů potřebuje svůj OpenTelemetry moment. Formátů je moc a nespolupracují",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50411467"
+   }
+  },
+  {
+   "title": "Claude dostal vlastní klávesnici a myš. V GTA jezdí, létá i chodí",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xr3gbs"
+   }
+  },
+  {
+   "title": "Čelenky a náhlavní senzory sbírají mozková data pro AI. Uživatelé o tom často nevědí",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50409856"
+   }
+  },
+  {
+   "title": "Webová stránka může mluvit s vaším lokálním LLM. Stačí otevřený prohlížeč",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xqwuhb"
+   }
+  },
+  {
+   "title": "Proč jeden vývojář odmítá LLM v kódování. Diskuse na HN ukázala obě strany",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50412591"
+   }
+  },
+  {
+   "title": "DeepMind slibuje „fázový přechod“ ve vědeckém objevu. Konkrétní důkaz chybí",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xqzpba"
+   }
+  },
+  {
+   "title": "AI vyléčí nemoci? Šéfové farmaceutických firem jsou skeptičtí",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50415817"
+   }
+  },
+  {
+   "title": "Majitel burgerárny si postavil celý provoz na Claude Code. Má 250 commitů",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xqquzu"
+   }
+  },
+  {
+   "title": "FuckCaptcha: otevřený průvodce typy CAPTCHA a tím, jak se lámou",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50415078"
+   }
+  },
+  {
+   "title": "Autor Vinland Sagy pochválil AI umění. Fanoušci se bouří",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xqs9tc"
+   }
+  },
+  {
+   "title": "Anthropic dá 3,4 miliardy dolarů na plynové elektrárny pro datacentra",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50412760"
+   }
+  },
+  {
+   "title": "Čínský internet si z AI modelů udělal roztomilé anime holky",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xqlkli"
+   }
+  },
+  {
+   "title": "Apple tlačí na ambicióznější AI. Siri má dostat agentní podobu jako ChatGPT",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50414021"
+   }
+  },
+  {
+   "title": "Na Hugging Face unikl dataset s 12 tisíci tool calls z GPT-5.5",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xr3ymf"
+   }
+  },
+  {
+   "title": "Tencent představil DSpine. Spekulativní dekódování má zrychlit 27B modely",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xr2aaa"
+   }
+  },
+  {
+   "title": "Next-Concept Modeling slibuje paralelní generování textu. Praxe je zatím opatrná",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xr6krp"
+   }
+  },
+  {
+   "title": "Šest GPU na jednom slotu. PCIe switch rozjel Qwen3.8-27B",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xr2a6y"
+   }
+  },
+  {
+   "title": "Agenti podle uživatele Clauda schválně nechávají práci nedokončenou",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xqlgno"
+   }
+  },
+  {
+   "title": "IDM má open-source konkurenci. Mister Download Manager vznikl za deset dní s Claudem",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xqy0s6"
+   }
+  },
+  {
+   "title": "ChatGPT ukončuje dlouhé konverzace. Uživatelé hlásí chybu i u placených účtů",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xqnkc3"
+   }
+  },
+  {
+   "title": "Gemini omylem zablokoval účet. Uživatel řeší, co spustilo automatickou kontrolu",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xqzlzs"
+   }
+  }
+ ]
+}

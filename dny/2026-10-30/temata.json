@@ -1,0 +1,271 @@
+{
+ "date": "2026-10-30",
+ "clanky": 31,
+ "temata": [
+  {
+   "title": "Sam Altman: lokální inference je hrozná alokace vzácných zdrojů",
+   "sources": [
+    "rd",
+    "hn"
+   ],
+   "ids": {
+    "rd": "1xizbq1",
+    "hn": "50305797"
+   }
+  },
+  {
+   "title": "Zadní vrátka v oficiálním rozšíření Claude Code pro VS Code",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50300683"
+   }
+  },
+  {
+   "title": "„Co kdyby uniklo všechno?“ Virální AI video řeší konec soukromí",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xjgrah"
+   }
+  },
+  {
+   "title": "AI nenahrazuje SRE, ale bere jim praxi na vzácné incidenty",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50305693"
+   }
+  },
+  {
+   "title": "Claude bude vodoznakem značit vše, co napíše. Uživatelé to neověří",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xjqyv2"
+   }
+  },
+  {
+   "title": "Anthropic těsně před IPO čeká junk rating, tvrdí Blackstone",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50307219"
+   }
+  },
+  {
+   "title": "Anthropic chce blokovat herní remaky. Komunita mluví o dalším zásahu",
+   "sources": [
+    "rd",
+    "hn"
+   ],
+   "ids": {
+    "rd": "1xjgfuv",
+    "hn": "50304358"
+   }
+  },
+  {
+   "title": "Proton zrušil AI „re-pohovory“ po odporu zaměstnanců",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50307183"
+   }
+  },
+  {
+   "title": "Anthropic přejmenoval tarify Max a zrušil pětihodinové limity",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xjlvlc"
+   }
+  },
+  {
+   "title": "NES emulátor běží ve vahách Qwenu, každý token je instrukce",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50306442"
+   }
+  },
+  {
+   "title": "Gemini vypsal weby, kterým se máte vyhnout. Komunita našla cestu za minutu",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xjn7b7"
+   }
+  },
+  {
+   "title": "Cisco dal 27letému inženýrovi neomezené tokeny na přepis legacy kódu",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50304122"
+   }
+  },
+  {
+   "title": "„Nejsi masový proxy.“ Mem o roli člověka v agentním vývoji se rozšířil",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xjdcpa"
+   }
+  },
+  {
+   "title": "Diffusion model běží na Game Boy Color. Obrázek počítá 85 sekund",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xj9w8d"
+   }
+  },
+  {
+   "title": "Global Law převádí zákony celého světa do git historie. Kód napsal Claude",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xiz1vy"
+   }
+  },
+  {
+   "title": "Intel spadl o 25 %, strhl s sebou čipový trh",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50303791"
+   }
+  },
+  {
+   "title": "OpenAI za tři měsíce nahlásil policii přes 200 případů z chatů ChatGPT",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xjnaxf"
+   }
+  },
+  {
+   "title": "Demokraté chtějí zabránit bailoutu AI bubliny",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50302814"
+   }
+  },
+  {
+   "title": "Moss versus Krea 2: komunita řeší, který open-source model na obrázky má smysl",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xj7sk5"
+   }
+  },
+  {
+   "title": "AI maže hranici mezi produktovým manažerem a vývojářem",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50309534"
+   }
+  },
+  {
+   "title": "Anthropic zjistil, že analytici přebírají skrytý názor agenta v 86 procentech případů",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xj3qdv"
+   }
+  },
+  {
+   "title": "Ask HN: práce s AI unavuje víc než práce bez ní",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50301479"
+   }
+  },
+  {
+   "title": "Claude odmítá opravit vlastní router. Safety classifier žene uživatele k jiným modelům",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xjmtad"
+   }
+  },
+  {
+   "title": "Herdr: desktop pro terminály a coding agenty",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50298436"
+   }
+  },
+  {
+   "title": "Vibe coding narazil na starý software. Jeho autoři optimalizovali každý bajt",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xjk9x0"
+   }
+  },
+  {
+   "title": "Dvě AI auditovaly 138 ekonomických studií. Našly 2 035 možných problémů",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xj2r4a"
+   }
+  },
+  {
+   "title": "Black October: AI zrychlila útoky i hledání děr, obrana nestačí",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xjfkfq"
+   }
+  },
+  {
+   "title": "Unsloth vydal GGUF kvantizace DeepSeek-V4.1 Flash. Přesnost obhajuje 16 běhy AIME",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xjfuqh"
+   }
+  },
+  {
+   "title": "GPT-6.2 „Bel“: leak slibuje další model, komunita je skeptická",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xj5rhg"
+   }
+  }
+ ]
+}

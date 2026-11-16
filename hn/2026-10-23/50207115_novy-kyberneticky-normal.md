@@ -1,0 +1,16 @@
+# 50207115
+**Je tohle nový kybernetický normál? Přehled týdne kritických děr**
+
+Hacker News · drewsberry · 23. října 2026, 13:04 · 156 bodů / 185 komentářů · [diskuse](https://news.ycombinator.com/item?id=50207115)
+
+Uživatel drewsberry nasdílel obsáhlý blogový přehled posledních dnů, které popisuje jako záplavu vážných chyb zasahujících tisíce velkých webů a ženoucích správce do paniky. Text si klade otázku v titulku, zda je tento objem incidentů novým normálem, a hledá, co se s tím dá dělat.
+
+Největší prostor dostává případ přezdívaný PHP2Shell, tedy dvojice chyb vzdáleného spuštění kódu CVE-2026-109618 a CVE-2026-109619 v PHP s dopadem údajně až na 70 % internetu. Podle blogu je našly dva týmy z firem Calif a Wiz za pomoci modelů GPT-5.6 Sol a Gemini 4 Argon, přičemž jedna z děr byla teoreticky známa už z auditu z roku 2024, ale nikdo tehdy neuměl postavit funkční exploit. Autor vedle toho shrnuje kauzy kolem certifikační autority eMudhra, úniku tajemství u cloudu Railway, kritických záplat GitLabu či kompromitovaného balíčku LiteLLM a tvrdí, že doba od oznámení záplaty k automatizovaným útokům se smrskla z týdnů na hodiny a minuty.
+
+Nejostřejší spor se vede o to, zda jde o přechodnou vlnu, nebo trvalý stav. Uživatel roenxi tvrdí, že nikoli: škálovatelný nadlidský vývojář teď jednorázově vybírá roky starý backlog děr a až bude většinu kódu psát umělá inteligence hned od začátku lépe, příliv se zpomalí. Uživatel ninkendo mu oponuje, že nálezce ještě neznamená bezchybného autora, protože model laděný na hledání chyb přistupuje ke kódu jinak než model tlačený k rychlému přidávání funkcí, a bez vynuceného auditu se bezpečnostní fáze často přeskočí.
+
+Na opačném pólu stojí uživatel thomascgalvin, podle kterého je tohle nový normál a podstatná část jeho práce dnes spočívá ve zmírňování dopadů strojově generovaných exploitů. Navazuje debata o kvalitě strojově psaného kódu: uživatelé Gareth321 a silveraxe93 namítají, že jejich zkušenost s novými modely je spíše defenzivní a pen-testy procházejí lépe než dřív, zatímco uživatelé verdverm, joenada či numpad0 líčí slepou důvěru ve výstupy, přepsané přihlašování a zapomenuté ověřování u rozhraní. Uživatel throw101010 se ptá na domnělý rozpor, proč by měl být model výborný v hledání děr a zároveň špatný v jejich prevenci, když ho lze na konkrétní třídy útoků přímo upozornit.
+
+Praktičtější linka řeší, jak se bránit. Uživatel u8 navrhuje velkorysého nástupce Dependabotu a noční penetrační testy hraničním modelem, po kterých se ráno probudí s vědomím, že udělal maximum. Uživatel motionlessveloc k tomu dodává vlastní zkušenost, kdy za pár desetníků v tokenech DeepSeeku a asi patnáct minut vytáhl starý zranitelný kód z PHP 7 na plně záplatovanou verzi 8.3, o čemž by se bez modelů vůbec nediskutovalo. Skepsi vnáší uživatel dotdi, jemuž citovaná analýza provozu připadá spíše jako skenování než doložené zneužití, a uživatel thatsabadlook, podle kterého reálné ztráty dál dělá hlavně phishing a napodobeniny hlasu a videa, zatímco exotické zranitelnosti dobře prodávají strach.
+
+Z vlákna tak zůstává obraz oboru, který se učí žít s tím, že záplata je zároveň návodem k útoku a obrana musí být stejně automatizovaná jako hledání děr.

@@ -1,0 +1,16 @@
+# 50289162
+**Proč se dobří vývojáři bojí agentního vývoje? Tuší produkci**
+
+Hacker News · torutofu · 29. října 2026, 14:58 · 89 bodů / 131 komentářů · [diskuse](https://news.ycombinator.com/item?id=50289162)
+
+Technická ředitelka Thoughtworks Rachel Laycock se na blogu Martina Fowlera ptá, proč právě zkušení vývojáři váhají s agentním vývojem. Její odpověď zní, že nejde o lásku k psaní kódu ani o strach o práci, ale o vědomí, jak velký je rozdíl mezi „postaveno" a „funguje v produkci". Právě ti nejzkušenější totiž dřív než nadšenci vidí rizika údržby, testování, bezpečnosti a provozu.
+
+Laycock to dokládá týdenním experimentem, který vedl evropský technický ředitel Giles Alexander: tým seniorních inženýrů a produkťáků nesměl napsat ani řádek kódu, vše stavěli agenti. Lidé nakonec strávili asi dvě třetiny času u tabule debatou o doméně, hranicích a plánech a třetinu stavbou testů, kontraktů a pipeline, aby měli k výsledku důvěru. Aplikace se sice rozběhla, ale build byl neustále červený, takže zelená přestávala uklidňovat a červená varovat, což výzkum DORA 2025 potvrzuje i obecně: nasazení AI zvedá propustnost, ale snižuje stabilitu.
+
+Diskuse tenhle pohled potvrzuje z praxe. Uživatel rsyring píše, že to není strach, ale zkušenost: viděl kód od agentů, který sice „funguje", ale inženýrovi nedává smysl, a tým tím ztrácí mentální model nutný pro další iterace, až se stane na agentovi zcela závislým. Navazuje na něj uživatel mablopoule, podle kterého ti ruční psaní na začátku dává čas zvážit datové struktury a architekturu, zatímco u generovaného kódu už volby potichu udělal model a člověk jen schvaluje věrohodně vypadající diffy. Uživatel majorchord to shrnuje přirovnáním ke svalům: když všechno myšlení přenecháš AI, schopnost navrhovat a ladit ochabne.
+
+Nejdivočejší odbočka začala u otázky uživatele curt15, jestli má vůbec smysl zdrojový kód, když ho nikdo nečte a neinternalizuje – agent by pak mohl z promptu rovnou vydat binárku, která projde testy. Část lidí souhlasí, že s dostatečně silným dohledem chování by to šlo, jiní namítají, že zdroják zůstává přenositelný, deterministický a dobře analyzovatelný nástroji. Do toho uživatel ang_cire rýpe, že nedůvěru ke kódu, kterému nerozumím, hlásají ti samí lidé, co si nainstalují dvě stě náhodných npm závislostí, a uživatel graemep dodává věcnější výhradu, že modely umí úžasné věci, ale zároveň suverénně tvrdí nesmysly, špatně implementují zadání nebo vidí chyby tam, kde nejsou.
+
+Třetí linka řeší, koho má agentní vývoj nahradit. Uživatel jqpabc123 tvrdí, že míří přímo proti dobrým vývojářům a podkopává proces, kterým se dobří vývojáři vůbec stávají, uživatel kube-system dodává, že dobří vývojáři mají vysokou míru záměru v návrhu a agent se snadno stane berličkou pro jeho nedostatek. Proti tomu stojí uživatel agd s opačnou zkušeností, že nejlepší vývojáři agenty agresivně přijímají a produkují víc a lépe, což uživatel deadbabe relativizuje: problém nejsou ti nejlepší, ale ti slabší, kteří bez přemýšlení a kontroly míchají nekvalitní kód do společného základu, až se všechno rozpadne.
+
+Z článku i debaty tak plyne stejné poselství: opatrnost seniorů není zaostalost, ale paměť nočních výpadků v produkci, a jejich úsudek bude potřeba právě k tomu, aby se agentní vývoj naučil zastavovat a zatáčet.

@@ -1,0 +1,16 @@
+# 1xizbq1
+**Sam Altman: lokální inference je hrozná alokace vzácných zdrojů**
+
+r/LocalLLaMA · u/ResearchCrafty1804 · 30. října 2026, 00:11 · 5634 bodů / 2544 komentářů · [diskuse](https://www.reddit.com/r/LocalLLaMA/comments/1xizbq1/)
+
+Sam Altman na veřejné akci označil lokální běh modelů za hroznou alokaci vzácných zdrojů. Lidé si podle něj myslí, že díky open source modelům už datová centra nebudou potřeba, jenže z globálního pohledu je prý nesmysl, aby světová zásoba DRAM ležela v domácích počítačích a byla využitá jen z pěti procent. Autor příspěvku to shrnul po svém: prodejce vysvětluje, proč je špatný nápad produkt vlastnit a lepší si ho od něj pronajímat.
+
+Nejvíc hlasů dostalo strohé „cítím strach" od u/VibeCodyH a hned pod ním věcnější rýpnutí u/objectivelywrongbro, že zdroje nejsou vzácné, jen se pomalu staví. Ten přiznává, že cloudové sdílení je efektivnější, ale dodává, že po tom Altmanovi nic není, když si lidé za vlastní peníze vytápí vlastní inferenci — na rozdíl od něj, který si ji koupil na dluh a sázky. Na to navazuje u/Uncle-Osteus otázkou, proč jsou ty zdroje vlastně vzácné, a u/Defiant-Snow8782 glosou, že chlap, který sám globální nabídku DRAM přiškrtil, si teď stěžuje na její nedostatek.
+
+Jádro výsměchu míří na pokrytectví kolem pamětí. u/sargetun123 připomíná historku, že Altmanova firma měla pro jeden projekt zabrat kolem čtyřiceti procent světové nabídky, a skutečný nedostatek prý nedělají hráči se 64 GB, ale továrny přesměrovávající kapacity na HBM pro akcelerátory. Využití prý řeže na obě strany: grafika, která u něj doma 95 procent času zahálí, stojí jeho peníze, a odměnou je, že nemá limity, nemění se mu podmínky, nezdražuje a data neopouštějí dům. Stejným směrem míří i u/clduab11 s vykřičníkem, jestli Altman myslí tu DRAM, které sám skoupil skoro polovinu světa, a u/gavr123456789 s otázkou, kdo tu vzácnost vlastně vyrobil.
+
+Zbytek vlákna se přelévá do přirovnání o vlastnictví. u/ReverseTimeEngineer píše, že pronajímatel tvrdí, že soukromé vlastnictví půdy škodí všem kromě něj, u/QuotableMorceau vzpomíná na pány, kteří nutili poddané mlít ve svém mlýně a péct u svého pekaře, a u/Late-Assignment8482 vidí muže pronajímajícího lopaty, který by nejraději zakázal vlastní rýče. u/Prefer_Diet_Soda to převádí na auta: nekupujte si auto, protože většinu času jen stojí na parkovišti, jezděte hromadnou dopravou. u/schwigglezenzer dodává, že je to jako v sedmdesátkách tvrdit, že osobní počítače jsou vtip a počítat se má jen v pronajatých sálech, budoucnost je prý naopak lokální.
+
+Ozývají se i klidnější hlasy, které Altmanovi dávají technicky za pravdu, ale prakticky ho odmítají. u/Canchito píše, že monopol žádné korporace nechce, i když úspory z rozsahu v cloudu asi platí, a u/Mister__Mediocre i u/BEYOND__7 souhlasí, že sdílený cloud je levnější na provoz, jenže lokální běh kupuje soukromí, kontrolu a nezávislost. Právě tahle směna je pro lidi v komunitě cennější než maximální vytížení cizích serverů. Tečku dělá u/rmhubbert, který Altmanovu logiku obrací: hroznou alokací vzácných zdrojů je i to, když jednotlivec hromadí miliardy, zatímco miliardy jiných nemají na jídlo a bydlení.
+
+Stejný výrok mezitím žije dál i ve dvou sesterských vláknech, kde si komunita utahuje z limitů všeho druhu a děkuje Samovi za moudro.

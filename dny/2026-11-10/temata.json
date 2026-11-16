@@ -1,0 +1,318 @@
+{
+ "date": "2026-11-10",
+ "clanky": 37,
+ "temata": [
+  {
+   "title": "Claude oživil starý Kindle. Čtečka zase slouží",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xsk5k9"
+   }
+  },
+  {
+   "title": "Gemini 4 Carbon míří k Pro. Google slibuje nižší cenu i druhé místo v benchmarku",
+   "sources": [
+    "rd",
+    "hn"
+   ],
+   "ids": {
+    "rd": "1xsrirp",
+    "hn": "50442303"
+   }
+  },
+  {
+   "title": "Webkamera jako rentgen. Claude postavil zrcadlo s lebkou i svaly",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xstews"
+   }
+  },
+  {
+   "title": "AlphaProof Code formálně ověřil šifrování Signal. Trvalo to týdny místo let",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50439193"
+   }
+  },
+  {
+   "title": "MiniMax vydal H3-Image. Open-weight model na obrázky překvapil",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xsoblk"
+   }
+  },
+  {
+   "title": "Když se kód píše s AI, vzniká křehká základna. Vývojář popsal, co viděl v Meta",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50438318"
+   }
+  },
+  {
+   "title": "MOSS-Image: jeden model na fotorealimus, anime i retro fotky",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xsa2e2"
+   }
+  },
+  {
+   "title": "Amazon vyměnil Sonnet 4.6 za rozhodovací model. Ušetří 98 procent nákladů",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50436640"
+   }
+  },
+  {
+   "title": "Čtyřicet mini PC rozjelo GLM 5.3 Flash. Cluster dává 14 tokenů za sekundu",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xsk8n9"
+   }
+  },
+  {
+   "title": "Anthropic našel tisíce zranitelností. VulnCheck: opraveno je jen 217 z nich",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50447074"
+   }
+  },
+  {
+   "title": "Claude Code dostal živou mapu. Mod ukazuje cestu agenta",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xst2qe"
+   }
+  },
+  {
+   "title": "Únik u Fireworks AI zasáhl Notion. Exponované byly i chaty s firemními daty",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50437106"
+   }
+  },
+  {
+   "title": "Patnáct megabajtů a vlastní Netflix. Media server vznikl s Claudem",
+   "sources": [
+    "rd",
+    "hn"
+   ],
+   "ids": {
+    "rd": "1xsg8bv",
+    "hn": "50439000"
+   }
+  },
+  {
+   "title": "Chrome učí kódovací agenty modernímu webu. Vzniklo 200 praktických průvodců",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50443812"
+   }
+  },
+  {
+   "title": "Fable 5.2 má pojistky i v tréninku. Debata o tom, co model neumí",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xsjfwo"
+   }
+  },
+  {
+   "title": "Claude dostal tabule, tabulky a data. Práce už nemá odcházet z chatu",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50443716"
+   }
+  },
+  {
+   "title": "Dario Amodei: rakovina i Alzheimer budou do deseti let minulostí",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xst0g2"
+   }
+  },
+  {
+   "title": "Co vlastně řeší uvažování modelů? Alex Wang ho přirovnává k hledání cesty",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50445013"
+   }
+  },
+  {
+   "title": "PAN 2: open-weight video model se 29 miliardami parametrů",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xt0yur"
+   }
+  },
+  {
+   "title": "Apple chystá Mac aplikaci pro snadné spouštění lokálních modelů",
+   "sources": [
+    "rd",
+    "hn"
+   ],
+   "ids": {
+    "rd": "1xszbe7",
+    "hn": "50446520"
+   }
+  },
+  {
+   "title": "Anthropic míří na burzu. Chce ocenění kolem 1,33 bilionu dolarů",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50439616"
+   }
+  },
+  {
+   "title": "Smutné manželky AI. Wired popsaly, co boom dělá s rodinami",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50438429"
+   }
+  },
+  {
+   "title": "Nobelovský výbor ověřil důkaz Yang–Millsovy teorie od OpenAI",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xs6z4e"
+   }
+  },
+  {
+   "title": "OpenAI o dopadu AI na freelance: méně nové práce, více opravování",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50443838"
+   }
+  },
+  {
+   "title": "Fable 5.2 jako elektroinženýr. Uživatel ukázal návrh obvodu",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xt1dfp"
+   }
+  },
+  {
+   "title": "Lidé s AI mají až o 90 minut delší pracovní den, ukázala data z 9 140 lidí",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50439686"
+   }
+  },
+  {
+   "title": "Co Anthropic našeptává Fable 5.2. Úryvek ze systémového promptu",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xsgmyv"
+   }
+  },
+  {
+   "title": "Život na Claude Nine. Povídka o muži, kterého pohltila automatizace",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50443587"
+   }
+  },
+  {
+   "title": "Big Walk čelí review bombingu kvůli deseti řádkům AI kódu",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xsul1u"
+   }
+  },
+  {
+   "title": "Komprese LLM na třetinu. Neuracryption slibuje běh pod 50 MB RAM",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50440359"
+   }
+  },
+  {
+   "title": "Fable 5.2 umí pixel art animaci. Srovnání se starší verzí",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xsnerm"
+   }
+  },
+  {
+   "title": "„Vzbuď mě, až AI bude umět…“ Autor prošel 800 hnusných předpovědí z HN",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50440657"
+   }
+  },
+  {
+   "title": "AMD Zen 6: větší fronty, lepší predikce a levnější špatné skoky",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50443090"
+   }
+  },
+  {
+   "title": "Krize hledání. AI odpovědi vytlačují odkazy i byznys Googlu",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50441074"
+   }
+  }
+ ]
+}

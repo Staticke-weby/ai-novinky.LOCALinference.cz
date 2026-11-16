@@ -1,0 +1,16 @@
+# 50289418
+**Mistral Large 4 je open weight: bilion parametrů pro kód i obranu**
+
+Hacker News · kuberwastaken · 29. října 2026, 15:13 · 1312 bodů / 360 komentářů · [diskuse](https://news.ycombinator.com/item?id=50289418)
+
+Mistral zveřejnil váhy svého vlajkového modelu Mistral Large 4 přezdívaného Le Chonk s bilionem parametrů. Nativně multimodální model nabízí tři režimy uvažování pro různé poměry ceny a výkonu a firma ho staví jako evropskou alternativu pro soběstačnou AI s možností vlastního provozu na vlastní infrastruktuře. Podle Mistralu jde o nejlepší open-weight model pro programování a obrannou kyberbezpečnost.
+
+Odkazované oznámení dokládá ambice čísly z posíleného učení po veřejném preview: na FrontierCode 2.0 model vede s 19,7 %, na Artificial Analysis Coding Agent Index dosahuje 48 % při v průměru o 47 % nižší spotřebě tokenů než GLM-5.3 a na Terminal-Bench 4.0 si polepšil o 13 bodů na 41 %. V kyberbezpečnosti hlásí 51 % na Cyber Indexu při 96,6% odmítání škodlivých požadavků a v lidském hodnocení Surge Code porazil GLM-5.3, Kimi K3 i DeepSeek V4.1 Flash, když zůstal jen za Claude Opus 5.5.
+
+Nejživší spor se rozhořel kolem slova open v titulku. rcr-anti namítá, že nejde o otevřenost ve smyslu OSI, protože jde o upravenou licenci MIT, která vyžaduje licenci při obchodním poskytování modelu jako služby. dcss_gardener se ptá, kdo tuhle definici určil a jak jinak by se zveřejněné váhy měly nazývat, Taek dodává, že pro většinu lidí znamená open weight prostě to, že váhy jsou ke stažení, a případná omezení je nepřekvapí. dannyw licenci přirovnává metaforicky k AGPL, protože vlastní hostování a interní užití dovoluje a dopadá až na přeprodej inference, zatímco sigmar a contravariant pochybují o vymahatelnosti takových podmínek u vah, které podle nich nejsou autorským dílem člověka.
+
+Druhá velká linka řeší, zda se nový model vyplatí provozovat. Topfi upozorňuje, že Mistral proti preview zlevnil téměř na polovinu na 0,7 dolaru za milion vstupních a 2,1 dolaru za milion výstupních tokenů, což si podle něj zaslouží nové otestování. yako21000 i oh_no ale pochybují, že v přímém srovnání se špičkou obstojí, miroljub vyčítá, že srovnání tají sazby za cache při 97% hit rate, na kterou rozmlsal DeepSeek, a almindor po vlastní zkušenosti říká, že je model při uvažování pořád drahý a pomalý proti Opus 5.5. traceroute66 dodává, že zájemci o čistě evropskou inference si připlatí 10 % za regionální provoz.
+
+Mezi tím se řeší praktické drobnosti. strictnein na konci dlouhého oznámení vyhrabal přímé odkazy na Hugging Face včetně NVFP4 varianty a dang mu za to upravil formátování, jacquesm zase čeká, až Unsloth, DavidAU nebo mradermacher vydají kvantizaci, která se vejde na jeho hardware. tokai si stěžuje, že Mistralu nejde jednoduše zaplatit, na což maeln, markild i InsideOutSanta odpovídají, že stačí účet na console.mistral.ai a kliknutí na Upgrade to Pro, zatímco smodo a cl-coder přiznávají, že portál je matoucí a u předplatného za 18 eur je potřeba správný typ klíče, aby člověk neplatil dvakrát.
+
+Z diskuse tak vychází Le Chonk jako silný příslib pro ty, kdo chtějí špičkové kódování a obranu pod vlastní kontrolou, ale s otazníky nad licencí, cenou a reálným výkonem mimo firemní benchmarky.

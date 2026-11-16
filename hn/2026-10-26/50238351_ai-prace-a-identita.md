@@ -1,0 +1,16 @@
+# 50238351
+**Ekonom: když AI vezme práci, lidé přijdou i o víc než mzdu**
+
+Hacker News · andsoitis · 26. října 2026, 03:22 · 38 bodů / 93 komentářů · [diskuse](https://news.ycombinator.com/item?id=50238351)
+
+Uživatel andsoitis na Hacker News nasdílel text Economistu o tom, co se stane, když AI vytlačí lidské pracovníky. Vlastní text k odkazu nepřidal, samotný článek zůstal pro většinu čtenářů nedostupný, a tak se debata odvíjela hlavně od titulku a vlastní zkušenosti.
+
+Výchozí teze zní, že ztráta práce kvůli AI znamená víc než jen výpadek příjmu. Práce totiž dává lidem identitu, strukturu dne, společenské vazby a také politickou moc, o kterou by s jejím zánikem mohli přijít.
+
+Nejvěcnější linku otevřel uživatel verdverm, podle kterého stačí podívat se, co udělal počítač se zhruba 60 % lidí bez vysokoškolského vzdělání, kteří pak těžko hledají smysluplnou práci uživící rodinu. Odkázal přitom na Darena Acemoglua, jeho koncept pro-worker AI a nobelovskou přednášku z roku 2024 i na jeho nový pracovní text. Uživatel nevdka mu oponoval, že vinit z toho počítače je zkratka, protože mnohem větší roli podle něj sehrály sociální, ekonomické a politické změny.
+
+Na to navázala úvaha o politické síle. Uživatel 0c3ca83 nadhodil myšlenkový experiment, co se stane, když stávkují popeláři, a co by se stalo, kdyby byl svoz odpadu plně automatizovaný. Jeho otázka zněla, co se stane se skupinou lidí ve chvíli, kdy se z hybatelů ekonomiky stanou nákladové centrum. Reakce se rozjely do šířky: uživatel jongjong namítl, že protestovat, blokovat silnice či bojkotovat půjde pořád a s nepodmíněným příjmem na to bude i víc času, uživatel psadri zase připomněl sílu peněženek a bojkot firem, které se chovají špatně. Temnější strunu zahrál uživatel mx7zysuj4xew s obrazem lidí mávajících vlajkami, volících sliby o návratu velikosti a přitom žijících v chudobě, i uživatel _DeadFred_ s paralelou k římské republice, kde se z občanských farmářů stali bezzemci na velkých latifundiích obdělávaných otroky a stát to hasil rozdáváním chleba. Do toho uživatel rickydroll suše poznamenal, že jeho řemeslný obchod s gilotinami se tak stane finančně životaschopným, možná i jednorožcem.
+
+Třetí proud diskuse řešil, jestli je tahle změna vůbec jiná než ty předchozí. Uživatel cadamsdotcom napsal, že změna bolí ty, kdo se s ní nepohnou, a nic se nezměnilo, na což uživatel axitanull odpověděl, že tohle klišé ignoruje všechny nuance, a uživatel lelanthran dodal, že tahle změna hrozí ublížit i těm, kdo se pohnou. Promyšlenější tón vnesl uživatel noufalibrahim: i kdyby bylo levnější a rychlejší kupovat hotové jídlo, společné vaření mění toho, kdo vaří, podobně jako když babička peče vnoučatům dort. Sám na agentech postavil řadu dříve odložených projektů, některé denně používá, ale přiznává, že nejvíc se naučil právě při trápení s problémy, a právě tahle zkušenost mu dnes umožňuje agenty řídit. Uživatel pj_mukh pak připomněl, že před zhruba 120 lety chodili po městech lamplighteři a poslední stávka v New Yorku byla kolem roku 1907, takže otázka zní, zda máme kvůli popelářům zastavovat pokrok, když je náhrada za rohem.
+
+Z debaty tak zůstává hlavně otázka, čím práci nahradit, když nenese jen peníze, ale i smysl a hlas ve společnosti.

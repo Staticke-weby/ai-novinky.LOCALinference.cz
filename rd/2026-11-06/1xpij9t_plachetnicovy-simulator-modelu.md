@@ -1,0 +1,12 @@
+# 1xpij9t
+**Claude Code napsal plachetnicový simulátor a nechal v něm závodit špičkové modely**
+
+r/ClaudeAI · u/abhi3188 · 6. listopadu 2026, 18:22 · 1456 bodů / 137 komentářů · [diskuse](https://www.reddit.com/r/ClaudeAI/comments/1xpij9t/)
+
+Vývojář si nechal od Claude Code napsat kompletní plachetnicový simulátor – fyziku lodi, vítr i 3D vodu s pobřežím a rozhraní, přes které ho mohou řídit jazykové modely. Do závodu pak poslal Opus, GPT-6 Astra a Gemini 4 Argon, pro zábavu přidal i malý Qwen3.5-9B. Každých pět sekund dostane model 23 čísel popisujících stav světa a nastaví kormidlo a plachty, přitom nedostává žádné plachtařské rady a simulace během přemýšlení stojí. Vyhrál Argon, který byl s 0,78 dolaru za jeden běh zhruba pětkrát levnější než Astra s 3,58 dolaru.
+
+Největší ohlas ale nesklidil vítěz, nýbrž outsider. Qwen se podle videa na trať spíš ani nevydal, a komentáře se toho chytly s nadšením. u/Real_Doubt_6684 ho vyhlásil „jiným druhem vítěze“ a u/ShadowBannedAugustus ho poslal na pláž pro margaritu. u/ScreenAppropriate679 to shrnul hláškou, že Opus se v posteli ztrapnil, zatímco Qwen postel ani nenašel, a u/Ok_Lettuce_7939 dodal, že Qwen zvolil metodu WOPR – jedinou vítěznou tahou je nehrát.
+
+Vážnější linka se snaží vysvětlit, proč Argon tak suverénně vyhrál. u/Drenlin tipuje, že Google ho cíleně trénoval na prostorovou orientaci kvůli Mapám a Earth, zatímco GPT ani Claude pro takovou schopnost nemají velký případ užití. Přidává se u/Wide-Bobcat-3723, podle kterého je Argon nejlepší 3D model na planetě a v Blenderu na jeden pokus zvládne plynulý pohyb postavy, kde Opus i Astra potřebují několik pokusů. Do podobného obrázku zapadá i zkušenost u/shuozhe: Argon mu sice po půlhodině čtení kódu rozbil jednoduché věci v rozhraní, ale zároveň vyřešil zapeklitý problém se skládáním papíru, na kterém autor strávil týdny.
+
+Zbytek vlákna si dobírá poražené a sní o pokračování. u/General-Designer4338 se diví, že Claude nedokázal „rozlousknout“ hru vytvořenou v Claude Code, a u/BuffaloConscious7919 glosuje, že vítězství v regatě za pětinu ceny je ta nejvíc America's Cup věc, jaká se jazykovému modelu mohla stát. Padají i praktické dotazy: u/Botrops_ se ptá na otevřený kód a fyziku pro vlastní výukovou plachtařskou aplikaci, další prosí o přidání Groka, DeepSeeku nebo regulérního závodního startu. u/iswandualla to shrnuje za všechny, když ze simulátoru nadšeně dělá nový benchmark pro všechny AI – zábavný tak, že by se na něj dalo i sázet jako na králičí dostihy.

@@ -1,0 +1,16 @@
+# 50168190
+**Steam Next Fest zaplavily AI hry, uživatelé chtějí filtr bez AI**
+
+Hacker News · 4gateftw · 20. října 2026, 17:48 · 173 bodů / 201 komentářů · [diskuse](https://news.ycombinator.com/item?id=50168190)
+
+Na Steamu odstartoval Next Fest, přehlídka nezávislých her a dem, a mezi novinkami je nápadně mnoho titulů s generovaným obsahem. Hráč ScalesGhost proto na redditu poprosil Valve o možnost odfiltrovat si všechny hry, které využití AI samy přiznávají, a k tomu i vybrané tagy. Jeho přání odkazovaný článek IGN vydává za hlas širšího znechucení z nutnosti přehrabovat se slopem, aby člověk našel lidskou tvorbu.
+
+Autorka Jacqueline Thomas vlnu spojuje s posledními týdny po vydání Claude Opus 5.5, kdy explodovaly vibe-coded mashup mody a AI dekompilace a porty. Zároveň připomíná, že Steam má robustní systém tagů, ale slovo AI mezi nimi chybí, a že Valve tradičně téměř nekurátoruje a nechává šmejdy zapadnout samy, až si algoritmus prosadí populární dema. Text to zasazuje do širšího trendu, kdy Epic odkládá chystanou střílečku kvůli směru AI-first a Capcom zapojuje AI do vývoje RE Enginu.
+
+Nejživější přestřelka se vede o to, zda chtít zákaz, nebo jen přepínač. Uživatel rivetfasten varuje, že zákaz s přídomkem je pořád líné řešení složitého problému, jenže ncallaway namítá, že uživatelsky volitelný filtr je něco úplně jiného než zákaz. Do toho forgetfreeman tvrdí, že zbavit se příčiny potíží je rozumné a Steam nemusí AI hrám vycházet vstříc, zatímco Tadpole9181 se bojí, aby Valve zároveň hry hostovalo, bralo z nich podíl a ještě rozhodovalo o vítězích trhu, a volá spíš po návratu lidských kurátorů s vkusem.
+
+Druhá linka řeší, jestli vůbec jde AI obsah poznat a označit. Uživatel underyx upozorňuje, že spousta grafiky vzniká kódem od částic po animace, a když by jakýkoliv kód psaný AI znamenal nálepku, měla by ji brzy skoro každá hra. Apocryphon odpovídá, že příklady v článku mají jasně poznatelnou generovanou grafiku a pro začátek by stačilo značit vizuální a zvukové assety s minimem lidské práce, a no_multitudes s weezingem dodávají, že kdo nechce nálepku, ať AI nepoužívá, a když o nějaké skryté klenoty přijdou, je to jejich volba. K tomu freeone3000 a mey připomínají, že Steam už teď vyžaduje přiznání využití AI v popisu, takže přepínač ano-ne by byl podobně jednoduchý jako filtr sexuálního obsahu.
+
+Třetí spor je o hranici mezi nástrojem a odpadem. Uživatel j45 připomíná dávný sen herních novinářů po nástrojích, které umožní tvořit i neprogramátorům, ale tikhonj oponuje, že dnešní tvorba s modely připomíná spíš překlápění koupených assetů než vyšší abstrakci. Mysterydip rozlišuje dva typy tvůrců, snílka, který si díky AI konečně plní sen, a chrliče, jemuž stačí sto prodejů za hodinu práce, a andai se ptá, zda je amatérská hrůza slop a zda je s AI o něco lepší hra horší. Dijit navrhuje škálu od administrativy a překladů přes upscaling až po finální assety a kód a debugnik dodává, že v kódu je ještě druhý gradient od asistenta na krátkém vodítku po vibe coding, zatímco deadbabe, sosodev a dogleash se přou, zda je nálepka bez AI příliš zjednodušující, nebo naopak užitečné první síto vedle všech ostatních nedokonalých signálů.
+
+Čtenář si z toho odnese prostý závěr, který trefil XenophileJKO: část lidí chce jen přepínač, zbytek ať rozhodne, jestli je to zábava.

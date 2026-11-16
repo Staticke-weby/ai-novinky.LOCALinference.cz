@@ -1,0 +1,14 @@
+# 1xnplmi
+**Claude napsal váhy neuronové sítě ručně. Falešné citace odhaluje s 97,8 procenta**
+
+r/singularity · u/141_1337 · 4. listopadu 2026, 15:28 · 1047 bodů / 172 komentářů · [diskuse](https://www.reddit.com/r/singularity/comments/1xnplmi/)
+
+Model Claude sestavil ručně, bez trénování, váhy malé neuronové sítě určené k odhalování smyšlených právních citací. V testu dosáhla síť úspěšnosti 97,8 procenta a překonala konvenčně trénovaný model stejné úlohy, který skončil na 94,6 procenta.
+
+Největší ohlas v diskusi sklidila otázka u/BarisSayit, co si pod ručním přepisováním vah vlastně představit. Popsal to jako představu, že se model dívá do cizích vah a říká si, že tuhle hodnotu 1,253 je potřeba přepsat na 1,259, aby to pomohlo. Na to navázal u/Material-Database-24 vzpomínkou na rok 2008, kdy podobnou síť na rozpoznávání číslic z mřížky 3x6 trénoval ručně tužkou na papíře, a poznamenal, že velký model to zvládne taky, pokud se upravovaná síť vejde do jeho kontextu. Do mezery mezi údivem a nechápavostí pak u/Calcularius vtipně utrousil, že modely mají ruce.
+
+Hned vedle se řešilo, zda jde o stejný jev jako nedávné úpravy vah u GPT-6 Astra. Podle u/LyAkolon psala Astra přímo jednoduché sítě pro velmi jednoduché hry a opravovala problémy ve vahách modelu Qwen, což bylo působivé, ale nová ukázka s Claudem je prý řádově působivější svou užitečností. Praktickou zkušenost přidal u/Fun-Wash7545, kterému Astra přizpůsobila asi milionparametrový model na znalosti, které v tréninku neviděl, takže místo tréninku od nuly stačilo krátké doladění a ušetřilo hodiny výpočtů. Nadšení shrnuli u/Auxiliatorcelsus a u/Wide_Establishment_8 představou zakázkových lehkých specializovaných sítí na jakýkoli úkol, i když u/Top_Instance8096 upozornil, že po dalším tréninku se výkon obou přístupů sblíží, a u/FlyingNarwhal se ptal, zda by po ořezání nulových vah mohlo jít fakticky o čtyřtisíciparametrový model, který poráží stotisícový.
+
+Třetí linka diskuse míří od nadšení k obavám a právnické praxi. Příspěvek u/bpm6666 o začátku dystopického románu, ve kterém umělá inteligence vyrábí umělou inteligenci na míru a vylepšuje sama sebe, doplňují poznámky u/exteriorcrocodileal o kanárkovi v dole pro rekurzivní sebezdokonalování a u/Remarkable_Club_1614 o tom, zda tohle už je nadlidský návrh modelů. U/NearlyACosmologist kontruje lakonickou otázkou, zda Claude umí napsat model, který překoná jeho samotného. Skepsi k číslům vyjádřil u/Fantastic-Net-8774 s tím, že dvě vymyšlené citace ze sta znamenají spoustu zbytečné práce a nasazení se nevyplatí, a u/XxDarkSasuke69xX se ptal, zda test vůbec zahrnoval víc než tisíc citací, protože mu to připadá málo.
+
+Z vlákna tak zůstává dvojí dojem: technicky fascinující zkratka k malým odborníkům bez tréninku, ale u práva pořád s chybovostí, kterou by advokát poznal velmi draze.

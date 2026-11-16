@@ -1,0 +1,404 @@
+{
+ "date": "2026-10-22",
+ "clanky": 45,
+ "temata": [
+  {
+   "title": "Černý říjen: desítky kybernetických incidentů a AI v centru dění",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xchuni"
+   }
+  },
+  {
+   "title": "NVIDIA OpenShell: bezpečné sandboxové prostředí pro flotily AI agentů",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50198675"
+   }
+  },
+  {
+   "title": "Meme dne: náhled AGI, který nikoho nenadchl",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xcsmzs"
+   }
+  },
+  {
+   "title": "Minotaur: uvažování bez jazykového modelu a bez GPU",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50192868"
+   }
+  },
+  {
+   "title": "Matrix meme o vzduchu: AI video, které baví víc než realita",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xciw6c"
+   }
+  },
+  {
+   "title": "Všechny AI modely mají stejný názor na lidi: loajalita před pravdou",
+   "sources": [
+    "rd",
+    "hn"
+   ],
+   "ids": {
+    "rd": "1xckfuy",
+    "hn": "50197313"
+   }
+  },
+  {
+   "title": "AI nachází zranitelnosti: půlka příběhu, která v diskuzi chybí",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xc4tdr"
+   }
+  },
+  {
+   "title": "AI a uzavírání vědeckého commons",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50199230"
+   }
+  },
+  {
+   "title": "AI odhalila kritické PHP chyby a spustila závod ve zbrojení",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xc74ng"
+   }
+  },
+  {
+   "title": "AI analýza CT odhalila známky zánětu věnčitých tepen u 42,9 % pacientů",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50198940"
+   }
+  },
+  {
+   "title": "Claude chybí tarif za 50 dolarů mezi Pro a Max",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xcle8t"
+   }
+  },
+  {
+   "title": "Show HN: knihovna promptů pro drobné UI interakce generované AI",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50199290"
+   }
+  },
+  {
+   "title": "Pixelové RPG Lumoria: Claude Code jako hlavní vývojář",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xc357k"
+   }
+  },
+  {
+   "title": "Většina Američanů považuje AI za špatnou pro společnost a nechce další datacentra",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50200843"
+   }
+  },
+  {
+   "title": "City of Animals: cyberpunkové dobrodružství za 785 commitů",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xcgebb"
+   }
+  },
+  {
+   "title": "Ask HN: Když jsou modely tak dobré, proč OpenAI nezaloží sto firem?",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50200997"
+   }
+  },
+  {
+   "title": "Pizzerie s vlastní aplikací místo DoorDash: Claude Code ušetřil 30 %",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xcm78x"
+   }
+  },
+  {
+   "title": "Literární ceny pro díla vytvořená s pomocí AI",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50199232"
+   }
+  },
+  {
+   "title": "Fyzická kontrolka pro Claude Code: červená pracuje, zelená čeká",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xcdwdx"
+   }
+  },
+  {
+   "title": "Google vykácel 300 hektarů finského lesa kvůli datacentru",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50196837"
+   }
+  },
+  {
+   "title": "Co všechno lidé dělají s Claudem: 555 komentářů nápadů",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xc31hj"
+   }
+  },
+  {
+   "title": "The Last Museum: sémantické hledání v 5,8 milionu uměleckých děl",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50194522"
+   }
+  },
+  {
+   "title": "Claude jako senior: meme o tom, kdy kterou AI použít",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xce2vu"
+   }
+  },
+  {
+   "title": "Quad9 končí ve Francii kvůli soudnímu nařízení blokovat domény",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50195959"
+   }
+  },
+  {
+   "title": "Linux je open source: satira, kterou lidé nepochopili",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xc281d"
+   }
+  },
+  {
+   "title": "eMudhra končí s globálními SSL/TLS certifikáty po kompromitaci CA",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50195110"
+   }
+  },
+  {
+   "title": "Mobilní závodní hra za 3 dny s GPT-6 Astra",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xcmyru"
+   }
+  },
+  {
+   "title": "Autor omylem prolomil embargo k PHP RCE a omluvil se",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50193416"
+   }
+  },
+  {
+   "title": "Vrátili 60 let stárnutí: z krve osmdesátníka mladé kmenové buňky",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xc4u3s"
+   }
+  },
+  {
+   "title": "pwn.watch: přehled toho, co se právě zneužívá a kde je oprava",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50195543"
+   }
+  },
+  {
+   "title": "Kitten-TTS 2: první 1,58bitový TTS běží na CPU",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xc48or"
+   }
+  },
+  {
+   "title": "Zranitelnosti Linux kernelu omylem unikly na veřejný mailing list",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50193804"
+   }
+  },
+  {
+   "title": "Qwen4 a Kimi K3.1: čínské modely útočí na Arenu",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xcj1wm"
+   }
+  },
+  {
+   "title": "Switch 2 dostal první softwarový jailbreak",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50192536"
+   }
+  },
+  {
+   "title": "Nerfují Anthropic Opus 5.5? 29 dní dat říká ne",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xcraz9"
+   }
+  },
+  {
+   "title": "Arc končí. Prohlížeč zmizí 22. prosince 2026",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50197601"
+   }
+  },
+  {
+   "title": "Ukrajinské drony ničí ruská datacentra a brzdí AI ambice",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xcu7xv"
+   }
+  },
+  {
+   "title": "Xbox zavádí platbu 24–40 centů za hodinu streamování vlastních her",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50194009"
+   }
+  },
+  {
+   "title": "Hedra: open-world hra, kterou autor napsal od nuly bez AI",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50199389"
+   }
+  },
+  {
+   "title": "Optimus jde do výroby: cíl 20 000 robotů týdně",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xcjgeh"
+   }
+  },
+  {
+   "title": "Safety research = capabilities research: 4 000× zrychlení bez backprop",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xcv9zi"
+   }
+  },
+  {
+   "title": "AI startupy najímají „hot sales girls“ na uzavírání obchodů",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xceb2o"
+   }
+  },
+  {
+   "title": "Matematik Sun Zhiwei dal AI 1 000 problémů",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xc6w7x"
+   }
+  },
+  {
+   "title": "Lokální LLM myslí, když ještě píšete: 12 s → 3 s na 6GB GPU",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xclfjf"
+   }
+  }
+ ]
+}

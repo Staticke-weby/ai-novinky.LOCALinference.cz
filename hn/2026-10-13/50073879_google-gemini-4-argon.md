@@ -1,0 +1,16 @@
+# 50073879
+**Google uvádí model Gemini 4 Argon**
+
+Hacker News · 737max · 13. října 2026, 18:03 · 1137 bodů / 821 komentářů · [diskuse](https://news.ycombinator.com/item?id=50073879)
+
+Google DeepMind představil nový špičkový model Gemini 4 Argon, který má mířit na ty nejtěžší problémy. Oznámení se na Hacker News objevilo v úterý večer a okamžitě nasbíralo přes tisíc bodů a stovky komentářů, autor příspěvku zároveň odkázal na souběžnou robotickou variantu.
+
+Jako ukázku schopností Google popisuje práci pro tým Chrome: Argon pomohl oddělit jádro pro zpracování stránek od zhruba šestimilionové složky staršího kódu uvnitř čtyřicetimil­ionového repozitáře Chromia. Refaktor napříč stovkami souborů, který měl zabrat měsíce, se podařilo dokončit za týdny, a výsledkem má být plynulé přesouvání živých stránek mezi panely, postranními panely a plovoucími okny bez nového načítání a bez celé jedné kategorie pádů prohlížeče.
+
+Nejživější část diskuse ale není výkon, nýbrž dostupnost. username_my1 hlásí, že v jeho organizaci v EU model není k dispozici, w4yai přitakává suchým „není k dispozici, klasický Google" a nitinreddy88 se ptá, proč uvádět něco, co ani po týdnech nejde použít. Z dalších reakcí vyplývá dost zmatená situace: stránka slibuje přístup pro předplatitele Ultra a Pro, v AI Studiu to ale vypadá jen na Ultra a v aplikaci Gemini model řada lidí s předplatným nevidí. Gallows4574 píše, že se mu po aktualizaci objevil v Antigravity, po druhém promptu ale selhal a Google ho zase vypnul, ano-ther proto radí náhradní cestu přes OpenRouter.
+
+Druhá velká linka si utahuje z oznamovací stránky samotné. IanCal si stěžuje, že na mobilním Safari se nedá pořádně scrollovat, InvisibleUp píše, že se mu stránka v mobilním prohlížeči ani nenačte, protože jí dojde paměť, a stížnosti se hromadí i na Firefox na desktopu nebo na prázdné karty v sekci novinek. Diskuse se to rychle chytla jako vtipu: rs_rs_rs_rs_rs glosuje, že programování je vyřešené, scrollování ještě ne, layer8 dodává, že scrollování je nové centrování, a InsideOutSanta shrnuje, že oznamovací stránky laboratoří jsou ty nejhorší a musí jít o interní soutěž, kdo postaví tu nejpříšernější.
+
+Vedle toho se řeší, kam modely směřují. llmslave tvrdí, že zpomalení nepřijde, protože každou úlohu s ověřitelným zadáním půjde automatizovat, efficax mu oponuje, že přírůstky mezi vydáními jsou menší než kdy dřív a doufá v obrat k optimalizaci a rychlejším lokálním modelům. Do toho zapadá i vedlejší robotické vlákno, kde Google láká na 87 % v benchmarku ERQA pro fyzické porozumění v 3D prostředí a na ukázky od řízení kvadrupeda Spot přes stavbu simulačních dvojčat až po skládání dlaždic s nápisem Argon. Tam se debata stáčí k tomu, zda tak velký model vůbec může jezdit na baterii v robotu, nebo jestli zůstane plánování v datacentru a na stroji poběží jen malé modely pro rovnováhu a pohyb, o čemž píší XenophileJKO nebo jacquesm. Za všechny domácí kutily pak mluví comandillos, který za pár hodin napojil Argon na humanoida od Unitree a diví se, jak opatrně se stroj vyhýbá nábytku.
+
+Kdo čekal klidné představení dalšího modelu, našel místo toho klasickou hackerskou směs: nedostupnost v Evropě, nefunkční scrollování a hádku o to, jestli budoucnost patří obřím mozkům v cloudu, nebo malým a rychlým pomocníkům přímo v robotech.

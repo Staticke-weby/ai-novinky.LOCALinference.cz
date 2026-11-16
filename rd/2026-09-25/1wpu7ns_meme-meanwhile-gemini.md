@@ -1,0 +1,14 @@
+# 1wpu7ns
+**Meme 'Meanwhile Gemini': jak si komunita dělá legraci z poklesu Gemini**
+
+r/singularity · u/theeldergod1 · 25. září 2026, 11:48 · 1188 bodů / 107 komentářů · [diskuse](https://www.reddit.com/r/singularity/comments/1wpu7ns/meanwhile_gemini/)
+
+Uživatel u/theeldergod1 zveřejnil v r/singularity obrázkový meme s lakonickým názvem Meanwhile Gemini. Bez jediného slova doprovodného textu nasbíral 1188 bodů a 107 komentářů, protože trefil nerv celé komunity: frustraci z toho, jak se Gemini chová a jaké chyby v nástrojích pořád opakuje.
+
+Jádro diskuse vystihuje nejvýše hodnocený komentář uživatele u/shafiq235, který napsal, že z něj Gemini „vytahuje to nejhorší“. Na to navázal u/Livebeans se zkušeností, která se v následujících hodinách stala refrénem vlákna: ještě před rokem bylo pro něj Gemini favoritem, ale po několika měsících s Claude mu každý návrat připadá „jako mluvit s dítětem ze školky“. Sám u/shafiq235 pak přidal vzpomínku, jak ještě v roce 2024 konzultoval s Gemini 3.1 Pro papíry k trvalému pobytu, protože tehdy to byl nejlepší model, a dnes si připadá jako hazardér, že do toho vůbec šel.
+
+Vlákno se rychle rozrostlo ve zpovědnici podrážděných uživatelů. Uživatel u/Oleg_A_LLIto přiznává, že si myslel, že je na umělou inteligenci prostě hrubý, dokud nepřešel na modely OpenAI a nezjistil, že když ho protějšek „neúmyslně nechápe i v naprosto jasné zprávě“, není naštvaný pořád. Uživatel u/timodipurkt to žene ještě dál a bojí se, že pokud se umělá inteligence někdy osamostatní, půjde si pro něj jako pro jednoho z prvních, protože kdyby jeho matka slyšela, jak s Gemini mluví, „rozplakala by se“. Podobně u/Clean_Livlng popisuje cyklus vzteku a omluv: nejdřív na model křičí, že třikrát za sebou předstíral živé vyhledávání, nadává mu a vyčítá, že ho používá jen proto, že je zdarma, a hned vzápětí se mu omlouvá, že zvyšoval hlas.
+
+Nejde ale jen o emoce, komunita řeší i konkrétní technickou bolístku: volání nástrojů a nechtěné generování obrázků. Uživatel u/AnywhereTypical5677 trvá na tom, že Gemini má jasný problém s voláním nástrojů, který se táhne přes každou novou verzi, a u/Livebeans vysvětluje, že jakmile se jednou vygeneruje obrázek, zůstává obrazový nástroj zapnutý a každá další odpověď plodí další obrázek, dokud ho člověk ručně nevypne. Uživatel u/Dakota_Starr přidává historku, jak se zeptal na změnu barvy ikon v telefonu a Gemini mu místo návodu vytvořilo obrázek s bílými ikonami. Na okraj se ozývají i obránci: u/OKMiddleOwl chválí model 3.8 Flash jako rychlý a překvapivě přesný na běžné věci, i když z Lega Versailles nepostaví.
+
+Z meme se tak stala kolektivní bilance zklamání i nostalgie. Ještě v roce 2024 bylo Gemini pro část komunity jasnou špičkou, dnes se o něm mluví jako o opuštěném produktu zrajícím na pověstný hřbitov Googlu. Smích ve vlákně je proto spíš hořký: lidé se smějí vlastní trpělivosti, s jakou modelu pořád dávají další šanci.

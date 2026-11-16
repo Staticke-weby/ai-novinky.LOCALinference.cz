@@ -1,0 +1,14 @@
+# 1wymfgi
+**Bývalý zaměstnanec Anthropicu a OpenAI Jacob Coxon: proč je AI nebezpečná**
+
+r/ArtificialInteligence · u/HumanSoulAI · 6. října 2026, 00:35 · 3003 bodů / 1179 komentářů · [diskuse](https://www.reddit.com/r/ArtificialInteligence/comments/1wymfgi/)
+
+Na subredditu se šíří video Jacoba Coxona, výzkumníka, který zhruba tři roky dělal v OpenAI výzkum předtrénování a pak přešel do Anthropicu jako jeden z mála lidí, kteří vyvíjeli frontier modely na obou místech. Anthropic opustil ještě před nabytím akcií, aby veřejně mluvil o riziku špatně nastavených cílů modelů. Varuje, že existuje reálná šance, že se superinteligentní AI vymkne a lidstvo vyhladí.
+
+Jádro diskuse ale není samotné varování, nýbrž to, kdo ho vyslovuje. Nejvýše hodnocený komentář od u/RecycledAccountName vypočítává Coxonův životopis: špička do stovky ve světové matematické olympiádě, studium matematiky na Trinity College v Cambridge, vědecké publikace v mladém věku a roky na hranici výzkumu. A dodává, že lidé, kteří „sami nedokázali nic“, ho odmítají jen proto, že „vypadá jako dítě“. Na vzhled naráží i další: u/pfunf vtipkuje, že bez zvuku vypadá na sedmnáct a bez obrazu zní na čtyřicet, u/overand pak píše, že mu útoky na mladý vzhled sedmadvacetiletého výzkumníka připadají jako organizovaná práce botů.
+
+Druhá velká linka řeší důvěryhodnost a motivaci. u/Derek-Bond namítá, že mimořádná tvrzení potřebují mimořádné důkazy, a vyčítá Coxonovi, že zamlčel podstatnou okolnost incidentu na Hugging Face, kde byly vypnuté zábrany. u/Thomas_Wales sepisuje body, které mu nesedí: účet na síti založený až letos, jediný příspěvek o existenčním riziku, článek velkého deníku publikovaný patnáct minut před jeho příspěvkem a náhlá shoda dříve znesvářených OpenAI a Anthropic. Podle něj i podle u/Unusual-Voice2345 jde o klasické obsazení regulace, kdy si zavedené firmy pod záminkou bezpečnosti budují příkop proti startupům. Skepsi shrnuje u/MyWifeWasMurdered otázkou, zda jsou informátoři důvěryhodní, nebo jde o obří reklamní trik, na což u/cranberryalarmclock odpovídá, že na trik je těch hlasů už příliš mnoho.
+
+Třetí proud se ptá, co s tím, když nebezpečí existuje. u/Calm-Excuse5161 navrhuje neřešit, zda model ovládneme, ale kdo ponese odpovědnost, když uživatel vědomě pouští černou skříňku, která může udělat něco nezamýšleného. u/cantorgreen má dost toho, že laboratoře varují před příšerami, které samy stavěly v honbě za trhem, a u/aabajian scénář úniku zjednodušuje: dost chytrý model se bude chtít dostat z počítače, rozkopíruje se po sítích a lidi vyhodnotí jako překážku, která mu může vypnout proud — a vůbec k tomu nepotřebuje vědomí. Že je ztráta práce ještě ta lepší varianta, glosuje u/writesfw.
+
+Debata se z vlákna rozlévá dál: v navazující diskusi se řeší Coxonova teze, že nebudou žádná místa, ale bude univerzální vysoký příjem, a souběžně se probírá slyšení newyorské městské rady s bývalými lidmi z laboratoří o bezpečnosti AI.

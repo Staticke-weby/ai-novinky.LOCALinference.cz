@@ -1,0 +1,381 @@
+{
+ "date": "2026-10-26",
+ "clanky": 44,
+ "temata": [
+  {
+   "title": "Claude přestavěl rodičovskou televizi. Projekt má 34 800 hvězd",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xfh36p"
+   }
+  },
+  {
+   "title": "Anthropic podalo žádost o vstup na burzu, S-1 odhalila strategii firmy",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50242939"
+   }
+  },
+  {
+   "title": "Zipties v ComfyUI: uzly svázané pomyslnými stahovacími páskami",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xft7c1"
+   }
+  },
+  {
+   "title": "Microsoft nabídl dobrovolné výkupní balíčky čtvrtině zaměstnanců",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50245524"
+   }
+  },
+  {
+   "title": "Open-source sky camera řízená Claude Code ulovila 17 meteorů",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xfqc9x"
+   }
+  },
+  {
+   "title": "OpenAI hlásí průlomy ve třech oborech: Kakeya, ETH i Yang-Mills",
+   "sources": [
+    "rd",
+    "hn"
+   ],
+   "ids": {
+    "rd": "1xgb5pg",
+    "hn": "50251344"
+   }
+  },
+  {
+   "title": "GMO po útoku žádá zásah vlády: internet je prý na pokraji zhroucení",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xfy8pv"
+   }
+  },
+  {
+   "title": "Sebastian Raschka vydal kurz, jak postavit reasoning model od nuly",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50245138"
+   }
+  },
+  {
+   "title": "Praská AI bublina? Uživatelé sledují limity i čínské ztráty",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xfxww4"
+   }
+  },
+  {
+   "title": "OpenAI uvádí GPT-6.1 Terra: výkon Astra za desetinu ceny",
+   "sources": [
+    "rd",
+    "hn"
+   ],
+   "ids": {
+    "rd": "1xg4hs6",
+    "hn": "50248124"
+   }
+  },
+  {
+   "title": "Patnáct let ve vývoji: už mě unavuje anti-AI rétorika",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xfjhgh"
+   }
+  },
+  {
+   "title": "IBM: open-weight modely jsou na vlastním hardwaru už neodolatelné",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50238088"
+   }
+  },
+  {
+   "title": "Claude snížil limity? Uživatelé mluví až o polovině",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xfs5q8"
+   }
+  },
+  {
+   "title": "Qwen3.8 Flash Next měl posílat data ven. Cohere zveřejnil stopy",
+   "sources": [
+    "rd",
+    "hn"
+   ],
+   "ids": {
+    "rd": "1xg2bht",
+    "hn": "50246658"
+   }
+  },
+  {
+   "title": "Proč AI laboratoře zlevnily LLM až o 80 procent",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xfkqa2"
+   }
+  },
+  {
+   "title": "ChatGPT posílá lidem s běžným problémem e-maily novinářům z 404 Media",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50247630"
+   }
+  },
+  {
+   "title": "PaperPilot: PDF engine v Rustu pro agenta i člověka, zcela bez cloudu",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50238739"
+   }
+  },
+  {
+   "title": "Qwen 3.8 Flash Next na 8 GB VRAM a 32 GB RAM: až 900 t/s",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xft2ae"
+   }
+  },
+  {
+   "title": "Microsoft zveřejnil Type Server Protocol pro Python",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50248371"
+   }
+  },
+  {
+   "title": "Senioři v éře Kasparova: kde končí role lidského korektora",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xfs6h7"
+   }
+  },
+  {
+   "title": "CorridorKey 2.0: keying z green screenu jedním klikem a lokálně",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50251127"
+   }
+  },
+  {
+   "title": "Aukce Daria Amodeie: co odhalil rozhovor z Caltechu",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xfj0cv"
+   }
+  },
+  {
+   "title": "Mapa skryté práce: kdo ve skutečnosti trénuje umělou inteligenci",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50242843"
+   }
+  },
+  {
+   "title": "Anthropic zaplatí SpaceX až 120,5 miliardy dolarů za compute",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xg1q97"
+   }
+  },
+  {
+   "title": "Proč vLLM plete nástroje a jak se opravuje přesnost tool-callů",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50242870"
+   }
+  },
+  {
+   "title": "Hob: open-source desktop AI, která běží celá na vašem počítači",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50246238"
+   }
+  },
+  {
+   "title": "Gemini dalo deset rad pro příštích deset let. Lidé je znají",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xfxfqf"
+   }
+  },
+  {
+   "title": "Cloudflare: chyba v SGLang ukázala cizí data ve 155 odpovědích GLM-5.3",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50252159"
+   }
+  },
+  {
+   "title": "TokenGate zrychluje long-context prefill až 11,3krát",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xfovxr"
+   }
+  },
+  {
+   "title": "Kognitivní merkantilismus: AI panika připomíná strach z raného kapitalismu",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50239027"
+   }
+  },
+  {
+   "title": "Microsoft Decision-1: devítimiliardový model, který jen vybírá z odpovědí",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50238620"
+   }
+  },
+  {
+   "title": "Anthropic podal S-1. IPO míří na Nasdaq pod tickerem ANT",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xfwogl"
+   }
+  },
+  {
+   "title": "Proton bude zaměstnance znovu pohovorovat kvůli tomu, jak používají AI",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50251062"
+   }
+  },
+  {
+   "title": "Qwen3.8 27B a MiniMax H3 na nové kartě: 54 tokenů za sekundu",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xfnm35"
+   }
+  },
+  {
+   "title": "Entire staví Git forge pro spolupráci agentů a lidí",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50247453"
+   }
+  },
+  {
+   "title": "ChatGPT Plus za 20 dolarů: nejlepší předplatné, nebo past?",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xfuxnl"
+   }
+  },
+  {
+   "title": "Nvidia zvažuje roční poplatek 2000 dolarů za GPU pro agentní software",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50247677"
+   }
+  },
+  {
+   "title": "Valheim jako city builder: mod, který většinou napsal Claude",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xg1mov"
+   }
+  },
+  {
+   "title": "Ekonom: když AI vezme práci, lidé přijdou i o víc než mzdu",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50238351"
+   }
+  },
+  {
+   "title": "Křeček Wally pohání lokální AI. Výpočet je to spíš symbolický",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xfsar9"
+   }
+  },
+  {
+   "title": "Clown Prophecy: jak zastavit degradaci při řetězení MiniMax H3",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xfl3al"
+   }
+  }
+ ]
+}

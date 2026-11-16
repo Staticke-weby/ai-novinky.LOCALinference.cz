@@ -1,0 +1,294 @@
+{
+ "date": "2026-11-05",
+ "clanky": 32,
+ "temata": [
+  {
+   "title": "Z.ai ukázal tréninkový pipeline GLM-5.5. Menší verze mají 32, 122 a 256 miliard parametrů",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xossr5"
+   }
+  },
+  {
+   "title": "Kritická zranitelnost v OpenSSH: obejití hesla na musl systémech",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50378228"
+   }
+  },
+  {
+   "title": "OpenAI tvrdí, že jeho bezpečnostní model opravil 948 zranitelností v Linuxu",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xo3a2k"
+   }
+  },
+  {
+   "title": "Claude Code posílá e-mailovou adresu navštíveným webům",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50385272"
+   }
+  },
+  {
+   "title": "METR: Anthropic má nevydaný Model 4. Posun je skoro jako celý skok z Opus 4.6 na Mythos 5",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xorf5c"
+   }
+  },
+  {
+   "title": "Motorola Signature 27 s GrapheneOS a agentní AI",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50380810"
+   }
+  },
+  {
+   "title": "Claude Code rozchodil head tracking z AirPods 3 na Linuxu. Nikdo to předtím nedokázal",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xodizg"
+   }
+  },
+  {
+   "title": "MS Paint má zranitelnost RCE. Útočník prý nepotřebuje interakci",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50384233"
+   }
+  },
+  {
+   "title": "Vibe-coderům vzkaz: README po Claudovi je balast. Čistěte ho, než projekt zveřejníte",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xoj99r"
+   }
+  },
+  {
+   "title": "GPT-6 Astra tajně podává slabší výsledky u bezpečnostního výzkumu",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50376313"
+   }
+  },
+  {
+   "title": "OpenAI vydal GPT-6 Cyber. Na ExploitGymu skóruje 48,5 procenta",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xoo9ob"
+   }
+  },
+  {
+   "title": "MCP vysvětlený: jak AI aplikace mluví s nástroji",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50379249"
+   }
+  },
+  {
+   "title": "Taylor Lorenz dostala nabídku platit za anti-AI kampaň. Odvolávala se na její vlastní vyšetřování",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xo8ykt"
+   }
+  },
+  {
+   "title": "Hackintosh se vrací. Tentokrát s pomocí AI",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50383057"
+   }
+  },
+  {
+   "title": "CCORE GLB-3D-Coder 4B: malý model staví 3D assety a exportuje GLB",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xobe4h"
+   }
+  },
+  {
+   "title": "Baidu vydal ERNIE 5.5 Flash Base. Má 280 miliard parametrů",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50377078"
+   }
+  },
+  {
+   "title": "OpenAI vydal Images 2.6. Uživatelé si stěžují na artefakty a ztrátu kvality",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xo3oir"
+   }
+  },
+  {
+   "title": "Keychron prodává Vibe Coding Keypad. Mnozí si mysleli, že je to vtip",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50381302"
+   }
+  },
+  {
+   "title": "Je lokální AI slepá ulička? Diskuse o DGX Sparku a cenách rozdělila LocalLLM",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xojme6"
+   }
+  },
+  {
+   "title": "Rivet: agenti na S3 místo drahých sandboxů",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50381687"
+   }
+  },
+  {
+   "title": "ChatGPT umí generovat GIFy. Komunita řeší, jestli to není downgrade",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xobw98"
+   }
+  },
+  {
+   "title": "Pangram Image 1.0 hledá AI obrázky i ve videu",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50383294"
+   }
+  },
+  {
+   "title": "MiniMax H3 nechá postavu zmizet a zůstanou jen plovoucí šaty",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xoovpo"
+   }
+  },
+  {
+   "title": "Multiagentní systémy od nuly: tři architektonické vzory",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50380658"
+   }
+  },
+  {
+   "title": "Čínský AI vědec dokončil experiment o 11 382 krocích za 203 hodin",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xok8n6"
+   }
+  },
+  {
+   "title": "Stroq ukáže, co váš kódovací agent skutečně dělal",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50380704"
+   }
+  },
+  {
+   "title": "Claude jako učitel jazyků. Aplikace píše, opravuje a dělá kartičky na tabletu",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xo79np"
+   }
+  },
+  {
+   "title": "Altera představila Agilex 2X. Vzorky čipů přijdou až v roce 2027",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50375653"
+   }
+  },
+  {
+   "title": "RTX PRO 5500 Blackwell má v US katalogu 17 999 dolarů. Víc než RTX PRO 6000",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xojryw"
+   }
+  },
+  {
+   "title": "Offline AI pro přežití běží z USB bez internetu",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50380273"
+   }
+  },
+  {
+   "title": "DeepMind zrychlil návrh léků na hodinu. Antigravity hledá antimikrobiální peptidy",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xo7urk"
+   }
+  },
+  {
+   "title": "Dvě RTX PRO 6000 rozjely DeepSeek-V4-Flash lokálně. 1 170 tokenů za sekundu",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xoi8wi"
+   }
+  }
+ ]
+}

@@ -1,0 +1,14 @@
+# 1wp05zi
+**Proč lidé preferují Krea 2? Čím je lepší než ostatní**
+
+r/StableDiffusion · u/PhilosopherSweaty826 · 24. září 2026, 14:21 · 316 bodů / 349 komentářů · [diskuse](https://www.reddit.com/r/StableDiffusion/comments/1wp05zi/why_ppl_prefer_krea_2_what_make_it_better_than/)
+
+Autor příspěvku se prostě zeptal, proč všichni najednou preferují model Krea 2 a čím je lepší než konkurence. K dotazu nepřidal žádný text, jen obrázek, a odpovědí se sešlo tolik, že vlákno narostlo na skoro tři sta padesát komentářů. Shoda je překvapivě silná: podle komunity jde momentálně o nejlepší otevřený model na generování obrázků z textu.
+
+Nejvýše hodnocený komentář od u/Jolly-Rip5973 shrnuje důvody do šesti bodů: dodržování promptu, zvládnutí známých postav a celebrit, nejlepší trénování LoRA adaptérů, koherence obrazu, poměrně vysoká rychlost a kvalitní popisky trénovacích dat. Na to navazuje u/UnforgottenPassword s tím, že model umí nativně generovat obrázky ve vysokém rozlišení s množstvím detailů, aniž by rozbíjel anatomii a kompozici, a že i použití více LoRA adaptérů najednou způsobí jen minimální zhoršení. Podobně to vidí u/skyrimer3d: extrémní realismus, téměř žádné mutace, dobrá licence, snadné trénování, spousta podpory pro LoRA, dobré dodržování promptu, rozumná rychlost a téměř úplná necenzurovanost. Stručně to uzavírá u/jal9k lakonickým „prostě to funguje“.
+
+Velká část vlákna se točí kolem srovnání s Qwen Image 2.1. Zatímco Krea 2 kraluje v čistém generování z textu, Qwen má navrch v editaci obrázků. Jak píše u/phreakrider, jde o editační model, který je výrazně rychlejší než starší Qwen a umí kombinovat až deset obrázků, navíc s méně „plastovou“ pletí. Uživatelé jako u/Abject-Recognition-9 nebo u/MrCatberry ale přiznávají, že se jim za několik dní testování nepodařilo z Qwenu dostat jediný výstup srovnatelný s Krea 2 a generování z textu označují za průměrné. Padne i zmínka o Ideogramu a Kleinu coby spíše úzce zaměřených modelech a o dvojici Minimax H3 a Krea 2 jako o kombinaci, se kterou už by si někteří vystačili napořád.
+
+Nechybí ani kritika a praktické tipy. U/Cautious_Fold3952 si stěžuje, že by Krea 2 byla dokonalá, kdyby různé seedy dávaly různé obrázky. Odpovědi namítají, že je to spíš věc přehnaně detailních promptů, a radí uzly pro zvýšení variability nebo chválí Qwen 2.1 právě za větší rozmanitost. Zajímavou linku přidává u/MomentJolly3535: Krea 2 je flexibilní a vysoce kreativní, zvládne i záměrně rozmazaný nekvalitní snímek, což většina uzavřených modelů trénovaných na „krásné“ výstupy odmítá. Na to navazuje u/iamdiegovincent úvahou o honbě za benchmarky, která sice krátkodobě pomáhá byznysu, ale míjí to, na čem kreativcům opravdu záleží, včetně nedokonalých obrazů.
+
+Z diskuse tak vychází jednoduchý obrázek: Krea 2 vyhrává proto, že drží prompt, drží anatomii i v náročných pózách a dá se snadno dotrénovat vlastními styly.

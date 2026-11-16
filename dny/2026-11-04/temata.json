@@ -1,0 +1,304 @@
+{
+ "date": "2026-11-04",
+ "clanky": 37,
+ "temata": [
+  {
+   "title": "Kimi K3.1 Pro: 2,8 bilionu parametrů s otevřenými váhami a licencí bez háčků",
+   "sources": [
+    "rd",
+    "hn"
+   ],
+   "ids": {
+    "rd": "1xnrhvb",
+    "hn": "50366999"
+   }
+  },
+  {
+   "title": "AI nutí firmy splácet 40 let technického dluhu. Případ PHP2Shell",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50364336"
+   }
+  },
+  {
+   "title": "Demokratka chce na první den pauzu na vývoj AI a zákaz superinteligence",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xo0cs4"
+   }
+  },
+  {
+   "title": "Gemini trénuje i na historii chatů předplatitelů. Opt-out prakticky neexistuje",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50363461"
+   }
+  },
+  {
+   "title": "Claude napsal váhy neuronové sítě ručně. Falešné citace odhaluje s 97,8 procenta",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xnplmi"
+   }
+  },
+  {
+   "title": "RTX Spark na Linuxu ztrácí výkon. Místo 65 tokenů jede 14",
+   "sources": [
+    "rd",
+    "hn"
+   ],
+   "ids": {
+    "rd": "1xo1f2a",
+    "hn": "50362905"
+   }
+  },
+  {
+   "title": "DeepSeek zvládl 53 procent tokenů na OpenRouteru. Otevřené modely přesáhly 75 procent",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xnz8ct"
+   }
+  },
+  {
+   "title": "AMD poprvé v historii předběhne Intel. Ve čtvrtletí čeká tržby 17 miliard dolarů",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50367125"
+   }
+  },
+  {
+   "title": "Z Gemmy 4 ufikl 85 procent vah. Na úzký úkol jí to nezabránilo",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xnoqyy"
+   }
+  },
+  {
+   "title": "Proti datacentrům se v amerických volbách vyslovilo 40 lokalit",
+   "sources": [
+    "rd",
+    "hn"
+   ],
+   "ids": {
+    "rd": "1xngtve",
+    "hn": "50365982"
+   }
+  },
+  {
+   "title": "Altman po kritice za RAM: chci, aby všichni měli paměť. Prý ho vytrhli z kontextu",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xnta2w"
+   }
+  },
+  {
+   "title": "Geoffrey Hinton: možná bychom byli bez AI lépe",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50363554"
+   }
+  },
+  {
+   "title": "Tencent představil Hy4. Sedmsetmiliardový model míří k otevřeným vahám",
+   "sources": [
+    "rd",
+    "hn"
+   ],
+   "ids": {
+    "rd": "1xnhzbz",
+    "hn": "50365780"
+   }
+  },
+  {
+   "title": "Ripple-65B: hustý model od pěti lidí poráží open-weight modely s 500 miliardami parametrů",
+   "sources": [
+    "rd",
+    "hn"
+   ],
+   "ids": {
+    "rd": "1xnx3cs",
+    "hn": "50369925"
+   }
+  },
+  {
+   "title": "Viggle Remake pustil váhy pro přehrávání a úpravu celých videí",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xnui9u"
+   }
+  },
+  {
+   "title": "Ask HN: Jak dnes lidé skutečně používají AI agenty?",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50366117"
+   }
+  },
+  {
+   "title": "OpenAI kupuje Pierre Computer Company",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50366863"
+   }
+  },
+  {
+   "title": "Axion 1.0: 35miliardový agentní model od ByteDance s otevřeným receptem",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xnjiu4"
+   }
+  },
+  {
+   "title": "Singapur navrhuje digitální identitu pro AI agenty",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xnqhbe"
+   }
+  },
+  {
+   "title": "Anthropic představil FlashProve: kryptografický důkaz, že odpověď opravdu vygeneroval daný model",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50368626"
+   }
+  },
+  {
+   "title": "MoE experti na SSD: 60 procent modelu mimo RAM a jen 1–3 ms na token",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xnzojm"
+   }
+  },
+  {
+   "title": "Conductor se připojuje k Metě. Cloudová verze končí",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50369503"
+   }
+  },
+  {
+   "title": "Všechno je teď AI podvod. Esej o reklamách, které nikdo nekontroluje",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50371508"
+   }
+  },
+  {
+   "title": "Které projekty z Claude Code nevypadají jako vibe coding? Lidé posílají stovky ukázek",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xnnqkg"
+   }
+  },
+  {
+   "title": "Qualcomm Cloud AI 100 Ultra: 150W karta se 128 GB paměti pro inferenci",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50370654"
+   }
+  },
+  {
+   "title": "ChatGPT ukázal interní prompt. Modelu nařizuje, ať po chybě nástroje nepokračuje",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xo1r57"
+   }
+  },
+  {
+   "title": "Kino AI: mediální knihovna a střižna, na které pracují lidé i agenti",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50368804"
+   }
+  },
+  {
+   "title": "AI hamburger: lidé hledali, co prozradí generovaný obrázek",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xntlf8"
+   }
+  },
+  {
+   "title": "Garry Tan z YC utrácí až 200 tisíc dolarů ročně za tokeny pro AI agenty",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50366971"
+   }
+  },
+  {
+   "title": "Akcie AI klesají. Volby v Texasu zvedly rizika pro datacentra",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50362274"
+   }
+  },
+  {
+   "title": "Codex dostal pokyn restartovat server. Zničil systemd, kontejnery a způsobil škodu přes 10 tisíc dolarů",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50363717"
+   }
+  },
+  {
+   "title": "Mac Studio s M5 Ultra a 512 GB paměti míří na lokální velké modely",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50369098"
+   }
+  }
+ ]
+}

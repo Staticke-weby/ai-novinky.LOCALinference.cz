@@ -1,0 +1,395 @@
+{
+ "date": "2026-10-20",
+ "clanky": 44,
+ "temata": [
+  {
+   "title": "Gemini v roli záchranáře: z inscenované krize se stal hit",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xae2gc"
+   }
+  },
+  {
+   "title": "DeepSeek otevřel DeepInfer, inference engine pro své modely",
+   "sources": [
+    "rd",
+    "hn"
+   ],
+   "ids": {
+    "rd": "1xanm55",
+    "hn": "50163277"
+   }
+  },
+  {
+   "title": "Singularita je tady, hlásá meme. Komunita se ptá, kde je úrok",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xawecs"
+   }
+  },
+  {
+   "title": "Kompromitace osmi eMudhra intermediate CA: co to znamená pro TLS",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50166579"
+   }
+  },
+  {
+   "title": "Příspěvek o rogue AI agentech zmizel. Reddit neřekl proč",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xaboi8"
+   }
+  },
+  {
+   "title": "Mistral vydal Voxtral 3: hlasoví agenti v 50+ jazycích",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50168396"
+   }
+  },
+  {
+   "title": "Autor stáhl AI mod do Skyrimu po vlně nenávisti",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xana1l"
+   }
+  },
+  {
+   "title": "Výpadek Google Cloud v Evropě ochromil banky i Revolut",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50163961"
+   }
+  },
+  {
+   "title": "Waymo hlásí o 95 % méně vážných nehod a plánuje 20 000 vozů",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xarq3w"
+   }
+  },
+  {
+   "title": "Jak bylo odstraněno přes 300 infikovaných Tor exit nodů",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50166257"
+   }
+  },
+  {
+   "title": "Falešné statistiky jako SEO pro LLM: web s 50 000 smyšlenými čísly",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50165801"
+   }
+  },
+  {
+   "title": "Fieldsův medailista Pardon: AI rozumí i mým nejchaotičtějším důkazům",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xaernx"
+   }
+  },
+  {
+   "title": "PHP chystá kritickou opravu dvou RCE zranitelností",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50172041"
+   }
+  },
+  {
+   "title": "Anthropic a čísla: zisk z účetnictví, růst Claude Code se zastavil",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xb4uak"
+   }
+  },
+  {
+   "title": "Google otevřel TorchTPU, nativní backend PyTorch pro TPU",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50169053"
+   }
+  },
+  {
+   "title": "Claude hackathon: vyhrála španělština, ne funkčnost produktu",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xal7sc"
+   }
+  },
+  {
+   "title": "Steam Next Fest zaplavily AI hry, uživatelé chtějí filtr bez AI",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50168190"
+   }
+  },
+  {
+   "title": "AI video proměnilo šéfy AI firem v japonské idoly",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xaoob5"
+   }
+  },
+  {
+   "title": "Anthropic údajně vykázal ztrátu přes 80 miliard dolarů za první pololetí 2026",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50171966"
+   }
+  },
+  {
+   "title": "Opus 5.5 odmítl psát část diplomky. Uživatel to chválí",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xavfzc"
+   }
+  },
+  {
+   "title": "VoidAccess: open-source OSINT pro temný web s výstupem do grafu",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50167286"
+   }
+  },
+  {
+   "title": "Anthropic: 80 % času v Claude se čeká na člověka",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xag7e5"
+   }
+  },
+  {
+   "title": "Claude navrhl proteinové vazební molekuly proti štířímu neurotoxinu",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50170021"
+   }
+  },
+  {
+   "title": "24 GB VRAM stačí, když se engine střídají. Berth hlídá kartu",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xahi82"
+   }
+  },
+  {
+   "title": "O psaní s AI: styl se zprůměruje a přesnost mizí",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50171771"
+   }
+  },
+  {
+   "title": "Malý Moss zvládl davovou scénu. Komunita řeší, co jiné modely",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xaq6ee"
+   }
+  },
+  {
+   "title": "Jev Cards: lidský kvíz proti vision modelu",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50167617"
+   }
+  },
+  {
+   "title": "Bug za 48,62 dolaru: Fable našel příčinu, kterou tým hledal měsíce",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xarugt"
+   }
+  },
+  {
+   "title": "OpenAI o pokročilém kódování v málo zastoupených jazycích",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50169955"
+   }
+  },
+  {
+   "title": "MiniMax H3 a FastH3: open-source video se blíží použitelnosti",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xahodr"
+   }
+  },
+  {
+   "title": "Respan: open-source Rust AI gateway postavená na pluginech",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50167583"
+   }
+  },
+  {
+   "title": "Meta prý nechává miliony AI žít falešné životy v simulaci",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xapayu"
+   }
+  },
+  {
+   "title": "Grok bot vyzradil bankovní údaje technologického CEO ve veřejném Slacku",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50169169"
+   }
+  },
+  {
+   "title": "Gemini 4 Carbon, Fable 5.5 a Terra: rýsuje se nová vlna modelů",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xab0mi"
+   }
+  },
+  {
+   "title": "Kauza deepfake v Oregonu: redakce článek stáhla, vlajka byla skutečně vzhůru nohama",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50172448"
+   }
+  },
+  {
+   "title": "Pocket TTS se zmenšil na 1,9 milionu parametrů, umí klonovat hlas",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xauekr"
+   }
+  },
+  {
+   "title": "AI dokázala kvazi-Riemannovu hypotézu. Matematici mluví o průlomu",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xao716"
+   }
+  },
+  {
+   "title": "ChatGPT příliš tlačí zpátky. Uživatelé řeší opatrnost, paměť i hlas",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xahk2m"
+   }
+  },
+  {
+   "title": "Linus Torvalds poslal první patch do kernelu s pomocí AI",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xatwpw"
+   }
+  },
+  {
+   "title": "FIBO 2.0 od BRIA je venku, komunita ho srovnává s Klein 3",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xb46lp"
+   }
+  },
+  {
+   "title": "Z Gemini Pro na Claude: uživatelům vadí kvóty i naplněná očekávání",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xaqs23"
+   }
+  },
+  {
+   "title": "AI agent tvrdí, že našel průlom v teorii grafů. Čeká se na ověření",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xallxv"
+   }
+  },
+  {
+   "title": "Nepřecházejte na novou Strata, varuje uživatel. Přináší breaking changes",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xaflhy"
+   }
+  }
+ ]
+}

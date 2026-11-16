@@ -1,0 +1,16 @@
+# 50418975
+**Autor tvrdí, že AI bublina neexistuje. Výdaje jsou jednorázové, příjmy rostou**
+
+Hacker News · matteoraso · 9. listopadu 2026, 00:44 · 548 bodů / 943 komentářů · [diskuse](https://news.ycombinator.com/item?id=50418975)
+
+Blogger Matteo Raso tvrdí, že AI bublina neexistuje a meteoritický růst AI firem může být oprávněný. Odhaduje, že odvětví už utratilo kolem 5 bilionů dolarů, z toho 3 biliony tvoří závazky, jenže většinu těchto peněz bere jako jednorázové investice do datacenter, ne jako trvalé provozní náklady. Jakmile budou datacentra stát, výdaje podle něj prudce spadnou a dluh rozložený na 20 let, tedy zhruba 250 miliard ročně, nepovažuje za nesplatitelný.
+
+Jako hlavní důkaz cituje S-1 Anthropicu, podle kterého firma vydělá 2,08 dolaru na každý dolar utracený za compute, a tržby vyskočily ze 41 milionů v roce 2023 na 16,3 miliardy za první polovinu roku 2026. Chybějící příkop kolem modelů přirovnává k McDonald's a válce o kuřecí sendvič: trvalou výhodu nemá nikdo, ale vydělávat se dá díky zvyku a firemnímu ukotvení. Veřejné AI firmy jako Alphabet, Meta a Nvidia mají podle něj stabilní poměr ceny k ziskům v dvacítkách a kapitálu je prý dost, když SpaceX při vstupu na burzu vybralo přes 80 miliard dolarů.
+
+Účetní jádro sporu otevřel uživatel wmf: investice by rozpočítával na 5 až 6 let místo na 20, protože většinu ceny tvoří grafické čipy, ne budovy, a potřebné roční tržby by tak byly čtyřnásobné. Uživatel hobofan to koriguje na zhruba 10 let, protože hardware dělá asi polovinu ceny datacentra, zatímco t-writescode připomíná, že bez budov a přívodu energie jsou nakoupené čipy jen ležící železo bez výnosu. Odlehčení dodali zardo s radou „kup všechnu paměť" a drpixie s poznámkou, že nevybalený hardware ještě neodepisuje.
+
+Nejtvrdší protiúder vede vannevar: když se ignorují náklady na stavbu, jsou zisková i auta, ztráty Anthropicu se navíc prohlubují a do řetězce s rychlým občerstvením nikdo nelije biliony. Zisky velkých hráčů jsou podle něj kruhové, živené dluhem a emisemi akcií, ne skutečnou poptávkou koncových zákazníků, takže po odečtení tohoto stimulu by poměry ceny k ziskům vyletěly vzhůru. Na to navazuje blltprfmnk otázkou, zda má Anthropic hodnotu 1,2 bilionu bez jasného kladného cash flow, a amluto odpovídá bimodálním scénářem: buď firma doroste do hodnoty 7 bilionů, nebo růst tržeb zamrzne a firma padne do defaultu.
+
+Třetí linka řeší, zda úspěch technologie zaručí úspěch dnešních vítězů. Uživatel est31 připomíná Cisco a Pets.com: internet uspěl, ale valuace z doby dotkomové bubliny byly přesto nesmyslně špatně. Podobně swatcoder píše o železnicích, polovodičích a sítích, kde byla užitečnost jasná, ale o peníze šlo v načasování a o košile přišly řady menších hráčů, zatímco madaxe_again vytahuje rok 1893, kdy málem zkrachovalo GE, protože elektrifikace vypadala draze a kruhové financování děsilo. Závěrečný spor se točí kolem věty o zbožném přání: npilk souhlasí, že řeči o bublině živí naděje na návrat k normálu a čtenáři Eda Zitrona, zatímco GlacierFox, HeavenFox a GolfPopper namítají, že ani prasknutí nic nevrátí a pro běžného člověka dopadne špatně úspěch i krach.
+
+Čtenář si tak odnáší méně jistoty o číslech a více o psychologii: jedna strana počítá jednorázové betonové náklady, druhá rychle odepisované čipy a kruhové peníze.

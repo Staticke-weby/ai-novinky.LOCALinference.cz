@@ -1,0 +1,16 @@
+# 50185869
+**GitLab vydal kritické záplaty pro šest řad verzí**
+
+Hacker News · artooro · 21. října 2026, 21:01 · 301 bodů / 73 komentářů · [diskuse](https://news.ycombinator.com/item?id=50185869)
+
+GitLab vydal mimořádnou sadu záplat pro edice Community i Enterprise: verze 19.5.1, 19.4.3, 19.3.6, 19.2.9, 19.1.9, 19.0.10 a 18.11.13. Odkaz na oficiální přehled patch releasu sdílel na Hacker News uživatel artooro a diskuse se během pár hodin rozrostla na desítky komentářů.
+
+Podle oznámení mají být všechny self-managed instalace povýšeny okamžitě, zatímco GitLab.com už na opravené verzi běží a tenanty GitLab Dedicated s novějšími interními buildy nemusí dělat nic. Nejvážnější oprava s označením CVE-2026-110264 řeší přetečení celého čísla při překladu speciálně upraveného regulárního výrazu, které mohlo za určitých podmínek umožnit neověřenému uživateli spustit libovolný kód na serveru. Vedle ní přibylo dalších jedenáct oprav od převzetí LDAP účtu přes otravu cache u OAuth a OIDC až po úniky citlivých údajů, a pro vlastní správce GitLab přidal dvě detekce pokusů o zneužití pádu nativního Onigmo workeru a vlny chyb při renderování Org režimu.
+
+Nejživější přestřelka se vede o samotné číslo CVSS 10,0. Uživatel tptacek nadhodil, že desítka není v titulku a vlastně nic neznamená, na což uživatel phoe-krk vytáhl plné znění z článku: neověřené vzdálené spuštění kódu, tedy v tomto případě desítka znamená právě to. Uživatel TZubiri se ptá, zda to není přehnané, uživatel ivanjermakov kontruje, že „10 z 10" je pro běžného čtenáře srozumitelnější titulek než dlouhý vektor CVSS:3.1, a uživatel Retr0id dodává, že desítky občas závažnost přehánějí, ale tohle prý nevypadá na takový případ.
+
+Souběžně se řeší, kde se chyba vlastně vzala. Uživatel perlgeek vzpomíná na Perl 5.8, kde rekurze v céčkovém regex enginu umožňovala přetečení zásobníku velkými řetězci, a diví se, proč má GitLab vůbec vlastní překladač výrazů. Uživatel wiml vysvětluje, že GitLab veze vlastní fork Ruby enginu Onigmo, uživatel ezekg se ptá, zda je to tedy chyba GitLabu, nebo Ruby, a uživatel bradly ukazuje na možný původ v upstreamovém pull requestu ruby/ruby. Uživatel miduil připomíná, že je to už druhá regexová díra v GitLabu za poslední týdny, chválí návod na hledání stop v logech, zatímco uživatel dvdkon pochybuje o neověřeném zneužití, protože k vykreslení škodlivého souboru v Org režimu by se podle něj útočník musel nejdřív přihlásit a soubor nahrát.
+
+Zbytek vlákna patří správcům a jejich únavě. Uživatel bon0r hlásí možnou chybu, že i po updatu na 19.5.1 na něj vyskakuje výzva k okamžitému upgradu, a uživatelé artooro, merb a mqus potvrzují, že kontrola aktualizací se z dashboardu ztrácí až po hodinách. Uživatel minraws píše o obavách o vlastní servery za Tailscale s přísně filtrovaným odchozím provozem, uživatel freedomben přitakává, že pro self-hostery je to drsné období, a uživatel switchbak přiznává, že všechno nedávno schoval za Tailscale a na staré C++ služby se teď dívá jinak. Do toho uživatel jimmyl02 smeká před nálezcem joaxcar z HackerOne a děsí se, že tak vážná chyba ani není největší bezpečnostní zprávou dne.
+
+Kdo provozuje vlastní instanci, měl by záplatovat hned a mezitím zkontrolovat logy podle zveřejněných detekcí.

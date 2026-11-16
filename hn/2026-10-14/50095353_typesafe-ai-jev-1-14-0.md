@@ -1,0 +1,16 @@
+# 50095353
+**TypeSafe AI vydává Jev 1.14.0 a experimentální funkce pro snílky**
+
+Hacker News · emschwartz · 14. října 2026, 23:11 · 245 bodů / 83 komentářů · [diskuse](https://news.ycombinator.com/item?id=50095353)
+
+Společnost TypeSafe AI ohlásila novou verzi svého rozhodovacího modelu Jev. Verze 1.14.0 je zatím dostupná pod označením jev-preview a za týden se má stát výchozím jev-latest, zatímco starší 1.13.0 poběží ještě nějakou dobu. Podle firmy nejde o žádnou revoluci, spíš o drobná vylepšení všeho, s největším posunem v mnohojazyčné podpoře.
+
+Zbytek oznámení firma rámuje debatou o rovnováze mezi spolehlivostí a kreativitou: pro stavitele chce dodávat jen otestované modely, pro snílky otevírá takzvanou nebezpečnou zónu. Patří do ní obrázky skládané kamkoliv do JSON rozhraní, tedy do stavu, instrukcí i kritérií, nový typ box vracející jediný ohraničující rámeček a delší kontext zapínaný přes hlavičky v API. Firma přitom varuje, že všechny modely včetně Jevu jsou na multimodalitě a dlouhém kontextu méně spolehlivé, a ke svým interním měřením inteligence dodává, aby jim lidé nevěřili slepě a dali přednost vlastním evaluacím.
+
+Část diskuse je dost kousavá. benaduggan rýpe, že si firma funkce schovávala, protože nemá žádný příkop, a teď je trousí ven, aby vypadala rychle, i se slogany jako od Applu. aryabakh mu přitakává, že právě tempo přidávání funkcí to potvrzuje, zatímco yipinwong bere vydání věcně jako drobný krok, u kterého mu delší kontext pomůže a chyby z většího kontextu si klidně vezme na sebe. therealpygon dodává, že dohánět musí hlavně delší kontext a zpracování obrázků od SubQ a tisícovku vlastních nasazení, která jsou v benchmarcích napřed.
+
+Na otázku hexasquid, co s těmito modely lidé vlastně staví, se strhla nejživější výměna. ASalazarMX si s odkazem na titulek utahuje, že asi sny, ostatní už jsou praktičtí: LewisOrton popisuje, jak mu model jako hodnoticí filtr čistí výstupy vyhledávání z několika sekund na méně než jednu bez viditelné ztráty přesnosti, a Rudybega ho nasadil jako levnější a rychlejší náhradu velkých modelů na filtrování a klasifikaci, přičemž chválí i docela dobře kalibrované skóre spolehlivosti. polski-g z něj postavil směrovač úsilí, který podle obtížnosti úkolu přepíná úroveň uvažování modelů OpenAI a Anthropic, a swalsh ho používá v aplikaci na nákupní seznamy, kde položku tiše přiřadí na správný seznam.
+
+Závěr vlákna patří nedůvěře k číslům a technickým detailům. jjcm oceňuje, že firma otevřeně píše, aby lidé benchmarkům nevěřili, protože se dají herně optimalizovat, jenže pietz to čte jako snadnou výmluvu pro zaostávání a samsmallmind přidává vlastní zkušenost s velkým rozdílem mezi modely laděnými na programátorské benchmarky a chováním v produkci. Vedle toho se řeší, jak Jev brání destilaci: nico tipuje sledování vzorců užívání a blokování účtů, zatímco himata4113 tvrdí, že nijak, protože firma má tolik klasifikačních dat, že syntetická by byla jen horší. A tyushk vítá podporu rámečků na obrázcích, jen by rád viděl i segmentaci, na kterou nedá dopustit Gemini 3.5 Flash-Lite, na což se ho moonu ptá, proč nepoužije raději SAM nebo Moondream.
+
+Pro čtenáře z toho plyne jednoduché poučení: novinky jsou lákavé na hraní, ale do produkce jen s vlastními testy a krátkým kontextem.

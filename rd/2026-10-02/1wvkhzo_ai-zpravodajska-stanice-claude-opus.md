@@ -1,0 +1,16 @@
+# 1wvkhzo
+**Postavil 24/7 zpravodajskou stanici řízenou AI. Nikdy nevypne**
+
+r/ClaudeAI · u/Icy_Upstairs_7328 · 2. října 2026, 06:25 · 1478 bodů / 205 komentářů · [diskuse](https://www.reddit.com/r/ClaudeAI/comments/1wvkhzo/)
+
+Před týdnem dostal autor nápad, který sám označuje za hloupý: co kdyby existovala kabelová zpravodajská stanice celá řízená umělou inteligencí, kreslená v pixel-artu a prostě nikdy nevypnula. Sám přiznává, že není televizní člověk a o živém vysílání do té doby nevěděl vůbec nic. Otevřel Claude Code s modelem Opus 5.5, začal stavět a tak nějak už nepřestal — výsledek se jmenuje PNN, Pixel News Network, a běží právě teď.
+
+Stanice bere skutečné zprávy zhruba ze sedmdesáti zdrojů od světa přes technologie a sport až po krypto, NFT, meme coiny a internetové podivnosti. Moderátoři si ale pamatují minulé vysílání, mají mezi sebou vztahy, spory a interní vtipy a občas se prý naštvou a odejdou ze studia. Kolem toho vyrostl celý televizní program s ranní show, parodií na uvězněného zakladatele kryptofirmy vařícího recepty z vězeňské kuchyně, reportérem trvale uvězněným na ostrově Tristan da Cunha, pořady o NFT, sběratelství a starých hrách z devadesátkového sklepa i noční show Up Late s monologem, kapelou a hosty na gauči. Pod povrchem běží systém, kde Claude píše každý segment jako strukturovaný scénář, všichni diváci sledují stejnou jedinou časovou osu a čísla a výroky se kontrolují proti dodaným datům, aby stanice nehalucinovala o skutečných lidech.
+
+Diskuse se rychle proměnila v nadšené sledování přímého přenosu. u/Remarkable_Rock5845 píše, že se ani nedočetl popisek, jen klikl na odkaz a po pár minutách mu to přišlo vtipnější než většina skutečných pořadů. Když prý stačí taková obyčejná výzva na parodii ranní show s hašteřením, je to až děsivé. u/Lord-Xerra v tom vidí důvod, proč je Claude tak dobrý pro netechnické lidi — spousta z nich má fantastické nápady, které dřív neuměli nakódovat, a tady místo pouhé kaše vzniklo něco úžasného. Autor mu přitakává, že bariéra pro kreativce bývala technická, a teď jsou dveře otevřené.
+
+Nejvíc se citují hlášky, které lidem právě běžely na obrazovce. u/earth-grazer vytahuje reportáž o brokolicovém účesu s dialogem, kolik dětí stojí v uličce za nákupním centrem, na což zazní odpověď, že to kolísá, Chete. u/Jesse_Divemore zase hlásí větu moderátora, že Země je kulatá, jak jsme si všimli. u/Remarkable_Rock5845 se nestačí divit, že tohle celé vzniklo zhruba za týden, a doufá, že se vysílání nějak zaznamenává a uchovává.
+
+Řeč se stočila i k penězům a k tématům. Na otázku u/tigbeans, kolik stojí provoz nonstop, autor odpovídá, že asi tři až pět dolarů denně, protože pokud se nikdo nedívá, nic se negeneruje, běžné dialogy píše Haiku a větší pořady a kontrolu faktů dělá Sonnet. u/Sufficient-Grass- si rýpe, co se stane, až zdroje zpráv zkrachují, protože nebudou stačit mnohem levnější síti, která je už teď lepší než Fox News. Kritičtější tón vnesl u/C6ntFor9et, podle kterého zaměření na krypto projekt delegitimizuje a zavání přihráváním pochybných rad, na což autor odpovídá, že krypto je jen noční show pro zpestření, zbytek je normální zpravodajství.
+
+Z vlákna tak zůstává obraz bláznivého nápadu, který díky neustále běžícímu pixelovému vysílání působí překvapivě živě — a diváci se místo dohadů o technologii baví tím, co zrovna řekne fiktivní studio.

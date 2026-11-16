@@ -1,0 +1,16 @@
+# 1wqaywn
+**Trumpova administrativa nasadila AI na zamítání péče o seniory**
+
+r/artificial · u/esporx · 25. září 2026, 23:16 · 313 bodů / 30 komentářů · [diskuse](https://www.reddit.com/r/artificial/comments/1wqaywn/trump_admin_using_ai_to_deny_medical_care_for/)
+
+Autor u/esporx sdílel zprávu serveru Ars Technica o tom, že administrativa Donalda Trumpa zkouší při posuzování nároků seniorů na zdravotní péči nasadit umělou inteligenci. Titulek mluví o nepovedeném experimentu, při kterém mají dodavatelé systému motivaci zamítnout co nejvíce žádostí. Příspěvek je označený jako novinka a během pár hodin nasbíral přes tři sta bodů.
+
+Samotný text článku se ze stránky nepodařilo stáhnout, jeho podobu ale přibližují delší úryvky citované v diskusi. Podle nich se do pilotu zapojili tři dodavatelé: Innovaccer prý nebyl připravený a po odmítnutém odkladu dočasně nastavil program tak, že schvaloval všechny žádosti, Zyter měsíce bojoval s rozdílem mezi částí Medicare A pro nemocniční péči a částí B pro ambulantní péči a Virtix k 30. březnu posoudil 6 096 žádostí o předchozí souhlas, z nichž 2 863 schválil a 3 233, tedy 53 procent, zamítl.
+
+Nejvýše hodnocený komentář od u/SubstantialPressure3 odmítá slovo experiment a tvrdí, že jde o nácvik před plošným nasazením. Připomíná spory kolem očkování a roušek za covidu i opakované sahání na peníze ze sociálního zabezpečení a dochází k závěru, že jde o rozkrádání peněz na sociální programy po vzoru ruských kleptokratů. Na to navazuje u/ExuberantlyBored tezí, že miliardáři nenávidí chudé a střední třídu a umělou inteligenci, úplatky kongresmanům a lékařské dluhy používají k tomu, aby nižší vrstvy zůstaly nemocné a zadlužené.
+
+Zbytek vlákna rychle sklouzl k černému humoru. u/Bagafeet to shrnul kontrastem škrtnutých smrtících panelů a odškrtnuté smrtící umělé inteligence, u/thatguy122 by rád viděl systémové pokyny modelu a u/KlausVonLechland je paroduje větou zamítni všechno, co jde, a nedělej chyby. Do téhle noty zapadá i poznámka u/gottagohype, že vzhledem k tomu, kolik seniorů volilo Trumpa, jde o klasický moment, kdy lidem obličej sežrali leopardi, což ale u/vibrance9460 opravuje, že volby rozhodli mladí muži, a u/AgentCapital8101 se ptá, jestli autor volá po kolektivním trestu.
+
+Věcnější část diskuse se shoduje, že novinka jen automatizuje starou praxi. u/No-Papaya-9289 píše, že se to příliš neliší od toho, co už dělají pojišťovny, a vidí v tom další argument pro všeobecnou zdravotní péči, u/TheOriginalAcidtech se ptá úplně stejně a u/BlackBagData označuje pojištění za legalizovaný mafiánský podvod. u/Twotricx lituje, že umělá inteligence, která léčí rakovinu, je pořád daleko, zatímco umělá inteligence vycvičená k tomu, aby lidi ještě víc vyždímala, už je tady a elity ji použijí k tomu, aby ostatní zůstali chudí a pod kontrolou. Ozývá se i obava u/Smooth-Weekend-2314 z propojení s genetickými daty 23andMe a postřeh u/ballofhorn99, že umělá inteligence slouží hlavně k vyhýbání se odpovědnosti. Jediný výrazný nesouhlas přidává u/Superb_Raccoon, podle kterého je titulek vyložená lež, protože citované příběhy tří firem ukazují spíš nepřipravenost a chyby dodavatelů než záměr vlády.
+
+Z vlákna tak zůstává obraz pokusu, kterému komunita nevěří ani jako omyl, ani jako výjimku: bere ho jako generálku na širší automatizované zamítání péče.

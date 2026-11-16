@@ -1,0 +1,14 @@
+# 1xl2tcm
+**Heretic 2.0: z nástroje na odstranění cenzury je univerzální modifikátor modelů**
+
+r/LocalLLaMA · u/-p-e-w- · 1. listopadu 2026, 14:16 · 1233 bodů / 119 komentářů · [diskuse](https://www.reddit.com/r/LocalLLaMA/comments/1xl2tcm/)
+
+Po téměř pěti měsících vývoje vyšlo největší vydání v historii projektu Heretic 2.0, které z nástroje na odstraňování cenzury dělá obecný modifikátor jazykových modelů. Projekt hlásí 37 tisíc hvězd na GitHubu a přes 8 500 modelů na Hugging Face s celkem 88 miliony stažení. Novinkou je metoda Arbitrary-Rank Ablation, která nahrazuje dosavadní directional abliteration, a kompletní přestavba na pluginy, kde scorer určuje cíl optimalizace a modifier provádí samotné řízení modelu. Kromě rušení odmítání tak umí potlačit slop, snížit sykofancii nebo měnit emoční ladění, přitom odstranění cenzury zůstává výchozí funkcí a má fungovat nejlépe v historii. Verze není zpětně kompatibilní s konfiguracemi 1.x a odkazuje na migračního průvodce, samotné odblokování modelu ale dál zvládne jediný příkaz.
+
+Vlákno se nese v oslavném tónu. u/Intelligent-Form6624 autora označil za legendu, u/Needausernameplzz za světce a u/413205 se přiznal, že ho na subredditu vídá pořád, aniž tušil, že stojí právě za Hereticem. Největší nadšení vzbudilo rozšíření za hranice cenzury – u/Borkato jásá nad potlačením slopu, u/LagOps91 nad bojem proti sykofancii a u/silenceimpaired píše, že právě teď ho poprvé opravdu láká nástroj vyzkoušet.
+
+Z nadšení se rychle stala praktická debata o tom, co všechno by šlo přenastavit. u/dangerous_inference se ptá na vymýcení „mal-abstrakce", tedy zlozvyku, kdy model sahá po obrazném jazyce místo konkrétních termínů, a dokládá to dvojicemi špatně a správně. Na to navazuje u/arcum42 otázkou, která trápila víc lidí: jak nejlépe spojit odstranění odmítání, odslopování a odsykofancii u jednoho modelu, zda skládat separátní LoRA adaptéry, pouštět úpravy postupně za sebou, nebo vše zvládnout jedinou konfigurací ve více průchodech.
+
+Třetí linka řeší načasování a hardware. Vydání vychází těsně před novou rodinou Qwen, což komentující opakovaně vítají – u/Quiet-Owl9220 píše, že z principu používá skoro výhradně modely upravené Hereticem, protože jeho počítač by ho neměl odmítat poslouchat. Zároveň se ptá, co bude potřebovat na 27miliardový model se skromnou herní sestavou s 24 GB VRAM a 64 GB RAM, podobně jako u/Boxofcookies1001 a u/marhalt řeší, zda je nutné načíst celý model bez kvantizace a jak se novinka snese s uvažujícími modely. Stranou nezůstalo ani autorství: u/BigWideBaker připomíná kauzu HauHauCS, jehož modely bez uvedení zdroje sbírají obrovské množství stažení, a cituje autorovo prohlášení, že balíčky reaper-abliteration byly s jistotou opsané z Hereticu a následně přeformulované jazykovým modelem.
+
+Heretic se tak v očích komunity mění z utility pro odblokování v dílnu na šití modelů na míru, kde se řeší už jen výkon domácí grafiky a recept na ideální kombinaci úprav.

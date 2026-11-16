@@ -1,0 +1,16 @@
+# 50366117
+**Ask HN: Jak dnes lidé skutečně používají AI agenty?**
+
+Hacker News · eggbrain · 4. listopadu 2026, 15:37 · 245 bodů / 234 komentářů · [diskuse](https://news.ycombinator.com/item?id=50366117)
+
+Kolik předplatných AI má smysl platit a k čemu agenty lidé reálně pouštějí každý den? Vlákno sbírá momentální pracovní postupy: jaké tarify kdo má, jestli si platí i dva účty u stejného poskytovatele, jaké modely používá mimo předplatné přes API či lokálně a na jakých rozhraních a orchestračních nástrojích běží. Autora zajímá hlavně posun oproti loňsku, tedy kde agenti čas šetří a kde ho naopak přidělávají.
+
+Nejviditelnější linka se točí kolem Claude a modelu Opus 5.5. thefourthchime popisuje, že po letech přeskakování mezi Cursorem a Codexem skončil jen u Claude IDE, smazal všechny skilly, nastavil prostřední úroveň a agentovi jen vágně popisuje ambiciózní cíle. Největší trik je podle něj přesně říct, jak má vypadat hotovo, agent si pak sám vytváří subagenty, a kdo nechce čekat, musí jet aspoň na pět věcí paralelně. Podobnou dělbou práce potvrzuje nkotov: na frontend nedá dopustit na Claude Design s dostatkem referencí, na backend mu zase „prostě funguje“ Codex, jenže design neumí, zatímco Claude se prý nedokáže dobrat k dokončení.
+
+Druhé velké téma jsou peníze a limity. joshstrange platí Claude Ultra soukromě, Claude Max v práci a Codex za 100 dolarů měsíčně, k tomu zkouší modely přes OpenRouter, DeepSeek či Lunu a na hlídání agentů si napsal vlastní nástroj. marshalla drží dva stokorunové účty u Anthropicu a jeden u Gemini a upozorňuje, že jeden účet za 200 dolarů týdenní limity nezvedne, na recenze si nechává od Opusu generovat prompty pro Argon. simlevesque naopak vystačí s jedním dvacetidolarovým Claude a jako hlavní model mu přes API slouží Deepseek flash, zatímco yewenjie mezi zaměstnáním škrtl na pouhé ChatGPT Plus a mrzí ho, že nemá Opus 5.5 na kódění.
+
+Řeší se i to, v čem agenty spouštět. sparklingmango věří, že kdo zůstane u vestavěného Claude Code či Codexu, má stejně nejčerstvější funkce, ctolsen jede kolem stovky eur měsíčně na mixu Opencode Go Plus, Mistral Pro a Kimi s převahou otevřených vah a orchestruje přes Paseo. dewey zkouší více projektů najednou přes Conductor s git worktrees, ale trápí ho propojování frontendu a backendu ve dvou repozitářích, na což l9o odpovídá, že jeho sessiony pro frontend a backend si už spolu povídají přímo, a shepherdjerred to vyřešil radikálně monorepem. Extrémem je giovanniwants s vlastním démonem na 64GB Macu, kde přes SSD streaming žene 125B model rychlostí 30 tokenů za sekundu bez latence.
+
+Nechybí humor ani střízlivění. fbelzile na všech pět otázek odpovídá strohým ne, ne, nic, ne, ne, a sklízí souhlasné To je ta cesta. nkotov přiznává, že OpenClaw a Hermes při reálné práci padají a nezbylo mu než se vrátit k výchozím aplikacím a vlastnímu lepidlu, podobně yewenjie píše, že Hermes zkoušel několikrát a pokaždé ho nenáviděl. Vedle kódu se pak objevuje druhý život agentů: brightball jede programování v herdr a všechno neprogramátorské nechává na Grok Botovi, který mu podle jeho slov sundal spoustu věcí z talíře.
+
+Z vlákna tak vychází obrázek unaveného pragmatismu: méně experimentů, pár osvědčených předplatných, vlastní drobné nadstavby a jasné vědomí, kde model pomáhá a kde je lepší ho nechat být.

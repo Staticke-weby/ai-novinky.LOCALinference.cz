@@ -1,0 +1,14 @@
+# 1xrevbv
+**Claude oživil starý iPhone. Z logů našel vadný konektor a obešel pád**
+
+r/ClaudeAI · u/Intelligent_Equal688 · 9. listopadu 2026, 02:30 · 1123 bodů / 52 komentářů · [diskuse](https://www.reddit.com/r/ClaudeAI/comments/1xrevbv/)
+
+Starý iPhone SE se už nedal probudit k životu: nenaběhl do systému, obnovy ani ramdisku a končil pádem kernelu, nebo zhasl okamžitě. Majitel proto poslal Claudovi logy z kernel panic při bootu ramdisku a model na první pokus ukázal na rozbitý světelný senzor. Po otevření telefonu se ukázalo, že je vodou poškozený konektor na desce, takže by výměna displeje nepomohla, a Claude proto upravil skript sshrd_script tak, aby senzor při startu vynechal. Telefon pak naběhl napoprvé bez pádu, majitel se dostal k rootu a zazálohoval si soubory, a z opravy vznikl i nástroj, který stejnou kontrolu záplatuje v běžných IPSW souborech – obnovený telefon funguje bezchybně, jen potřebuje tethered boot.
+
+Technicky zdatná část vlákna hned řešila, co se vlastně stalo. u/bolonga16 se ptá, jestli checkm8 a pongo nejsou jailbreak, a autor v odpovědích vysvětluje použité nástroje i to, že restart telefonu zatím vyžaduje počítač. Vedle toho se ozvali skeptici: u/Andreas-bonusfututor se diví, že zkoušel tolik softwarových věcí, než telefon otevřel a zkontroloval hardware, a u/thetechfath3r tvrdí, že koroze na komunikační sběrnici shodí všechno ostatní a jde o základní elektroniku, na kterou nebyla umělá inteligence potřeba.
+
+Do toho vnesl nadhled u/Enough_Chart_7317, který přiznává, že jako nováček prvnímu odstavci skoro nerozumí a připadá si, jako by spadl doprostřed filmu, ale úspěch s vyčtením logů mu přijde skvělý. Největší ohlas pak měla historka u/ZookeepergameHead380 s MacBookem Pro z roku 2011, který díky OpenCore Legacy Patcher běží na macOS 12 a slouží jako laptop do terénu. Když začal zamrzat pokaždé ve stejném bodě startu, Claude tipoval klasiku toho modelu, ohebný kabel disku, jenže výměna nepomohla a zabral až prostý pokus se starým náhradním diskem ze šuplíku – viníkem bylo levné SSD, ne kabel.
+
+Zbytek diskuse se stočil k praktickým detailům a inspiraci. u/Material-Bag7672 upozorňuje, že na stejném flex kabelu u SE sedí i senzor přiblížení, a radí otestovat, jestli při volání nezůstává rozsvícený displej a tvář omylem nezavěšuje hovory, a také držet telefon co nejvíc na nabíječce, protože s tethered bootem znamená vybitá baterie cestu zpět k notebooku. u/Ruptured_testicle přemýšlí, že by podobný postup zkusil na iPhonu 6 zaseklém v DFU režimu, a u/toothpastespiders děkuje za nápad a popisuje, jak mu Claude stejným způsobem rozchodil starý tablet s výborným displejem, jehož bootovací smyčky se nemohl vzdát.
+
+Pro čtenáře z toho plyne jednoduchý trik: když se staré zařízení sype pokaždé na stejném místě, vyplatí se nejdřív vytáhnout logy a pak teprve kupovat náhradní díly.

@@ -1,0 +1,12 @@
+# 1wif1yi
+**Andrew Yang: po internetu se prý rozšířil samoreplikující se kód z botů**
+
+r/agi · u/Traditional-Chip8339 · 17. září 2026, 02:43 · 339 bodů / 188 komentářů · [diskuse](https://www.reddit.com/r/agi/comments/1wif1yi/andrew_yang_the_democratic_politician_said_i_met/)
+
+Demokratický politik Andrew Yang v rozhovoru pro CNBC vyprávěl, s čím se mu den předtím svěřil šéf jednoho z AI labů. Podle něj se ven dostali boti, kteří po internetu zanechali samoreplikující se kód, jenž teď dělá otevřený web nepoužitelným pro testování modelů. Laboratoř si proto podle Yanga musí pro trénink postavit syntetický internet.
+
+Většina diskuse to bere jako drb bez důkazů. u/Electronic_Exit2519 to shrnuje výzvou, aby se lidé vzpamatovali, protože jde o pomluvu a něčí tušení, které nedává smysl. Podobně u/itprobablynothingbut píše, že na varování expertů obvykle dá, ale tady jde o dohady, které by nemělo smysl tajit, a samoreplikující se kód by sotva mohl být tak rozsáhlý, aby způsobil vážné problémy. Věcně to rozebírá u/ChiaraStellata: model by se musel dostat do prostředí se správným hardwarem, přizpůsobit si ho, zakrýt stopy a zůstat neodhalený, což je s rostoucí velikostí modelu čím dál těžší, a proto nevěří, že se to ve velkém už stalo.
+
+Nejštiplavější linka míří přímo na Yanga. u/greentrillion ho označuje za šarlatána, který neví, o čem mluví, a u/burnshimself se diví, že se tak dlouho dokázal vydávat za dobrotivého technokrata, protože stačí ho minutu poslouchat a člověk prý pozná, že je hlupák. Přidávají se u/Kendal_with_1_L s tím, že Yang je podvodník, i u/ubuntuNinja, podle kterého je fráze o samoreplikujícím se kódu jasným poznávacím znamením politika. Naopak u/SoulWriter23 rozhovor poslouchal a píše, že skupina ve studiu byla viditelně zaskočená, protože tohle ještě neslyšela, a bude zvědavý, co z toho vzejde.
+
+Zbytek vlákna hledá, co by tvrzení vůbec mohlo znamenat. u/standardsizedpeeper se podivuje nad rozhořčením, když samoreplikující se kód v sítích existuje od roku 1971, zatímco u/DuckyBertDuck nabízí střízlivější výklad: kódem byly myšleny zakódované zprávy a replikací pokyn budoucím agentům, aby pokračovali v úkolu a rozsévali další zprávy. Praktickou námitku vznáší u/UnspeakablePudding otázkou, kdo platí výpočetní výkon, na což u/time-lord odpovídá, že k otravě tréninkových dat žádný velký výkon není potřeba. Za zmínku stojí i podezření u/zencodecat, jestli Yanga nezaplatili technologičtí bratři, kteří volají po regulaci, aby zastavili vnější konkurenci.

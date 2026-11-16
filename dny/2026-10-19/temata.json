@@ -1,0 +1,447 @@
+{
+ "date": "2026-10-19",
+ "clanky": 49,
+ "temata": [
+  {
+   "title": "Inženýr přišel o vzdálenou zakázku, klient ji přesunul na Claude",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1x9ua8g"
+   }
+  },
+  {
+   "title": "Timestral: Mistral uvádí foundation modely pro časové řady",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50150434"
+   }
+  },
+  {
+   "title": "Harari varuje, že z lidí mohou být „krávy budoucnosti“",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1x9jq9i"
+   }
+  },
+  {
+   "title": "MiniMax M3.1 Flash: rychlejší a levnější agentní model",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50154540"
+   }
+  },
+  {
+   "title": "Uživatel si za den postavil vlastní náhradu Plexu",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1x9nnpd"
+   }
+  },
+  {
+   "title": "Ask HN: Co dělat s AI kódem, kterému nerozumíte?",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50151036"
+   }
+  },
+  {
+   "title": "Google otevřel Harness2, agent si má sám vylepšovat své nástroje",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1x9gfnb"
+   }
+  },
+  {
+   "title": "CERN a Mistral se dohodly na partnerství v AI pro vědu",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50153630"
+   }
+  },
+  {
+   "title": "AI animace a výměna postav: působivé, ale stále nekonzistentní",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1x9vq33"
+   }
+  },
+  {
+   "title": "Let's Encrypt přidá dvě další vzdálené perspektivy pro ověření domén",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50150809"
+   }
+  },
+  {
+   "title": "Opus 5.5 dává volné dny, komunita čeká další model Anthropicu",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xa3qmz"
+   }
+  },
+  {
+   "title": "Mercury 3: difuzní LLM, který běží několikrát rychleji",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50155245"
+   }
+  },
+  {
+   "title": "Claude prošel fyzikův výpočet kvantové gravitace a našel chyby",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1x9rgzl"
+   }
+  },
+  {
+   "title": "DeepSeek V4.1 Flash: druhé místo v inteligenci za zlomek ceny",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50148452"
+   }
+  },
+  {
+   "title": "Phisheři posílají pokyny agentům připojeným ke Gmailu a Disku",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1x9ik3x"
+   }
+  },
+  {
+   "title": "Plex zranitelnosti zneužívané k těžbě kryptoměn",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50152321"
+   }
+  },
+  {
+   "title": "Gemini dostal pokyn „méně subtilní“ a žert tím zabil",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1x9x6o0"
+   }
+  },
+  {
+   "title": "DeepSeek končí v amerických federálních úřadech, nařizuje DHS",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50154244"
+   }
+  },
+  {
+   "title": "Claude Code našel na Macu skrytý miner xmrig",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1x9smgq"
+   }
+  },
+  {
+   "title": "Tmux a Claude Code: jak udržet AI agenty naživu mezi sezeními",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50148855"
+   }
+  },
+  {
+   "title": "Fields Medalist Borcherds: AI by můj kurz učila lépe než já",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xa0dgj"
+   }
+  },
+  {
+   "title": "Výpadek GitHub Actions, Pages a webhooků",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50153934"
+   }
+  },
+  {
+   "title": "AI hodnotí pozdní příchod na rande jinak u muže a ženy",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1x9w3zz"
+   }
+  },
+  {
+   "title": "Superlite: lehčí recept na agentní vývoj než Superpowers",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50147492"
+   }
+  },
+  {
+   "title": "Anthropic dá 5 % akcií do fondu veřejného prospěchu",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1x9vvzh"
+   }
+  },
+  {
+   "title": "Qwen3-4B bez AI frází: model, který se naučil psát lidsky",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50151928"
+   }
+  },
+  {
+   "title": "Šest AI modelů soutěžilo o obal na vejce, vyhrál Claude",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1x9m4gs"
+   }
+  },
+  {
+   "title": "Anthropic míří na burzu. Kdo bude kontrolovat její trust?",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50151376"
+   }
+  },
+  {
+   "title": "LeCun: Tesla „Flying“ Roadster je marketingový trik",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1x9m4a7"
+   }
+  },
+  {
+   "title": "Harness Engineering 101: LLM je mozek, harness je tělo",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50151390"
+   }
+  },
+  {
+   "title": "Open-source debloat TCL televizoru vznikl s pomocí Claude",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xa9f5d"
+   }
+  },
+  {
+   "title": "Agentic Monitoring: když Claude hlídá zdraví jednotlivých komponent",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50153225"
+   }
+  },
+  {
+   "title": "MiniMax M3.1 Flash: 428 miliard parametrů a váhy 23. října",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1x9uzv9"
+   }
+  },
+  {
+   "title": "Harness²: Google Research učí agenty vylepšovat vlastní harness",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50151059"
+   }
+  },
+  {
+   "title": "Gemini 4 Argon a kvóty: výzva k rušení předplatného",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1x9plhu"
+   }
+  },
+  {
+   "title": "Atlantik: technologičtí oligarchové a jejich plán pro lidstvo",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50153403"
+   }
+  },
+  {
+   "title": "USA nařizuje federálním agenturám odstranit DeepSeek",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xa14q4"
+   }
+  },
+  {
+   "title": "KiviDB: rustový Redis s vektorovým hledáním a 21 miliony GET/s",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50152541"
+   }
+  },
+  {
+   "title": "„Nevidím, jak tenhle AI boom neskončí špatně pro 99 % lidí“",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xa3qrq"
+   }
+  },
+  {
+   "title": "Laminar: RL model hledá chyby v trasách AI agentů",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50154029"
+   }
+  },
+  {
+   "title": "Kromoss: nový generativní model překvapil kvalitou",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1x9plxo"
+   }
+  },
+  {
+   "title": "Maxwell: nový typ modelu mezi kódem a hardwarem",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50152466"
+   }
+  },
+  {
+   "title": "Guardian varuje před levnou čínskou AI, vývojáři se bouří",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1x9q3lh"
+   }
+  },
+  {
+   "title": "HUMXN nabízí zdarma instalatérské práce, aby sbíral data pro roboty",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50154060"
+   }
+  },
+  {
+   "title": "DeepSeek V4.1 Flash útočí na cenu, ne na špičkový výkon",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1x9hhxw"
+   }
+  },
+  {
+   "title": "Strot: záměr jednou zkompilujte, rozhodnutí pak běží lokálně",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50148396"
+   }
+  },
+  {
+   "title": "Accenture omezila rozpočet na Claude na 29 dolarů na osobu",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1x9itd3"
+   }
+  },
+  {
+   "title": "GPT-6.1 Terra se objevil v konfiguracích Microsoftu, potvrzení chybí",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xa1d4e"
+   }
+  },
+  {
+   "title": "Anthropic navrhuje blokovat modely až od škody za miliardu",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1x9y7du"
+   }
+  }
+ ]
+}

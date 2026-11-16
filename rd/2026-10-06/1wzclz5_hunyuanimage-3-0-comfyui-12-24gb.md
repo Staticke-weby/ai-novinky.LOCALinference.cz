@@ -1,0 +1,16 @@
+# 1wzclz5
+**HunyuanImage 3.0 (80B) běží nativně v ComfyUI na 12–24 GB GPU**
+
+r/StableDiffusion · u/LatentSpacer · 6. října 2026, 21:59 · 716 bodů / 147 komentářů · [diskuse](https://www.reddit.com/r/StableDiffusion/comments/1wzclz5/)
+
+Autor přinesl nativní podporu HunyuanImage 3.0 od Tencentu do ComfyUI. Osmdesátimiliardový mixture-of-experts model, kterému při každém kroku běží jen 13 miliard parametrů, tu není obalený cizí pipeline: používá normální KSampler i VAE Decode a ComfyUI si jeho experty streamuje ze systémové RAM, takže stačí jedna spotřebitelská nvidie s 12 GB a více. V galerii ukazuje vedle sebe 4bitovou a int8 verzi na stejném promptu a seedu, k tomu editaci podle instrukce a style transfer ze dvou obrázků, všechno na Instruct-Distil na 8 kroků a vybrané z většího běhu bez přelosovávání.
+
+Hotové váhy existují ve třech velikostech: 4bitová W4A8 se vejde do 44 GB, int8 do 76 GB a bf16 zabere 150 GB. K tomu jsou tři varianty, Instruct-Distil na 8 kroků, padesátikrokový Instruct a Base, a tři úlohy od text-to-image přes editaci až po fúzi až tří vstupních obrázků. Na RTX 4090 trvá megapixelový obrázek kolem 22–26 sekund ve 4 bitech a 47–49 sekund v int8, na RTX 3090 asi 29 a 54 sekund, a i při omezení na 16 či 12 GB VRAM zůstává kolem 30 a 32 sekund. Není potřeba nic instalovat přes pip, stačí čerstvé ComfyUI a hodně RAM, se 4bitovým modelem si drželo asi 50 GB.
+
+Diskusi s přehledem ovládla cenzura. Nejvíc hlasů dostala otázka u/nenecaliente69, jestli je model necenzurovaný, na kterou se přidal u/Castler999 s tím, že jde o nejdůležitější otázku, a autor odpověděl gifem a hláškou, že až příliš dobře a že jde o nejnecenzurovanější model široko daleko. Vtipnou zkratkou se přidal u/DogeMoustache s dotazem, jestli zvládne kukuřici, a zkušenost přidal u/Hoodfu, podle kterého je to jeden z nejotevřenějších modelů hned po vybalení a navíc má dobrý cit pro vtipné obličeje a emoce.
+
+Druhá velká linka řeší, na čem to reálně poběží. u/PerAngusta-AdAugusta hlásí, že mu 4bitová verze vygenerovala obrázek asi za dvě minuty na 4070 Ti Super se 16 GB VRAM a 64 GB RAM. Majitel kombinace RTX 3090 s 24 GB a jen 32 GB RAM se ptá na swap a pagefile a u/crombobular mu odpovídá, že je to prokletá kombinace. Na dotaz, zda stačí RTX 4060 s 8 GB a 80 GB RAM, autor přiznává, že netestoval, ale odkládání na disk by podle Claudea mělo fungovat. Výmluvný je postřeh u/CeFurkan, že časy na 3090 a 4090 jsou si velmi blízké, takže většinu času spolkne přenos mezi RAM a GPU.
+
+Hodně se srovnává s lehkou konkurencí. u/Hoje-Na-IA se ptá, jestli má obří model smysl proti šikovným Klein 9B nebo Krea 2, a autor odpovídá, že Krea 2 má možná lepší kvalitu, ale není tak kreativní. Podobně padá otázka na Qwen 2.1, který u/Fenio_PL označuje za přelom pro domácí AI, a na paměťového šampiona Flux 2 Dev, kterého se drží u/SirCabbage. Odpověď u/DelinquentTuna tvrdí, že novinka je dramaticky lepší v text-to-image a následování promptu než plnotučný Flux 2. Zdrženlivější verdikt nabízí u/Hoodfu: není to zabiják Qwen, Krea 2 ani Ideogram 4, ale skvělý model vedle nich.
+
+Komu nevadí velká nálož RAM výměnou za běh na běžné kartě, má teď na hraní dalšího obra s rychlým osmikrokovým režimem.

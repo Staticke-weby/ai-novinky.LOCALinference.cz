@@ -1,0 +1,16 @@
+# 50389448
+**App Store v číslech: AI zmiňuje každá desátá aplikace**
+
+Hacker News · Peter216 · 6. listopadu 2026, 08:59 · 60 bodů / 53 komentářů · [diskuse](https://news.ycombinator.com/item?id=50389448)
+
+Server Obelisk Club prošel 178 637 aplikací, které se od 9. října 2026 objevily v horních žebříčcích App Storu ve 173 zemích, a spočítal, jak často se ohánějí umělou inteligencí. Slova AI, GPT, machine learning, generative či chatbot má v názvu nebo na začátku popisku 9,8 % z nich, nejčastěji v kategorii Graphics & Design, kde se k AI hlásí 43 % aplikací. Hodnocení se přitom od zbytku skoro neliší, v průměru 4,49 hvězdičky proti 4,4.
+
+Zpráva si všímá i toho, jak se aplikace tváří zadarmo a přitom vydělávají: zmínku o nákupech v aplikaci, předplatném, trialu či odemykání Pro verze má 26,7 % bezplatně stahovaných titulů. K AI se takové aplikace hlásí třikrát častěji než čistě bezplatné, údržbu ale mnohé zanedbávají – pětina titulů v žebříčcích nebyla rok a déle aktualizována a skoro desetina přes tři roky. V jedno- a dvouhvězdičkových recenzích si lidé nejčastěji stěžují na předplatné a cenu, následuje rozbitá funkčnost a přihlašování.
+
+Nejdelší vlákno rozjela teze uživatele aurareturn, že má App Store do budoucna problém, protože většinu aplikací mimo hry nahradí jediný AI superasistent. K čemu prý potřebovat aplikaci Booking.com, když asistent během vteřin projde desítky webů, a podobně je v ohrožení vyhledávání Googlu i kancelářský balík od Microsoftu. Odpověď na sebe nenechala čekat: pxtail nechce, aby mu asistent naslepo rezervoval hotel bez fotek a recenzí, kristianc dodává, že procházení hotelů je nejlepší část celého zážitku, a pjmlp připomíná, že o cizí názor na svou dovolenou nestojí.
+
+Do debaty o konci aplikací vstoupil i uživatel pocksuppet s vidinou totálního zahlcení reklamou, kdy asistent ukáže hotel s nejvyšší provizí, zatímco raxy namítá opak z praxe. Jazykové modely prý při dlouhodobém sledování třeba běžeckého tréninku do měsíce halucinují, pletou si data, vzdálenosti i tepy, a to i když mají po ruce tabulku. Cthulhu_ to shrnuje střízlivě: rezervační weby asistenti spíš jen využijí, ohrožené je vyhledávání, poradny typu Stack Overflow či Quora a návštěvnost Wikipedie, zatímco ulfw si z celé představy utahuje, že už si prý nebudeme stahovat ani hry a AI je dohraje za nás.
+
+Věcnější linku přinesl nezávislý vývojář heliographe z kategorie Photo & Video, který aplikace vydává už dlouho před érou vibe codingu. Výroba kvalitní fotoaplikace dřív vyžadovala návrh rozhraní, zpracování signálu i grafické programování pro plynulý náhled, dnes je prý triviální a každý týden přibývají desítky nováčků. Největší pozornost z nich podle něj získal čerstvý Chromagraph, na jehož designu se podílel Rian Johnson, a littlecranky67 z toho vyvozuje, že rozhodovat bude jméno, důvěryhodné recenze a hodnocení. Zbytek diskuse řeší, proč část žebříčků tvoří dlouho neaktualizované a přitom aktivně inzerované tituly, zda by App Store neměl mít filtr na aplikace bez AI a k čemu může být předplatné v nákupech zdánlivě obyčejné aplikace obchodu.
+
+Z čísel tak vychází obchod plný AI nálepek, předplatných a titulů, které žijí v žebříčcích i bez aktualizací, zatímco komunita se přou, zda je to nafouknutá bublina, nebo předzvěst konce aplikací, jak je známe.

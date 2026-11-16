@@ -1,0 +1,16 @@
+# 1wxiysh
+**Mapa úložiště a paměti Claude: co je lokálně, co v cloudu a co se mění 6. října**
+
+r/ClaudeAI · u/BenSimonDev · 4. října 2026, 17:51 · 469 bodů / 58 komentářů · [diskuse](https://www.reddit.com/r/ClaudeAI/comments/1wxiysh/)
+
+Autor dal dohromady jedenadvacet článků nápovědy, dokumentačních stránek a poznámek k vydání, které Anthropic v posledních měsících vydal k přesunu úložiště, a spojil je do jedné vizualizace. Dalším milníkem je 6. říjen: všechny nové relace v aplikaci Claude na tarifech Pro a Max poběží už jen v cloudu bez lokální volby, zatímco dříve rozdělané úkoly zůstanou lokální. Lokální variantou zůstává Claude Code a u Teamu a Enterprise zatím o umístění rozhodují administrátoři.
+
+V diskusi pak autor upřesnil, jak má nový režim zacházet se soubory: cloudová relace umí číst a zapisovat do připojených složek v počítači jen tehdy, když je na tom počítači otevřená desktopová aplikace, po zavření aplikace běží dál, ale na lokální soubory nedosáhne. Přístup k samotným souborům se podle něj nemění, přesun se týká hlavně toho, kde leží historie relací a paměť, a případný dopad na práci s velkými soubory Anthropic oficiálně nekomentoval.
+
+Nejvýše hodnocené reakce se točí kolem stejné obavy: že chat přestane být rozhraním pro vlastní počítač. u/GeggsLegs píše, že se pro něj práce stala nepoužitelnou, protože by musel každý soubor celý nahrávat a s velkými soubory ani lokálními nástroji už nepohne. u/Niceneasy92 to shrnuje otázkou, jestli to znamená konec sahání na lokální soubory v chatu, a dodává, že si asi zvykne povídat si v Code, což mu přijde zvláštní. u/iamthe0ther0ne lituje, že se podmínky horší právě pro běžné účty mimo Team a Enterprise, protože smysl CoWorku viděl v chatovém ovládání lokálního počítače a své soubory na servery Anthropicu dávat nechce.
+
+Další vlákno hledá důvod celého přesunu. Na otázku u/Honest-Golf-3965, jaká je za tím logika, autor odpovídá, že to vypadá jako obecný tlak na cloudové úložiště a paměť, kde je Claude Code poslední výjimkou. u/don123xyz v tom vidí snahu zkomplikovat odchod ke konkurenci, u/Professional-Act6239 mluví o klasickém zhoršování služby a vzkazuje, že pro lidi s většími repozitáři a citlivými soubory nedává konec lokálního režimu smysl. Praktickou náplast nabízí u/gravenfilms: na Macu mu běží Claude Code se vzdáleným ovládáním a z telefonu se k němu připojuje přes aplikaci Claude, takže pracuje se soubory tam, kde jsou, jen počítač musí zůstat vzhůru, což řeší příkazem caffeinate.
+
+Zbytek diskuse řeší každodenní dopady. u/kadeschs popisuje gigabajty firemních postupů, zápisů z porad a interní wiki, které krmil do projektů právě proto, aby je měl po ruce lokálně, a proprietární data do cloudu tlačit nemůže. Ne-technický uživatel u/MrClankin, který přes lokální soubory řeší velkou část byznysu, prosí o návod, jak přejít na Claude Code a nepřijít o nastavené věci. A u/BenSimonDev si stěžuje na ztrátu oblíbené záchrany: když relace spadla, dokázal novou navázat na lokálně uloženou historii, což v cloudu nepůjde, zatímco u/DissociatedOne dodává, že CoWork podle něj ztrácel spolehlivost už předtím.
+
+Pro čtenáře z toho plyne jednoduché vodítko: kdo pracoval s lokálními soubory přes chat, bude se muset po změně rozhodnout mezi cloudem a přechodem do Claude Code.

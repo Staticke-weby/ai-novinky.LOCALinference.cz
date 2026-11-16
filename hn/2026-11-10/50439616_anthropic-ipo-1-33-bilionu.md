@@ -1,0 +1,16 @@
+# 50439616
+**Anthropic míří na burzu. Chce ocenění kolem 1,33 bilionu dolarů**
+
+Hacker News · sonabinu · 10. listopadu 2026, 13:49 · 59 bodů / 83 komentářů · [diskuse](https://news.ycombinator.com/item?id=50439616)
+
+Anthropic zahájil roadshow k plánovanému vstupu na burzu a podle deníku The Wall Street Journal usiluje o ocenění přibližně 1,33 bilionu dolarů. Cenové rozpětí bylo stanoveno na 70 až 78 dolarů za akcii, což by firmě a prodávajícím akcionářům mohlo vynést zhruba 57 až 64 miliard dolarů.
+
+Nabídka čítá 825 milionů akcií třídy A, z toho přes 801 milionů nových akcií od samotného Anthropicu a zbytek, asi 23,6 milionu, od stávajících akcionářů. Firma chce listovat na Nasdaqu pod symbolem ANT, při plném zředění se v materiálech uvádí ocenění až 1,405 bilionu dolarů.
+
+Diskuse na Hacker News je k číslu výrazně skeptická. Uživatel plutokras ho označil za divoce přehnané a srovnal ho se SpaceX, které šlo na burzu při ocenění 1,77 bilionu dolarů s poměrem ceny k ziskům přes 617, zatímco Anthropic podle něj nevlastní datacentra, rakety ani ziskovou internetovou službu. Uživatel ceejayoz kontroval, že ocenění na druhou stranu nestojí na jednom člověku, který může kdykoli odejít nebo se, jak píše, zbláznit, a uživatel FinnKuhn připomněl, že velcí investoři o dosažitelnosti ještě vyššího ocenění 1,5 bilionu pochybují už delší dobu.
+
+Právě chybějící datacentra se stala samostatným sporem. Uživatel jmyeet to vidí spíš jako výhodu, protože nájem výpočetního výkonu je dnes podezřele levný, ale varuje před metlou hyperscalerů: nová generace čipů Nvidia prý může přes noc srazit hodnotu miliard v grafických kartách na polovinu. Spor se stočil i k účetnictví, jak dlouho grafiky vydrží, když jedni počítají se čtyřmi lety a jiní s osmi až deseti, což uživatel jmyeet označil za divoce optimistické. Doplnil, že do roku 2030 poběží slušné modely na levném lokálním hardwaru a Čína zvládne vlastní EUV litografii, což celé pole převrátí.
+
+Nejdelší linka patří otevřeným modelům. Uživatel ddxv píše, že doufá v úspěch volně šiřitelných open-weight modelů, a známým, kteří platí předplatné Anthropicu, prý vysvětluje, že financují firmu bojující proti otevřeným vahám. Uživatelé timmg a glimshe se ptají, kdo by v takovém světě platil trénink, data a zpětnovazební učení a jak má být otevřený model udržitelný. Uživatel dennysora-main to shrnul přirovnáním ke komunismu: krásná utopie, dokud člověk nezapočítá lidskou povahu, války, dohled a fakt, že nikdo nechce platit ani dvacet dolarů, ale čeká hostinu zdarma.
+
+Proti býčí tezi se postavil uživatel bitmasher9, podle kterého Anthropic prodává nejchytřejší inteligenci, zajistil si dost výkonu a sází na to, že víc počítačů znamená měřitelně chytřejší model, náskok v kapacitě na pět let a ochotu firemních zákazníků za drobný náskok platit. Odpovědi byly chladné: uživatel ernst_klim namítl, že když dvou dolarový model v rukou šikovného inženýra udělá totéž co dvacetidolarový, zabijí Anthropic lokálně hostované modely, a uživatel vb-8448 dodal, že rozdíly mezi špičkou jsou tak malé, že rozhoduje jen cena. Skepsi shrnul uživatel thatsabadlook obavou, že se z běžných občanů stává exit liquidity pro dřívější investory, a uživatel BadBadJellyBean si z rozpětí 70 až 78 dolarů utahoval nabídkou 3,50 dolaru.

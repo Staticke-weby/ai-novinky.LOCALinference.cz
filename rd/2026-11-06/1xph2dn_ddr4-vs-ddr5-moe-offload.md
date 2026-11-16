@@ -1,0 +1,12 @@
+# 1xph2dn
+**Šestnáct GPU a 128 GB DDR4. Vyplatí se kvůli MoE přejít na DDR5?**
+
+r/LocalLLM · u/TestOr900 · 6. listopadu 2026, 17:25 · 320 bodů / 128 komentářů · [diskuse](https://www.reddit.com/r/LocalLLM/comments/1xph2dn/)
+
+Majitel jedné z nejšílenějších domácích sestav v komunitě řeší, jak nafouknout paměť pro obří modely. Na Threadripperu PRO 5995WX má šest RTX PRO 6000, osm RTX 5090 a čtyři RTX 3090, ale jen 128 GB DDR4. Chtěl by provozovat zhruba bilionový MoE model v FP8 či kvantizaci Q8 s routovanými experty odloženými do systémové RAM a váhá mezi osmi 64GB moduly DDR4-2933 za asi čtyři tisíce eur s propustností kolem 188 GB/s a kompletním přechodem na 9985WX s deskou WRX90 a 512 GB DDR5-6400 s asi 410 GB/s, přičemž jeho PCIe switche by stejně zůstaly na PCIe 4.0.
+
+Jasně nejvýše hodnocená technická odpověď přišla od u/_Cromwell_, podle kterého je při kombinaci aktivních parametrů ve VRAM a zbytku v RAM rozdíl mezi DDR4 a DDR5 zanedbatelný. Obě jsou proti VRAM prostě pomalé a DDR5 podle něj opravdu rozhoduje až v sestavě bez grafických karet, kde je RAM nejrychlejším zdrojem pro inferenci. Upgrade by tedy byl o něco rychlejší, ale peníze za něj podle něj nestojí, a autorovi se smíchem pogratuloval.
+
+Podobně to vidí u/egnegn1, který provozuje menší sestavu s EPYC Milan a třemi RTX 5080. Při prefillu ho limituje PCIe s tokem kolem 30 GB/s na kartu a celkem asi 90 GB/s při streamování expertů, takže RAM se zdaleka nezapotí, a při dekódování rozhoduje hlavně zásah cache ve VRAM. Pokud se drží vysoko nad osmdesáti procenty, propustnost RAM už tolik nehraje, větší roli může sehrát procesor bez podpory AVX512 a hlavně samotný engine. Sám proto pokukoval po duálním Turinu s dvanácti kanály a 600 GB/s na procesor, ale paměť je podle něj mimo rozpočet.
+
+Zbytek vlákna je směs úžasu, závisti a rýpání. u/ItsmrChewy se ptá, kolik ledvin autor prodal, u/laxative_surplus jeho stroj označuje za celé datové centrum a u/sleight42 ho odhaduje na 140 tisíc dolarů, hned vedle se opakují vtipy, ať si autor dává pozor na Sama Altmana. Do toho zapadá i jeho přiznání, že se ze stroje mezitím stal rig na těžbu Pearlu, kdy osm 5090 sype kolem 120 eur denně, takže předplatné Clauda a Codexu zatím vychází lépe, a celá sestava v zimě aspoň výborně topí. Praktičtější hlasy dodávají, že by místo pamětí prodaly všechno a koupily enterprise server se čtyřmi B300, a u/LongDistanceRope se ptá na software, protože Strata je rychlá jen na pár modelů a obecné enginy pro velký MoE offload jsou zatím zoufale pomalé.

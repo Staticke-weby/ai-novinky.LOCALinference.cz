@@ -1,0 +1,16 @@
+# 1wvfbua
+**Harvardský fyzik dělal 3 měsíce výzkum s Claude Fable 5. Zvládl 15 nevyřešených výpočtů**
+
+r/singularity · u/141_1337 · 2. října 2026, 02:04 · 1146 bodů / 183 komentářů · [diskuse](https://www.reddit.com/r/singularity/comments/1wvfbua/)
+
+Harvardský fyzik Matthew Schwartz se po třech měsících práce s Claude Fable 5 vrátil s hostujícím příspěvkem pro Anthropic o tom, jak dělat vědu zrychlenou umělou inteligencí. Místo aby model nutil pracovat jako člověk, začal hledat takzvané „Claude-shaped" problémy, tedy úlohy šité na míru silným stránkám současných jazykových modelů. Pro ně postavil otevřenou nadstavbu BootLoops, která funguje jako postroj pro přesné výpočty v kvantitativní vědě.
+
+Jako testovací terén si vybral sypání částic pro Velký hadronový urychlovač a takzvaný semi-numerický bootstrap, který spojuje fyziku, matematiku a spoustu kódu, a proto se pro agentní AI hodí. Model nejprve přepsal metody z jeho článků do společného rámce a výsledky původního článku zopakoval asi za 20 minut, ačkoli původní kód autora zabral týdny, a ještě upozornil na efektivnější algoritmus. Pak se pustil do eliptických integrálů, které dosud spočítalo jen pár lidí na světě, a z třiceti úloh dotáhlých od začátku do konce jich patnáct jen ověřilo známé výsledky novou metodou a patnáct nebylo nikdy předtím spočítáno. Protože se stejné rovnice objevují v úplně jiných oborech, rozšířil Schwartz s experty práci mimo fyziku a za tři měsíce to dalo 36 rukopisů v 18 oborech s 19 spoluautory.
+
+Nejvýše hodnocený komentář vlákna tuhle zkušenost shrnul do věty, že nás už nelimituje produktivita, ale porozumění. u/Work_Owl píše, že inženýři jsou vyčerpaní už jen z procházení toho, co AI chrlí, a je to zároveň vyčerpávající i úžasné. Na to navazuje u/endless_sea_of_stars poznámkou, že AI ukrajuje zdola: člověk musí být stejně chytrý nebo chytřejší než model, aby ho dokázal řídit a posoudit, co vyprodukoval. Podobně to vidí i u/m77je, podle kterého brzy nebude nikdo chytřejší než model.
+
+Praktickou linku vnesl do debaty u/dmnksaman, kterého potěšilo, že Claude přepsal proprietární postupy z článků do otevřeného kódu. Publikovat výsledky bez kódu, aby je ostatní mohli zkontrolovat a stavět na nich, by podle něj vůbec nemělo být dovoleno. Vtipnou pojistku navrhuje u/Individual_Ice_6825: nechat výstup zkontrolovat umělou inteligencí a pro jistotu ještě další umělou inteligencí. Do ironického koutku patří i u/Juicemoose222 s poznámkou, že jde přece jen o oslavené automatické doplňování.
+
+Třetí proud diskuse řeší, co to znamená do budoucna. u/AardvarkElegant5889 si rýpl, jestli to ověřilo r/technology, protože tam se prý říká, že AI je zbytečný podvod, a jen těžko by se prý Reddit mýlil. Naopak u/SquareQuit1741 připomíná, že jde o stav dneška a dnešní modely budou za tři roky vypadat primitivně, až se přidá neustálé učení, robotika a nový hardware. Obavy shrnuje u/Snippy_69: mimo Twitter a Reddit prý nikdo nechápe, co přichází, spousta dovedností zastará a společnosti čekají otřesy. Podobně se ptá i u/Prometheusly, kdy se zrychlený výzkum propíše do běžné životní úrovně.
+
+Z vlákna tak zůstává hlavně Schwartzův recept: nepřetlačovat se s modelem, ale dát mu úlohy, kde se jeho šíře znalostí, kódování a rychlé čtení podkladů opravdu potkají s ověřitelným výsledkem.

@@ -1,0 +1,350 @@
+{
+ "date": "2026-10-29",
+ "clanky": 39,
+ "temata": [
+  {
+   "title": "Claude vyhodil subagenta, který nesplnil jeho standard",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xiixew"
+   }
+  },
+  {
+   "title": "Mistral Large 4 je open weight. Bilion parametrů pro kód i obranu",
+   "sources": [
+    "rd",
+    "hn"
+   ],
+   "ids": {
+    "rd": "1xil3qy",
+    "hn": "50289418"
+   }
+  },
+  {
+   "title": "Biotech míří kolmo vzhůru? Komunita brzdí hype",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xih8qk"
+   }
+  },
+  {
+   "title": "Roj AI agentů si zahrál Minecraft a Mindustry. Vznikla z toho byrokracie",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50296486"
+   }
+  },
+  {
+   "title": "AI agenti dostali plný přístup. Viral ukazuje, co se stane",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xinlbn"
+   }
+  },
+  {
+   "title": "Simantic simuluje firmware pro AI agenty. Místo fyzické desky stačí API",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50291116"
+   }
+  },
+  {
+   "title": "Qwen4 dorazí příští týden. Alibaba láká na milionový kontext",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xif6lf"
+   }
+  },
+  {
+   "title": "Martin Fowler o „LLM Voice“: jak poznat text, který psal stroj",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50290177"
+   }
+  },
+  {
+   "title": "PS2 emulátor běží v záložce prohlížeče. Většinu kódu napsal Claude",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xigpgr"
+   }
+  },
+  {
+   "title": "Čínská špionka a Jensen Huang: Nvidia řeší bezpečnostní aféru",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50293047"
+   }
+  },
+  {
+   "title": "Odkud berou AI chatboty čísla? Stopa vede k „zombie statistikám“",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50290283"
+   }
+  },
+  {
+   "title": "Smějte se prompt inženýrům. Práce už prý není",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xi3gma"
+   }
+  },
+  {
+   "title": "Grace Blackwell potřebuje nový scheduler. Rack locality přinese 27 % GPU",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50290912"
+   }
+  },
+  {
+   "title": "Claude odpověděl na instalaci Kubuntu palcem nahoru",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xid1o2"
+   }
+  },
+  {
+   "title": "Kogui promluvili o AI: technologie bez Aluny je nebezpečná",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50287359"
+   }
+  },
+  {
+   "title": "ChatGPT poslal linku na krizovou pomoc. Uživatel jen žertoval",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xia7on"
+   }
+  },
+  {
+   "title": "Claude Duet: osobní asistent, který konečně není otrava",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50292727"
+   }
+  },
+  {
+   "title": "Higgsfield hrozí žalobou ComfyUI. Open source challenge zůstává",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xixfwe"
+   }
+  },
+  {
+   "title": "Alphabet ztratil 500 miliard. AI souhrny ve vyhledávání srážejí reklamy",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50297037"
+   }
+  },
+  {
+   "title": "Gemini 4 Xenon: leak, který komunita rozebrala jako fake",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xitjql"
+   }
+  },
+  {
+   "title": "Novinář předložil AI článek do IEEE žurnálu. Prošel?",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50286738"
+   }
+  },
+  {
+   "title": "Lokální AI ho připravila o práci. Pohovor skončil u Qwenu",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xils4t"
+   }
+  },
+  {
+   "title": "Profesor MIT: AI nám bere schopnost myslet. Řešením je tření",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50290324"
+   }
+  },
+  {
+   "title": "OpenAI dá předplatitelům až 500 dolarů měsíčně v API kreditech",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xifmqv"
+   }
+  },
+  {
+   "title": "Jediná SMS shodí Android. Chyba v telephony padá i nouzová volání",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50285452"
+   }
+  },
+  {
+   "title": "Musk slibuje univerzální vysoký příjem. Kritici vidí koně, který neumí létat",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1ximkz5"
+   }
+  },
+  {
+   "title": "Hackeři zveřejnili identity 40 tisíc zaměstnanců DHS",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50287898"
+   }
+  },
+  {
+   "title": "Zemřela po radě ChatGPT o lécích. Diskuze řeší odpovědnost",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xifo3d"
+   }
+  },
+  {
+   "title": "Ručně postavený řetěz chyb v Edge. Bez AI a bez přetečení paměti",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50285319"
+   }
+  },
+  {
+   "title": "Claude pomohl oživit Pixel 10 bez ztráty dat",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xin15e"
+   }
+  },
+  {
+   "title": "World model na Raspberry Pi Pico: hra se sní a hraje sama",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50295450"
+   }
+  },
+  {
+   "title": "Šestiletá dcera navrhla hru, Claude napsal 136 tisíc řádků",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xiks9w"
+   }
+  },
+  {
+   "title": "Tomáš Mikolov dostal státní vyznamenání za AI a word2vec",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50292233"
+   }
+  },
+  {
+   "title": "Agenti Claude Sonnet 5 operovali myš. Zákrok přežila",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xixhv8"
+   }
+  },
+  {
+   "title": "Keplearn hledá rovnice v datech. Symbolická regrese za sekundy",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50289590"
+   }
+  },
+  {
+   "title": "OpenAI prý sloučí chat a pracovní limity. Plus uživatelé se bouří",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xixy91"
+   }
+  },
+  {
+   "title": "Proč se dobří vývojáři bojí agentního vývoje? Tuší produkci",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50289162"
+   }
+  },
+  {
+   "title": "Character sheet v Mossu: workflow proti rozpadu identity",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xiag6d"
+   }
+  }
+ ]
+}

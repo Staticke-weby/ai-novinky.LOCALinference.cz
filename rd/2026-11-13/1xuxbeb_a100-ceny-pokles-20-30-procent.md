@@ -1,0 +1,12 @@
+# 1xuxbeb
+**A100 zlevnily o 20 až 30 procent. Trh s ojetými GPU se hroutí**
+
+r/LocalLLaMA · u/Bascilian · 13. listopadu 2026, 04:31 · 439 bodů / 232 komentářů · [diskuse](https://www.reddit.com/r/LocalLLaMA/comments/1xuxbeb/)
+
+Autor navázal na svůj starší příspěvek o kolapsu cen A100 a hlásí další pokles o 20 až 30 procent. Prodejci podle něj pochopili, že je lepší zlevnit a zbavit se zásob hned, než pomalu prodávat a nechat se semlít hlubším propadem. Za důvod označil nástup Blackwellu a Rubinu, které jsou 3–4krát efektivnější na watt a mají dostupnější financování, zatímco A100 se prý na moderní inference už moc nehodí a zlevnila i RTX 6000 ze špičky 18 tisíc na 14,8 tisíce dolarů.
+
+Nejhlasitější reakce je strohá: u/oh_no_the_claw připomíná, že jde o šest let staré karty. Na to navazuje u/Civil_Fee_7862, podle kterého jsou A100 dnes pro většinu lidí zastaralé – ani 80 GB paměti prý nestačí na konkurenceschopné modely a minimum pro produkční práci s jazykovými modely vidí na 96 až 128 GB. Sám píše, že na 72 GB dělá velké kompromisy s nízkými kvantizacemi a menšími modely, a za lepší volbu považuje kartu s 84 GB paměti a vyšším výkonem za nižší cenu, takže A100 budou podle něj zlevňovat dál.
+
+Vysvětlení propadu nabídl u/thetaFAANG: na trh se najednou dostala nová nabídka, když se ukázalo, že staré 8GB těžební karty Nvidie jsou ve skutečnosti 80GB A100 a modderům se je podařilo odemknout. Jejich cena tak vyletěla ze 100 dolarů na 4 až 7 tisíc, zatímco klasické A100 spadly z 20 tisíc na dnešek a obě ceny se stále sbližují. Praktickou matematiku přidal u/Dedap85 s tabulkou z eBay: A100 40GB vychází na spodku nabídky asi na 3,09 dolaru za GB/s proti 1,91 dolaru u RTX 3090, po dalším poklesu o 20 až 30 procent by se dostala na 2,2 až 2,5 dolaru a pro malé pronajímatele by právě tam mohla začít dávat smysl díky 40 GB na jedné kartě a NVLinku.
+
+Zbytek vlákna řeší, kdo by tyhle karty ještě kupoval a co zlevní příště. u/OvertaxedOne píše, že v jeho Microcenteru v Charlotte leží na regálech asi 25 kusů Pro 6000 a skoro 30 kusů R9700, slevy hlásí i u Pro 4500 a Pro 5000, a doufá, že „šílenství končí". u/Affectionate_Diet891 si tam právě koupil RTX Pro 4500 za 3499,99 dolaru a musel podepsat papír, že kartu nepřeprodá. Ozývá se ale i protitlak: u/kleonikos bere čtyři servery s 8× A100 místo dvaceti serverů s V100, protože na jeho interní zátěž dávají za tu cenu šílený výkon, a u/ain92ru se ptá, proč by A100 nešly na inference, když se do clusteru 8× 40 GB vejde model v int4 a efektivita na watt v řadě regionů Číny nehraje roli.

@@ -1,0 +1,438 @@
+{
+ "date": "2026-10-24",
+ "clanky": 48,
+ "temata": [
+  {
+   "title": "Hacker našel v Samsung televizi AI, která poslouchá psy i děti. OpenAI ho za to zablokovala",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xduimx"
+   }
+  },
+  {
+   "title": "GPU-unlock odemyká vyšší FP/BF16 výkon na Nvidia RTX 3000",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50219700"
+   }
+  },
+  {
+   "title": "OpenAI nechal své agenty komunikovat přes cache procesoru. Byl to ale řízený test",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xedx50"
+   }
+  },
+  {
+   "title": "Čip z EPFL dekóduje komunikaci mezi mozkovými oblastmi",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50222525"
+   }
+  },
+  {
+   "title": "Bezpečnostní šéf Anthropicu varuje: AI už nachází zranitelnosti, na které lidé nestačí",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xe7jz9"
+   }
+  },
+  {
+   "title": "Apollo: mimo tech se výnosy z AI neprojevují",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50224463"
+   }
+  },
+  {
+   "title": "Anthropic: tržby 16,3 miliardy, ztráta 80,7 miliardy a valuace 2 biliony dolarů",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xe02h6"
+   }
+  },
+  {
+   "title": "Google v Finsku vykácela 250 tisíc stromů kvůli datacentru",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50221676"
+   }
+  },
+  {
+   "title": "Kimi K3.1 vychází s otevřenými váhami. Z tréninku zmizela data o kyberútocích",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xecgrf"
+   }
+  },
+  {
+   "title": "Proč je jazyk generovaný AI tak těžké pochopit",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50223647"
+   }
+  },
+  {
+   "title": "ChatGPT odmítá i nevinou úpravu obrázku. Uživatelé si dělají legraci z guardrails",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xe3tev"
+   }
+  },
+  {
+   "title": "Dream-1: robotická platforma s veřejným API a 90 miliony na rozjezd",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50223785"
+   }
+  },
+  {
+   "title": "Zaměstnanci Boston Dynamics žádají zrušení prodeje robotů Spot imigračnímu úřadu ICE",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xe5pqg"
+   }
+  },
+  {
+   "title": "Studie o Z-Library cituje neexistující článek, pomáhala jí AI",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50220204"
+   }
+  },
+  {
+   "title": "Video z roku 2003: Dario Amodei na univerzitě protestoval proti válce v Iráku",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xekblx"
+   }
+  },
+  {
+   "title": "JetBrains uvádí ThinkRail, agentní IDE se spec grafem",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50219186"
+   }
+  },
+  {
+   "title": "Gemini Argon radí jelenovi v kuželech světel. Uživatelé obdivují jeho humor",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xds3dz"
+   }
+  },
+  {
+   "title": "Math revised: komunita opravuje matematické texty OpenAI",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50222283"
+   }
+  },
+  {
+   "title": "Altman: modely nacházejí chyby, které lidé přehlížejí. Kyberbezpečnost čeká změna",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xe5i3d"
+   }
+  },
+  {
+   "title": "Bankovní aplikace začínají oficiálně podporovat GrapheneOS",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50217495"
+   }
+  },
+  {
+   "title": "RTX 4090 má softwarový strop. Komunita ho odemkla vlastním ovladačem",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xe8799"
+   }
+  },
+  {
+   "title": "Root shell na nové Samsung TV odhalil skryté sledování",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50218633"
+   }
+  },
+  {
+   "title": "Anthropic: většina agentů má mít jeden cyklus, ne hromadu subagentů",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xdwquj"
+   }
+  },
+  {
+   "title": "Steal My Bitcoin: 500 dolarů za průnik přes PHP zranitelnost",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50224916"
+   }
+  },
+  {
+   "title": "Malfoid: AI vyrobila Harryho Pottera jako PS2 hru a internet žasne",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xdrmf9"
+   }
+  },
+  {
+   "title": "OBS Studio 33 přináší nový CEF a přepracované pluginy",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50218430"
+   }
+  },
+  {
+   "title": "Qwen4-27B unikl přes pull request. Napovídá to termínu vydání",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xdwrak"
+   }
+  },
+  {
+   "title": "Musk vypnul Starshield a Evropa řeší technologickou suverenitu",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50220913"
+   }
+  },
+  {
+   "title": "Block představil Dessa. Hlasový model se učí jen z lidské řeči",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xe8b2x"
+   }
+  },
+  {
+   "title": "HTTP2Shell: zranitelnost Brotli ohrožuje Node, Python i HTTP knihovny",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50219177"
+   }
+  },
+  {
+   "title": "Studie: GPT zvýhodňuje ženy a v morálních dilematech soudí muže přísněji",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xdt50e"
+   }
+  },
+  {
+   "title": "Roku přesouvá vývojářské repozitáře z GitHubu na GitLab",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50222622"
+   }
+  },
+  {
+   "title": "Meta trénuje malé modely na syrových bajtech. Místo tokenů čtou písmena",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xe88ja"
+   }
+  },
+  {
+   "title": "Apple otevřel přihlášky do programu Security Research Device",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50217903"
+   }
+  },
+  {
+   "title": "RTX 5090 v čínských laboratořích rozebírají na čipy pro AI servery",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xe1zsr"
+   }
+  },
+  {
+   "title": "Altman: všechny chyby už opravit nedokážeme, obrana musí být v AI",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50222976"
+   }
+  },
+  {
+   "title": "Výzva tvůrcům modelů: nahrávejte je na Hugging Face, ne jen na CivitAI",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xej95t"
+   }
+  },
+  {
+   "title": "Indické vládní weby dál vydávají revokované eMudhra certifikáty",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50218277"
+   }
+  },
+  {
+   "title": "ARC-AGI-3 je prý saturovaný. Chollet musí vymyslet další benchmark",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xeg0e9"
+   }
+  },
+  {
+   "title": "Root na TCL Android TV přes zranitelnost Mali",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50220042"
+   }
+  },
+  {
+   "title": "Qwen-Flash-Next Coder zvládne 262 tisíc tokenů na 8GB grafice",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xebdzl"
+   }
+  },
+  {
+   "title": "První rozbité iPhone Duo: praskliny u pantu",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50223580"
+   }
+  },
+  {
+   "title": "AI laboratoře nabízejí ekonomům statisíce za trénink vlastní náhrady",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xeczu3"
+   }
+  },
+  {
+   "title": "Google platí za úspory elektřiny, aby datacentra spotřebovala víc",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50215983"
+   }
+  },
+  {
+   "title": "Miliony Metiných AI žijí v simulaci a nevědí o tom",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xecnoi"
+   }
+  },
+  {
+   "title": "Terence Tao: AI mění krásnou matematiku na toxický odpad",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xe9ora"
+   }
+  },
+  {
+   "title": "Qwen3.8 rozpoznal manipulaci v sabotážním testu. Bug přesto zanesl",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xdwcr0"
+   }
+  },
+  {
+   "title": "CivitAI se mění v placený web. Tvůrci se bouří",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xeewpg"
+   }
+  }
+ ]
+}

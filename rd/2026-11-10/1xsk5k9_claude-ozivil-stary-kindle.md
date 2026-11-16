@@ -1,0 +1,14 @@
+# 1xsk5k9
+**Claude oživil starý Kindle. Čtečka zase slouží**
+
+r/ClaudeAI · u/abdenourgnx1 · 10. listopadu 2026, 12:06 · 2695 bodů / 107 komentářů · [diskuse](https://www.reddit.com/r/ClaudeAI/comments/1xsk5k9/)
+
+Starý Kindle sedmé generace dostal druhou šanci jako úsporný domácí displej. Autor ho nejdřív ručně odemkl jailbreakem podle návodu z kindlemodding.org, protože s novými pojistkami modelu by Claude jinak na systémové soubory čtečky nesáhl. Pak už jen předložil obrázek s představou a popisem chování a Claude navrhl a postavil celou aplikaci spouštěnou přes launcher KUAL. Displej stahuje data přes wi-fi jen jednou za hodinu, mezi aktualizacemi spí a v noci se neobnovuje vůbec, takže mu baterie klesá asi o deset procent za týden.
+
+Nejhlasitější ohlas se dá shrnout jednou prosbou od u/h4ckt0r, aby autor nasdílel kód a ostatní nemuseli „pálit tokeny od nuly". Ukázalo se totiž, že podobných kutilů je víc: u/Terminator786t si před pár týdny postavil dashboard pro domácí server, u/bballar proměnil starou čtečku v dálkové ovládání domácnosti a u/losttachyon si z ní udělal spořič s úkoly z TickTick. Vlákno se tak rychle změnilo v přehlídku toho, co všechno umí zaprášený e-ink, když se mu dá nový úkol.
+
+Z praktické debaty nejvíc zaujala spotřeba. Autorovo číslo deset procent týdně ostatní berou jako důkaz, že jde o skutečný projekt, ne jen víkendové demo, a hned rozebírají, jak ho udržet. u/Ok-Distance-6388 radí vykreslit celou obrazovku jinde jako jeden obrázek a na Kindlu ho jen stáhnout a zobrazit, aby kód v zařízení zůstal drobný, a každých pár aktualizací vynutit plné překreslení, jinak zůstanou po částečných obnovách duchové. Na to navazuje u/jijialuoke otázkou, jestli má smyčka limit opakování, aby vadné připojení nenechalo rádio vzhůru. Jinou cestu zvolil u/Wayneee1987, který u svého starého Kindlu vyměnil baterii a drží ho trvale na 3,9 V, protože stahování předpovědi přes wi-fi jinak žere energii.
+
+Nechybí ani širší pohled a rýpnutí do Amazonu. u/Methodical_Science připomíná, že k přestavbě není Claude nutný, a popisuje vlastní sestavu z otevřených projektů: staré Echo Doty a Echo Show, kamery Wyze a dva tablety Galaxy Tab proměnil přes Kiosk Satellite, Lineage OS, Home Assistant a Thingino v terminály na zámky, topení, garáž, kamery či alarm, vše odříznuté na izolované síti a z osmdesáti až devadesáti procent obsloužené lokálními modely. u/splitsecondclassic v tom vidí ironii, že Amazon bude spíš hledat, jak Kindle ještě víc zamknout majitelům, kteří za něj zaplatili, místo aby pro takové využití otevřel nový trh. Mezitím si ostatní malují jízdní řád vlaků na ráno, předpověď počasí nebo ovladač pro Sonos — i proto se v diskusi žertuje, že si lidé kvůli projektu koupí použitý Kindle.
+
+Ze zapomenuté čtečky v šuplíku se tak stala levná nástěnka, která svítí jen když je potřeba a vydrží dny na jedno nabití.

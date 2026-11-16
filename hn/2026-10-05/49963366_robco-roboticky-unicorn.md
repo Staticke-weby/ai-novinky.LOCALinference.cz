@@ -1,0 +1,14 @@
+# 49963366
+**Německý RobCo dosáhl ocenění 1 miliardy dolarů**
+
+Hacker News · dachworker · 5. října 2026, 13:13 · 328 bodů / 343 komentářů · [diskuse](https://news.ycombinator.com/item?id=49963366)
+
+Německý robotický startup RobCo překročil valuaci jedné miliardy dolarů a zařadil se mezi nové evropské robotické jednorožce. Na Hacker News na zprávu upozornil uživatel dachworker odkazem na TechFundingNews a diskuse se rychle rozrostla na více než tři stovky komentářů.
+
+Největší ohlas neměla samotná valuace, ale jméno firmy. Jak připomněl Findecanor, RobCo bylo dobře zavedené v herní sérii Fallout dlouho před vznikem této společnosti, a rusk to glosoval slovy, že pláče v dystopii. Uživatel 7speter dodal, že hlavně když se šéf nejmenuje Robert House, igleria si posteskl, co to je s lidmi, že si vybírají jména zlých korporací, a napkid vzpomněl na podobné zděšení, když poprvé slyšel o firmě Palantir. Linka se pak rozjela do obecné soutěže o nejhorší korporátní název: SillyUsername zmínil zbrojovku jménem Stark, pjc50 prodej modemů pod jménem Universal Robotics z Asimovových románů a ahoka čeká, až někdo firmu skutečně pojmenuje Torment Nexus.
+
+Vedle vtipů se řešilo, co RobCo vlastně dělá. Uživatel askl čekal další zklamaní v podobě humanoidního robota skládajícího prádlo, ale podle něj firma buduje něco skutečně užitečného. Na to se strhla hádka o prádlo samotné: lolakutty se ptal, zda skládání prádla není užitečné, a skrebbel kontroval, že právě robot na skládání prádla ho láká víc než generátor kódu, protože kód ho baví, zatímco prádlo ne. Sám dachworker napsal, že jádrem produktu jsou podle něj „nudní" průmysloví roboti s trochou umělé inteligence navrch, což považuje za chytré, protože firma může těžit z hypu, aniž by na něm stála. Zaujal ho hlavně model robot-as-a-service, ke kterému se skepticky ozval Rebuff5007, že ho udivuje, že se o něj venture firmy pořád pokoušejí, zatímco skrebbel ho hájil příkladem velkých firem jako Schlumberger, které si vyvíjejí zařízení doma a pronajímají je i s obsluhou.
+
+Třetí velká debata se točila kolem peněz a národnosti. Uživatel fifilura vypsal stávající investory od Sequoia přes Lightspeed až po Cherry Ventures a zeptal se, jaký podíl peněz je z USA. Uživatel petcat rozebral, že Sequoia, Lightspeed a Promus jsou američtí, Greenfield izraelský a Kindred britský, zatímco jediný německý investor je Cherry Ventures. Na to konschubert reagoval, že to čte spíš jako důkaz, že v Evropě peněz dostatek je, když jsou sem ochotni investovat i Američané. Nejdůrazněji to formulovali mrtksn a pjc50: peníze jsou dnes globální, tečou do evropských inovací, a představa dokonalého národního šampiona bez cizích peněz, pracovníků a vstupů povede jen ke zklamání.
+
+Z vlákna tak zbyl obrázek typický pro Hacker News: z miliardové valuace se stala debata o Falloutu, skládání prádla a o tom, jestli může být evropský úspěch financovaný z ciziny pořád evropský.

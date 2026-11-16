@@ -1,0 +1,16 @@
+# 50013902
+**Kritika OpenAI preprintu o matematice: kde je komunikace?**
+
+Hacker News · md224 · 9. října 2026, 01:29 · 199 bodů / 300 komentářů · [diskuse](https://news.ycombinator.com/item?id=50013902)
+
+Matematik Asaf Karagila se na svém blogu ostře opřel do preprintu OpenAI, podle kterého princip rozkladu neimplikuje axiom výběru. Problém starý přes sto let ho přitom profesně zajímá, na stránce se svými úkoly dokonce slíbil, že za jeho vyřešení pošle Samu Altmanovi láhev whisky. Teď vzkazuje, že žádnou whisky posílat nebude a vysvětluje proč.
+
+Karagila píše, že letmo prošel text, nikoli obrovský kód v Leanu, a označuje ho za nejasný, zmatený a podivně vystavěný. Vadí mu nepřesná terminologie, podivně formulované věty a lemmata, která by v takovém článku nečekal, i odkazy na nepublikované a nerecenzované poznámky z přednášek. Takový rukopis by podle něj v časopise čekalo okamžité odmítnutí bez recenze, protože povinností autora je text srozumitelně zprostředkovat čtenářům.
+
+Největší přestřelku rozpoutal uživatel ComplexSystems poznámkou, že když se Karagilovi nechce dát práci s pochopením výsledku, ať to přenechá mladší hladové generaci matematiků, která ho ráda předžvýká. Odpovědi se na něj sesypaly ze všech stran. Uživatel bamboozled se ptá, jestli má OpenAI zaplavit svět znečištěním a čekat, až to vědci přelouskají, uživatel rbehrends namítá, že vyklopit nedodělanou práci na komunitu není věda, a uživatel SpicyLemonZest řeší, zda je nečitelnost jen neumětelstvím, nebo snahou předefinovat matematiku jako generování důkazů bez porozumění. Uživatel joe_the_user v tom vidí typický siliconvalleyský trik se slovem zapálení a uživatel senorcrab připomíná, že celý smysl zápisu důkazu je v jeho srozumitelnosti.
+
+Podobně zní přirovnání uživatele jeremyjh k pull requestu od Clauda, který nedodržuje pravidla projektu, není jasný a vypadá jako nesmysl, takže se zavírá bez komentáře. Uživatel contravariant dodává, že poslat odpověď v žargonu s certifikátem je krutý způsob dělání matematiky, a na důkaz to zašifruje do base64. Praktickou námitku přidávají uživatelé nxobject a robotpepi: mladí doktorandi a postdoci bez jistého místa prý nemají na luštění strojového textu čas ani chuť, protože nevědí, zda je zítra lepší model desetinásobně nepředežene.
+
+Třetí linka diskuse řeší, co s tím. Uživatel transitivebs soudí, že OpenAI podobné ohlasy zapracuje a brzy už nebude na čem si stěžovat, psaní bude až nadlidské, a chválí Karagilovu metaforu o zahlcení. Oproti tomu uživatelé samuelknight a adverbly míní, že firma utratila miliony za výpočty a drobné za sepsání, výsledek nazývají hromadou odpadu a poškozením komunity. Správná cesta by podle nich byla vyvíjet srozumitelné důkazy spolu s matematiky, ne házet jim na hlavu nesrozumitelné balíky. Do toho zapadá i filozofická odbočka uživatele jdw64 o tom, zda má nepochopitelný důkaz cenu a zda věda nenaráží na meze lidského chápání, na což uživatel adverbly odpovídá, že takový důkaz má cenu mnohem menší.
+
+Z debaty je cítit hlavně únava z představy, že porozumění je luxus. Kdo čeká pokračování o dopadu na matematiku, najde ho v navazující diskusi Breathtaking, Devastating: Mathematics Reels After New OpenAI Release.

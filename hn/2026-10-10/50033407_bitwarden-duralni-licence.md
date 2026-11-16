@@ -1,0 +1,14 @@
+# 50033407
+**Bitwarden přechází na duální licenční model**
+
+Hacker News · Cider9986 · 10. října 2026, 16:32 · 366 bodů / 263 komentářů · [diskuse](https://news.ycombinator.com/item?id=50033407)
+
+Uživatel Cider9986 upozornil na oznámení z komunitního fóra Bitwardenu o aktualizaci verzí publikovaných v obchodech s aplikacemi. Spolu s ním firma zavádí duální licenční model, který část čtenářů vnímá jako krok od plně otevřeného vývoje. Příspěvek rychle nasbíral stovky bodů a rozjel debatu o důvěře ve správce hesel.
+
+První reakce zní: bylo to nevyhnutelné, jakmile firma vzala investici. figmert to napsal bez okolků, msdz jako platící zákazník dodal, že obrat o 180 stupňů čeká už od letošního textu o tiché přestavbě Bitwardenu, a trentor připomněl přechod pod private equity v posledním roce. petterroea změnu přirovnal k Elasticsearch, Terraformu a Redisu a ptá se, jestli se open source jen brání vykradačům, zatímco Rebelgecko v tom vidí nové majitele, kteří pomalu vaří žábu, aby uživatelé neutekli najednou.
+
+Druhá linka řeší, zda je „všechen zdroj dostupný, ale s omezením komerčního využití" ještě přijatelný kompromis. dannyw píše, že mu to dává smysl a předplatné si nechá, dokud zůstane funkční osobní self-hosting, protože financování open source je nevyřešené a velký cloud umí cizí kód převzít distribucí. Proti tomu stojí merb, podle kterého Bitwarden proslavila právě licence a její pozdější změna je čistá chamtivost, i solarkraft, který je vděčný za roky důvěryhodné správy, ale bojí se dusení verze zdarma. selectodude kontruje, že kdyby lidé platili zhruba 20 dolarů ročně za hostování, firma by šrouby utahovat nemusela, zatímco behringer už volá po odchodu jinam. Zkušenost z druhé strany přidal compsciphd, který byl u Redisu při změně licence a neprosadil s tím, aby jádro zůstalo pod BSD a komerční části se jen přibalovaly ke zdrojům.
+
+Nejvěcnější spor je o klienty, ne o server. hn3ufz62f7 popisuje roky provozu Vaultwardenu pro tým kolem 15 lidí a varuje, že pokud mobilní aplikace nepůjdou sestavit ze zdrojů, příběh self-hostingu se výrazně ztenčí. Cider9986 doplňuje, že sám jede na telefonu s GrapheneOS verzi z GitHubu na F-Droidu, protože nemá služby Googlu a telemetrii, a zmínil alternativního klienta Keyguard na Play Storu, byť ten je dostupný ze zdrojů, ale plně chráněný autorským právem. Kritika míří i na techniku: arjie tvrdí, že rozšíření pro Chrome je zbytečně těžké a po přepsání umí vyskočit do 100 ms i tam, kde se standardní verze na M1 Max zadrhává. Kdo hledá únik, přehazuje si tipy od PassPony přes AliasVault až po KeepassXC se SyncThingem nebo placený 1Password, přičemž movsx u PassPony zatím naráží na chybějící podporu Yubikey.
+
+Z debaty tak zůstává hlavně otázka, jakou strukturou trvale zaručit otevřenost, když embedding-shape připomíná, že i neziskovou nadaci lze firemními kličkami převrátit, a jako příklad zmiňuje OpenAI.

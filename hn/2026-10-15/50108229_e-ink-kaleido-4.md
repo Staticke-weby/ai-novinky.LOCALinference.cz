@@ -1,0 +1,16 @@
+# 50108229
+**E Ink Kaleido 4: barevný ePaper s lepším jasem a kontrastem**
+
+Hacker News · Perroboc · 15. října 2026, 20:38 · 160 bodů / 90 komentářů · [diskuse](https://news.ycombinator.com/item?id=50108229)
+
+Společnost E Ink představila čtvrtou generaci své barevné ePaper platformy Kaleido 4. Slibuje věrnější barvy, vyšší jas a kontrast, a tedy detailnější a plynulejší čtení i prohlížení obrázků a grafů.
+
+Podle oznámení se objem barevného gamutu proti minulé generaci zdvojnásobil na více než 40 tisíc, odrazivost bílé stoupla o 15 % a kontrast o 50 %, nové algoritmy navíc zvládnou video až 18 snímků za sekundu. Prvním hotovým produktem s novým panelem je chytrý zápisník M10C II od Hanvon Technology, který díky oxidovému displeji, novému podsvícení a vlastní elektronice otáčí stránky o 27 % rychleji a přidává bezbateriové pero s 8 192 stupni přítlaku. E Ink tím míří z knížek do učeben a kanceláří, kde se čtou barevná PDF, prezentace, tabulky, ilustrace a technické výkresy.
+
+Nejživější debata se vedla o tom, jestli má tahle cesta vůbec smysl. IshKebab připomněl, že Kaleido je stále jen černobílý panel s barevným filtrem, jehož barvy byly dosud mdlé a bez čelního světla mdlé o to víc, a že ho víc lákají panely Spectra a Gallery pracující se skutečnými barevnými pigmenty. Na to navázal zeeveener zkušeností s fotorámečkem InkJoy, jehož vyvážení bílé je příšerně šedé a vedle tištěných fotek na zdi vůbec nevypadá jako papír, zatímco bhelkey varoval, že levné barevné panely od Waveshare překreslují i dvacet sekund a ditheringu sluší jen plošné kreslené obrázky. Torginus proto nadhodil, že by raději stavěl transfreflektivní barevné LCD bez prodlev a překreslovacích tanečků.
+
+Druhá silná linka patřila zastáncům černobílé. BoingBoomTschak si posteskl, že pro lidi bez zájmu o barvu jako by nic nového nevycházelo, a strhla se vlna vzpomínek na Kobo Aura One. Teroshan, stuxnet79 i jdprgm se shodli, že s alternativním čtecím softwarem KOReader je téměř deset let staré zařízení pořád rychlé a tvarově nepřekonané, a jeden z nich si kvůli nástupu barevných Kob dokonce koupil druhou Auru do zásoby. Speakspokespok k tomu přidal opačnou zkušenost, když po smrti Aury sáhl po Kindle Scribe a dostal větší, tenkou a jednoduchou černobílou čtečku s přenosem PDF přes USB.
+
+Užitečnost barvy se pak přela případ od případu. Real_faxenoff přiznal, že barevný tablet vždycky chtěl, jen nikdy nepřišel na proč, wkjagt litoval, že bílá na jeho barevném modelu není tak bílá jako na monochromatickém, a mulderc popsal zklamání z pomalého překreslování, horšího rozlišení než iPad a aplikací nepsaných pro inkoust. Proti tomu dotancohen miluje černobílý Boox na anotování dokumentů a chybí mu jen žlutá na zvýrazňování, protože barevná verze stejného tabletu s Kaleido 3 je prý uvnitř bez podsvícení nepoužitelná, Tom_alexander by barvu bral na fotorámeček pro babičku, stavové panely a grafy s více křivkami a WolfeReader vzkázal, že u komiksů a barevných PDF o přínosu barvy vůbec nediskutuje. Okuntilnow s Layer8 dodali střízlivou tečku, že i padesátiprocentní nárůst kontrastu startuje z bídného základu kolem 1:10.
+
+Z diskuse tak vychází Kaleido 4 jako vítaný krok pro čtenáře časopisů, skript a komiksů, zatímco milovníci čistě textových čteček dál vyhlížejí spíš dokonalého nástupce staré Aury než barevné filtry.

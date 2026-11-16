@@ -1,0 +1,18 @@
+# 1xer30z
+**OpenAI a Anthropic zablokovaly reverzní inženýrství chytrých televizí**
+
+r/LocalLLaMA · u/kroggens · 25. října 2026, 03:51 · 3392 bodů / 523 komentářů · [diskuse](https://www.reddit.com/r/LocalLLaMA/comments/1xer30z/)
+
+Autor u/kroggens přinesl zprávu, že nástroj REA, zkratka pro „Reserve Engineer Anything", přestal fungovat s Claudem zhruba den po svém zveřejnění. Svůj post označený jako Discussion uzavřel výzvou, že je čas, aby váhy modelů patřily drobným hráčům, a strhla se pod ním bouřlivá debata o vlastnictví zařízení i modelů.
+
+Odkazovaný materiál tvoří vlákno na síti X, které se načetlo jen částečně. Podle něj dostal člověk, který zkoumal firmware vlastní televize, ban od OpenAI. Sám tvrdí, že modely nikdy nepoužil k hledání zranitelností ani k útokům, jen k lokálnímu reverznímu inženýrství, přesto narazil na ochranu Daybreak a přišel o vložené kredity. Doprovodný komentář to ironizuje slovy, že uživatel nesmí zabránit televizi špehovat jeho rodinu bez svolení, a volá po zrychlení.
+
+Paralelně se stejné téma rozjelo v r/ClaudeAI, kde post s 3313 body a 559 komentáři popisuje odmítnutí pomoci s televizním firmwarem, zatímco dotaz na reverzování videohry ochranou prošel. Další vlákno v r/ChatGPT s 390 body a 131 komentáři pak žádá oficiální stanovisko OpenAI k zákazům práce na vlastních zařízeních. Právě kontrast mezi televizí a hrou se stal jedním z hlavních důkazů, že filtry nemíří na reverzní inženýrství obecně.
+
+Nejvíc hlasů dostala praktická rada od u/MotokoAGI: kdo na něco přijde, nemá to hned troubit na internet, ale potichu zreverzovat všechno a sdílet až poté, co už to korporace nestihnou zamknout. Píše o velkých firmách spojených proti sdílenému vlastnictví. Druhý nejsilnější hlas patří u/Character_Pie_5368 s výzvou k přesunu na čínské modely a navazuje na něj celá linka o otevřených vahách — u/klippers děkuje za open weights, u/ahuramazda označuje lokální modely za jedinou cestu a u/Obvious_Mark4416 připomíná, že boj proti proměně soukromí ve zboží dostal s lokálními modely obrovskou vzpruhu.
+
+Do toho zaznívá vztek majitelů. U/HisMajestyXplod se ptá, jak je možné, že nemůže získat přístup ke svému majetku, zatímco výrobce ho smí poslouchat a prodávat jeho data, a u/DagothUrLovesGroza má pocit, že žije v kyberpunkovém vesmíru. U/mglyptostroboides by si nejradši naprogramoval chytrou televizi zpátky na hloupou a u/BangkokPadang by klidně riskoval zničení Samsungu, kdyby mohl nainstalovat úplně offline menu fungující jako v devadesátkách. U/politerate přidává vlastní zkušenost s varováním před deaktivací kvůli jailbreaku vlastního iPhonu pod nálepkou „Cyber Abuse", po kterém zrušil předplatné, jako by dostal sankci za ladění auta.
+
+Technickou protiváhu vnáší u/bigbepisinc, podle kterého Claude Opus 5.5 bez problémů poslal přes ADB příkazy do jeho televize a odstranil software Hisense, stejně jako ladil linuxové jádro a ovladače. Problém podle něj dělá až samotný plugin REA jako nástroj pro nezkušené, přičemž statická analýza prochází a model odmítne až cílený pentest, protože nepozná majitele kódu. U/offlinesir doplňuje, že většina televizních triků jsou jen bezdrátové ADB příkazy, a diví se, že to stačí k označení za zneužití. Zda jde o plošné bezpečnostní pravidlo, nebo strach ze žalob, shrnuje u/dreadthripper poznámkou, že firmy se bojí odpovědnosti za to, co jejich produkty umožní, zatímco u/Nastos-Desfete připomíná, že zkoumání spotřební elektroniky pro účely soukromí je ve většině zemí legální, takže odmítnutí je volba politiky, ne technický limit.
+
+Z diskuse tak zůstává obraz majitele, který legálně zkoumá vlastní obývák, ale narazí na cizí pravidla napsaná do pronajaté inteligence.

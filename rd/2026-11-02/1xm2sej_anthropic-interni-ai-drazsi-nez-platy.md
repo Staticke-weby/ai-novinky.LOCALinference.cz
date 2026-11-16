@@ -1,0 +1,14 @@
+# 1xm2sej
+**Anthropic utrácí za interní AI víc než za platy zaměstnanců, spočítáno v maloobchodních cenách**
+
+r/ClaudeAI · u/Malor777 · 2. listopadu 2026, 18:02 · 501 bodů / 34 komentářů · [diskuse](https://www.reddit.com/r/ClaudeAI/comments/1xm2sej/)
+
+Anthropic podle propočtu Business Insideru interně protocessinguje tolik tokenů Claude, že by jejich hodnota v ceníkových cenách převýšila celkové platy zaměstnanců. Firma přitom tokeny reálně spotřebovává za vlastní náklady, takže jde o modelové číslo, které má ukázat rozsah interního nasazení. Do toho zapadá i zmiňovaný údaj, že interní využití od ledna vzrostlo zhruba 250krát a stává se z něj zásadní nákladová položka.
+
+Diskuse se do toho čísla pustila s viditelnou chutí a nejvýše postavený vtip patří u/Big_Ball_Paul: firma, která věc vyrábí a může ji tak používat za nákladovou cenu, používá hodně té věci. Stejným směrem míří i druhé nejúspěšnější přirovnání od u/christopher_mtrl, podle kterého je to jako počítat, kolik by stálo American Airlines, kdyby piloti a stevardi platili za lety, na kterých pracují, plnou veřejnou cenu. u/BasicsOnly to shrnuje stroze jako samozřejmost a podle něj hloupou zprávu, protože Anthropic maloobchodní cenu neplatí, a u/Ever_Penolope si rýpe, že Business Insider zřejmě platí své tvůrce titulků také v maloobchodních cenách.
+
+Vážnější linku vnáší u/rwz, který sice v Anthropicu nepracuje, ale popisuje vlastní zkušenost: sám měsíce pálil tokenů v ceníkové hodnotě víc, než činila jeho měsíční mzda, než firma začala mluvit o zodpovědném využívání. Interní nástroje na revizi kódu podle něj doslova pálily miliony měsíčně a křivky mířily jen vzhůru, takže ho nepřekvapuje, že špičková AI firma pálí na umělé inteligenci víc než na lidech. Na to navazuje u/Pale-Bother-2778 s tím, že maloobchodní přepočet je hloupý, ale trend pod ním hloupý není – výdaje na AI se stávají běžnou provozní položkou jako výpočty, nikoli benefitem, a ptá se ostatních, kdy u nich ve firmě přišlo zastropování.
+
+Poslední rovina sporu je o to, jestli je ceníkové číslo úplně k ničemu. u/cogito-ergo-sum_ namítá, že každý interně spotřebovaný token je při omezených výpočetních kapacitách neprodaným zbožím s hrubou marží kolem 85 procent, takže rychlý růst interní spotřeby je důležitý ukazatel nákladů příležitosti. Vedle toho se řeší produktivita: u/Eaklony tvrdí, že Opus 5.5 je i v ceníku API v 99 procentech případů výhodnější než stejně placený člověk a jen hrstka architektů má řídit zásadní rozhodnutí, zatímco u/Megatherion666 by si přál poctivý audit přínosů na dolar s odečtením zbytečného přepisování kódu, jinak prý zůstane jen víra v mýtus produktivity.
+
+Z vlákna tak zůstává jednoduché ponaučení: ceníkové srovnání berte jako nadsázku, podstatné je, že interní AI se z experimentu mění v položku, která se poměřuje s mzdami a zaslouží si vlastní rozpočet i kontrolu.

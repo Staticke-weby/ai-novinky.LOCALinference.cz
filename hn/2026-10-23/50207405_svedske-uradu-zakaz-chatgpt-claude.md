@@ -1,0 +1,16 @@
+# 50207405
+**Švédské vládní úřady zakážou ChatGPT a Claude, povolí jen Copilot**
+
+Hacker News · armcat · 23. října 2026, 13:39 · 316 bodů / 118 komentářů · [diskuse](https://news.ycombinator.com/item?id=50207405)
+
+Švédský Regeringskansliet zakázal zaměstnancům používat ChatGPT a Claude a jako schválený nástroj nechal jen Microsoft Copilot. Na Hacker News to nahrál uživatel armcat s odkazem na zprávu švédského rozhlasu a strhla se kolem toho debata o kontrole dat i o závislosti státu na jednom dodavateli.
+
+Původní zpráva podle citací v diskusi zdůrazňuje rizika neregulovaného používání umělé inteligence na úřadech. Švédská správa dopravy při interním auditu odhalila rozšířené a riskantní používání asi deseti různých služeb, kdy lidé do otevřených nástrojů vkládali citlivé informace a dál pak pochybně nakládali s odpověďmi. Část zaměstnanců vládních kanceláří má dál získat přístup k ChatGPT a Claude přes vlastní interně vyvinutou platformu pro asistenty a u schváleného nástroje byla podle tiskového oddělení posílena bezpečnostní opatření, jejichž detaily úřad z bezpečnostních důvodů odmítl sdělit.
+
+Nejhlasitější část diskuse v tom vidí hlavně obchodní a ekosystémový tah. Uživatel petcat nadhazuje, že to vypadá na vazbu na licence Microsoftu pro kancelář a Windows, a jttnr dodává, že se Copilot všude protlačuje s argumentem, proč platit další licenci, když už je v balíku Office 365 a smlouva o ochraně dat pro maily je vyjednaná. Uživatel teiferer to shrnuje dvojsečně: dává smysl mít málo poskytovatelů na seznamu s jasnými dohodami o důvěrnosti, ale zároveň je prý sevření Microsoftu ve švédském veřejném sektoru včetně univerzit tak silné, že jde o přirozený další krok k výhradnímu používání jeho nabídky.
+
+Proti tomu stojí linka o kontrole provozu. Uživatel danck upozorňuje právě na tu interní platformu pro ChatGPT a Claude a čte zákaz jako snahu udržet pod dohledem odchozí provoz, což mu připadá rozumné. Uživatelé lucumo a bartread navazují, že tak úřad spíš vynucuje smlouvy bez uchovávání dat a řeší rezidenci dat, kterou u Anthropicu zajistí prakticky jen přes zprostředkovatele a u OpenAI jen firemní zákazníci s dostatečnou útratou. Uživatel mrweasel připomíná zkušenost z Dánska za mostem, kde úředníci bez rozmyslu vkládali do různých volně vybraných modelů údaje o občanech.
+
+Třetí proud vlákna zákaz relativizuje jako běžnou firemní politiku. Uživatel mjr00 píše, že je to nezajímavá zpráva, protože i jeho padesátičlenný startup vyžaduje používat jen schválené nástroje, a johanneskanybal dodává, že každé IT oddělení, které dělá svou práci, řeší, čím se krmí modely, kolik to stojí a co smí nástroj provádět. Uživatel techjamie popisuje podobný model z vlastní firmy, kde běží vlastní rozhraní nad modely OpenAI a Claude s vypnutým trénováním na interních datech. Zároveň ale jttnr varuje, že nespokojení zaměstnanci zákaz obejdou přes soukromé telefony, a catears přidává švédský kontext v podobě kritiky daňového úřadu Skatteverket za spěch do Azure bez pořádného prověření soukromí a důvěrnosti amerických cloudů.
+
+Z vlákna tak zůstává obraz sporu mezi pořádkem a závislostí: úřad si sjednotil nástroje a provoz, jenže za cenu toho, že důvěra stojí na jednom americkém dodavateli.

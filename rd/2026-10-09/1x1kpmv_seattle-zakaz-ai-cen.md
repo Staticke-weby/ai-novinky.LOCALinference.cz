@@ -1,0 +1,16 @@
+# 1x1kpmv
+**Seattle jako první město zakázal obchodům AI cenotvorbu z osobních dat**
+
+r/singularity · u/SnoozeDoggyDog · 9. října 2026, 14:59 · 253 bodů / 53 komentářů · [diskuse](https://www.reddit.com/r/singularity/comments/1x1kpmv/)
+
+Seattle schválil pravidla Fair and Transparent Pricing, která mají obchodům s potravinami zakázat nastavovat různé ceny různým zákazníkům na základě osobních dat. Oznámení vydal úřad starostky Katie B. Wilsonové po hlasování celé městské rady a město se tím označuje za první v zemi s takovou ochranou spotřebitele. Příspěvek v r/singularity na oznámení jen odkazuje, bez vlastního komentáře.
+
+Podle městského oznámení se zákaz týká velkých kamenných i internetových prodejců potravin a míří na citlivé údaje jako postavení v zaměstnání, rasa, pohlaví, historie prohlížení, aktivita na sociálních sítích nebo konverzace s chatboty. Ceny musí být jasně vyvěšené a platit pro všechny, zatímco klasické kupony a otevřené slevy pro skupiny jako senioři nebo veteráni zůstávají dál povolené. V textu se jako odstrašující příklad zmiňují i zákazníci stejného Safeway, kterým se u stejné krabice krekrů ukázaly různé ceny podle toho, kolik z nich podle systému šlo „vymačkat".
+
+Jádro diskuse otevírá nejvýše hodnocený u/Ok_Barracuda_1161 poznámkou, že přísně vzato nejde o zákaz samotné AI: jde o hodně cílené dynamické ceny, přičemž konverzace uživatelů s AI jsou jen jedním ze zakázaných zdrojů dat pro cenová rozhodnutí. Právě proto považuje opatření za správné, a to jak kvůli soukromí, tak kvůli informační nerovnováze mezi obchodem a zákazníkem.
+
+Souhlasná linka vlákna volá po rozšíření. u/rushmc1 chce pravidla zavést co nejdřív v celé zemi, u/notsure500 si představuje blízkou budoucnost, kdy obchod podle kamery pozná příchozího a digitální cenovka u regálu se zdraží nebo zlevní podle toho, jak ho systém vyhodnotí, a u pokladny si ho pak spáruje s cenou, kterou u regálu viděl. u/MeMyself_And_Whateva k tomu dodává, že poznávání přes sociální sítě nebo aplikaci v telefonu s bluetooth je už nachystaná cesta. Protiváhu přináší u/Izento s otázkou, proč se debata vede až teď, když letecké společnosti a hotely „nás takhle tahají za nos už roky".
+
+Třetí proud řeší, jestli zákaz vůbec půjde hlídat a jestli není škoda. u/JoelMahon píše, že kontrola a vymáhání budou těžké, protože AI v nějaké podobě nastavuje ceny už desítky let, a zároveň upozorňuje, že personalizace umí ceny i snižovat, což opatření podle něj plošně zakazuje. u/Khaaaaannnn to glosuje, že obchody to dělaly dávno před AI pomocí prastaré technologie zvané algoritmy. Nejostřejší ironii dodává u/ShelZuuz: Reddit prý volá po solidaritě a všeobecné zdravotní péči, ale jakmile vyjde najevo, že by miliardář mohl platit za vejce o 50 centů víc než člověk žijící od výplaty k výplatě, mění se rázem zpátky v kapitalisty tak rychle, že se i Ronald Reagan obrací v hrobě. Zcela jiný pohled nabízí u/TheWesternMythos, podle kterého se vyhazuje spousta neprodaného zboží, zatímco chudší lidé nedosáhnou na věci zlepšující život, a personalizace by mohla být výhodná pro všechny: obchody prodají víc a méně vyplýtvají, chudší získají víc a bohatých se to nedotkne.
+
+Seattle tak v očích komentujících testuje, jestli se férovost cen dá uhájit jinak než sledováním zákazníků.

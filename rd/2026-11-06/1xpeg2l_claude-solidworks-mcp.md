@@ -1,0 +1,16 @@
+# 1xpeg2l
+**Claude si napsal konektor do SolidWorks. Za sedm minut měl hotové díly**
+
+r/ClaudeAI · u/idreamincode · 6. listopadu 2026, 15:40 · 516 bodů / 213 komentářů · [diskuse](https://www.reddit.com/r/ClaudeAI/comments/1xpeg2l/)
+
+Autor si nechal od Clauda napsat vlastní MCP konektor přímo do své instalace SolidWorksu. Používá ho na díly z Amazonu a dalších e-shopů, ke kterým neexistuje CAD soubor, a hotové modely mu vznikají během pár minut. Na r/SolidWorks za to sklidil tvrdé downvoty, zatímco v r/ClaudeAI nasbíralo vlákno přes pět set bodů.
+
+Nejvýše hodnocený hlas patří obhajobě. u/Intelligent_Train689 popisuje, jak Claudovi zadal držák počítačového hubu na hliníkový profil včetně závitových částí a vlastního šroubu. Model si podle něj sám upravil zadané rozměry, aby v uchycení nebyla vůle, a po vytištění na 3D tiskárně seděl perfektně, dokonce lépe, než uživatel původně chtěl. Podobně u/JaggedTex vypráví, jak Claudovi poslal jen odkaz na all-in-one zařízení s displejem pro Raspberry Pi, ke kterému chyběl stojánek, a model mu podle dohledaných rozměrů vygeneroval tisknutelný podstavec na první pokus. u/Old-Historian2874 zase chválí převod střídače a navijáku Warn do formátu STEP, byť mu to zabralo hodinu či dvě práce s nejsilnějším nastavením.
+
+Oproti tomu stojí stejně hlasitý tábor zklamaných. u/bonobomaster označil výstup prostě za nepoužitelný odpad a downvoty z r/SolidWorks označil za pochopitelné. u/furysamurai72 píše, že modely se referenčním obrázkům ani nepodobají a připomínají práci nezkušeného konstruktéra bez citu pro detail, která přišla vniveč. Výhrady míří i na vzhled z galerie: u/Nice_Cellist_7595 upozorňuje, že díly neodpovídají tabulce na obrázku a bez pořádných výkresů nelze ověřit rozměry, u/space_wiener se ptá, proč se většina modelů skutečným snímkům obrazovky vůbec nepodobá.
+
+Mezi těmito póly se usadil praktický střed, který řeší, k čemu je takový model vlastně dobrý. u/ProblemSolvents radí jít na McMaster-Carr, stáhnout skutečné výkresy a stavět od nich, u/lukasgravel a u/gamerpaddy se shodují, že příruby a šestihranné konce vypadají v náhledu správně a na zástavbu do větší sestavy to stačí. Vlákna a sražení prý nikdo pro kontrolu kolizí a kusovník nepotřebuje, jen by zbytečně zpomalovaly program. u/gamerpaddy k tomu dodává, že v konstrukčních subredditech s tím člověk neuspěje, protože lidé tam vycítí ohrožení práce, kterou za drahé peníze dělají z devadesáti procent právě takhle rutinně.
+
+Z technického pohledu zaujala nejvíc samotná cesta, ne jen výsledek. u/FriskyFingerFunker vysvětluje, že modernější konektor převádí standardní operace SolidWorks API na vstup ve formátu JSON, kterému Claude lépe rozumí, a při běhu v procesu může vidět vybrané plochy a hrany, což zjednodušuje iterace. u/Queasy-Cap-4453 popisuje, že největší smysl mu dává nechat si od Clauda stavět parametrické modely a konfigurátory, kde jsou všechna omezení a logika přímo v dílu. Širší rámec dodává u/Sterlingz, podle kterého je převod textu a obrázku do CADu oblastí, kde se jazykové modely v roce 2026 zlepšily trojnásobně oproti roku 2025, byť jsou stále špatné a do roku 2027 bude hotovo.
+
+Pro čtenáře z toho plyne jednoduché ponaučení: jako rychlá náhrada chybějícího modelu do sestavy a na tisk jednoduchých držáků už to funguje, na věrnou repliku přesného dílu je lepší přinést výrobní výkres.

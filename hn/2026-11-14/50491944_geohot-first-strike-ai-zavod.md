@@ -1,0 +1,18 @@
+# 50491944
+**geohot: první úder, ASI a slepá ulička AI závodu**
+
+Hacker News · vinyl7 · 14. listopadu 2026, 01:00 · 62 bodů / 48 komentářů · [diskuse](https://news.ycombinator.com/item?id=50491944)
+
+George Hotz varuje, že americká mentalita závodu o umělou inteligenci nemá jasný konec, protože jakýkoliv dnešní náskok soupeř časem dorovná. Jedinou výjimkou by podle něj byla víra, že se superinteligence dá použít k rozhodujícímu prvnímu úderu, který protivníka vyřadí, a právě v téhle logice vidí cestu k velké válce.
+
+Na svém blogu to spojuje s elektřinou jako základem všeho: compute je podle něj funkcí elektřiny a pokud budou trendy pokračovat, bude mít Čína za deset let desetinásobnou spotřebu proti USA. Místo krátkodobého myšlení s nulovým součtem proto navrhuje prodávat do Číny co nejvíc AI čipů a za utržené peníze kupovat továrny na soláry a baterie a rychle stavět energetické kapacity. Sám dodává, že takový úder ocel a výrobu dronů asi nepřechytračí, ale jistý si není, a že jeho odhad blízké světové války výrazně zvedla nacionalizace Nvidie.
+
+Diskuse se nejdřív stočila k otázce uživatele 650, co vlastně brání Americe vyrábět víc elektřiny. Odpovědi se sypou z různých stran: zja mluví o vlivu uhelných a plynových firem, zhivota pak rozebírá zamotané povolování, lokální odpor proti stavbám, environmentální zákony států, cla na solární techniku a přemrštěné náklady infrastruktury. Společným tónem je, že příčin je mnoho a jsou rozprostřené mezi vrstvami vlády, takže se těžko řeší najednou.
+
+Druhá linka řeší, jestli víc energie automaticky znamená vítězství. dleeftink připomíná, že omezení výkonu i energie v posledních letech přineslo spoustu inovací, fibers dodává příklad DeepSeeku, který musel inovovat právě s omezeným výpočetním výkonem. Na to mcoliver odpovídá ponuře, že omezenější země inovuje a Čína inovace převezme a díky obrovským energetickým zdrojům je využije ještě víc, takže energie nakonec vždycky vyhraje. Do toho peter422, PowerElectronix a kelnos vnášejí populační perspektivu: Čína má zhruba čtyřikrát víc lidí, takže by logicky měla vyrábět víc elektřiny, a samotná výroba ještě není automatická výhoda.
+
+Nejživější je spor o Hotzův návrh a extrapolace trendů. xgulfie namítá, že takhle kapitalismus nefunguje a peníze z prodaných čipů se samy od sebe nepřelijí do strategické infrastruktury, na což bobsmooth lakonicky odpovídá daněmi. p-e-w si utahuje z přímého protahování křivek, že kdyby trendy z roku 1900 pokračovaly, topili bychom se v koňském trusu. Praktickou námitku přidává noosphr: soláry v noci neběží, sázka na baterie roste pomaleji, než by bylo potřeba, a Amerika by měla jako prioritu národní bezpečnosti stavět jaderné elektrárny. Odpověď přichází ze dvou stran, 01100011 sní o národní vodní síti s přečerpávacími elektrárnami a brian-armstrong poznamenává, že trénování modelů by se dalo škálovat podle toho, kdy svítí slunce.
+
+Zvlášť mrazivou vsuvku přinesl nl, který varoval před voláním po úderech na datacentra. Připomněl zprávu Superpowers and AGI od bývalého úředníka Jacoba Stokese, která mluví o přípravě na údery na čínská datacentra konvenčními zbraněmi, i starší výrok Eliezera Yudkowského o nutnosti být připraven zničit zdivočelé datacentrum náletem. ryandrake to glosoval tím, že jestřábi prostě potřebují nepřítele, nvme0n1p1 dodal, že když je kladivem válečná mašinérie, všechno vypadá jako hřebík. dogscatstrees pak vytáhl paralelu s osmdesátými lety, kdy Washington tlačil na Japonsko dohodou Plaza Accord a polovodičovou dohodou, aby zarazil jeho nástup.
+
+Z vlákna tak zůstává obraz závodu, kde se technická otázka elektřiny a čipů rychle mění v politickou: jestli věřit exponenciálám, inovacím z nedostatku, nebo strachu, že někdo zkusí vyhrát jedním úderem.

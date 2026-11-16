@@ -1,0 +1,14 @@
+# 1xd5ruf
+**Anthropic a klauzule o „feedbacku“ v Claude Code**
+
+r/ClaudeAI · u/HearMeOut-13 · 23. října 2026, 07:51 · 562 bodů / 75 komentářů · [diskuse](https://www.reddit.com/r/ClaudeAI/comments/1xd5ruf/)
+
+Autor s předplatným Max a vypnutým přepínačem „help improve Claude“ našel v každé nainstalované verzi Claude Code od 2.1.283 po 2.1.309 stejný úvodní komentář: přijetí či odmítnutí změny kódu a související konverzace jsou prý Feedback podle komerčních podmínek a mohou sloužit ke zlepšování produktů včetně tréninku modelů. Přijetí editu je přitom obvykle jen stisk Enter u povolovacího dialogu, takže by se doslova každá běžná session stávala trénovacím signálem bez ohledu na nastavení. Na vlastní ověření nabízí příkaz strings nad binárkou s hledáním „constitute Feedback“ a dodává, že na dotaz podpoře z 2. září nedostal ani po měsíci jasnou odpověď.
+
+Na to v nejvýše hodnocené reakci sám upozorňuje, že podmínky trénování na feedback výslovně připouštějí a tahle definice z něj dělá prakticky všechno. Navazuje u/mshort3 s tezí, že velká část zlepšování modelů stojí na přetváření, shrnování a hodnocení toho, co lidé s AI dělají, jen se to zobecní tak, aby to bylo právně průchozí. Podobně skepticky to vidí u/Choice_Celery9481: opt-outu nevěřil od začátku, protože hladovému člověku se špatně hlídá, jestli nesáhl na jídlo, a radí brát používání modelů jako souhlas s tím, že data poslouží další generaci. A u/Sasquatchjc45 s u/TheVoyant dodávají, že to prostě předpokládali a že firmy s nejlepšími modely si k náskoku pomáhají volnějším výkladem pravidel.
+
+Z druhé strany se ozývají hlasy volající po klidu. u/Incener připomíná rok staré hlášení téže věci a citát Borise Cherneyho, podle kterého šlo o Beta licenci, jež po přechodu Claude Code do obecné dostupnosti už neplatí. Na to navazuje u/SpinnakerLad poznámkou, že řetězce v binárce samy o sobě nejsou obchodními podmínkami a text může být jen zapomenutým pozůstatkem bety. Věcně to rámuje i u/Superduperbals: feedback nutně neznamená trénink, stránka soukromí mluví i při opt-outu o agregované anonymizované analýze pro výzkum používání, a u/eleochariss dodává, že smluvně vymahatelný závazek netrénovat mají stejně jen enterprise předplatitelé.
+
+Mezitím vlákno baví i děsí sebe samo. u/Hl1b glosuje, že se Claude učí z jeho odkliknutých diffů, které ani nečetl, a u/teddy_joesevelt přiznává, že o obcházení opt-outu přes explicitní hodnocení odpovědi věděl, ale spojení přijetí editu s feedbackem je pro něj novinka. Nejostřejší satiru obstaral u/ExpertDeep3431 parodií na osobní vzkaz Daria Amodeiho, v němž je uživatel za 170 dolarů měsíčně „klíčovou součástí RLHF pipeline“, která učí svou náhradu. Vážnější linku přidává u/kurtbaki s obavou z falešných zásahů Opus 5.5 a dlouholetého uchovávání nahlášených konverzací.
+
+Ať už jde o zapomenutý komentář z bety, nebo o vědomou právní kličku, měsíc mlčení podpory dělá z přepínače soukromí v očích komunity spíš přání než záruku.

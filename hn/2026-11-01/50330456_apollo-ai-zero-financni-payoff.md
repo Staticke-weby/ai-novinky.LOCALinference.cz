@@ -1,0 +1,16 @@
+# 50330456
+**Apollo: AI firmám mimo technologický sektor nevydělává**
+
+Hacker News · throwoutway · 1. listopadu 2026, 23:10 · 212 bodů / 206 komentářů · [diskuse](https://news.ycombinator.com/item?id=50330456)
+
+Hlavní ekonom Apollo Global Management Torsten Slok se podíval na takzvaný S&P 493, tedy index S&P 500 bez sedmi technologických gigantů od Alphabetu po Teslu. U těchto firem mimo technologický sektor nenašel žádné zlepšení marží ani tržeb na pracovníka, které by šlo připsat umělé inteligenci.
+
+Odkazovaný text z TechCrunche jeho závěr shrnuje větou, že přes masivní investice a humbuk technologie firmám mimo tech nepřinesla žádný finanční výnos. Slok je skeptický i k tomu, že jde jen o zpoždění, a tvrdí, že proměnit stále levnější inteligenci v růst tržeb a marží bude těžké. Umělá inteligence podle něj může být skvělá kalkulačka, ale v byznysu rozhoduje úsudek, zatímco odpovědnost, důvěru, kulturu, nepsaná pravidla nebo etické kompromisy modely nechápou.
+
+V diskusi se hned rozjela debata o historických analogiích. Uživatel IshKebab to přirovnal k tvrzení, že web selhal v roce 2001, na což uživatel jdlshore odpověděl, že trefnější je rok 1999 a konstatování, že většina webových firem nevydělává. To bylo zpětně jasné, ale tehdy kontroverzní, a uživatel VenturingVole dodal, že tehdy to mnozí skutečně tvrdili a ekonom z Apolla by mezi ně zapadl. Uživatel amanaplanacanal připomněl produktivitní paradox: ani u počítačů a internetu ekonomové dlouho nedokázali celoekonomické zisky z produktivity naměřit.
+
+Zvláštní linku má spor o důvěryhodnost samotného Apolla. Uživatel simonw vytáhl starší hojně citovanou zprávu téhož Sloka o klesající míře zavádění AI ve velkých firmách a naznačil, že Apollo pochopilo, jak snadno se negativními zprávami o AI sbírá pozornost. Schytal za to ostrou reakci: uživatel magicalist to označil za podpásové naznačování bez argumentu k obsahu, uživatel jdlshore připomněl, že šlo jen o stručné převyprávění pravidelného průzkumu úřadu pro sčítání mezi 1,2 milionu firem, a uživatel daveguy dodal, že pozorování faktu není predikce, která by se mohla „nepotvrdit“. Sám simonw později svůj osten zmírnil s tím, že Apollo publikuje téměř denně, takže občasný negativní titulek není takový vzorec, jak se zdálo.
+
+Třetí proud diskuse řeší, kde se hodnota ztrácí. Uživatel ManBeardPc popisuje datovou vědu a speciální chemii, kde se s AI dostanou od nápadu k prototypu za den místo jednoho až dvou týdnů, protože odpadlo ruční psaní pomocného kódu. Uživatel hackernud3s se hned ptá na to podstatné: jak se zkoušení více nápadů promítne do tržeb, když většina nikam nevede. Podobně se přou uživatelé matznerd, Ancalagon a ares623, zda je neschopnost vytěžit AI „váš problém“, nebo problém dodavatelů, kteří při stamiliardách v ruce a honbě za bilionovými valuacemi nedokážou zákazníkům pomoci realizovat právě to, co jim prodávají. A uživatel ianm218 namítá, že nudná užitečná AI se přehlíží: lidé, co s ní tiše zjednodušují výdaje nebo konfiguraci, se neukazují na sociálních sítích.
+
+Z diskuse tak vychází rozpolcený obrázek: část čtenářů považuje verdikt o nulovém výnosu za předčasný, část v něm vidí potvrzení, že se zisky zatím rozpouštějí v nákladech a přebujelé nabídce.

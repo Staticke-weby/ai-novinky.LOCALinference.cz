@@ -1,0 +1,12 @@
+# 50200997
+**Ask HN: Když jsou modely tak dobré, proč OpenAI nezaloží sto firem?**
+
+Hacker News · ex-aws-dude · 22. října 2026, 23:03 · 65 bodů / 67 komentářů · [diskuse](https://news.ycombinator.com/item?id=50200997)
+
+Autor ex-aws-dude nadhazuje trochu přehnanou, ale o to upřímnější otázku: když jsou frontier modely tak dobré, proč je laboratoře prodávají hlavně jako tokeny? S komoditizací a klesající cenou by přece dávalo smysl postavit si na vlastních modelech rovnou firmy a brát marži z aplikační strany, ne z utility.
+
+První a nejčastější odpověď zní, že přesně to už dělají. digitaltrees píše, že se laboratoře přesunuly do aplikační vrstvy a sázejí na to, že software nahradí agentické superaplikace, a jediné, do čeho se jim nechce, jsou servisní firmy, které pořád potřebují lidské boty na zemi. Sám dodává, že jeho kamarádovi vykoupili konzultačku. Podobně to vidí CoolestBeans, podle kterého má OpenAI už celou galaxii pokusů o aplikace, a dofm dodává, že nakonec zřejmě vznikne celá flotila konzultačních a SaaS odnoží, z nichž každá bude žít jen do chvíle, než její práci zvládne základní produkt napřímo.
+
+Kolem toho se hned rozjede klasická debata o lopatách během zlaté horečky. Rodmine tvrdí, že prodej tokenů a investice do vlastních čipů jsou právě ten obchod s lopatami, zatímco otevírat řetězce klenotnictví je úplně jiná disciplína, a NormalGoat to přirovnává k Applu, který taky nenapsal každou aplikaci v App Storu, protože bere podíl bez podnikatelského rizika. Na to navazuje psadri připomínkou „sherlockování“, tedy že Apple velké úspěšné a trvanlivé aplikace klidně okopíruje a u zbytku mu stačí řez z plateb, zatímco gofreddygo otázku přeformulovává: když jsou jejich lopaty tak dobré, proč si zlato nevykopou a neprodají sami.
+
+Nejpraktičtější námitka je ale prostá kapacita. paxy píše, že vést jednu firmu je snazší než vést sto firem, protože k úspěchu je potřeba mnohem víc než jen napsat dobrý software, a zahrevsky dodává, že při stovce podniků by se každému dostala jen setina pozornosti. CoolestBeans a fennecbutt k tomu přidávají peníze a čas: prodej tokenů přes dlouho běžící agenty je zatím jediná věc, u které prokazatelně roste příjem, laboratoře potřebovaly tržby už včera a s vyššími sazbami už nemají přístup ke kapitálu jako v desátých letech ani splacené dosavadní investice. A magarnicle uzavírá, že zlato je mnohem zaměnitelnější než firma, takže sto různých podniků je mnohem unikátnějších než sto různých nugetů — leda by modely učinily zaměnitelnými i samotné nápady na podnikání.

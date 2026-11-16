@@ -1,0 +1,16 @@
+# 50154540
+**MiniMax M3.1 Flash: rychlejší a levnější agentní model**
+
+Hacker News · jtg · 19. října 2026, 18:39 · 444 bodů / 192 komentářů · [diskuse](https://news.ycombinator.com/item?id=50154540)
+
+Společnost MiniMax oficiálně uvedla model M3.1 Flash, novou generaci své odlehčené řady zaměřenou na agentní úlohy, programování, ovládání počítače a kybernetickou bezpečnost. Anonymní model Space Bunny, který se několik týdnů testoval v žebříčcích, byla podle firmy jeho raná verze, která za provozu zpracovala přes 200 bilionů tokenů.
+
+Firemní blog slibuje generační skok ve schopnostech při výrazně nižších nákladech na provoz. Model boduje na automatech přes SaaS systémy i finančních úlohách, na DeepSWE v1.1 dosahuje 73,7 %, na OSWorld V2 má 61,7 bodu a na Agents’ Last Exam 29,6 bodu, na CyberGym pak 82 %. Výstup má v běžném provozu dosahovat přes 200 tokenů za sekundu, cena je 0,15 dolaru za milion vstupních a 0,60 dolaru za milion výstupních tokenů, a model je dostupný přes MiniMax API, M Plan a MiniMax Code, váhy vyjdou později.
+
+Nejživější technická debata se stočila k tomu, co vlastně znamená slovo Flash. Uživatel terhechte spekuloval, že když má být inference třikrát rychlejší než u předchozí M3 s odhadovanými 428 miliardami parametrů, mohla by novinka mít kolem 150 miliard a po kvantizaci se vejít na DGX Spark nebo Macy se 128 GB paměti. Uživatel penagwin to upřesnil odkazem na firemní FAQ, podle kterého má M3.1 Flash celkem 428 miliard parametrů, ale aktivních jen 23 miliard, tedy podobně jako DeepSeek 4.1 Flash, a dodal, že označení Flash dnes už neznamená malý model, spíš jen to, že běžné modely narostly nad bilion.
+
+Druhá velká linka řeší, jestli má smysl další levný model zkoušet. Uživatel swiftcoder se ptal, jestli ho už někdo postavil proti DeepSeek Flash z hlediska poměru ceny a výkonu, uživatel bel8 odkazoval na zprávy z Redditu, že prý není tak dobrý jako DS 4.1 Flash, ale sám benchmarkům nevěří. Uživatel LaurensBER napsal, že hranice toho, co je možné za málo peněz, se posouvá pořád výš, DeepSeek a řada GLM 5.3 mu na spoustu úkolů připadají dostatečné, jen by uvítal víc údajů o času na stěně, protože v práci se levnější, ale pomalejší model těžko obhajuje. Uživatel syntaxing naopak nadšeně líčil, jak s DeepSeek Flash za deset centů udělá celé projekty a kamarády přesvědčil, aby zrušili dvacetidolarové předplatné Claude, zatímco uživatel redox99 oponoval, že při šedesátinásobné dotaci v předplatném vyjde Claude paradoxně levněji.
+
+Třetí proud diskuse tvoří praktické zkušenosti a drobné rýpnutí do marketingu. Uživatel walrus01 upozornil, že skóre v DeepSWE a TerminalBench neodpovídají tomu, co lidé zažívali se Space Bunny v OpenCode, kde se prý dopouštěl křiklavých chyb a vraceli se ke Qwen 3.8-Flash-Next nebo DeepSeek V4 Flash. Uživatel penagwin připomněl, že Space Bunny byl dřívější checkpoint, takže se model mohl zlepšit, ale podezřelé mu je, jak se tolik modelů sešlo na skoro přesně 74 %. Uživatel thefourthchime zkoušel model na Pac-Manovi, kde prý podal použitelný, i když ne skvělý výkon, a to zadarmo, jen mu to trvalo půl hodiny.
+
+Z vlákna tak nakonec nejvíc vyčnívá únava z honby za desetinkami v benchmarcích a hlad po odpovědi, kolik model stojí na úkol a jak dlouho úkol trvá.

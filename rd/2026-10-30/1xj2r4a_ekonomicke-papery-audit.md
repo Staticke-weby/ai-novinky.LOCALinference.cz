@@ -1,0 +1,14 @@
+# 1xj2r4a
+**Dvě AI auditovaly 138 ekonomických studií. Našly 2 035 možných problémů**
+
+r/singularity · u/141_1337 · 30. října 2026, 02:47 · 381 bodů / 71 komentářů · [diskuse](https://www.reddit.com/r/singularity/comments/1xj2r4a/)
+
+Dva modely, Claude Opus 5.5 a GPT-6 Astra, nezávisle na sobě prošly 138 prací ekonomů Emmanuela Saeze a Gabriela Zucmana o nerovnosti. Anonymní audit uvádí 2 035 potenciálních problémů, z toho 147 zjištění, která by mohla změnit hlavní čísla studií. Každý nález měl ještě prověřovat třetí agent, který se ho pokoušel vyvrátit, aby se omezilo riziko halucinací.
+
+Podrobnosti v diskusi shrnul u/wakamex na příkladu dvou stěžejních textů. U studie Saeze a Zucmana z roku 2016 o majetkové nerovnosti v USA audit rozporuje předpoklad, že všichni vydělávají na majetku stejnou úrokovou míru, zatímco bohatí ve skutečnosti vydělávají víc. Po opravě by podíl horních 0,1 % v roce 2012 činil zhruba 16–20 % místo 22 % a nárůst od roku 1978 by byl o 15–40 % menší, samotný audit ale přiznává, že kvalitativní závěr přežívá. Podobně u Pikettyho, Saeze a Zucmana z roku 2018 by při jiných rozumných předpokladech byl růst podílu horního 1 % o 10–50 % menší, směr všech hlavních zjištění však zůstává, audit navíc hlásí novou ověřitelnou chybu v tabulce, která nadhodnocuje transfery střední třídy asi o čtvrtinu.
+
+Nejhlasitější linka vlákna audit shazuje. U/shumpitostick ho označil za brak a napsal, že část takzvaných chyb jsou jen vědomé předpoklady, bez kterých se neobejde žádná práce. U/maratonininkas, který modely sám používá při recenzování, tvrdí, že vždycky něco najdou, ale kolem 80 % návrhů ignoruje jako nesmysl nebo extrémní puntičkářství. U/NullzeroJP to shrnuje větou, že když po umělé inteligenci chcete problémy, problémy dostanete, ať už podstatné, nebo ne.
+
+Opačný tábor v tom vidí jeden z nejlepších způsobů využití umělé inteligence. U/RockDoveEnthusiast píše, že špatný výzkum je běžný a závažný problém, u/arknightstranslate mluví o odhalování lidského braku a u/Wrong_Armadillo_4166 o tom, že umělá inteligence ukáže, jak moc si všichni nalháváme. Největší ohlas v této linii má u/___positive___, který volá po roji agentů, jenž by prošel biologii od genomiky přes neurovědy, hledal manipulace s obrázky a zrecyklované western bloty a postupně pročetl celé časopisy Nature, Science a Cell.
+
+Zbytek debaty řeší, proč by chyby měly být tak časté. U/idiocratic_method viní kulturu publikuj, nebo zemři, která tlačí k rychlému publikování i za cenu nekvality, a čeká otřes univerzit. Ozvaly se i hlasy, že jde o politicky motivovaný útok na autory, a skeptici jako u/Robot_Apocalypse varují, že modely si sebevědomě domýšlejí předpoklady, které neumějí ověřit. Výsledek je tak rozpolcený: část komunity počítá, že audit přežije jen z poloviny, část v něm vidí začátek systematické kontroly desítek let výzkumu.

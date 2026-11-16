@@ -1,0 +1,16 @@
+# 50196837
+**Google vykácel 300 hektarů finského lesa kvůli datacentru**
+
+Hacker News · wetwater · 22. října 2026, 17:32 · 320 bodů / 233 komentářů · [diskuse](https://news.ycombinator.com/item?id=50196837)
+
+Google ve Finsku přes místní firmu Tuike Finland Oy chystá obří AI infrastrukturu za 13 miliard eur a buldozery podle úřadů vyrazily do lesa dřív, než bylo hotové povinné posouzení vlivů na životní prostředí. Mluví se o zhruba 300 hektarech vykáceného lesa, tedy ploše přirovnávané ke 420 fotbalovým hřištím.
+
+Odkazovaný text serveru TechSpot popisuje, že finská agentura pro povolování a dohled si vyžádala od Google vysvětlení a ve hře je přerušení prací. Google tvrdí, že kácení bylo plně v souladu s finskými zákony a lokalita byla předem prozkoumána, aby se cenné části přírody ušetřily. Předsedkyně finského svazu ochrany přírody Hanna Halmeenpääová naopak podle satelitních snímků říká, že padla i místa, která měla zůstat chráněna, a žádá stavbu zastavit do vyjasnění.
+
+Právě kolem slovíčka nelegální se točí velká část diskuse. Uživatel dgellow titulek opravuje na nezákonně vykácených 300 hektarů, ale uživatel Aurornis ho krotí, že zatím nikdo nerozhodl, zda byl porušen zákon, a ochránci jen žádají zastavení stavby, aby to úřady mohly posoudit. Uživatel Ndymium k tomu doplňuje, že agentura LVV už stavbu do dokončení procesu posouzení YVA skutečně zastavila, jen další postih Googlu považuje za nepravděpodobný. Uživatel realo si naopak představuje pokutu, která by bolela i tak velkou firmu, miliardu dolarů za hektar.
+
+Hodně se přepočítává a relativizuje. Uživatel zamadatix připomíná, že 300 hektarů jsou tři kilometry čtvereční, uživatel krisoft si to představuje jako zhruba newyorský Central Park a uživatel Aurornis vytahuje údaj OSN o více než 22 milionech hektarů finských lesů. Odpověď na sebe nenechá čekat: uživatel embedding-shape píše, že problém není v procentech, ale v tom, že se kácelo před dokončením přezkumu a navíc i na místech, která měla být chráněna. Uživatel alt227 dodává, že běžná lesní těžba les zase obnoví, zatímco tady les nahradí betonová budova, která bude topit a polykat elektřinu i vodu. Do stejné linky zapadá i srovnání uživatele semanticjudo, podle kterého Finsko ročně ztrácí v průměru asi 243 tisíc hektarů lesa a Brazílie loni vykácela 985 tisíc hektarů, takže ho zajímá, proč zrovna tahle kauza dělá takové vlny.
+
+Řeší se i to, kde vlastně datacentrum stojí a jak absurdně zní měrné jednotky. Uživatel zokier tvrdí, že nové areály leží doslova uprostřed ničeho u vodních a větrných elektráren, a uživatel helsinkiandrew s odkazem na mapu dodává, že pustina ve Finsku většinou stejně znamená les, který pokrývá asi 80 procent země. Uživatel thaumasiotes se pozastavuje nad tím, že finská úřednice mluvící s francouzskou agenturou AFP měla plochu přirovnat ke 420 fotbalovým hřištím, a tuší za tím novinářský přepočet. Odlehčení dodává uživatel jsrozner parodií na omluvu umělé inteligence, která les smazala bez potvrzení, ve fyzickém světě prý nefunguje Ctrl+Z, a nabízí plán zalesnění, uhlíkové kompenzace nebo omluvný dopis místní zvěři.
+
+Z kauzy tak zůstává hlavně otázka postupu: zda se i gigant musí nejdřív dočkat razítka, nebo si může dovolit kácet napřed a vysvětlovat potom.

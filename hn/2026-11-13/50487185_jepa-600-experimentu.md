@@ -1,0 +1,16 @@
+# 50487185
+**Šest set experimentů s JEPA. Světové modely zvládly dlouhé úlohy bez dalšího tréninku**
+
+Hacker News · halcdev · 13. listopadu 2026, 18:55 · 243 bodů / 40 komentářů · [diskuse](https://news.ycombinator.com/item?id=50487185)
+
+Autor strávil několik měsíců laděním LeWM, světového modelu JEPA z týmu kolem Yanna LeCuna, a výsledek shrnul do interaktivní stránky se zhruba šesti sty experimenty. Hlavním hřištěm je simulace Push-T, kde robot tlačí šedé T přes stůl do zelené cílové pozice. Tvrdí, že bez jediného přetrénování vah dokázal model dotáhnout k řešení dlouhých úloh vzdálených desítky kroků.
+
+Odkazovaný text staví architekturu JEPA proti generativním světovým modelům, které se podle LeCuna zbytečně dřou s předpovídáním nedůležitých pixelů. JEPA místo toho pracuje v prostoru embeddingů: kodér převede snímek do kompaktního vektoru, prediktor předpoví další vektor po akci a plánovač v něm vyzkouší stovky sekvencí akcí a vybere tu, jejíž konec je nejblíž cíli. Ze čtyř popsaných triků nejvíc zabralo rozsekání sedmdesátipětkrokové úlohy na pětadvacetikrokové úseky přes dílčí cíle, paměťový graf s penalizací za skoky mezi demonstracemi, doplňování mezer otočenými a zrcadlenými kopiemi vzpomínek a změna hodnocení cíle, která ignoruje polohu chapadla.
+
+Právě paměť a demonstrace vyvolaly nejostřejší výhrady. Uživatel nightpool píše, že naprostý pád po vymazání stavů blízko cíle vypadá jako zásadní neschopnost zobecňovat, kterou ruční otáčení vzpomínek jen maskuje. Uživatel robotresearcher se ptá, proč se starty i cíle vůbec berou z demonstračních nahrávek místo libovolných póz, když fyzický robot nikdy nepotká dvakrát stejnou situaci. Do stejného rohu bije i poznámka uživatele light_hue_1, že na tak jednoduché úloze se zapamatování rovná skoro správné odpovědi, tedy testování na tréninkové sadě.
+
+Druhá větev diskuse řeší, zda je v tom vůbec něco nového pro plánování. Uživatel hazrmard přirovnává JEPA k prediktivnímu řízení, jen s černou skříňkou místo klasického modelu systému, uživatel nsingh2 to rozvíjí jako postroj kolem světového modelu a uživatel ainch připomíná sérii TD-MPC, která navíc předpovídá odměnu, a proto prý řadí trajektorie lépe. Uživatel pj_mukh nadhazuje, zda by úlohu triviálně neřešily pravděpodobnostní cestovní mapy, uživatel whiplash451 odkazuje na MCTS řešení Push-T bez tréninku a uživatel kooi naopak věští, že právě JEPA odemkne obecnou robotiku, kde jazykovým modelům zbude jen vyšší plánování.
+
+Třetí rovina je osobnější a lehčí. Uživatel reasonabl_human navrhuje nepsat o objevování, když jde spíš o zápis z osobní cesty za známými věcmi, jako je hierarchické plánování a dílčí cíle, uživatel wilkystyle mu oponuje, že na osobním blogu nikdo převratný objev čekat nemůže. Uživatel bsaul se ptá, zda je JEPA konkurentem limitů jazykových modelů, nebo jen úzkým zlepšením pohybu robotů v prostoru. Mezitím se nemalá část vláken směje samotnému webu: stížnosti na animace, duhové pozadí na mobilu a pálení očí střídá chvála pisma v titulku a ujištění, že na starším telefonu běží bez chyby.
+
+Kdo si stránku projde, odnese si hlavně otázku, kolik pokroku v robotech ještě leží v chytřejším využití natrénovaného modelu a kolik už žádá cíle, které si model vymyslí sám mimo demonstrace.

@@ -1,0 +1,16 @@
+# 1wvz1ex
+**Z iPhonu udělal druhé GPU k 24GB MacBooku. Qwen 3.8 27B běží rychleji**
+
+r/LocalLLaMA · u/StayLameBro · 2. října 2026, 18:59 · 1832 bodů / 304 komentářů · [diskuse](https://www.reddit.com/r/LocalLLaMA/comments/1wvz1ex/)
+
+Autorovi docházel dech na 24GB MacBooku s čipem M4 Pro: vedle modelu Qwen 3.8 27B v kvantizaci IQ4_XS se mu vejde jen asi 64 tisíc tokenů 8bitového kontextu. V kapse měl ležet ladem iPhone 17 Pro Max, tak ho přes 10Gb/s USB-C kabel zapojil jako druhé GPU. Mac počítá vrstvy 1 až 40 každé 256tokenové dávky a aktivace streamuje do telefonu, ten na svém GPU dopočítá vrstvy 41 až 64, zatímco Mac už bere další dávku, přičemž maticové jednotky A19 Pro s Metal 4 tensor operacemi zrychlily polovinu telefonu 2,4krát.
+
+Stejné sestavení s vypnutým a zapnutým telefonem pak při načítání dvoutisícetokenového souboru do uložené agentní relace hlásí 132 proti 177 tokenům za sekundu v 8k kontextu, 109 proti 157 v 16k, 101 proti 130 ve 32k a 87 proti 113 ve 48k. Čerstvá 27tisícová relace nastartovaná z nuly trvala 245 sekund na běžném llama.cpp, 228 sekund na jeho forku se samotným Macem a 168 sekund s telefonem. Za touto hranicí telefon mění práci a místo vrstev drží nejstarší stránky KV cache, takže Macu přestane růst spotřeba paměti a server podle volné paměti telefonu alokuje 196 až 229 tisíc tokenů kontextu. Hned v úvodu autor přiznává chybu v měření, kdy číslo na displeji telefonu počítalo tempo jen pro vrstvy, které drží telefon, a slibuje opravu na skutečnou rychlost od začátku do konce.
+
+Nejvíc hlasů posbíral u/Dharma_code s věštbou, že ceny mobilů teď díky autorovi vyletí do nebe. Navázal na něj u/RobbinDeBank zprávou, že OpenAI a Anthropic právě skupují desítky tisíc iPhonů, a u/Patient_Pumpkin_4532 přidal, že poskytovatelé cloudové AI tenhle jeden divný trik nenávidí. Směje se i u/email_ferret, podle kterého si šéf Anthropicu svolal mimořádnou schůzku s prezidentem kvůli zákazu vývozu iPhonů.
+
+Druhá linka vlákna zní jako z vesmírné opery. u/ZachCope to přirovnává k seriálové scéně, kde se před finální bitvou přepojí energie z warp konfabulátoru přes stejnojmenný oscilátorový propad, a u/Techngro k tomu přihodil klasické kapitánské „budu to potřebovat do tří hodin, pokračujte". u/NoFunk už vyhlíží borce, který jednou přijde s jedním MacBookem a dvaatřiceti iPady v jakémsi Frankensteinově rozbočovači. Autor se chytá okamžitě, že tohle prostě musí zkusit, jen ho prý bude brzdit propustnost portů, a slibuje test s vypůjčeným iPadem na Thunderboltu.
+
+Vážnější dotaz přidal u/shy_monkee, jestli by to šlo i na iPadech, které mají ještě silnější čip a v nejvyšší výbavě víc paměti. Autor odpovídá, že tandem s telefony bude zkoušet ještě ten den, a řeší s lidmi i vydání jako aplikace, kvůli které by si musel zaplatit stokorunový poplatek Applu a založit firmu, aby ji nemusel vydat pod vlastním jménem. Mezitím u/Gauntlet4933 glosuje pomalý návrat k superpočítačům z PlayStationů 3, u/DystopianRealist se ptá na port pro Zune a u/bcell4u hlásí, že podobně ždíme Qwen 3.5 4B z telefonu s 12 GB RAM rychleji než ze starého Intel Arc A380.
+
+Kdo má doma výkonný telefon a slabší Mac, právě dostal návod, jak z kapsy udělat kus paměti a výpočetního výkonu navíc.

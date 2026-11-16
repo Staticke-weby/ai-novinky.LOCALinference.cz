@@ -1,0 +1,12 @@
+# 1xahodr
+**MiniMax H3 a FastH3: open-source video se blíží použitelnosti**
+
+r/StableDiffusion · u/Cheap_Credit_3957 · 20. října 2026, 05:36 · 424 bodů / 127 komentářů · [diskuse](https://www.reddit.com/r/StableDiffusion/comments/1xahodr/)
+
+Autor zveřejnil divadelní hudební videoklip poskládaný ve vlastním ComfyUI builderu na modelu MiniMax H3 Singularity. Píseň vznikla v Sunu, texty dodal ChatGPT a samotné video prý potřebovalo jen minimum ruční práce, jeden filtr a drobný střih. První průchod jel na 25 kroků, druhý přes osmikrokové turbo LoRA v 768p na 4 kroky s denoise 0,35 a latent upscalem. Scény přitom podle autora naplánoval Claude, napsal všechny prompty shot po shotu s nápovědou k textu a emocím, přes noc vše vyrendroval přes MCP/API a pak záběr po záběru kontroloval a přetáčel nepovedené kusy.
+
+Nejvýše hodnocený komentář od u/ArtificialAnaleptic obrací obvyklé rýpání naruby: lidé prý hodnotí video podle toho, čím není, místo aby viděli, že jeden člověk na domácím počítači složí něco takhle kvalitního. Ještě před pár lety by to podle něj bylo naprosto ohromující, což ukazuje, jak rychle se nástroje posunuly. Na stejnou strunu hraje u/Makesyousmile, který připomíná cestu od první misky špaget Willa Smithe až sem, i u/RollingTrain, který práci řadí k tomu nejlepšímu, co viděl. A u/enndeeee přiznává, že je to první AI klip, který dokoukal do konce.
+
+Druhá linka diskuse řeší řemeslo. u/mrgulabull se ptá, kde se vzala konzistence postav a prostředí, jestli autor startoval každý klip z prvního snímku a zda použil nějaká LoRA. u/Zangwuz zajímá, jestli za nerozpadlé obličeje v pozadí může právě druhý průchod, u/thinmanstudios si stěžuje na pixelaté a deformované oči a prosí o tipy. Opakovaně se vrací otázka na nároky, na kolik VRAM a jaký výkon to celé jelo se ptají u/Armysarge101, u/darkoblivion000 i u/MVP_Reign, zatímco u/guai888 chce vyčíslit cenu Claude tokenů.
+
+Třetí proud už míří za hranice jednoho videa. V souběžných vláknech se řeší FastH3 Omni vydaný jako open weight, který má být podle tvůrců pětkrát až jedenáctkrát rychlejší než předchozí verze, a samostatný post ukazuje americký sitcomový skeč vyrobený v H3. Šíři použití potvrzuje i chvála detailů v hlavním vlákně, kdy u/Rhizopus_Nigrians upozorňuje na poslední záběr, kde se stín zpěvačky u zídky správně zostřuje. Kritičtější hlasy ale zůstávají: u/newaccount47 miluje výsledek, ale nesnáší, jak všichni v H3 pořád koukají do kamery, a u/usually_fuente chválí obraz, turbo by prý vůbec nepoznal, text písně mu ale zní výrazně strojově.

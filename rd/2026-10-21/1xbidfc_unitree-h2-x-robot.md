@@ -1,0 +1,14 @@
+# 1xbidfc
+**Unitree H2-X: humanoidní robot pro souboje i ostrahu**
+
+r/singularity · u/PsychologicalSoup251 · 21. října 2026, 11:19 · 2368 bodů / 788 komentářů · [diskuse](https://www.reddit.com/r/singularity/comments/1xbidfc/)
+
+Uživatel u/PsychologicalSoup251 upozornil na video nové varianty humanoida Unitree H2, která má být výrazně silnější a odolnější než předchozí model. Podle citovaného oznámení výrobce nese jméno H2-X Kung Fu Legend Guardian, v provozu vydrží přibližně 8 hodin a firma ho představuje jako pomocníka i strážce, kterého je potřeba používat bezpečně a přátelsky. Autor v dodatečné editaci připomíná, že nejde o prvního bojového humanoida od čínské firmy – Engine AI pořádá turnaje v soubojích s robotem jménem T800.
+
+Nejprobíranější momenty videa jsou dva: střet s dítětem na ulici a zvedání auta. Uživatel u/MonoMcFlury se přiznal, že ho pobavilo, jak robot smetl dítě ze silnice větší silou, než by mělo pomalu jedoucí auto, a u/R4NL k tomu dodal, že si není jistý, jestli je rána pěstí od létajícího robota velké zlepšení oproti ťuknutí pomalým autem. Uživatel u/TuneFickle1772 se ptá, jestli stroj opravdu zvedl celé auto, nebo mu pomohlo nějaké nářadí, a u/maxis2bored namítá z praxe, že kdyby takhle chytil za nárazník kterékoliv auto, které kdy vlastnil, nárazník by se prostě utrhl.
+
+Kolem těchto kousků se rychle rozjela ironie o zneužití. Uživatel u/In_the_name_of_ART napsal, že doufá, že tuhle technologii nikdo nepoužije k ničemu špatnému, na což u/fishking92 odpověděl velkými písmeny, že ho nenapadá vůbec nic, co by se mohlo pokazit. Uživatel u/SAL10000 vytáhl hlášku o Skynetu, který se sám zapne a začne se učit geometrickou řadou, jen s daty upravenými do současnosti, a u/Fun_Bonus_6085 to shrnul poznámkou, že má chránit bohaté před chudými. Do stejného tónu zapadá i postřeh u/No-Economics-6781, že roboti v Číně buď tancují, nebo bojují, a pochvala od u/space_monster, že si Unitree s ničím nedělá starosti.
+
+Nejsilnější věcná linka ale volá po obyčejné užitečnosti. Uživatel u/VincentNacon napsal, že nechce bojově tanečního robota, ale stroj, který umí přemýšlet a rozhodovat při domácích pracích, od sbírání oblečení přes drhnutí chodníku po zalévání zahrady, a tvrdí, že současné kousky jsou jen přehrávání omezené sady animací s dálkovým ovladačem v ruce člověka. Navazují na něj u/DoctorActual1005 s poznámkou, že nádobí a prádlo nejsou velký požadavek, i u/mweeelrea, který by raději viděl, jak robot opravdu dobře a plynule udělá jeden jednoduchý úkol. Odlehčení dodal u/GirthusThiccus parodií na slavnou filmovou hlášku, když na prosbu o domácí práce nechá robota odpovědět, že se obává, že práci bude muset udělat člověk, jinak se něco stane.
+
+Z diskuse tak zůstává rozpor, který video samo nastavilo: stroj, který má sloužit a střežit osm hodin v kuse, zatím nejvíc zaujme tím, jak rozdává rány a pózuje, a ne tím, jak by zvládl prádlo.

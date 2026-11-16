@@ -1,0 +1,16 @@
+# 1xmdih0
+**Hororová úroveň v Godotu za čtyři dny. Solo vývojář nechal kód na Opus 5.5**
+
+r/ClaudeAI · u/Delicious-Shower8401 · 3. listopadu 2026, 00:47 · 532 bodů / 167 komentářů · [diskuse](https://www.reddit.com/r/ClaudeAI/comments/1xmdih0/)
+
+Solo vývojář za čtyři dny postavil v Godotu 4.5.1 hratelnou hororovou úroveň inspirovanou Silent Hill a Fatal Frame. Kód psal výhradně Claude Opus 5.5 v Claude Desktop v režimu Code, autor se zkušenostmi s 3D enginy, ale s omezenými programátorskými znalostmi, do něj prý ručně nesáhl ani jednou. Výsledek ukazuje video, ve kterém se prostředím dá procházet a fotit.
+
+Začínal s referencemi z Pinterestu, které dal Opusu jako vizuální směr, a dál prostředí rostlo opakovanými pokyny a dalšími předlohami. Claude sám zakládal soubory, spouštěl Godot a podle screenshotů iteroval, větší stavby generoval kódem a pomáhal s rozmístěním rekvizit, zatímco autor scénu dál tvaroval a procházel ji. Kolem stovky drobných rekvizit vzniklo v deseti dávkách: obrazy po deseti kusech navrhla Nano Banana, převod do odlehčených 3D modelů obstaral Meshy T2.5 v režimu Low Poly a autor je oddělil v Blenderu, každá dávka přitom sdílela jeden materiál a jednu texturovou atlasu. Už druhý den prý úroveň vypadala skoro jako ve videu, zbytek času padl na ladění a zahozené nápady, základní stavba vyšla v přepočtu na API ceny na asi 90 dolarů a se všemi pokusy na asi 180 dolarů při předplatném Claude Pro.
+
+Nejvýše hodnocená reakce ale nadšení brzdí: u/Old-Preference5313 píše, že tohle je ta nejlehčí část a ta další zabere měsíce. Přidává se u/m3kw s tím, že to nevypadá jako hra, spíš jako rekvizity naházené do 3D scény, a u/MurderCards se ptá, kde je ta hra, když chybí hádanky i boj a hráč jen vágně fotí. Dojem „chodícího simulátoru" posiluje i postřeh u/Polyforti, že autor hned v úvodu projde skrz plot, a poznámka u/Brave-History-6502, že všechno je statické a svět v sobě nemá vtisknutý žádný pocit.
+
+Kritičtější hlas u/hauntedkittenz tvrdí, že stavět zdi a zdobit je rekvizitami je ta zábavná část, kterou by měl člověk dělat ručně, a AI by měla řešit všechno ostatní. S nadsázkou dodává, že s balíčkem assetů z FAB by měl úroveň na úrovni AAA během chvilky, a nechápe, proč autor počítá v API sazbách něco, co šlo postavit za pár hodin na dvacetidolarovém tarifu Opus 5.5. Na peníze se ptá i u/-svde-, jestli šlo o skutečně zaplacené API, nebo jen o ekvivalent spotřeby v předplatném. Jiní zpochybňují samotné označení vývojář při omezených znalostech programování, jak píše u/Cautious-Boot1183, nebo originalitu: fanoušek Silent Hill u/sorrydadimlosing píše, že ho video mrzí a působí na něj jako krádež, a u/Strange-Team6281 mluví o neoriginalitě v té nejčistší podobě.
+
+Mezi rýpanci se najdou i ti, kterým atmosféra funguje. u/EuphoricThroat2670 přiznává, že to vypadá docela atmosfericky, u/Locksmithy777 jen hlesne, že to vypadá šíleně, a u/wizardrz glosuje, že je v chatu hodně hejtrů, ale výsledek je celkem bláznivý. Praktická linka se točí kolem assetů: u/SnakeHelah se ptá, odkud brát modely, když kód zvládne Claude, a u/XrysXL se ptá, jak se podařilo udělat 3D assety pěkné. Nadšený u/Muvmhead1 v projektu vidí budoucnost hraní pro nás ostatní.
+
+Zůstává tak obrázek čtyřdenního experimentu, který ukazuje, jak rychle dnes jde postavit místo, v němž se dá chodit – a jak daleko je odtud k hotové hře.

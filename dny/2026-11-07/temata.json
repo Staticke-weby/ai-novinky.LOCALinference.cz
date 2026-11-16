@@ -1,0 +1,366 @@
+{
+ "date": "2026-11-07",
+ "clanky": 40,
+ "temata": [
+  {
+   "title": "Seriál Silicon Valley předpověděl éru AI. Komunita se klaní Mikovi Judgemu",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xpt7o2"
+   }
+  },
+  {
+   "title": "Claude Code uložil hesla do 1122 veřejných souborů na GitHubu",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50407882"
+   }
+  },
+  {
+   "title": "Soudce: slib „20× více využití“ u Claude Max může uvádět v omyl",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xq12am"
+   }
+  },
+  {
+   "title": "Anthropic rozebral paměť agentů: zápisky, sny a malé složky",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50402212"
+   }
+  },
+  {
+   "title": "Čtyři sekundy a celý semestr. AI maže rozdíl mezi studentem a týmem",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xqc25p"
+   }
+  },
+  {
+   "title": "Apple Intelligence si vede tajný graf znalostí o uživateli",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50403097"
+   }
+  },
+  {
+   "title": "Astra dostala deset minut volna na počítači. Nakreslila obrázek v Malování",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xpzuce"
+   }
+  },
+  {
+   "title": "Microsoft zrušil výzkumnou skupinu AI Frontiers. Langford odešel",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50406563"
+   }
+  },
+  {
+   "title": "Figure AI ukázala flotilu humanoidů. Komunita vidí bezcílné bloumání",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xpu6bv"
+   }
+  },
+  {
+   "title": "MaxxBench: malé změny zadání srážejí skóre kódovacích modelů",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50406222"
+   }
+  },
+  {
+   "title": "AI je podle mapování šest týdnů před časovou osou AI 2027",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xq9o88"
+   }
+  },
+  {
+   "title": "OpenAI otevřel telefonní hovory přes SIP pro všechny organizace",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50399695"
+   }
+  },
+  {
+   "title": "Šest palet NVIDIÍ za 11,4 milionu dolarů zmizelo cestou do Texasu",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xpqx1p"
+   }
+  },
+  {
+   "title": "HyperFlow H3 Flash zmenšil 31B video model na 14B a šest kroků",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50405263"
+   }
+  },
+  {
+   "title": "Data Center Alley ve Virginii: 3 procenta půdy a 40 procent daňových příjmů",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xq4hp4"
+   }
+  },
+  {
+   "title": "Unitree vyrábí roboty hlavně ručně. Autor sází na Západ",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50400597"
+   }
+  },
+  {
+   "title": "Claude odmítl přepsat noty. Diskuse o přehnaných refusalech sílí",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xq95sa"
+   }
+  },
+  {
+   "title": "Galerie 356 čipů: každý die, který někdo vyfotil a daroval",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50405782"
+   }
+  },
+  {
+   "title": "„Lidé kolem mě dělají, jako by AI neexistovala,“ píše uživatel Claude",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xpshux"
+   }
+  },
+  {
+   "title": "Libghostty 1.0: stabilní C knihovna pro terminálovou emulaci",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50399933"
+   }
+  },
+  {
+   "title": "GPU Task Manager od Microsoftu ukáže, co skutečně vytěžuje grafiku",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xq94xa"
+   }
+  },
+  {
+   "title": "OpenStick za 10 dolarů: čtyřjádrový homelab s LTE a GPS",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50406670"
+   }
+  },
+  {
+   "title": "Uživatel GPT vyzkoušel Opus 5.5 a cítí se podvedený benchmarky",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xqfqjl"
+   }
+  },
+  {
+   "title": "Linux za 8 dolarů: RISC-V Ox64 zvládne víc, než vypadá",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50404599"
+   }
+  },
+  {
+   "title": "Autor AI 2027 by podpořil zákaz RSI. Komunita: stejně to nepůjde",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xq1m8w"
+   }
+  },
+  {
+   "title": "Coldframe: honeypot, který hraje chladicí systém supermarketu",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50406292"
+   }
+  },
+  {
+   "title": "Observer promění starý telefon v lokálního AI hlídače",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xqd058"
+   }
+  },
+  {
+   "title": "EU a Británie utratily miliony za izraelskou techniku na prolomení telefonů",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50404060"
+   }
+  },
+  {
+   "title": "Recenzent 2 rozdrtil práci o world modelech. Dal jedničky ve všech kategoriích",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xpu1eq"
+   }
+  },
+  {
+   "title": "Discord ukázal Rust klienta. Startuje dřív a bere 290 MB",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50403507"
+   }
+  },
+  {
+   "title": "Harness Leaderboard porovnal Claude Code, Codex i Kimi Code",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xpvfx8"
+   }
+  },
+  {
+   "title": "Profesor našel po obědě smazané roky poznámek. Claude měl jen přečíslovat stránky",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xq9os9"
+   }
+  },
+  {
+   "title": "E-mail z claude.com vyděsil uživatele. Anthropic prý hacknutý nebyl",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xq4d3u"
+   }
+  },
+  {
+   "title": "Neomezený chat v ChatGPT končí. Uživatelé zvažují přechod ke Claude",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xq1qtj"
+   }
+  },
+  {
+   "title": "llama.cpp umí pustit chybějící MoE experty na CPU. Přibyl skript na ladění",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xqacka"
+   }
+  },
+  {
+   "title": "Dwarkesh utratil 20 tisíc dolarů, aby nechal AI hrát Mafii",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xq18t4"
+   }
+  },
+  {
+   "title": "Opus 5.5 napsal vlastní kvantizér pro Qwen3.5-0.8B. Je 5,9krát přesnější než Unsloth",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xq889l"
+   }
+  },
+  {
+   "title": "Izraelští vědci chtějí, aby se AI učila bez lidských dat",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xqayzn"
+   }
+  },
+  {
+   "title": "Osmibitová KV cache je podle měření téměř zdarma. Čtyři bity už bolí",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xqbesv"
+   }
+  },
+  {
+   "title": "Žena prý ChatGPT využila k otravě manžela. OpenAI čelí žalobě",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xq4g2m"
+   }
+  }
+ ]
+}

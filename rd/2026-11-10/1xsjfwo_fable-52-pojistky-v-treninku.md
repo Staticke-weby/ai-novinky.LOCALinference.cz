@@ -1,0 +1,14 @@
+# 1xsjfwo
+**Fable 5.2 má pojistky i v tréninku. Debata o tom, co model neumí**
+
+r/LocalLLaMA · u/EntropyMagnets · 10. listopadu 2026, 11:23 · 559 bodů / 208 komentářů · [diskuse](https://www.reddit.com/r/LocalLLaMA/comments/1xsjfwo/)
+
+Fable 5.2 má podle screenshotu, který se objevil na r/LocalLLaMA, bezpečnostní pojistky zabudované už přímo v tréninku a v některých oblastech záměrně omezené schopnosti. Autor příspěvku to považuje za přehnané: pokud firma věří vlastním klasifikačním modelům, které mají hlídat bezpečné chování, proč přidávat obě vrstvy najednou. Od soukromé firmy ho to prý nepřekvapuje a bere to jako další důvod ve prospěch modelů s otevřenými vahami.
+
+Nejvýše se v diskusi chytila ironická poznámka u/fragbait0, že optimalizace kernelů je přece něco, co pomáhá obyčejným lidem provozovat malé lokální modely na starém hardwaru mimo firemní pískoviště, ale s nebezpečným pokrokem na špici to nemá nic společného. Na to navazuje u/nasone32 s tím, že právě tyhle schopnosti lidé používají k ladění vlastních inferenčních enginů, a u/a_beautiful_rhind dodává, že zákazy distilace nestačily a teď se už nesmí pracovat ani na inferenčních enginech.
+
+Hned za tím se vlákno stáčí k podezření, že si firma chrání byznys. u/Cautious_Chicken_604 pochybuje, že by si stejně osekala i vlastní interní verzi, u/Envenger to shrnuje tak, že si prostě nechce vychovat konkurenci. u/read_more_comments v tom vidí domluvu amerických firem na zpomalení pokroku a přirovnává to ke kartelu výrobců žárovek s krátkou životností, jenže Čína se podle něj na taková pravidla neohlíží.
+
+Nejvěcnější kritiku napsal u/a4mula: omezení nejsou jen přehnaná, ale mrzačící, a rád by věděl, jak firma zajistila, že trénink nezasáhl související schopnosti. Jestli to prý ověřovaly jen automatizované benchmarky, zda hlídaly množství, nebo kvalitu a zda se nezhoršily mezioborové dovednosti. I když použití nástrojů zůstane nedotčené, za ním může stát model lobotomizovaný v tom, jak je nejlépe používat, což je horší než hrabání se v chování chatu, protože to vnáší těžko odhalitelné chyby do vrstev inženýrství, na kterých záleží.
+
+Do toho přibývají historky z praxe. u/Qcgreywolf vypráví, že si s Fable rovnil kus kódu pro vesmírnou 2D autobattler karetní hru s fiktivními loděmi a když chtěl prodloužit dobu letu střel a projektilů, vyskočilo na něj varování, že při opakovaném dotazu mu zablokují účet, protože Fable se nesmí používat na návrh zbraní. u/dc740 připomíná, že v osekávání nejsou sami a že Kimi K3.1 byl podobně přiškrcen v kyberbezpečnosti. Zbytek vlákna pak osciluje mezi rezignací a útěkem k čínským modelům, které jsou podle části diskutujících už skoro stejně dobré, zatímco u/2funny2furious to shrnuje vtipem, že modely se takhle smí používat už jen na e-maily a skripty v Pythonu a JavaScriptu.

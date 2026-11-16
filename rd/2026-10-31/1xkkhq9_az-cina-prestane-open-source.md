@@ -1,0 +1,16 @@
+# 1xkkhq9
+**Co bude, až Čína přestane dávat open-source modely zdarma?**
+
+r/StableDiffusion · u/blondewalker · 31. října 2026, 21:26 · 261 bodů / 126 komentářů · [diskuse](https://www.reddit.com/r/StableDiffusion/comments/1xkkhq9/)
+
+Na r/StableDiffusion se řeší nepříjemná otázka: co bude, až Čína přestane pouštět open-weight modely zdarma? Autor vlákna se ptá, jestli pak komunita zůstane jen u dnešních „starých" modelů, protože sólový vývojář ani malá firma nemají výpočetní výkon na to, aby si natrénovali vlastního konkurenta komerční špičky.
+
+Nejhlasitější odpověď v diskusi zní, že nepřestane, protože to není charita, ale zbraň. u/m3umax to shrnuje nejvýše hodnoceným komentářem vlákna: otevřené váhy slouží k poškození americké uzavřené konkurence, a kdyby se role jednou otočily, byly by to najednou americké laboratoře, kdo by horoval pro „svobodné a otevřené standardy". Podobně to vidí u/lumos_ai, podle kterého chce Čína otevřenými modely hlavně odstavit svět od placených cloudových modelů a zastavit tok peněz do amerického techu, i u/Chefseiler, který to popisuje jako čínský způsob účasti v závodu o umělou inteligenci v době, kdy nemá vlastní čipy a infrastrukturu.
+
+Z téhle logiky pak plyne i temnější pointa. u/ill_B_In_MyBunk píše, že Číňané nepřestanou, dokud nebudou americké modely mrtvé, a vzhledem k nedávným výrokům šéfů amerických firem mu to ani moc nevadí. u/mralstoner dodává, že Peking by kohoutek s modely zdarma utáhl teprve ve chvíli, kdy by se mu podařilo konkurenci položit a ovládnout trh. u/emveor k tomu přidává historku o svém bývalém šéfovi s realitním časopisem, kterého konkurenční slevy stáhly do závodu ke dnu, až zkrachovali všichni, a dnešní závod v umělé inteligenci mu přijde stejný: všichni lijí do modelů peníze ne proto, že by se to vyplácelo, ale aby přežili do chvíle, kdy ostatní padnou a vítěz si bude moci účtovat, co chce.
+
+Druhá větev diskuse ale premisu otázky odmítá s tím, že trénovat umí i malí. u/JuniorNectarine9842 kontruje příkladem Mossu a vzkazuje, že malé týmy modely trénovat rozhodně dokážou. u/Stunning_Macaron6133 připomíná, že firem tlačících se dopředu je tolik, že i kdyby jedna čínská společnost otevřené modely vzdala, Čína jako celek jen tak nepřestane, leda na příkaz shora. A u/waltercool dodává obecnější argument, že otevřené modely udávají standardy a vyvíjejí se decentralizovaně, zatímco uzavřené spoléhají jen na tajemství, což je dlouhodobě brzdí.
+
+Pro samotné obrázky pak panuje v komentářích nezvyklý klid. u/Murinshin vysvětluje, že generování obrázků na Číně nikdy nestálo tolik jako jazykové modely, protože Ideogram je kanadský, Black Forest Labs s modelem Flux německý a Krea americká. Do stejné mapy přidává u/RealMercuryRain francouzský Mistral a kanadský Cohere se vzkazem, že není důvod k panice, a vtipně to uzavírá u/PrinceOfLeon hláškou, že pak prostě všichni přejdou na Mistral. A kdyby přece jen všechno skončilo zítra, u/Danny_Stock a u/f5alcon shodně tvrdí, že současné modely už jsou dost dobré a donutí lidi pracovat v omezeních a lépe rozumět tomu, co dnes berou jako samozřejmost.
+
+Z vlákna tak nakonec vychází spíš geopolitická uklidňující teze: dokud bude existovat americký uzavřený monopol, bude mít Čína důvod ho rozbíjet modely zdarma.

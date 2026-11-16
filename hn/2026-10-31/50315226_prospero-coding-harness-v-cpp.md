@@ -1,0 +1,16 @@
+# 50315226
+**Prospero: coding harness v C++, který nežere gigabajty**
+
+Hacker News · fovc · 31. října 2026, 12:54 · 190 bodů / 121 komentářů · [diskuse](https://news.ycombinator.com/item?id=50315226)
+
+Chris Wellons vydal Prospero, vlastní coding harness pro lokální i vzdálené modely. Napsal ho ve svém stylu C++ s dokovatelným rozhraním Dear ImGui a slibuje zhruba o dva řády nižší spotřebu prostředků než konkurenční nástroje. Jádro harnessu je podle něj v podstatě curl slepený s popen(), takže gigabajty paměti navíc nedávají smysl.
+
+Prospero záměrně nemá zabudované poskytovatele modelů, uživatel si má dodat vlastní – llama.cpp, firemní on-prem model, OpenRouter nebo Anthropic či OpenAI API, předplatné Claude ale použít nepůjde. Umí subagenty, nasazení bezhlavé kopie sebe sama přes SSH nebo WSL i ovládání plochy, když vision model kliká, píše a táhne při testování GUI aplikací. Mezi hlavní principy patří nikdy nečekat věčně, tedy každá operace má deadline a po vypršení agent dostane zamítnutí, a pravidlo, že celý strom procesů žije a umírá společně, aby po přerušeném buildu neběžely zapomenuté procesy na pozadí.
+
+Nejvřelejší ohlas sklidilo právě to úsporné pojetí. Uživatel devmor chválí krásné a prostorově efektivní rozhraní a promyšlený produkt se silnými názory, který v éře ledabylého softwaru kolem AI působí skoro emotivně. Uživatel jrm4 mu přitakává s nostalgickým „jsme snad v roce 2000? skvělé!“, kdy se na zbytečnosti neplýtvalo, zatímco keepo404 vzhled odsoudil a pozastavil se nad placenou edicí. Uživatel zzunkie dodává, že ještě před rokem mu MacBook připadal dostatečný, ale s dnešními harnessy začal výkon řešit mnohem víc.
+
+Hodně se řešilo, proč do Prospera nejde zapojit předplatné Claude. Uživatelé thih9 a indymike vysvětlují, že předplatné nezahrnuje použití API a je potřeba platit průběžně za API, uživatel smashed to podává jako záměr Anthropicu držet si lidi ve vlastním Claude Code se zvýhodněnými tokeny. Stejný smashed se zarazil nad licencí Unlicense a dělením na Community a Professional edici a ptal se, jestli se dá modernímu C++ v roce 2026 věřit z hlediska bezpečnosti, na což mu Jtarii stroze vzkázal, že pak projekt asi není pro něj. Uživatel lifeisloving si všiml rozporu, kdy článek mluví o nativní aplikaci pro Windows, macOS a Linux, ale prodejní stránka Professional edice zmiňuje jen Windows a Mac.
+
+Třetí linka diskuse se stočila k alternativám a k věčnému sporu textového a grafického rozhraní. OleksandrC nabídl vlastní hax jako plně statickou linuxovou binárku pod dva megabajty, uživatel vunderba mu připomněl, že by měl přiznat autorství, a uživatel sivers hax vychvaluje jako lehký nástroj ve stylu Suckless, který mu po měsíci na Codexu plně vyhovuje. Uživatel brainless si naopak stěžuje, že v textových agentech nemůže kliknout do zdi textu, otevřít si soubor bokem nebo odpovídat asynchronně, uživatel julesrms mu nabídl vlastní GUI žonglér juggler a uživatel johnny5211 oponuje, že text dovnitř a text ven je pro modely přirozeně textová aplikace. Uživatel thehamkercat by pak nejraději viděl toto úsporné rozhraní naroubované na protokol opencode nebo Codex App Server.
+
+Pro koho má smysl vlastní harness v C++, ukáže až čas, ale chuť po štíhlých nástrojích je v diskusi cítit silně.

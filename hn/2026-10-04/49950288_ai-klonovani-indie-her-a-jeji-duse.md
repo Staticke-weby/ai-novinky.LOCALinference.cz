@@ -1,0 +1,16 @@
+# 49950288
+**AI dokáže naklonovat indie hru, ale ne její duši**
+
+Hacker News · robertvaradan · 4. října 2026, 05:18 · 20 bodů / 19 komentářů · [diskuse](https://news.ycombinator.com/item?id=49950288)
+
+Na Hacker News se objevil odkaz na esej Roberta Varadana, která reaguje na sílící paniku mezi nezávislými vývojáři. Ta říká, že kvůli generativní umělé inteligenci je „stavět veřejně mrtvé", protože kdokoli okopíruje jejich práci dřív, než ji stihnou vydat.
+
+Varadan uznává, že dnešní modely umějí z pár obrázků a stručného popisu mechanik postavit hratelné demo, jako se to povedlo u klonů World of Warcraft nebo Minecraftu. Jenže naklonovat ukázku z X je podle něj něco úplně jiného než naklonovat celou hru. Skutečná hra znamená psaní, svět a příběh, zvuk a hudbu, vychytání zlomových krajních případů a pocit ze hraní, k tomu testování, marketing, budování komunity a podpora po vydání. I proto přirovnává kauzu hry Needle in a Haystack k mockbusterům: parazitní klony na Steamu sice vyrostly na virálním humbuku originálu, ale ten má 23 tisíc testerů a podobně jako Ratatouille nakonec zastínil levnou napodobeninu Ratatoing. Varuje také před případy, kdy uživatel Adam klonuje cizí dema na jeden pokyn údajně jako benchmark modelů Opus 5.5 a GPT-6 Astra a kdy vývojář vystupující jako WeaselPit čelil vyděrači požadujícímu 200 dolarů za údajně kompletní klon.
+
+Právě slovo duše z titulku vyvolalo nejživější přestřelku. Uživatel Yiin poznamenal, že videa od umělé inteligence už spoustu duše mají, což ho samotného šokuje. Uživatel xingped ostře oponoval, že jsou mu vyloženě odporná, jen je čím dál těžší je rozeznat od skutečných. Do toho se přidali uživatelé anonzzzies a jakkos s otázkou, kde jsou vlastně ty špičkové příklady, které by byly zajímavé samy o sobě a ne jen tím, že je vyrobila umělá inteligence, a zda se TikTok a zkratkovitá videa už netopí v samých padělcích. Uživatel tomjen3 to shodil poznámkou, že modely v sobě nesou spojenou duši celého lidstva, které dodalo trénovací data.
+
+Technicky laděná část vlákna se točila kolem toho, proč klony někdy působí až podezřele přesvědčivě. Uživatel fxtentacle nadhodil, že kód známých her mohl někde uniknout a modely se ho proto učí zpaměti, což dokládá i schopností postavit Quake 3 včetně poznámek Johna Carmacka. Jakmile se ale vývojář jen trochu odchýlí od vyšlapané cesty a přijde s neobvyklou mechanikou, model se podle něj pravidelně sesype, protože by v pokynu muselo být všechno jedinečné už předem obsaženo. Uživatel alienbaby namítl, že jednoznačně popsat zadání přece není problém, který by trval vyřešit dlouho, zatímco uživatel aavisangle doplnil, že model umí kód vygenerovat i sám od sebe, nejen ho vytáhnout z tréninku.
+
+Nejpraktičtější námitku proti strachu ze zlodějů přinesl uživatel brador: recenze na Steamu jsou nemilosrdné a lhůty pro vrácení peněz velkorysé, takže odfláknuté klony rychle zapadnou. Sám autor eseje v diskusi souhlasil a napsal, že je potřeba věřit hráčům, kteří jsou přísní i k hrám, jež vůbec nejsou odfláknuté. Cynickou tečku přidal uživatel bitfilped s poznámkou, že nevěděl, že duše platí účty.
+
+Z vlákna tak nakonec vyplývá uklidňující paradox: ukázka se dá zkopírovat za večer, ale hru je pořád potřeba dotáhnout, prodat a udržet naživu.

@@ -1,0 +1,14 @@
+# 1wyefga
+**Matematici si nezaslouží výjimku z AI, píše autor**
+
+r/singularity · u/DankestMage99 · 5. října 2026, 19:20 · 305 bodů / 282 komentářů · [diskuse](https://www.reddit.com/r/singularity/comments/1wyefga/)
+
+Autor, který se sám označuje za kreativce, tvrdí, že matematici by neměli dostat zvláštní výjimku z nástupu umělé inteligence. Podle něj systémy AI míří na dlouho otevřené matematické problémy a část výsledků se zatím nezveřejňuje, zatímco se řeší, jak s tím naložit. Verifikaci důkazů, kontrolu originality a férovou atribuci uznává bez výhrad, zdržování kvůli tomu, aby si obor zvykl na vytlačení, mu ale přijde špatně, a vyhrocuje to přirovnáním, zda bychom brzdili i lék na rakovinu, kdyby ho AI našla dřív než lidé.
+
+Největší ohlas měla souhlasná a škodolibá linka. u/LawrenceSellers píše, že takovou debatu si projde každá profese, kterou AI vytlačí, a dlouho to nevydrží. Navazuje u/beardfordshire se sérií „spisovatelé: poprvé? fotografové: poprvé? vývojáři: poprvé? filmaři: poprvé?“ a dodává, že pro lidi, kteří tíhu vytlačení už cítí, je frustrující sledovat nově ohrožené obory, jak debatu začínají od nuly. Podobně u/hypnomancy se směje, že řadě matematiků cizí ztráta práce nevadila, a problém nastal, až když došlo na ně.
+
+Proti tomu stojí výtka, že autor bojuje se slaměným panákem. u/Cryptizard tvrdí, že nikdo o žádnou „výjimku“ pro matematiky ve skutečnosti nežádá, přidává se u/DoutefulOwl s označením vrcholného slaměného argumentu. Věcnější opozici přináší u/MukdenMan citací z otevřeného dopisu o soutěži Mathathon, podle které matematici nejen dokazují věty, ale starají se o zdraví oboru, sdílejí metody, vedou studenty a nesnaží se navzájem předbíhat v cílové rovince, a ptá se, proč je najednou důraz na kariéru a prestiž. u/Eliv_nurotic k tomu přihazuje odkaz na leidenskou deklaraci, v níž matematici podle něj žádají laboratoře, aby řešení otevřených problémů nevydávaly a výzkum platily. A u/Primary_Ads autorovu výzvu k důkladnému ověřování obrací prostou otázkou, kdo tu práci má dělat.
+
+Třetí proud řeší, o co v matematice vlastně jde. u/Theorist16 vysvětluje, že výzkum v čisté matematice funguje jinak než ostatní vědy a odpovědi na otevřené problémy jsou skoro vždy prakticky k ničemu, cenný je vývoj technik, které k nim vedly. Na to navazuje u/Stabile_Feldmaus: matematika není seznam bohem daných problémů, ale prohlubování porozumění, propojení s existujícím poznáním a kladení nových otázek, což prý firmám trvá, protože kromě zkompilovaného kódu netuší, co jejich model s matematikou dělá. Smířlivější pohled nabízí u/Redducer s analogií go a Lee Sedola, jehož stroj porazil, aniž by lidé přestali hrát a čerpat z jeho tahů nové vhledy, jen je vytlačil ze špičky potravního řetězce.
+
+Z celé přestřelky tak zůstává spor, zda se brzdí poznání kvůli ochraně povolání, nebo se chrání porozumění, bez kterého jsou samotné důkazy málo platné.

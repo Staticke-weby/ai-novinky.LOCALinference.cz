@@ -1,0 +1,16 @@
+# 1wxnt4u
+**Zabanován na ChatGPT za „kyber zneužití“ při vývoji her – odvolání zamítnuto za minutu**
+
+r/OpenAI · u/Davisdman · 4. října 2026, 21:09 · 469 bodů / 249 komentářů · [diskuse](https://www.reddit.com/r/OpenAI/comments/1wxnt4u/)
+
+Drobný herní vývojář s tarifem za sto dolarů měsíčně přišel ze dne na den o účet kvůli údajnému „kyber zneužití“, bez varování a bez vysvětlení, co konkrétně měl porušit. Podle vlastních slov přitom řešil jen vlastní projekty – zeměpisnou hádací hru pro web a iOS postavenou na Google Maps, Street View a MapKitu, rozdělanou hru Saddle Storm a osobní projekt Senior Sendoff. Odvolání poslal s podrobným popisem práce, odpověď od podpory prý přišla do minuty od bota se vzkazem, že případ je uzavřen, a oficiální formulář o minutu později potvrdil, že původní rozhodnutí platí.
+
+Autor se v komentářích doslova doprošuje, aby si někdo z OpenAI prošel jeho data, protože Codex používal jen na vývoj her a ChatGPT na školu, a věří, že ho záznamy chatů očistí. Sám tipuje, že automatický filtr mohl označit nevinné vývojářské věci, třeba instalaci vlastních testovacích buildů na vlastní iPhone nebo pohybování se v limitech herního API, ale jistý si není, protože mu to nikdo nesdělil. Ptá se proto ostatních, jestli se někomu takový ban podařilo zvrátit přes fórum, síť X nebo konkrétní e-mail, a zda se domohl vrácení peněz.
+
+Největší ohlas v diskusi má rozhořčení nad odvolacími systémy jako takovými. u/ecafyelims píše, že nenávidí, jak je každé „odvolání“ dnes jen razítko se zamítnutím, a přidává vlastní historku z jiné firmy, kde automat chybně započítal jeden starý komentář jako čtyři prohřešky a odvolání s jasnými důkazy bylo za čtvrthodiny smeteno ze stolu. V podobném duchu radí u/myklurk, ať to vzdá: po několika deaktivacích se přes jiný účet prokopal na podporu, ale dostával jen kopírované odpovědi ze zamítacího e-mailu, a ani neformální centrum pro spory ho neposunulo dál než zpátky k formuláři, takže zvažuje storno platby přes banku.
+
+Vlákno se rychle plní podobnými zkušenostmi z herního vývoje. u/Kaltovar je přesvědčený, že ho smazali kvůli hře o CIA proti KGB ze šedesátých let, protože obsahovala „skutečné techniky špionů“, ačkoliv šlo o dávno veřejné informace. Založil si nový účet, rok se nic nedělo, až ho systém odhalil a zabanoval znovu za obcházení banu, takže dnes posílá peníze Anthropicu. Jiní ale krotí nadšení z konkurence: u/semangeIof láká na předplatné Anthropicu a chválí modely Sonnet a Opus 5.5 kvůli efektivitě využití, zatímco u/Redstra kontruje, že náhodné bany se dějí i tam.
+
+Nechybí ani jízlivost a podezření. u/fvancesco utrousí, že autor možná jen urazil ChatGPT, u/Tendrils_RG ironizuje, že jeho simulátor správy Epsteinova ostrova zabanovali také „bez důvodu“, a u/NinjaBonsai to přirovnává ke hráčům World of Warcraft, kteří prý nikdy nekupovali zlato a přitom jsou všem jasně vinní. Vážnější linku pak přináší u/majestyne s postřehem, jak sladce ironické je, že právě OpenAI se stává učebnicovým příkladem, proč je automatizovaná zákaznická podpora bez pečlivého návrhu strašný nápad, a u/ByteNomadOne dodává, že firma tím zase jednou výborně propaguje lokální umělou inteligenci.
+
+Z příběhu tak zůstává hlavně únava z podpory, kde se člověka nedovoláte a filtr neřekne, co mu vadilo.

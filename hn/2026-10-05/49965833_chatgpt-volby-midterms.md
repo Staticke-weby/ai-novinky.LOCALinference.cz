@@ -1,0 +1,16 @@
+# 49965833
+**Lidé se ptají ChatGPT, jak mají volit v amerických volbách**
+
+Hacker News · geox · 5. října 2026, 17:06 · 51 bodů / 79 komentářů · [diskuse](https://news.ycombinator.com/item?id=49965833)
+
+Podle reportáže NPR se část amerických voličů obrací na chatboty s prosbou, aby jim pomohly rozhodnout, koho volit v probíhajících volbách do Kongresu. Odkaz na reportáž Maham Javaid sdílel na Hacker News uživatel geox bez vlastního komentáře.
+
+Z načetného úryvku je patrné jen to základní: reportáž vyšla 5. října v pořadu Weekend Edition Sunday, trvá čtyři a půl minuty a popisuje voliče, kteří si s chatbotem procházejí jednotlivé závody a kandidáty, aby zjistili, kdo nejlépe odpovídá jejich hodnotám.
+
+Diskuse se okamžitě stočila k tomu, zda je to dobrý, nebo děsivý nápad. Uživatel jasbury v tom vidí ideální využití jazykových modelů: hlasovací lístek je pro běžného člověka nepřehledný a chatbot ho může zpřístupnit a přimět víc lidí volit méně naslepo. Zároveň ale varuje, že to celé stojí na předpokladu, že model bude nestranným soudcem, a časem se od pravdy spíš odchýlí. Podobně smířlivě to vidí joshstrange, podle kterého většina lidí s demokracií jinak vůbec nepřijde do styku, případně volí jen „červené proti modrým", což u lokálních závodů nedává smysl.
+
+Proti tomu stojí linka o lenosti a manipulaci. ThrowawayR2 to popisuje jako začátek outsourcování zkoumání, myšlení a usuzování na neprůhlednou umělou inteligenci v rukou bilionových korporací s vlastní agendou, a žertem navrhuje, že místo odhadů výsledků bude stačit zeptat se všech velkých modelů a vynásobit to jejich tržním podílem. Odpověď na sebe nenechala čekat: pessimizer namítá, že u většiny kandidátů volič stejně žádné informace nemá a jen se od něj čeká, že bude volit podle pokynů strany a reklamy PR firem, takže lidé s chatbotem budou naopak nejlépe informovanými voliči za dlouhou dobu. Praktický návod přidal schwarzrules, který si do promptu vypsal pro něj důležitá témata, vložil volební příručky z novin, blogů a newsletterů a nechal si vyhodnotit, kdo mu nejvíc sedí, včetně rizik u každého kandidáta.
+
+Nejostřejší výhrady míří ke koncentraci moci. Uživatel micromacrofoot varuje před homogenizací názorů přes pár soukromých firem s vlastními zájmy a přirovnává to k řetězci skupujícímu venkovské zpravodajské stanice, SukadarBukadar v tom vidí dokonalý nástroj propagandy na míru každému vkusu a smcg se ptá, co brání tomu, aby si někdo ovlivňování výsledků prostě zaplatil. Do téhle debaty zapadá i stručná výměna mezi Zambyte a jawns o tom, co je horší: neinformovaná populace, nebo homogenně informovaná – s dodatkem, že nejhorší je být homogenně dezinformovaný.
+
+Nechybí ani humor a sci-fi. yawpitch připomíná, že Američané se na totéž dřív ptali desek ouija, jasnovidců a kouzelné koule Magic 8-Ball, jen by prý zatím neměli chodit za Grokem. bisonbear navrhuje brát model jako tazatele, který pomůže ujasnit priority a pak je porovná s veřejnými postoji kandidátů, zatímco MattCruikshank sní o osobní umělé inteligenci, která se naučí morální odpovědi svého majitele a pak ho zastoupí v Kongresu. Nashooo to glosuje odkazem na sušenky z Black Mirror a moezd celou debatu shrnuje odkazem na povídku Franchise, v níž volí jediný vybraný volič.

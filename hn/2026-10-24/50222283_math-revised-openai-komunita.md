@@ -1,0 +1,16 @@
+# 50222283
+**Math revised: komunita opravuje matematické texty OpenAI**
+
+Hacker News · tokepi · 24. 10. 2026, 17:35 · 42 bodů / 34 komentářů · [diskuse](https://news.ycombinator.com/item?id=50222283)
+
+Uživatel tokepi odkázal na čerstvý zápis na blogu Terence Taa. Jde o hostující text čtveřice Abhinav Nellore, Johannes Schmitt, Soledad Villar a Rachel Ward, který představuje komunitní centrum pro přepracování matematických zápisů OpenAI. Pod příspěvkem se rychle rozjela debata o tom, kdo z téhle dobrovolnické práce vlastně těží.
+
+Autoři v textu tvrdí, že zápisy OpenAI na GitHubu bývají těžko srozumitelné a mají neúplné citace. Proto založili otevřený repozitář mathcommunity/oai-math-revised, do kterého zvou studenty, postdoky, profesory i nadšence, a hotové revize vystavují k procházení přes GitHub Pages. Zároveň shánějí další správce a recenzenty, kteří se mají hlásit e-mailem i s uvedením kategorií, jejichž posuzování by zvládli.
+
+Nejhlasitější část diskuse projekt odmítá jako získávání práce zdarma. Uživatel vishna ho popisuje jako verzi neplacených stáží pro doktorandy a uživatel 1293475 mluví o měkké síle, která má lidi přimět pracovat zadarmo, s návrhem přejmenovat to na OpenOpenAI. Podobně uživatel pred_ vyzývá k odmítnutí představy, že OpenAI může odhodit hromadu nedodělků a nechat výzkumníky, ať to uklidí, zatímco zásluhy zůstanou firmě, a uživatel lukax varuje, že komunita novými modely natrénuje vlastní zbytečnost. Proti tomu uživatel curt15 namítá, že oznámení o používání nástrojů OpenAI vůbec nemluví a události posledních dvou měsíců spíš vybízejí k posilování otevřených lokálních modelů, na což uživatel nostrebored reaguje, že právě to by bylo pro svět dobře.
+
+Osobní rovinu přidává uživatel bemtevi, který by se nikdy nezapojil, protože vyjasňování strojově vygenerovaných důkazů považuje za pohrdáníhodné trávení času. Smyslem matematiky je podle něj přesné a jasné porozumění světu skrze společnou lidskou praxi, ze které se vytrácí radost, zatímco uživatel turzmo žertuje, že po vlastních hrobech s formalizací si teď matematici kopou neoznačené masové hroby. Odpovědi na sebe nenechaly čekat: uživatel coderenegade tvrdí, že čistá matematika je hra, které jde jen o pravidla a definice, a uživatel _vertigo se ptá, proč by vyjasňování výsledků bylo pohrdáníhodné, když má jít právě o přesné porozumění.
+
+Věcnou otázku položil uživatel dreijs, který se přiznává, že novinky nesledoval, a ptá se, zda důkazy podle matematiků drží, přičemž zmiňuje význačnost Unique Games Conjecture a Barnetteovy domněnky. Uživatel QuesnayJr odpovídá, že za vyřešené se považují především dva teoreticko-číselné výsledky o kvazi-Riemannově hypotéze a o neexistenci Landauových-Siegelových nul, o prvním z nich píše i časopis Quanta jako o experty uznaném důkazu a ke druhému už koluje několik výkladových rukopisů. Mezitím uživatel sdenton4 navrhuje nový pravdivostní stav Ověřeno-ale-nedokázáno pro výsledky známé z formální verifikace bez srozumitelného důkazu, což uživatel cadamsdotcom glosuje jako matici dva krát dva, a uživatel GoWaitInTheVan celou podívanou odlehčuje narážkou na zapojení Trisolaranů.
+
+Z vlákna tak zůstává obraz komunity rozpolcené mezi nadějí na srozumitelnější důkazy a nechutí dělat korektora cizímu modelu.

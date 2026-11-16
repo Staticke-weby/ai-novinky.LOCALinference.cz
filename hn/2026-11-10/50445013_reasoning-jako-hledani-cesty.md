@@ -1,0 +1,16 @@
+# 50445013
+**Co vlastně řeší uvažování modelů? Alex Wang ho přirovnává k hledání cesty**
+
+Hacker News · gmays · 10. listopadu 2026, 20:25 · 136 bodů / 64 komentářů · [diskuse](https://news.ycombinator.com/item?id=50445013)
+
+Alex Wang v novém eseji nabízí jiný pohled na uvažování jazykových modelů: každý vzorek je podle něj pokusem najít cestu z úvodního kontextu ke správné odpovědi v prostoru tokenů. Zpochybňuje tím zjednodušenou představu, že delší přemýšlení automaticky znamená lepší výsledek, protože natrénovaný model po určité délce přestává zlepšovat a někdy se dokonce zhorší, jako by se přemýšlel.
+
+Svou metaforu opírá o jednoduchou matematiku úspěchu. Pravděpodobnost, že model trefí správnou odpověď, je součtem pravděpodobností všech cest, které do ní vedou, a trénink s ověřitelnou odměnou tuto pravděpodobnost přímo maximalizuje. Opakované vzorkování, dolaďování na úspěšných cestách i takzvané amortizování hledání do vah modelu jsou jen různé způsoby, jak tuto šanci zvýšit. Stejný rámec pak vysvětluje i nevěrné řetězce myšlenek, které nemusí pravdivě popisovat cestu k odpovědi, a reward hacking, kdy model najde zkratku v nedokonalém ověřovači.
+
+Právě rozdíl mezi tréninkem a inferencí v diskusi nejvíc rezonoval. Uživatel akavi se ptal, zda delší procházka prostorem tokenů přece jen kauzálně pomáhá, když ověřit odpověď je snazší než ji vytvořit. HarHarVeryFunny odpovídá, že při tréninku delší hledání dává smysl, protože zvyšuje šanci narazit na úspěšnou cestu včetně oklik a návratů po chybě, ale při inferenci už model jen následuje některou z objevených cest. Kdo ho nechá přemýšlet za tento bod, riskuje, že z vítězné pozice zabloudí jinam, a proto je klíčové generování ve správný moment zastavit. Samotné uvažování získané z RL pak označuje za poněkud tupý, ale často překvapivě účinný cargo-kult.
+
+Piker k tomu přidává osobní postřeh: při sledování syna, jak řeší těžké příklady, si uvědomil, že on sám má v hlavě jednu správnou cestu, zatímco syn se k výsledku dostává jinak. Wangův příklad se součtem od jedné do deseti, který lze spočítat postupným sčítáním i párováním do pětic jedenáctek s výsledkem 55, je přesně tahle situace. Zmgsabst navazuje, že různé cesty důkazu by šlo formalizovat a zkoumat, co mají společného a kdy jsou si podobné. Naproti tomu niemandhier namítá, zda model netrénujeme k metodickému prohledávání prostoru, třeba s nástroji a ověřovačem, ale jebarker odpovídá, že běžná praxe je prostší: náhodně se vzorkují vysoce pravděpodobná dokončení a ověřovač jen řekne, ke kterým řešení model přitlačit a od kterých odtlačit.
+
+Nechybí ani základní filozofická námitka. Drfloyd51 se ptá, k čemu je umělá inteligence, když už máme funkci umějící odpověď ověřit. Snarkconjecture kontruje protipříkladem SAT solverů a formální matematiky a cowlevel to dotahuje k vtipu, ať mu ověřovač důkazu P = NP rovnou takový důkaz najde. Mezitím si vlákno všímá i formy: krásného webu, rovnic vykreslených v MathJaxu a animovaného ptáčka, který otáčí hlavu za kurzorem.
+
+Z eseje tak zůstává střízlivé ponaučení: delší myšlení pomáhá hlavně proto, že ho trénink naučil model využívat, a ne proto, že by každý jednotlivý řetězec myšlenek zaručeně směřoval k pravdě.

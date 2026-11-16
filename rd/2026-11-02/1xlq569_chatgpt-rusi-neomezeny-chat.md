@@ -1,0 +1,16 @@
+# 1xlq569
+**ChatGPT ruší neomezený chat a slučuje Work s Chatem. Uživatelé hlásí ztrátu osobnosti i organizace**
+
+r/ChatGPT · u/kondenado · 2. listopadu 2026, 07:42 · 465 bodů / 299 komentářů · [diskuse](https://www.reddit.com/r/ChatGPT/comments/1xlq569/)
+
+OpenAI podle sdíleného screenshotu ruší neomezené používání běžného chatu v dosavadní podobě a zároveň slučuje režimy Work a Chat do jednoho rozhraní. Autor příspěvku píše, že právě neomezený chat byl jediným důvodem, proč si ChatGPT držel, a že napříště zůstane jen u Claude. Příspěvek je označený jako novinka a během několika hodin nasbíral stovky hlasů.
+
+Největší ohlas má povzdech u/Aeiraea, že pokud opravdu skončí neomezený běžný chat, bude si muset najít něco nového. Podobně to vidí u/catarsan, který ChatGPT používá od vydání a krok označuje za velmi špatný tah, kvůli kterému firma přijde o spoustu uživatelů včetně něj. Praktický dopad na peněženku řeší u/Low_Entertainment491: tarif za dvacet dolarů měsíčně si předplatil teprve před dvěma dny a pokud o neomezené chaty přijde, nebo bude muset připlácet, předplatné zruší.
+
+Nejvěcnější námitku formuluje předplatitel Plusu u/DaPro373, který buduje nezávislé kreativní podnikání. Nevadí mu samotné sloučení do jednoho rozhraní, ale sloučení limitů bez jasného sdělení, kolik používání předplatitelé vlastně dostanou. Vysvětluje, že High reasoning používá na výzkum, plánování a technické diskuse, zatímco Work a Codex si šetří na implementaci, a právě oddělené limity byly hlavním důvodem, proč dal přednost ChatGPT před Claude. Obrátil se proto na podporu OpenAI s návrhem zachovat oddělené limity, nebo zajistit srovnatelnou praktickou kapacitu s transparentními limity předem, od AI asistenta podpory se ale dozvěděl jen veřejně dostupné informace a jeho případ nyní čeká na lidské posouzení.
+
+Zbytek vlákna řeší, na čem se vlastně dá pracovat. u/realyoulookdifferent označuje Instant za nepoužitelný, protože často odpoví, že žádné informace nemůže najít, zatímco High kýžené informace našel, a prosí aspoň o neomezené přemýšlení u staršího modelu. u/Wonderful_Pen932 odhaduje, že Instant zůstane neomezený a běžné přemýšlení bude stát velmi málo. Opačnou zkušenost s konkurencí přidává u/ItsaMeProvalonely: ptá se, k čemu ostatní Claude používají, protože mu i při vysokém úsilí spíš vymýšlí, než aby hledal, a musí ho opakovaně nutit, aby si informace nejdřív vyhledal.
+
+Klidnící hlas přináší u/xithbaby, který byl v betě ChatGPT Health. Popisuje, že si stěžovali na tón i na limity a odmítání pomoci u některých zdravotních témat a OpenAI obojí opravilo, proto radí počkat s vidlemi, protože testeři včetně náročných uživatelů příliš těsné limity stejně ohlásí. Ekonomický rámec dodává u/TwinSong přirovnáním ke klasické cestě technologických firem: nejdřív levně nalákat zákazníky jako taxíky či streaming a pak zdražit, podobně jako reklamní tarif u Netflixu, nekonečné reklamy na YouTube nebo vyšší taxy u Uberu. Podobně u/TylerDurden1985 tvrdí, že OpenAI ani Anthropic zatím neúčtují skutečné náklady na běh modelů a jen brzdí pálení hotovosti, aby vydržely do vstupu na burzu.
+
+Z diskuse tak zůstává hlavně nejistota: lidé neodmítají samotné jedno rozhraní, ale chtějí předem vědět, kolik přemýšlení za předplatné skutečně dostanou.

@@ -1,0 +1,16 @@
+# 50464055
+**Každý AI model by měl být torrent, navrhuje autor**
+
+Hacker News · llmmadness · 12. listopadu 2026, 08:20 · 37 bodů / 16 komentářů · [diskuse](https://news.ycombinator.com/item?id=50464055)
+
+Distribuce obřích otevřených vah přes centrální servery je zbytečně křehká, tvrdí projekt Pirate Face. Jako příklad uvádí DeepSeek-V4.1-Flash-1017, který tvoří 48 shardů ve formátu safetensors plus konfigurace a tokenizer o celkové velikosti 510 GB. Váhy se po vydání nemění, takže každý zájemce stahuje přesně stejné bajty, což je ideální situace pro peer-to-peer sdílení.
+
+Odkazovaný článek to staví do kontrastu s filmy: u filmu existuje 4K remux, 1080p, 720p a různé zvukové stopy, publikum se tak rozpadá do mnoha malých swarmů, zatímco u oficiálního balíčku modelu vznikne jeden hash a jeden velký swarm. Podrobně pak popisuje, jak torrent obsah pojmenovává — starší formát v1 spojuje soubory do jednoho proudu a hashuje SHA-1, novější v2 staví pro každý soubor vlastní Merkleho strom s SHA-256 — a jak vyhledávání peerů řeší tracker doplněný o takzvanou Model DHT, pro niž chce být Pirate Face rozcestníkem s ověřenými magnety a živými daty o seedech.
+
+Souhlasná část diskuse se rychle stočila k Hugging Face. Havoc píše, že torrent dával pro velké statické soubory vždycky větší smysl, zvlášť když se některý model náhle stane populárním, jenže platforma má motivaci držet si kontrolu. alohahaho přitakává, že je to rozumnější než distribuce z jednoho soukromého serveru, a SwtCyber dodává pragmatický důvod: hlavní měnou platformy vůči investorům a tvůrcům jsou statistiky stažení, o které by s předáním seedování do DHT přišla. Podobně to vidí alicehuang1, podle níž jsou decentralizované sítě a umělá inteligence na kolizním kurzu posledních dvacet let, jen sázky jsou dnes kvůli boji o špičkové modely mnohem vyšší.
+
+Proti tezi o „jednom modelu, jednom swarmu" se ozvali unscaled a flyby25. Na Hugging Face podle nich leží vedle oficiálního vydání záplava kvantizací jako FP8, Q4_K_M či INT4, necenzurovaných a doladěných variant, což přesně připomíná různé filmové enkodéry. Málokdo si podle nich stáhne základní model přímo z laboratoře, protože ho na běžném hardwaru ani nespustí, takže se swarm stejně rozmělní. _ache_ to shrnuje tak, že ověřený torrent ocení hlavně ten, kdo dělá kvantizaci nebo výzkum, zatímco habadabaaa oponuje, že lidé potřebují konkrétní verzi modelu mnohem častěji než konkrétní verzi filmu.
+
+Třetí linka řeší, jak by se torrenty měly vůbec ovládat. pogue by bral klienta zabudovaného v prohlížeči nebo v rozšíření, který by sám řídil stahování a podle aktuální zátěže škrtil rychlost, bez nastavování portů a běžícího programu na pozadí. DonHopkins to po vlastní zkušenosti odmítá jako cestu k nafouknutému a padajícímu prohlížeči a navrhuje raději jednu samostatnou systémovou službu, která by se ostatním programům tvářila jako obyčejné HTTP, podobně jako kdysi fungovaly Red Swoosh a BitTorrent DNA. PhilippGille mezitím jen suše odkazuje na WebTorrent a blosko se diví, proč s torrenty nepřišel Hugging Face rovnou.
+
+Ať už se torrenty prosadí, nebo ne, diskuse ukazuje, že problém není v technologii, ale v kontrole nad katalogem, statistikami a verzemi pro běžné počítače.

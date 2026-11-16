@@ -1,0 +1,16 @@
+# 50322173
+**Brazilský soud potrestal advokáty za prompt injection v podání**
+
+Hacker News · doodlesdev · 1. listopadu 2026, 03:19 · 320 bodů / 204 komentářů · [diskuse](https://news.ycombinator.com/item?id=50322173)
+
+Brazilský pracovní soud udělil pokutu dvěma advokátům, kteří do svého podání ukryli instrukci pro automatizovaný systém soudu. Bílým písmem na bílém pozadí do textu vložili výzvu, aby umělá inteligence návrh posoudila jen povrchně a nezpochybňovala předložené dokumenty. Soud to nebral jako běžnou právní argumentaci, ale jako zásah do integrity řízení.
+
+Opřel se přitom o článek 77 procesního kodexu, který stranám a advokátům zakazuje mařit soudní řízení, vymýšlet nedovolené novoty ve skutkovém či právním stavu a ztěžovat činnost soudu. Právě v tomto duchu citovaná pasáž v diskusi rezonuje: nešlo o trest za samotná slova, ale za pokus sabotovat projednávání případu.
+
+Nejživější spor se vede o to, kde leží hranice mezi prompt injection a důraznou argumentací. Uživatel Retro_Dev přiznává, že bránit vlastnímu přezkumnému systému dává smysl, ale bojí se, že definice je gumová a příště soud pokutuje i za „logický argument". Odpovědi jsou vesměs příkré: uživatel AnimalMuppet cituje skrytou větu doslovně a konstatuje, že při jakékoli rozumné definici je to jasný případ, uživatel paulryanrogers dodává, že každá injekce je pokus zneužít technickou slabinu vpádem příkazů do datového toku. Uživatelé throwup238 a verve_rat pak ironizují obavu ze svévole tím, že od toho jsou odvolací soudy a výklad pravidel je ostatně každodenní práce soudů.
+
+Druhá linie řeší, zda by stejná věta adresovaná člověku byla trestná. Uživatel jkahrs595 se ptá, jestli by ho někdo pokutoval, kdyby soudce otevřeně požádal o povrchnost, a proč je tedy trestné žádat o totéž umělou inteligenci. Uživatel verandaguy odpovídá, že osobní žádost by byla jen nerozumným přáním, zatímco skrytý příkaz je aktivní snaha podkopat infrastrukturu soudu. Podobně to vidí uživatel pdpi: advokát je pomocníkem soudu s povinností upřímnosti a bílý text na bílém pozadí je nepopiratelným pokusem o klam. Uživatel xg15 proto navrhuje lepší přirovnání než rozhovor s člověkem, a to útok na čtecí software soudu přes přetečení bufferu, jen s tím rozdílem, že vektorem útoku jsou anglická slova.
+
+Třetí proud diskuse obrací pozornost proti samotnému soudu. Uživatel Grimburger se diví, že používat modely k přezkumu je v pořádku, a problém je až v tom, že si někdo všimnutelného hacku všiml. Uživatel mikelitoris si klade otázku, co je horší, a uživatel NonHyloMorph odpovídá jasně: používání umělé inteligence k přezkumu podání. Do toho vstupuje i uživatel vystupující jako advokát 2Gkashmiri s historkou o rozhodnutí, které vypadalo jako vygenerované, a s názorem, že pokud soudce outsourcuje úsudek na model, měl by mít advokát právo ten model ovlivňovat. Proti tomu stojí tvrdší hlas uživatele thinkcontext, podle kterého pokuta nestačí a patřila by ztráta licence i vězení, protože rozdíl oproti manipulaci se soudním úředníkem nebo falšování listiny nevidí.
+
+Z případu tak zůstává obecnější ponaučení, které diskuse opakuje v různých variacích: psát do spisu neviditelný příkaz stroji je něco jiného než přesvědčovat soudce slovy.

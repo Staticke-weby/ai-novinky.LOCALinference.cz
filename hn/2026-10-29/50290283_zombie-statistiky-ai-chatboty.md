@@ -1,0 +1,16 @@
+# 50290283
+**Odkud berou AI chatboty čísla? Stopa vede k „zombie statistikám“**
+
+Hacker News · mektrik · 29. října 2026, 16:06 · 155 bodů / 66 komentářů · [diskuse](https://news.ycombinator.com/item?id=50290283)
+
+Společnost Trakkr položila ChatGPT, Perplexity, Gemini, Claude a AI Overviews dvě stě otázek, na které se odpovídá číslem, tedy podílem, průměrem nebo počtem vydávaným za fakt. U každé odpovědi pak výzkumníci rozklikávali citace a pokračovali dál, až k původnímu zdroji. Ukázalo se, že se mnohé statistiky jen recyklují z článku do článku, nebo za nimi nestojí žádná dohledatelná studie.
+
+Výzkum to předvádí na otázce, kolik procent obchodníků to vzdá po prvním follow-upu. Odpověď zněla, že 44 procent obchodníků to vzdá hned po prvním pokusu, a stejné číslo se objevovalo dál v řetězu citací bez jasného původu. Autoři to shrnují slovy o jednom čísle a stopě, která nikam nevede, o čísle citovaném všemi pěti modely a nedoloženém žádným z nich.
+
+Diskuse se hned chytla humoru. Uživatel falcor84 žertuje, že celých 40 procent statistik od AI má za sebou konkrétní studii, což je prý povzbudivé proti lidskému základu, kdy je 73,6 procenta všech statistik vymyšleno na místě. Uživatel mfld k tomu přidává parafrázi známého bonmotu, že nemáš věřit statistice, kterou jsi sám nepropašoval do trénovacích dat. A uživatel toddmorey si rýpne do stylistiky reportu, uživatel Sharlin odpovídá, že byl nejspíš celý napsaný umělou inteligencí.
+
+Vážnější linka řeší, jestli se dá věřit chatbotům s citacemi. Uživatel alberth chválí Perplexity za to, že každá věta má mít odkaz až ke skutečnému zdroji, třeba recenzovanému článku, a vidí v tom superschopnost pro důvěru. Odpovědi jsou ale skeptické: uživatel tmpz22 popisuje, jak službu kdysi opustil kvůli citování spamu z blogů o AI jako primárního zdroje, uživatel _0ffh dodává, že odkaz po rozkliknutí děsivě často netvrdí to, co o něm Perplexity tvrdilo, a uživatel xnorswap podotýká, že Perplexity v testu stejně neboduje o moc lépe. Uživatel armcat přidává lidský prvek, že citace v podobě jedničky v hranatých závorkách dávají falešný pocit bezpečí, protože je málokdo opravdu zkontroluje.
+
+Nejživější spor je o to, k čemu jsou taková čísla dobrá a co s nimi ve škole. Uživatel jrflo odbývá statistiky jako vycpávku do poradenských prezentací, kde na přesnosti stejně nezáleží, a uživatel topaz0 přisazuje, že druhou velkou aplikací je obušek na oponenty při obhajobě předem hotového názoru. Uživatel zzzeek tvrdí, že právě proto je správně kritický pohled na výstupy modelů obrovská dovednost a že platí i pro lidi a lidské texty, zatímco uživatelé add-sub-mul-div a kazinator oponují, že skepse je postoj, ne dovednost, a že žádná nová dovednost oddělená od kritického myšlení tu nevzniká. Uživatel rozab to dokládá historkou o php2shell, kde výrok o 70 procentech webů na PHP převzala všechna média a dnes už se zdroj nedá dohledat, uživatel cosmojg dopočítává, že HTTP Archive vidí PHP na 4,22 milionu z 8,74 milionu mobilních domén, tedy 48,3 procenta, zatímco W3Techs hlásí 69,2 procenta jen ze stránek se známým jazykem. Sen uživatelů Isamu a HighlandSpring je pak opačný: agent, který každé tvrzení dotáhne až k podkladu i s účtenkou, jak k závěru došel.
+
+Když chatbot předloží číslo jako fakt, diskuse radí brát ho jako začátek pátrání, ne jako konec.

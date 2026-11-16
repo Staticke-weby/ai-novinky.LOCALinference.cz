@@ -1,0 +1,14 @@
+# 1x1umis
+**Referenční videa dělají v Minimax herecké výkony uvěřitelnějšími**
+
+r/StableDiffusion · u/roychodraws · 9. října 2026, 21:30 · 446 bodů / 84 komentářů · [diskuse](https://www.reddit.com/r/StableDiffusion/comments/1x1umis/)
+
+Uživatel u/roychodraws zveřejnil srovnávací video, které má ukázat, jak moc dokáže referenční video ovlivnit herce ve videogenerátoru Minimax. Metodu na jeho popud zkoušel už uživatel u/R34vspec, který se dlouhodobě snaží dostat z modelu uvěřitelné herecké výkony. Protože jeho původní příspěvek velkou pozornost nezískal, rozhodl se autor sílu triku předvést na vlastní ukázce.
+
+V doplněném návodu popisuje, jak konzistenci vynutit. Každá postava si má vzhled brát výhradně z přiřazeného obrázku a každou repliku pronášet jako imitaci mluvčího z referenčního videa. To samé video pak slouží oběma postavám jako předloha přednesu – kopírují kadenci, pauzy, změny výšky, důrazy, tón i mimiku, zatímco vzhled mluvčího, barvu hlasu, slova, prostředí, kompozici i texty v obraze mají ignorovat. Sám dodává, že neví, zda je to nejlepší způsob, a část frází prý možná nedělá vůbec nic.
+
+Diskuse se rychle chytla scény z Pulp Fiction. Nejvýše hodnocený hlas u/Enshitification si žádá, aby klaunské postavy zahrály Julesův falešně biblický proslov, a zajímá ho, čím vzniká zvláštní ozvěna v hlasech. u/blimey_euphoria jen křičí legendární „Jak tomu říkají?!“, u/RobMilliken si vychutnává smyslnou „čtvrtlibru… se sýrem“. Uživatel u/herefromyoutube chválí, jak dobře se předloha přenáší, jen první ukázka podle něj selhává – klaunka oznamuje, místo aby se zvídavě ptala jako Samuel L. Jackson.
+
+Zvuk schytal kritiku. u/Ok_Mirror_832 ho dál považuje za robotický a hrozný, u/Vyviel si stěžuje na nesnesitelný poslech. Odpovědí je návrh u/ConfidentSnow3516 na kvalitnější řetězec – hlas nejdřív vyrobit ve vyhrazeném hlasovém modelu, herecký zvuk použít jako předlohu pro přenos stylu a ten pak v Minimaxu použít pro synchronizaci rtů. Praktickou otázku přidává u/SpaceNinjaDino, kterého zajímá, jak moc lze referenční video zmenšit, aby se přenos zachoval a ušetřila paměť a čas generování.
+
+Lidi hlavně zajímá, jak na to. u/Muted-Celebration-47 prosí o přesný popis, jak v promptu odkázat na video a přiřadit ho postavě, u/Danny_Stock se ptá, zda obraty o imitaci a předloze přednesu pocházejí z oficiálního průvodce Minimaxu, nebo je autor prostě zkusil a měl štěstí. u/turkey_is_dead řeší, zda lze přenést jen tón a načasování do úplně jiné scény s jinými dialogy, u/eckstuhc navrhuje testovat na obyčejné scéně, protože známá předloha podle něj kalí vodu – přenos stylu přednesu mu ale přijde velmi slibný. Někdo už sní o knihovně hereckých útržků, jak píše u/bregmadaddy, jiní teprve zjišťují, odkud se klaunka vzala, a navazující vlákno pak řeší jemné výrazy a přirozené pauzy bez jakéhokoli pobízení.

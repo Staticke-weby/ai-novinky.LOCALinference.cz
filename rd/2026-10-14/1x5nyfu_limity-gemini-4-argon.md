@@ -1,0 +1,14 @@
+# 1x5nyfu
+**Limity Gemini 4 Argon: výborný model, kterému dojde kvóta po pár zprávách**
+
+r/GeminiAI · u/dark0mania · 14. října 2026, 12:44 · 566 bodů / 101 komentářů · [diskuse](https://www.reddit.com/r/GeminiAI/comments/1x5nyfu/)
+
+Autor s tarifem Student AI Pro si ve webovém klientu vyzkoušel Gemini 4 Argon a pro vyhledávání a analýzu informací ho staví nad GPT-6 Sol High. Argon mu prý našel relevantnější zdroje, lépe odhadl, o co mu jde, a dával praktičtější odpovědi na bězné otázky, zatímco GPT sklouzává k teorii. Nadšení ale rychle vyprchalo: po čtyřech konverzacích o dvou až třech zprávách s prostředním usuzováním vyčerpal hodinovou kvótu a sáhl asi na pět procent týdenní, načež spadl až na 3.5 Flash-Lite.
+
+Nejvýše hodnocený komentář nabízí vysvětlení, proč je kvóta tak těsná. u/FischenGeil tipuje, že Argon má inteligenci na úrovni Sol, ale je ještě dražší na provoz než Astra a extrémně náročný na výpočetní výkon. Právě proto se podle něj zpozdily pro modely, zmizely pro předplatitele z Anti-Gravity a AI Studia a v aplikaci Gemini je drží tvrdé restrikce. Sám přitom zklamaný dodává, že ve srovnání s Opus 5.5 mu Argon přijde jako nafouklý nedotažek, na který se čekalo příliš dlouho.
+
+Zbytek vlákna tu teorii potvrzuje zkušenostmi s mizením procent. u/likeastar20 označuje pětihodinový limit za odpad a nedoporučuje nikomu žádný z tarifů, u/Papierauto píše, že u Clauda dostane asi desetkrát víc práce za stejné peníze. u/chinchan9 tvrdí, že Claude odevzdá funkční kód napoprvé, zatímco Gemini 3.1 Pro i Argon ho honí za zastaralými a rozbitými úryvky, u/demonsurge oba špičkové tarify poměřil přímo: Opus prý za stejnou dobu odvedl asi šestkrát víc práce a Sol 6.1 High dává srovnatelný výstup za zlomek ceny. u/kaaasje už předplatné zrušil kvůli nedostupnosti Argonu v Antigravity a u/matosc kroutí hlavou, že s 3.1 Pro v pohodě generoval prezentace a s Argonem mu dojdou tokeny téměř hned.
+
+Ozývají se ale i klidnější a vtipnější hlasy. u/SR_RSMITH autorovi bez urážky vzkazuje, že když Argon používá na nepříliš složité otázky, dobrovolně si plýtvá limity. u/unklekrunkle0117 naopak pustil paralelně velmi těžké úkoly a spotřeba se prý skoro nehnula, u/sibyl4575 ráno ladila program víc než deseti výměnami na prostředním usuzování a ukrojila jen asi třicet procent pětihodinového limitu. Slovní hříčky obstarali u/TaurusGold s hláškou, že po jedné až dvou otázkách jsou tokeny Ar Gon, a u/Curious-Reindeer9536. Do stejného obrázku zapadají i dvě souběžná vlákna v komunitě, jedno o webovém přístupu předplatitelů Pro [1x5nav2](https://www.reddit.com/r/GeminiAI/comments/1x5nav2/) a druhé o odebírání Pro modelů z nižšího tarifu [1x5c6rl](https://www.reddit.com/r/GeminiAI/comments/1x5c6rl/).
+
+Z diskuse tak vychází Argon jako model, který umí nadchnout, ale málokdo si ho stihne užít dřív, než narazí na strop.

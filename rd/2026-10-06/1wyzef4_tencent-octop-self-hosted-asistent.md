@@ -1,0 +1,14 @@
+# 1wyzef4
+**Tencent vydal Octop, self-hosted AI asistenta pro celý tým**
+
+r/LocalLLaMA · u/ResearchCrafty1804 · 6. října 2026, 12:45 · 334 bodů / 51 komentářů · [diskuse](https://www.reddit.com/r/LocalLLaMA/comments/1wyzef4/)
+
+Tencent zveřejnil Octop jako open-source asistenta, který běží celý na vlastním stroji a díky multiagentní architektuře má sloužit týmům, rodinám i jednotlivcům. Nasadit jde jako desktopová aplikace pro Windows, macOS a Linux včetně balíčků pro NAS, nebo přes Docker s okamžitým startem v jediném procesu. Nabízí webový dashboard s chatem, experty, konektory, kanály, plánováním, znalostmi a pluginy, vedle toho desktopového klienta, příkazy typu octop run, plné API přes HTTP/SSE/WebSocket a dokonce ovládání vzdálené plochy hostitelského počítače.
+
+Diskuse se ale hned stočila k nedůvěře. u/FatheredPuma81 píše, že žádné firmě nevěří tak málo jako Tencentu, že ani lokální běh neznamená konec telemetrie a odesílání dat na její servery. u/seamonn oponuje, že když je to open source, stačí telemetrii vypnout a sestavit si to sám, u/bbbederson hlásí, že jeho audit kódu přes Claude dopadl stoprocentně čistě, a chystá uzavřené testovací prostředí. Nejopatrnější je u/Open-Adhesiveness-86: čtení zdrojáků prý nic nerozhodne, protože závislosti mohou skládat adresy za běhu a desktopový build má skoro jistě vlastní aktualizátor, takže rychlejší je pustit to se zakázaným odchozím provozem a sledovat, co se pokusí ven.
+
+Nejvěcnější zkušenost přinesl u/enilea. Podporované kanály a konektory jsou podle něj vesměs čínské služby, takže mimo Čínu to nedává smysl, celkově mu to připadá jako Hermes nebo podobné agentské prostředí, jen šité na míru Číně. Po vlastním testu dodává, že telemetrii nenašel, problém je jinde: i při anglickém rozhraní jsou systémové prompty a instrukce nástrojů výchozě čínsky, takže modely odpovídají čínsky, a proto to zase odinstaluje, nic podezřelého v tom ale nevidí. Do stejné linky zapadá i postřeh u/Briskfall o šestnácti šablonách person podle MBTI – Čína je prý na MBTI teď hodně vysazená.
+
+Zbytek vlákna míchá pobavení se skepsí. u/VotZeFuk prorokuje fork OctoPussy pro „AI gooning", u/RedBull555 a u/PuzzleheadedMine8919 se shodují, že rozhraní je roztomilé. Vedle toho u/MysteriousGenius popisuje vystřízlivění z Hermes: padesát tisíc vstupních tokenů balastu, nejasné přepisování promptů, změny jen jako hromada souborů bez gitu a webové rozhraní jako domovská stránka teenagera z roku 2002, takže každému aspoň trochu znalému radí napsat si vlastního asistenta třeba nad Pydantic AI. A u/celine_aubry rýpe, že vydávat klienta vzdálené plochy za self-hosted asistenta je nejkreativnější přejmenování sledovacího nástroje za celý rok.
+
+Pro zvědavého kutila tak z vlákna plyne jednoduché ponaučení: kód vypadá čistě a nápad hezky, ale bez čínských služeb a čínštiny si s tím západní uživatel moc neužije.

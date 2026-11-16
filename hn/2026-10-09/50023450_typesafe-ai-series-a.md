@@ -1,0 +1,16 @@
+# 50023450
+**TypeSafe AI získala 870 milionů dolarů při valuaci 7,5 miliardy**
+
+Hacker News · tosh · 9. října 2026, 19:02 · 329 bodů / 237 komentářů · [diskuse](https://news.ycombinator.com/item?id=50023450)
+
+Společnost TypeSafe AI stojící za produktem Jev oznámila uzavření série A ve výši 870 milionů dolarů při valuaci 7,5 miliardy. Kolo vede Andreessen Horowitz za účasti Sequoia Capital a stávajícího investora DCVC, do představenstva míří Martin Casado.
+
+Firma oznámení podává záměrně neformálně, prý aby nudná fundraisingová zpráva přinesla čtenářům i užitek. Vývojářům slibuje ještě více machine-native modelů a nejlepší infrastrukturu pro stavbu chytrého softwaru, podnikům nové funkce, o které si prý říkají, a zájemcům o práci vzkazuje, že je skutečná firma, která tu zůstane a je s ní legrace. Tvrdí přitom, že Jev už používá třetina firem z žebříčku Fortune 500 a zákazníkům v produkci ušetřil miliony dolarů.
+
+Diskuse se hned stočila k jediné otázce, kterou redoxate položil hned na začátku: jakou výhodu proti trhu má firma, aby takovou valuaci ospravedlnila. Nejstručnější odpovědi zněly, že jde o hlasy a humbuk na Twitteru, jak píše gavinray, nebo že firma má 100 milionů dolarů opakovaných ročních tržeb, jak poznamenává babelfish. simonw sází spíše na tým bývalých lidí z OpenAI, kteří už umějí dodávat produkty a vyvolat kolem nich rozruch.
+
+Nejostřeji skepsi formuloval prometheus1992, který nechápe, jak může produkt bez příkopu, jenž byl během pár dní zduplikován, získat takovou valuaci, když z fundraisingových schůzek v Torontu zná důkladné technické prověrky. Odpovědi se shodly, že v Torontu je právě ten problém: kanadští investoři jsou podle cmrdporcupine a fidotron extrémně averzní k riziku a zaměřují se na nedůležité signály, zatímco v San Francisku rozhoduje žhavost firmy a investice je spíše privilegium. geoffschmidt to vysvětluje sázkou, že po OpenAI a Anthropic přijde ještě jeden průlomový úspěch a šek na 870 milionů sám o sobě zvyšuje šanci, že jím bude právě TypeSafe, protože přitáhne talenty, zákazníky i další peníze. Podobně reticulates připomíná, že příkop je vedlejší, protože o úspěchu nerozhoduje klonovatelnost, a besterman23 mluví o efektu „nikoho nikdy nevyhodili za nákup IBM", tedy sázce na nejznámější implementaci.
+
+Třetí linka se řeší technicky, kolik toho klony opravdu umějí. armcat diví, že dva dny po vydání Jevu existoval tucet rozhodovacích modelů, po týdnu desítky většinou open source a Microsoft právě vydal vlastní Decision-1. dkersten ale namítá, že Jev je extrémně levný, extrémně rychlý, nativně mluví výstupním formátem bez výstupních tokenů a odděluje kontext od otázky, takže by měl být vysoce odolný proti prompt injection, což narychlo slepený klon nedožene. HarHarVeryFunny dodává, že podstatou je cena a rychlost: Jev stojí 0,04 dolaru za milion vstupních tokenů proti 0,10 dolaru u Luny, na níž stojí Decisions API od OpenAI, a velcí hráči možná ani nechtějí závod ke dnu v ceně podnikové automatizace. Odlehčení obstarali jghn vzpomínkou na scalovou firmu stejného jména a mlmonkey, který si utahuje z požadavku na Python 3.26.0, když čerstvě vyšel teprve Python 3.15.0.
+
+Z vlákna tak zůstává obrázek trhu, kde valuaci neurčuje to, co model umí dnes, ale víra, kdo bude umět příště znovu prorazit.

@@ -1,0 +1,16 @@
+# 1xlwpqv
+**Devět skutečných bugů: lokální kvantované modely dotahují Claude, ale myslí déle**
+
+r/LocalLLaMA · u/FeydRowan · 2. listopadu 2026, 14:08 · 321 bodů / 139 komentářů · [diskuse](https://www.reddit.com/r/LocalLLaMA/comments/1xlwpqv/)
+
+Autor vytáhl devět skutečných regresí z neveřejné historie vlastního C++/CUDA enginu, vrátil kód těsně před opravu a ke každé chybě napsal strohé hlášení bez nápovědy. Každý model dostal každý úkol třikrát, musel najít příčinu a napsat patch, přičemž běžel v sandboxu bez sítě a bez možnosti cokoliv přeložit či spustit. Lokální modely běžely v OpenCode na dvou RTX 5070 Ti, modely Claude v Claude Code, a výsledek je těsný: Qwen3.8-Flash-Next ve třech bitech se skóre 0,48 dostal zhruba na úroveň Haiku 5.5 s 0,47 a nad starší Sonnety, Sonnet 5.5 dosáhl 0,58 a nejlepší byl Opus 5.5 se 0,74.
+
+Kvantizace přitom skóre prakticky nesrazila, ale prodražila cestu k němu. Tříbitový Flash-Next ztratil proti NVFP4 jen 0,02 bodu při téměř stejném počtu tokenů, tříbitový model 27B si dokonce o 0,05 polepšil, ovšem za cenu asi o 40 % více tokenů na úkol a 18 minut místo 13, přestože dekóduje rychleji. Gemma 4 26B v roli agenta v tomto testu neuspěla: bez přemýšlení za devět úkolů ani jednou needitovala soubor, s přemýšlením editovala, ale většinou špatně.
+
+Diskuse se nejvíc chytla právě toho, že menší počet bitů neznamená horší opravu, jen delší přemýšlení. u/Dabalam píše, že ho třikrát překvapila kompetence tříbitových kvantů, ačkoliv jinak krotí nadšení z tvrzení o zkáze způsobené kvantizací, zatímco u/Chromix_ namítá, že NVFP4 a tříbitové kvanty nebývají nejlepší a do dvou 16GB karet by se vešel i UD-Q6_K_XL nebo Q5. Autorovi vyčítá, že se spokojil s úspornými variantami, a dodává, že vyrovnaný souboj těžce kvantovaného modelu 27B s loňským Sonnetem je sám o sobě divoký. Podobným směrem míří i přání otestovat vyšší kvantizaci Flash-Next nebo takzvané Swift varianty, které podle u/i_wayyy_over_think spotřebují výrazně méně tokenů.
+
+Druhá velká linka vlákna zpochybňuje roli soudce. Skóre totiž zčásti přiděloval Claude Opus 5 jako slepý porotce, a u/Plastic-Stress-6468 i u/synn89 se ptají, zda model z rodiny Claude nenadržuje kódu od Claude. Autor se v textu brání tím, že automatické skóre podle skrytého klíče a verdikt soudce dávají stejné pořadí s korelací 0,79 a soudce je k modelům Claude dokonce spíš přísnější. Praktickou ozvěnu přidává u/enternoescape, kterému čísla sedí s vlastní zkušeností a po práci se Sonnetem 5.5 se mu ke starším modelům před Qwenem 3.8 těžko vrací.
+
+Zbytek vlákna je hlavně seznam přání, co otestovat příště. u/Riseing by rád viděl v tabulce GLM Flash, u/enternoescape a další přidávají GLM 5.3 Flash a DeepSeek v4.1 Flash jako druhé velké soupeře v této váze, zaznívá i dotaz na DeepSeek obecně. Někdo by chtěl jako základ srovnání osmičku, jiný větší kvanty na výkonnější sestavě a další srovnání s Opusem 5, který dělal soudce. Autor odpovídá, že jeden model krát devět úkolů krát tři běhy znamená čtyři až osm hodin času, intervaly má široké kolem plus minus 0,2 a úkoly nezveřejní, aby mu zůstaly použitelné.
+
+Pro čtenáře z toho plyne jednoduché ponaučení: lokální model už doma zvládne diagnózu reálného bugu překvapivě slušně, jen je potřeba počítat s desítkami tisíc tokenů a minutami přemýšlení tam, kde cloudový model odpoví stručně.

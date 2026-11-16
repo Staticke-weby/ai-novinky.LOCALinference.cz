@@ -99,7 +99,7 @@ details.obsah li { font-size: .97rem; margin: .3rem 0; }
 details.obsah a { color: var(--accent); text-decoration: none; }
 details.obsah a:hover { text-decoration: underline; }
 
-/* plný článek pod anotací — rozbalovací „+ Celý článek" (bez oddělovací linky,
+/* plný článek pod anotací — rozbalovací „+ Číst dál" (bez oddělovací linky,
    anotace a odkaz na plný text patří k sobě) */
 details.full { margin: .5rem 0 0; }
 details.full > summary {

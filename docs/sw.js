@@ -1,7 +1,7 @@
 // Generuje scripts/build-site.py — needituj ručně.
 // Web se vždy načítá ze sítě, aby se změny projevily hned; cache slouží
 // jen jako záložka, když síť není.
-const CACHE = "ai-novinky-20261116-155821";
+const CACHE = "ai-novinky-20261116-160434";
 
 self.addEventListener("install", () => self.skipWaiting());
 

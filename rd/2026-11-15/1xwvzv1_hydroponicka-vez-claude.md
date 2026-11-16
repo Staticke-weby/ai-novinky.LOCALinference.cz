@@ -1,0 +1,16 @@
+# 1xwvzv1
+**Nezabil ani petržel, tak si s Claudem postavil hydroponickou věž**
+
+r/ClaudeAI · u/Massive_Strength_573 · 15. listopadu 2026, 14:51 · 504 bodů / 70 komentářů · [diskuse](https://www.reddit.com/r/ClaudeAI/comments/1xwvzv1/)
+
+Autor přiznává, že byl dlouho postrachem rostlin – nezvládl orchideje, kaktusy ani bylinky, ať zaléval moc, nebo málo. Před pár měsíci proto zkusil něco jiného: s Claudem se pustil do stavby hydroponické věže, o které předtím nevěděl vůbec nic. Pokus se povedl a nejlepším důkazem je petržel – dvě rostliny, které původně rostly vedle sebe v hlíně, přesadil jednu do věže a po čase uřízl z každé jeden stonek u báze, aby je porovnal vedle sebe. Hydroponická je na první fotce vpravo a rozdíl je podle něj nečekaně velký, podobně překvapila i bazalka s listy skoro velkými jako dlaň.
+
+Součástí projektu je i dashboard, který mu Claude pomohl postavit na sledování vodivosti, kyselosti a dávkování živin. Autor do něj zapisoval naměřené hodnoty a model mu radil, kolik hnojiva přidat a jak srovnat kyselost, až se celou údržbu postupně naučil sám ovládat. Protože je mu ale i tak údržba časově náročná, navrhli spolu automatizaci s vlastní deskou plošných spojů, krytem z 3D tiskárny a soustavou čerpadel. Součástky má objednané, elektronika je zatím nevyzkoušená, samotná věž ale běží. Později navíc přidal odkaz na repozitář s pěstebním návodem, dashboardem i pluginem, který dashboard postaví a koučuje z naměřených hodnot.
+
+Diskuse začala klasickým tlakem na fotky. u/Environmental-Pea37 chtěl vidět rostliny a sestavu a u/discodisco_unsuns to vyhrotil hláškou o fotkách, nebo se to nestalo. Autor fotky dodal a podle automatického shrnutí vlákna zabraly hlavně profesionálně působící prototyp a obří listy bazalky. Rychle se pak strhla vlna zájmu o technické detaily a sdílení postupu – u/insbordnat a u/tightlyslipsy prosili o repozitář na stavbu vlastního projektu, u/pawaredd se ptal na použité senzory a u/Tall_Form_1888 na typ čerpadel.
+
+Hodně lidí řešilo, jestli velké hydroponické rostliny také chutnají. u/Bl00dWolf nadhodil, že hydroponie dělá velkou, ale mdlou zeleninu, a zajímalo ho, jak je to u petržele, jejíž chuť se těžko posuzuje. u/Round_Worldliness766 se ptal přímo na ochutnávku a přidal vlastní zkušenost s bazalkou a petrželí z okna, které od dubna do září vyrostou do osmdesáti centimetrů a chutnají lépe než supermarketové. Výsledek chuťového testu hydroponické petržele v diskusi nezazněl.
+
+Zbytek vlákna se točí kolem toho, nakolik je Claude dobrý stavební parťák pro ne-experta. u/elch78 to nadšeně potvrzuje a prozrazuje, že podobně staví hru žánru tower defense v jazyce, který neumí. u/wasserschorle je opatrnější a ptá se, jestli má někdo dobré výsledky s návrhem desky plošných spojů od Clauda, protože nechce pálit tokeny za pokus, který jen možná vyjde. u/silvrrwulf přidal vlastní zahradu řízenou agentem přes telegram s čidly v hlíně a rámečky s elektronickým inkoustem, které dvakrát denně překreslují obrázek podle zdraví rostlin. A u/dmd rýpl, že v zahradnictví by to poradili nadšenci rychleji, ale uznal, že takhle se autor naučil mnohem víc.
+
+Je to ukázka toho, jak dnes spousta domácích projektů vzniká: model navrhne postup a vysvětlí čísla, ale vrtat, sázet a dolévat musí člověk.

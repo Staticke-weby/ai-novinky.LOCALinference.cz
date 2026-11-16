@@ -1,0 +1,14 @@
+# 1xwmzgl
+**LogicLens: dva roky práce na fact-checkeru, který chytá politiky v přímém přenosu**
+
+r/OpenAI · u/Ok_Measurement5015 · 15. listopadu 2026, 06:05 · 532 bodů / 115 komentářů · [diskuse](https://www.reddit.com/r/OpenAI/comments/1xwmzgl/)
+
+Vývojář dva roky stavěl bezplatný nástroj LogicLens, který v přímém přenosu přepisuje mluvené slovo, vytahuje z něj ověřitelná tvrzení a k nim hledá zdroje na webu. Verdikt pak staví na těchto zdrojích, aby model nevymýšlel citace. Rozšíření pro Chrome funguje na videích i na zpravodajských a sociálních webech a vedle něj existuje i verze pro iOS. V diskusi se autor ptá, co by nástroj musel umět, aby ho lidé opravdu používali.
+
+Nejvýše hodnocený hlas ale nadšení brzdí. u/TheLightDances píše, že problém nikdy nebyl v nedostatku ověřování, ale v tom, že část lidí o realitu nestojí a lež svého politika raději přejde, než aby přiznala chybu. Do stejné noty hrají i vtipy u/Nailfoot1975, jestli nástroj jen označí všechno, co politici řeknou, a u/ltnew007, jestli rozšíření jen detekuje, když se jim hýbou ústa. Naproti tomu u/caros92 nápad chválí, protože po debatách ho ruční ověřování výroků unavuje, a sní o moderátorech, kteří by s touto technikou v ruce skákali politikům do řeči s větou, že tohle není pravda a tady je důvod.
+
+Vážnější linka řeší, zda může být automatický verdikt vůbec objektivní. u/codescapes připomíná, že v politice se dá lhát pravdou, když člověk cituje zprávu spřízněného institutu, a u/RemarkableFormal4635 se ptá, jak vyhodnotit výrok o pojídání psů a koček, kde skoro každé tvrzení jde při troše snahy označit za pravdivé. u/AgeSeparate6358 přidává brazilskou zkušenost z roku 2014, kdy nezaměstnanost klesla jen proto, že se změnil vzorec jejího výpočtu, a varuje, že pravdu kroutí statistiky i výběr zdrojů. Na to navazuje nejstručnější otázka vlákna od u/alepap, kdo bude kontrolovat samotnou umělou inteligenci.
+
+Zbytek diskuse míchá detaily s nadsázkou. u/Available-Bike-8527 upozorňuje, že okénko s nápisem o rozporu se zdroji je na špatné straně obrazovky, takže vypadá, jako by kontrolovalo Bidena, ačkoli autor později upřesnil, že v ukázce mluví pravdu Biden a nepravdu říká Trump v části před začátkem nahrávky. u/Poiar žádá, aby politikům rostly rohy úměrně nepravdivosti, další volají po velkém nápisu o lhaní přes obrazovku a u/thedude0425 suše dodává, že Trump by pak měl zakrytý obličej při každém veřejném vystoupení. Praktičtější jsou prosby o verzi pro Firefox od u/pungat_ a u/shabbyorc a úvaha u/reddit4science, že živé ověřování by mohlo být stejně samozřejmé jako blokování reklam, jen není jasné, kdo ho zaplatí.
+
+Stejný projekt autor představil i v r/artificial, kde nasbíral 285 bodů a 52 komentářů, a v obou vláknech se opakuje stejné poselství: o nástroj by byl zájem, ale důvěru si musí teprve získat.

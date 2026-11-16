@@ -1,0 +1,16 @@
+# 50506719
+**OLED v MacBooku Pro vadí citlivým očím. Diskuse o PWM a návratech**
+
+Hacker News · MacAnorak · 15. listopadu 2026, 14:15 · 492 bodů / 277 komentářů · [diskuse](https://news.ycombinator.com/item?id=50506719)
+
+Apple osadil nové MacBooky Pro tandemovým OLED displejem s označením PROLED XDR, který slibuje nekonečný kontrast, hlubokou černou a vyšší špičkový jas v HDR. Část majitelů ale krátce po začátku práce popisuje bolesti hlavy, únavu očí, závratě a nevolnost s nemožností soustředit se na obrazovku. Několik z nich stroj po pár dnech vrátilo, přestože ho jinak chválí jako úžasný.
+
+Odkazovaný text shrnuje vlákna na fóru MacRumors a Redditu, která potíže spojují s PWM řízením jasu, tedy rychlým spínáním světelného výstupu. Opírá se o laboratorní měření Notebookcheck, podle něhož panel kmitá na 240 Hz při jasu 99 % a níže, zatímco předchozí Mini-LED držel 14 880 Hz, a všímá si i kombinace s DC stmíváním. Autor proto připomíná funkci Display Pulse Smoothing ze starších iPhonů, ptá se po softwarové úlevě pro Mac a radí stroj před koupí pořádně vyzkoušet, protože krátké předvedení v obchodě celodenní práci nenahradí.
+
+V diskusi nejvíc rezonuje údiv nad nízkou frekvencí, LoganDark ji označuje za nepochopitelnou z hlediska přístupnosti a mluví o potřebě řádu kiloherců. KaiserPro naopak pochybuje, kdo by mohl tak rychlé kmitání vůbec vidět, a přirovnává debatu k pověrám kolem himálajských solných lamp, když staré CRT skenovaly pomaleji a málokdo si stěžoval. Odpověď hledají willis936 a formerly_proven v konstrukci: maximum určuje rychlost přechodů a tandemové panely se prostě hůř budí rychlejšími hranami, navíc OLED často moduluje jas podobně jako bitové roviny, což při kilohercových nárocích na skenování panelu fyzicky nedává smysl.
+
+Další linka řeší, kolika lidí se to týká, dbspin se ptá, zda jde o zlomky promile, které by při měřítku Applu stejně znamenaly tisíce zasažených. Námitky brnt a spamizbad říkají, že stačí jedno procento a při milionech prodaných strojů jde o obrovská čísla, přičemž druhý jmenovaný odhaduje překryv s migrénami kolem dvanácti procent. Telaneo, rini17, ulrikrasmussen a vitaflo pak vysvětlují, proč jim staré CRT nevadily: fosfor měl dosvit a paprsek kreslil bod po bodu, zatímco PWM najednou zhasíná a rozsvěcí celou plochu, což je pro citlivé oči zásadně jiný vjem.
+
+Osobní zkušenosti dodávají vitaflo, který kvůli OLED musel vyměnit iPhone Mini za SE s LCD a těžko shání i žárovky bez blikání, a gniv, který kvůli stejným obavám váhá s koupí Pixelu 11 a chce si v obchodě otestovat verzi Pro se 480 Hz. Intrasight to vidí pragmaticky jako potravinovou alergii menšiny, které nejlépe pomůže vrácení stroje nebo externí monitor, zatímco winrid tvrdí, že únava nesouvisí s vědomým vnímáním blikání, ale s neustálou prací očních svalů, jež stihne reagovat i na mnohem rychlejší průběhy. Microtonal k tomu dodává, že na notebooku bolí kombinace větší plochy v zorném poli, delšího koukání bez odvrácení pohledu a emulace vyšších barevných hloubek.
+
+Z vlákna tak zůstává obraz papírově nejlepšího displeje, který přesto není pro každého: citliví lidé by měli před drahým nákupem dlouze zkoušet a chtít po Applu volbu šetrnějšího stmívání.

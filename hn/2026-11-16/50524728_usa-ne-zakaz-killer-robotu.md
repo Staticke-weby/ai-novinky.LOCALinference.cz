@@ -1,0 +1,14 @@
+# 50524728
+**USA chce na jednání o zákazu zabíjejících robotů říct ne**
+
+Hacker News · madihaa · 16. listopadu 2026, 23:57 · 82 bodů / 101 komentářů · [diskuse](https://news.ycombinator.com/item?id=50524728)
+
+Spojené státy míří na pětidenní ženevskou konferenci o Úmluvě o některých konvenčních zbraních s odmítavým postojem k nové smlouvě o autonomních zbraních. Namísto zahájení vyjednávání o právně závazných pravidlech pro systémy, které umí samy vybírat a ničit cíle bez dalšího zásahu člověka, navrhují dalších pět let práce expertní skupiny na nezávazném dokumentu. Washington tvrdí, že stávající mezinárodní humanitární právo na tyto zbraně stačí a nová smlouva není potřeba.
+
+Podle Newsweeku sílí naopak tlak na závazná pravidla. Vysoký komisař OSN pro lidská práva Volker Türk vyzval státy, aby se dohodly dřív, než je technologický vývoj předběhne, a žádá zákaz zbraní cílících na lidi i systémů, kterým člověk nerozumí a nedokáže je předvídat ani ovládat. Kampaň Stop Killer Robots uvádí, že závazný nástroj podporuje 130 zemí a přes 70 je připraveno jednat, zatímco proti je jen asi tucet států včetně USA, Izraele a Ruska.
+
+V diskusi to mnozí čtou jako diplomatické zdržování. Uživatel reasonableklout píše, že americký návrh na pět let nezávazných prací a odkaz na dostačující humanitární právo zní jako snaha jednání vykolejit. Uživatel uptrails k tomu dodává chmurnou zkušenost, že zákazy ve válce přicházejí až po nepopsatelných krveprolitích, kdy se pozůstalí nad mořem mrtvých dohodnou, že už to neudělají. Protiargument přidává uživatel tehjoker s odkazem na protokol o oslepujících laserech, který se podařilo schválit dřív, než se tyto zbraně rozšířily.
+
+Velká část vlákna pak řeší, zda má zákaz vůbec smysl, když ho nelze vymoci a roboti už tu dávno jsou. Uživatel bradthebeaverfa tvrdí, že bez vymáhacího mechanismu takový zákon jen odmění ty, kteří ho ochotně poruší, uživatel NewJazz mu ironicky oponuje, že právě proto se lidé dál používají jaderné zbraně a otravné plyny. Uživatel vkou namítá, že sankce stačí na odrazení levného porušování, a uživatel adjejmxbdjdn připomíná, že skutečné vymáhání vzniká v bilaterálních vztazích a institucích jako Evropská unie, NATO či Světová banka, zvlášť když se přidají velké mocnosti.
+
+Třetí linka zpochybňuje, co by se vlastně zakazovalo. Uživatel fedpost píše, že zabíjející roboty máme desítky let a kočka je dávno venku z pytle, uživatel hadlock doplňuje Tomahawk z roku 1983, Minuteman z roku 1962, Javelin z roku 1996 a německou V2 z roku 1944. Uživatel MisterBiggs se bojí, že autonomní systémy rozbijí konvenční válku, protože vše poběží tempem mimo lidské možnosti bez času na rozjezd či odvetu. Uživatel JumpCrisscross oponuje, že tohle platí pro všechny zbraně s velkým dosahem od vynálezu mezikontinentálních raket a drony na tom nic zásadně nemění.

@@ -1,4 +1,4 @@
-# Denní AI přehled
+# AI novinky
 
 Denní souhrny AI novinek z Redditu a Hacker News v češtině. Každý den vznikne
 jeden přehled: co se stalo, co k tomu říká odkazovaný zdroj a co se řeší

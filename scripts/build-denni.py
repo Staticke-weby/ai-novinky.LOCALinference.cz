@@ -493,7 +493,7 @@ def build(day, full_top=0):
             f"Nejlepších **{full_count}** témat je v plném znění, zbytek tvoří anotace "
             "s odkazy na původní diskuse."
         )
-    parts = [f"# Denní AI přehled – {pretty_date(day)}", ""]
+    parts = [f"# AI novinky – {pretty_date(day)}", ""]
     summary = []
     if counts["rd"]:
         summary.append(f"**{counts['rd']}** článků z Redditu")

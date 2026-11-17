@@ -113,8 +113,8 @@ self.addEventListener("fetch", (event) => {
   );
 });
 """
-SITE_NAME = "Denní AI přehled"
-SITE_BRAND = "AI novinky"  # jméno v hlavičce (odkaz na úvod)
+SITE_NAME = "AI novinky"  # název webu: <title>, og:site_name, RSS, manifest, og obrázky
+SITE_BRAND = SITE_NAME  # jméno v hlavičce (odkaz na úvod)
 SITE_DESC = "Denní souhrny AI novinek z Redditu a Hacker News v češtině."
 
 DATE_RE = re.compile(r"^\d{4}-\d{2}-\d{2}$")
@@ -279,7 +279,7 @@ PAGE = """<!doctype html>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>{title}</title>
 <meta name="description" content="{description}">
-<meta property="og:type" content="article">
+<meta property="og:type" content="{og_type}">
 <meta property="og:title" content="{title}">
 <meta property="og:description" content="{description}">
 <meta property="og:url" content="{url}">
@@ -299,6 +299,8 @@ PAGE = """<!doctype html>
 <meta property="og:image:type" content="image/png">
 <meta property="og:image:alt" content="{image_alt}">
 <meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="{title}">
+<meta name="twitter:description" content="{description}">
 <meta name="twitter:image" content="{image}">
 <script defer src="https://navstevnost.pikapod.net/script.js" data-website-id="c7f4fc4d-e002-4d3f-aad1-9f2020cf83ea"></script>
 </head>
@@ -321,12 +323,26 @@ SW_REGISTER = (
 )
 
 
-def page(title, description, url, body, css, home, feed, footer, image=None, image_alt=None, back=""):
+def page(
+    title,
+    description,
+    url,
+    body,
+    css,
+    home,
+    feed,
+    footer,
+    image=None,
+    image_alt=None,
+    back="",
+    og_type="article",
+):
     image = f"{SITE_BASE}/{image}" if image else f"{SITE_BASE}/og.png"
     return PAGE.format(
         title=html.escape(title, quote=True),
         description=html.escape(description, quote=True),
         url=html.escape(url, quote=True),
+        og_type=og_type,
         site=html.escape(SITE_NAME),
         brand=html.escape(SITE_BRAND),
         css=css,
@@ -885,7 +901,7 @@ def write_index(entries):
     ):
         og = None
     body = (
-        "<h1>Denní AI přehled</h1>"
+        f"<h1>{html.escape(SITE_NAME)}</h1>"
         f'<p class="lead">{html.escape(SITE_DESC)}</p>'
         f'<div class="months">{"".join(sections)}</div>'
     )
@@ -899,6 +915,7 @@ def write_index(entries):
         feed="feed.xml",
         footer=f'{len(entries)} dní · <a href="feed.xml">RSS</a>',
         image=og,
+        og_type="website",
     )
     (OUT / "index.html").write_text(doc, encoding="utf-8")
 

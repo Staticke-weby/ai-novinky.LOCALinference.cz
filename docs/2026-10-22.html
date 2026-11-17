@@ -3,13 +3,13 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Denní AI přehled – 22. 10. 2026</title>
+<title>AI novinky – 22. 10. 2026</title>
 <meta name="description" content="Denní souhrn: 25 článků z Redditu a 20 z Hacker News, po sloučení 44 témat. Nejlepších 25 témat je v plném znění, zbytek tvoří anotace s odkazy na původní diskuse.">
 <meta property="og:type" content="article">
-<meta property="og:title" content="Denní AI přehled – 22. 10. 2026">
+<meta property="og:title" content="AI novinky – 22. 10. 2026">
 <meta property="og:description" content="Denní souhrn: 25 článků z Redditu a 20 z Hacker News, po sloučení 44 témat. Nejlepších 25 témat je v plném znění, zbytek tvoří anotace s odkazy na původní diskuse.">
 <meta property="og:url" content="https://ai-novinky.localinference.cz/2026-10-22.html">
-<meta property="og:site_name" content="Denní AI přehled">
+<meta property="og:site_name" content="AI novinky">
 <link rel="stylesheet" href="style.css?v=e2c0c11f">
 <link rel="icon" href="favicon.svg" type="image/svg+xml">
 <link rel="icon" href="favicon-32.png" sizes="32x32" type="image/png">
@@ -17,21 +17,23 @@
 <link rel="apple-touch-icon" href="apple-touch-icon.png">
 <link rel="manifest" href="site.webmanifest">
 <meta name="theme-color" content="#187a63">
-<link rel="alternate" type="application/rss+xml" title="Denní AI přehled" href="feed.xml">
+<link rel="alternate" type="application/rss+xml" title="AI novinky" href="feed.xml">
 <link rel="sitemap" type="application/xml" title="Sitemap" href="sitemap.xml">
 <meta property="og:image" content="https://ai-novinky.localinference.cz/og/2026-10-22.png">
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
 <meta property="og:image:type" content="image/png">
-<meta property="og:image:alt" content="Denní AI přehled – 22. 10. 2026">
+<meta property="og:image:alt" content="AI novinky – 22. 10. 2026">
 <meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="AI novinky – 22. 10. 2026">
+<meta name="twitter:description" content="Denní souhrn: 25 článků z Redditu a 20 z Hacker News, po sloučení 44 témat. Nejlepších 25 témat je v plném znění, zbytek tvoří anotace s odkazy na původní diskuse.">
 <meta name="twitter:image" content="https://ai-novinky.localinference.cz/og/2026-10-22.png">
 <script defer src="https://navstevnost.pikapod.net/script.js" data-website-id="c7f4fc4d-e002-4d3f-aad1-9f2020cf83ea"></script>
 </head>
 <body>
 <header class="site"><a href="index.html">← Archiv</a><span class="sep">·</span><a class="brand" href="index.html">AI novinky</a><span class="sep">·</span><a href="feed.xml">RSS</a><a class="parent" href="https://www.localinference.cz">LOCALinference.cz ↗</a></header>
 <main>
-<h1>Denní AI přehled – 22. 10. 2026</h1>
+<h1>AI novinky – 22. 10. 2026</h1>
 <p>Denní souhrn: <strong>25</strong> článků z Redditu a <strong>20</strong> z Hacker News, po sloučení <strong>44</strong> témat. Nejlepších <strong>25</strong> témat je v plném znění, zbytek tvoří anotace s odkazy na původní diskuse.</p>
 <details class="obsah" id="obsah"><summary>Obsah<span class="n">44 témat</span></summary>
 <ul>
@@ -496,7 +498,7 @@
 <p>Projekt na RTX 2060 se 6 GB VRAM zkracuje čekání po stisku Enter tím, že model zpracovává text už během psaní. KV cache se aktualizuje s každou úpravou včetně překlepů a vloženého textu, takže prefill je hotový před odesláním. Nápad diskusi viditelně osvěžil. u/WyattTheSkid ho označil za svěží vítr mezi obvyklými dotazy, jaký model na jaký hardware, a u/plainbounds59 nejvíc ocenil právě to, že mezipaměť sleduje živé úpravy bez restartu, což většina jiných řešení podle něj vzdává. Právě zlepšení u většího, do paměti se nevejdoucího modelu považuje za důležitější než čísla ze čtyřmiliardové varianty, protože tam lidé bolest čekání cítí nejvíc. Zároveň se vlákno rychle stočilo k otázce, jestli předčasné přemýšlení nemate.</p>
 <details class="full"><summary>Číst dál</summary><div class="full-body"><p>Autor u/Oxygenne_ představil Mafdet, open-source aplikaci nad llama.cpp pojmenovanou po egyptské kočičí bohyni běžkyni. Program využívá čas, kdy uživatel teprve píše zadání: průběžně sleduje rozepsaný text včetně překlepů, úprav uprostřed věty i vložených pasáží, takže po stisku Enteru je předvyplnění hotové, a u modelů Qwen3 navíc předběžně sbírá fakta a dílčí úvahy, na které po odeslání naváže. Na své RTX 2060 se 6 GB paměti naměřil u Qwen3-4B na 24 slovních úlohách psaných v reálném čase pokles průměrného čekání z 12,2 na 3,2 sekundy při 24/24 správných odpovědích, u Qwen3-14B, který se do paměti vejde jen z poloviny, pak ze 108 na 47 sekund.</p><p>Zároveň se vlákno rychle stočilo k otázce, jestli předčasné přemýšlení nemate. u/daniellenton nadhodil modelový případ: uživatel napíše 12, model si poznamená 3 × 12 = 36, a pisatel se pak vrátí a přepíše číslo na 15 — nezůstane v poznámkách viset původní dvanáctka a neodpoví model na verzi, kterou nikdo neodeslal. Podobně u/plainbounds59 řešil, že i po speciálním rámci, který stlačil mimooborové poznámky typu „uživatel ještě nedopsal" z 86 na zhruba 20 procent, zbývá dost zbytečného počítání, a ptal se, zda se špatné poznámky jen ignorují, nebo aktivně škodí výsledku. Do stejného rohu hraje i stručná námitka u/NickNau o tichém nepředvídatelném zhoršení kvality a povzdech u/saposmak, který si psaním spíš třídí myšlenky a bojí se, že by pro takové škrtálky byl přístup plýtvavý.</p><p>Praktická linka se točí kolem hardwaru a nasazení. u/Sengfroid se ptal na starší čtyřgigové Pascaly, kde by pomoc bolela nejvíc, na podporu novějších verzí Qwen a Gemma a na to, zda by Mafdet šel použít jako mezivrstva pro harnessy typu Claude Code, zatímco u/Maui-The-Magificent zajímalo chování na krátkých promptech. u/myreala si z projektu odnesl nápad posílat svému harnessu předem kontext systémové zprávy a volání nástrojů, aby se předvyplnil ještě před příchodem vlastní zprávy, a u/Inquisitive_idiot ocenil, že autor myslel na tlačítko pauzy pro zaneprázdněné systémy, kde by práce na nedokončeném textu vadila.</p><p>Z Mafdetu tak zbyl obraz šikovného triku pro slabší karty: nečekat na Enter, ale počítat už během psaní, s otevřenou otázkou, kolik z předčasných úvah se v ostré odpovědi opravdu hodí.</p></div></details>
 </main>
-<footer class="site"><a href="index.html">Archiv</a> · Denní AI přehled</footer>
+<footer class="site"><a href="index.html">Archiv</a> · AI novinky</footer>
 <script>if ("serviceWorker" in navigator) { window.addEventListener("load", function () { navigator.serviceWorker.register("sw.js", { updateViaCache: "none" }); }); }</script>
 </body>
 </html>

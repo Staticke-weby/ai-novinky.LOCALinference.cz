@@ -134,7 +134,7 @@ Per-source publikace zůstává jen pro ruční `daily.sh --publish`.
 
 **Název při sdílení na LinkedIn** bere Docs MD z `filename` (do `og:title`, `og:image` i hlavičky
 share), ne z H1 v markdownu. `publish-docs.py` proto posílá český název
-`Denní AI přehled – 26. 10. 2026`; služba k němu připojí `.md` (API nemá samostatné pole `title`,
+`AI novinky – 26. 10. 2026`; služba k němu připojí `.md` (API nemá samostatné pole `title`,
 jen `filename`, a `.md` doplňuje samo). Popis (`og:description`) je první odstavec přehledu.
 
 ## Publikace dne na docs-md.com (od 5. 10. 2026)
@@ -202,11 +202,18 @@ Denní přehled už nepublikuje `publish-docs.py` na docs-md.com, ale je z něj
   za mrtvý text („obsah nemá funkční odkazy"). Správně: barva odkazu
   (`--accent`), podtržení až při hoveru. Kotvy samotné fungovaly — ověřeno
   klikem, `scrollY` i `#kotva` v URL.
-- **Název webu v hlavičce je odkaz na úvod** a jmenuje se „AI novinky" (`SITE_BRAND`),
-  aby nesplýval s H1 dne („Denní AI přehled – 14. 11. 2026"); má barvu odkazu
-  a je tučnější (`header.site .brand`). Denní stránky mají v hlavičce navíc `← Archiv`.
-  Vpravo je odkaz na `LOCALinference.cz` (`.parent`, `margin-left: auto`), hlavička
-  má `flex-wrap`, aby se na mobilu zalomila.
+- **Název webu je „AI novinky"** (`SITE_NAME` v `build-site.py`) a používá se všude:
+  `<title>`, `og:title`, `og:site_name`, `og:image:alt`, RSS (`feed.xml`), manifest,
+  patička, H1 úvodu a popisek v og obrázku. Denní stránky mají název
+  `AI novinky – 14. 11. 2026` (H1 v `dny/<datum>/prehled.md` skládá `build-denni.py`),
+  takže meta i sdílení sedí s hlavičkou. Starší dny se přejmenovaly v markdownu,
+  web se pak jen přegeneroval (`build-site.py` staví celý archiv z `dny/`).
+  Docs MD (share na LinkedIn) posílá stejný název přes `publish-docs.py`
+  (`display_name()` → `AI novinky – 14. 11. 2026.md`).
+- **Název webu v hlavičce je odkaz na úvod** a jmenuje se „AI novinky" (`SITE_BRAND`);
+  má barvu odkazu a je tučnější (`header.site .brand`). Denní stránky mají v hlavičce
+  navíc `← Archiv`. Vpravo je odkaz na `LOCALinference.cz` (`.parent`, `margin-left: auto`),
+  hlavička má `flex-wrap`, aby se na mobilu zalomila.
 - **Cache na GitHub Pages.** `style.css` se drží ~10 minut, takže se změna CSS
   po pushi neprojeví. Proto `build-site.py` přidává do HTML
   `style.css?v=<md5 obsahu>` — každá změna CSS má novou URL.

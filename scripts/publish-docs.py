@@ -51,7 +51,7 @@ LOG = PROJECT / "logs" / "publish.json"
 AGENT_FILE = PROJECT / "logs" / "docs-md-agent.json"
 AGENT_NAME = "reddit-ai-denni-prehled"
 AGENT_DESC = (
-    "Denní AI přehled z Redditu a Hacker News pro petrbaloun/reddit-clanky-ai"
+    "AI novinky – denní souhrn z Redditu a Hacker News pro petrbaloun/reddit-clanky-ai"
 )
 UA = "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0 Safari/537.36"
 MAX_CHARS = 120000
@@ -225,7 +225,7 @@ def display_name(day):
         src, date_str = parts
         date = czech_date(date_str)
         if src == "dny":
-            return f"Denní AI přehled – {date}.md"
+            return f"AI novinky – {date}.md"
         if src == "rd":
             return f"Reddit AI přehled – {date}.md"
         if src == "hn":

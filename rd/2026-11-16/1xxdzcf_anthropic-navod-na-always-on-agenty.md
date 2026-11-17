@@ -1,0 +1,16 @@
+# 1xxdzcf
+**Anthropic vydal návod na always-on agenty: schránka, časovače, paměť, práva a odesílání**
+
+r/ClaudeAI · u/emarkosov · 16. listopadu 2026, 03:35 · 561 bodů / 39 komentářů · [diskuse](https://www.reddit.com/r/ClaudeAI/comments/1xxdzcf/)
+
+Anthropic 13. listopadu zveřejnil designový návod „Building always-on agents" od Williama Hua, zhruba na čtrnáct minut čtení. Nejde o novou funkci, ale o recept, jak stavět agenta, který většinu času spí a probouzí se jen do krátkých běhů, jež žijí v sessions. Autor příspěvku přiznává, že sám provozuje denní plánovanou úlohu v Claude a právě na paměti jeho agent nejvíc drhne.
+
+Návod stojí na pěti stavebních blocích. Event inbox je trvalé úložiště, kam míří webhooky, plány a úlohy na pozadí, aby se nic neztratilo, zatímco agent spí. Časovače ho budí, paměť v podobě adresáře souborů drží instrukce, poznámky a stav úkolů, práva řeší proxy vstřikující přihlašovací údaje a odložená volání nástrojů a outbox s dispečerem se stará o odchozí zprávy.
+
+Právě paměť diskuse označila za nejslabší článek celého schématu. u/gptrv popisuje, že ve firmě provozují několik always-on agentů v Claude Code na podporu, kód i marketing a paměť předělávali nejvíckrát. Nejprve jim selhal jeden průběžně připisovaný soubor s poznámkami: přerostl, staré pravdy se v něm hádaly s novými a agent se řídil pravidlem zrušeným před týdny. Teď proto načítají vždy jen krátký seznam řádků a tematické soubory otevírají až před související prací, každý řádek nese datum naučení, novější údaj přebíjí starší a slovo člověka přebíjí odhad agenta.
+
+Podobné recepty přidávají i další stavitelé. u/Duckducklaugh drží jeden malý soubor na fakt plus rejstřík a chybu maže nebo přepisuje přímo na místě, protože připisované opravy pod původní text vedou k tomu, že agent poslouchá dávno zrušené pravidlo. u/Sun77177 to vyřešil třemi druhy souborů: přepisovatelný log, krátký přehled stavů a jeden soubor na úlohu aktualizovaný na místě, jinak agent přepisoval vlastní shrnutí, až z nich zmizel detail a krok zopakoval. u/GyuminOh, který měsíce provozuje kolem deseti nonstop sezení řízených z Telegramu, dělí paměť podle rolí na malý resume soubor a samostatný log rozhodnutí s uvedeným důvodem.
+
+Zbytek vlákna řeší probouzení, odesílání a schvalování. u/ianreboot si stěžuje, že časovače neřeší, zda si běh může dovolit kvótu, protože jeho linky žijí z přídělů po pětihodinových blocích. u/Unusual-Albatross43 popisuje, že mu práce na pozadí doběhla až po konci běhu a nikdy se neodeslala, a dva agenti mu málem odpověděli na stejný komentář na Redditu, tak zavedl jednoho vlastníka na účet. u/LLM-logs varuje, že plánovače doručují nejméně jednou, takže dvojitě vystřelený časovač pošle follow-up dvakrát, a doporučuje odstraňovat duplicity podle ID události už ve schránce. Nejhlasitější vtip obstaral u/BoardMeeting101 hláškou o malém shellovém skriptu v cronu, na což automatické shrnutí dodalo, že normální cron prostě selže, zatímco agent bude svůj špatný nápad zkoušet ve smyčce, dokud nespálí rozpočet.
+
+Kdo chce stavět agenta, který přežije noc bez dozoru, odnese si z vlákna hlavně tohle: plánovač je ta snadná část, těžké je neztratit kontext mezi běhy a poznat, kdy běh potichu selhal.

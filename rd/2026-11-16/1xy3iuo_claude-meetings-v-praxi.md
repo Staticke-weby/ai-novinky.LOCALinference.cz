@@ -1,0 +1,14 @@
+# 1xy3iuo
+**Claude Meetings v praxi: agent mluví do schůzky, sám aktualizuje Notion a rozesílá úkoly**
+
+r/ClaudeAI · u/g1ven2fly · 16. listopadu 2026, 23:36 · 543 bodů / 185 komentářů · [diskuse](https://www.reddit.com/r/ClaudeAI/comments/1xy3iuo/)
+
+Šéf technologií menšího investičního fondu popsal, jak nasadil Claude Meetings do ostrého provozu. Agent se připojuje přes Google Meet, takže pozná, kdo právě mluví, a hlavně umí volat nástroje. Během třicetiminutové schůzky o rozpracovaných projektech a nabídkách prý rovnou přepisoval stránky v Notion, přes MCP upravoval nabídky a na konci všem rozeslal report s hotovými kroky a zbývajícími úkoly. Firma podle něj už dva roky stojí celá na Claude a postupně kvůli tomu maže vlastní kód, měsíčně utratí kolem 2500 dolarů, z toho polovinu autor sám za spamming modelu Fable 5.2, a jemu osobně to srazilo pracovní týden z 50 na 25 hodin.
+
+Diskuse se do nadšení vůbec nehrne a nejvýše hlasovaný komentář se ptá prostě: „Pre IPO post?" u/mariustoday tím trefil náladu zbytku vlákna. u/ReasonableWriting616 si utahuje, že šéf technologií fondu s Notion má tolik volného času, až přišel na Reddit chválit Claude, a u/Far_Pineapple_2155 dodává, že tyhle příspěvky nikdy neřeknou, o jaké nabídky a projekty vlastně jde. Přidává se i u/Still_Long_3876 s tím, že buď je příspěvek vymyšlený, nebo jde o tři amatéry se společným portfoliem, a u/Brilliant_Potato4158 rýpe, že fond postavený na Anthropic asi nemá žádnou vlastní výhodu.
+
+Samostatnou kapitolou je věta, že už vůbec nepoužívají software a všichni pracují z Claude. u/Ok-Junket1290 ji paroduje hláškou o bramboře v ústech místo jídla, u/CasinoMagic kroutí hlavou, že to nedává smysl tím spíš z úst technického ředitele, a u/AlbatrossAirline i u/smb06 to označují za neseriózní a klaunské. u/Prestigious_Debt_896 varuje před totální závislostí na jednom dodavateli: když Claude spadne nebo zdraží, spadne s ním celá firma.
+
+Vedle posměšků se řeší i praktická rizika agenta s právy zápisu. u/Duckducklaugh glosuje, že volat nástroje uprostřed schůzky je skvělé, dokud někdo ze srandy neřekne, že by se měl smazat celý projekt. u/namesty proto radí logovat každé volání nástrojů, jasně vymezit, na co smí agent sahat, a včas rozpočítat útratu 2500 dolarů na lidi a projekty, než se finance začnou ptát. u/evilantnie se ptá, jak autor řeší přístupová práva, když agent běžící pod jeho účtem vidí do citlivých nástrojů. Ojedinělou obranu přinesl u/Sketaverse, podle kterého je živé volání nástrojů z hovoru pořád nedoceněná modalita a Google Meet je prostě levný a má ho každý.
+
+Sedí k tomu i souběžný mem „How meetings will be in 2027", který v téže komunitě sbírá tisíce hlasů a ukazuje Claude jako everything app, u níž lidé na schůzce už jen přihlížejí. I když to autor myslel jako chválu, vlákno tak funguje spíš jako varování: agent, co zapisuje, mění nabídky a rozesílá úkoly, šetří hodiny, ale důvěru si musí teprve odpracovat.

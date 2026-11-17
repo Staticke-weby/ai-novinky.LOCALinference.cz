@@ -1,0 +1,16 @@
+# 1xy1q6z
+**Altman: svět, kde lidé žijí jako labrador, je špatný prodejní argument**
+
+r/singularity · u/TorturedPoet30 · 16. listopadu 2026, 22:23 · 408 bodů / 340 komentářů · [diskuse](https://www.reddit.com/r/singularity/comments/1xy1q6z/)
+
+Sam Altman na akci Semaforu odpověděl na otázku, co firmy vyprávějící příběh umělé inteligence pokazily. Nabízet lidem lék na rakovinu výměnou za to, že se vzdají kontroly a předají agenturu strojům, je podle něj špatný prodejní argument. Takovou budoucnost přirovnal k životu labradora a řekl, že v takovém světě nechce žít ani on. Odpor vůči AI podle něj nepramení jen ze strachu o práci, i když krátkodobé ztráty míst označil za reálné a datacentra za snadný terč kritiky, ale hlavně z otázky, jaké místo lidem ve společnosti zbude a zda jsou stavitelé AI skutečně na straně lidstva.
+
+Část publika mu dává za pravdu. u/Strict-Extension píše, že lidé nechtějí být něčím mazlíčkem a schopnost rozhodovat o sobě je základem lidství. Proti tomu u/flux_capacitor73 namítá, že všemocný polobůh by byl lepším vládcem než pár šťastných oligarchů. A u/WhoRoger to shrnuje jízlivě, že Sam často mluví jako osvícený hrdina sci-fi příběhu a pak jedná jako jeho genocidní padouch.
+
+Nejsilnější linka ale celé přirovnání obrací a ptá se, o jakou agenturu máme vlastně přijít. u/RabidHexley píše, že pokud by měl svobodu pohybu, zájmů a času s blízkými a benevolentní systém by pokryl základní potřeby, není jasné, co by ztrácel, snad jen možnost vykořisťovat druhé. u/lessens_ dodává, že agenturu stejně moc nemáme ani teď, doma rozhodují rodiče, ve škole učitelé a v dospělosti šéf, ve volbách polovina lidí prohraje a ideálem je stát se šéfem, který poroučí ostatním. u/DungeonJailer pak tvrdí, že si lidé myslí, že takový svět nechtějí, ale kdyby dostál slibům, většina by ho brala.
+
+Z téhle skepse roste vtipná i hořká debata o labradorovi. u/tendimensions píše, že by jí život opečovávaného mazlíčka nevadil, když se dívá na zenovou existenci svého psa, u/a_boo by si život labradora docela přál a u/BroughtMyBrownPants žádá jídlo, oblečení a zajištěnou rodinu výměnou za práci a agenturu. u/Empty-Tower-2654 to vyhrocuje otázkou, zda raději labradora, nebo krysu, protože teď jsme podle něj krysy. Vážnější kontrapunkt přidává u/grahag, že miliardář má luxus řešit filozofii kontroly, protože základní potřeby má splněné, a lidem by pomohlo spíš půl ceny energie, bydlení, jídla nebo zdravotní péče než sliby.
+
+V pozadí se tak vrací výtka, že agenturu lidem nebere samotný model, ale majitelé firem rozhodující o nasazení. u/verboze připomíná Altmanova slova o pronájmu inteligence a slyší v tom, že je v pořádku, dokud AI kontroluje on a určuje pravidla, u/redground píše, že problém není v proslovu, ale v tom, kdo ho pronáší, když bohatí bohatnou a běžní lidé mají nést dopady experimentu. u/Positive-Conspiracy to nazývá falešným dilematem, protože ztráta místa prostředního manažera nebo dělníka na lince ještě neznamená život labradora, a u/GinchAnon doufá, že AI může agenturu naopak znásobit, když ji člověk povede, místo aby jí jen řekl, ať rozhoduje za něj.
+
+Z vlákna tak nakonec nezbyde spor o technologii, ale o důvěru, kdo ponese její výnosy a kdo náklady.

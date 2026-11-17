@@ -1,0 +1,267 @@
+{
+ "date": "2026-11-16",
+ "clanky": 29,
+ "temata": [
+  {
+   "title": "Qwen4 na obzoru: Max zklamal benchmarkem, 27B se má vejít do 16 GB",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xxlich"
+   }
+  },
+  {
+   "title": "Windows 11 sleduje, které kódovací agenty a vývojářské nástroje používáte",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50524736"
+   }
+  },
+  {
+   "title": "AI už prolézá captcha: Codex odklikal kontrolu, lidem zůstávají těžší testy",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xxmpfu"
+   }
+  },
+  {
+   "title": "Nvidia bez Jensena Huanga: osmdesát procent trhu a otázka, co přijde za dva roky",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50518567"
+   }
+  },
+  {
+   "title": "Obama varuje před misalignmentem: stroje si začnou psát vlastní agendu",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xxtb7i"
+   }
+  },
+  {
+   "title": "OpenCode Browse půjčuje agentům váš skutečný prohlížeč i s přihlášeními",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50523459"
+   }
+  },
+  {
+   "title": "Gemini 4 Helix a Oxygen: Google sype modely rychleji, než stíhá vymýšlet jména",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xxiun5"
+   }
+  },
+  {
+   "title": "OpenAI přitvrzuje v boji proti zneužívání dětí, komentáře varují před surveillance",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50520804"
+   }
+  },
+  {
+   "title": "OpenAI inzeruje ChatGPT v Google Vyhledávání. Diskuse počítá, kolik platí konkurenci",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xy08b6"
+   }
+  },
+  {
+   "title": "Čtyři sta amerických datacenter spotřebuje víc elektřiny než Michigan",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50520697"
+   }
+  },
+  {
+   "title": "Lana Rhoades prodala svou podobu Candy AI. Diskuse řeší, co to udělá s byznysem OnlyFans",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xxbwbc"
+   }
+  },
+  {
+   "title": "Pojistné peníze Američanů financují AI dluh. Ratingové agentury ho označily za bezpečný",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50520148"
+   }
+  },
+  {
+   "title": "Anthropic vydal návod na always-on agenty: schránka, časovače, paměť, práva a odesílání",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xxdzcf"
+   }
+  },
+  {
+   "title": "USA chce na jednání o zákazu zabíjejících robotů říct ne",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50524728"
+   }
+  },
+  {
+   "title": "Claude Meetings v praxi: agent mluví do schůzky, sám aktualizuje Notion a rozesílá úkoly",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xy3iuo"
+   }
+  },
+  {
+   "title": "Coral: agenti si píšou vlastní nástroje a příště si pamatují cestu",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50517803"
+   }
+  },
+  {
+   "title": "ChatGPT zablokoval uživatele bez vysvětlení. Odvolání neprošlo, podpora odpovídala AI",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xxy6j0"
+   }
+  },
+  {
+   "title": "Caltech přestal známkovat domácí úkoly. Studenti je stejně řeší s AI",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50523022"
+   }
+  },
+  {
+   "title": "Místo stovek GB stačí malý LoRA. Abliterace modelu jde zapnout za běhu",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xxawbh"
+   }
+  },
+  {
+   "title": "OpenAI posílá své lidi do firem. První fáze embedded assessments",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50519153"
+   }
+  },
+  {
+   "title": "Výzkumník Anthropicu: lidé budou trvale nezaměstnaní, superhuman AI může přijít za 1,3 roku",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xxi8az"
+   }
+  },
+  {
+   "title": "Herní odbory vydaly manifest proti generativní AI",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50519043"
+   }
+  },
+  {
+   "title": "Altman: svět, kde lidé žijí jako labrador, je špatný prodejní argument",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xy1q6z"
+   }
+  },
+  {
+   "title": "Když jsou AI nástroje tak dobré, proč není backlog chyb prázdný?",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50520076"
+   }
+  },
+  {
+   "title": "V účtu ChatGPT se objevily čínské konverzace. Uživatelé radí změnit heslo a zrušit API klíče",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xxi5bv"
+   }
+  },
+  {
+   "title": "Fed se obává, že roje AI agentů spustí bankovní run",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50523346"
+   }
+  },
+  {
+   "title": "AI zrychlila práci, ale lidem přinesla burnout: zmizely jednoduché úkoly",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xy03qy"
+   }
+  },
+  {
+   "title": "Tencent představil Hy4 flash: 224 miliard parametrů, 12 aktivních a milionový kontext",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xxlgpb"
+   }
+  },
+  {
+   "title": "Placený lovec chyb: za chybu v matematice dostane zaplaceno, modelům už ale nestačí",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xx9le8"
+   }
+  }
+ ]
+}

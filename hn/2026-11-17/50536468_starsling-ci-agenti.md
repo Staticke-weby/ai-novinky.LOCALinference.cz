@@ -1,0 +1,16 @@
+# 50536468
+**StarSling z YC staví CI, kde agenti sami optimalizují testy a posílají PR**
+
+Hacker News · yonasb · 17. listopadu 2026, 20:01 · 64 bodů / 37 komentářů · [diskuse](https://news.ycombinator.com/item?id=50536468)
+
+Startup StarSling založený Yonasem a Danielem nabízí rychlé runnery pro GitHub Actions, kde každý job běží ve vlastním efemérním sandboxu s neomezenou souběžností. Jejich hlavní trik je agentní smyčka, která analyzuje workflow, logy a telemetrii, navrhne optimalizaci a vítěznou změnu pošle jako pull request s naměřenými výsledky. Na open-source repozitářích firma hlásí v průměru desetkrát rychlejší běh a o 70 procent méně času runnerů.
+
+Odkazovaná stránka to ukazuje na příkladu Mastra, která měsíčně merguje přes 1800 pull requestů: její nejpomalejší testovací sada zrychlila z 29 minut 56 sekund na 5 minut 6 sekund, tedy 5,87krát. V citované případovce zástupce Mastra říká, že jak firma zrychluje, stává se úzkým hrdlem právě kontrola změn a CI a ztracený čas se sčítá.
+
+Největší ohlas měla otázka, co vlastně agenti nejzajímavěji chytili a opravili. Spoluzakladatel Daniel odpovídá, že má rád nenápadné opravy, třeba nahrazení uspávání v testech kontrolou připravenosti databáze nebo odhalení jediného pomalého testu, který brzdil celý shard. Yonas dodává, že ho překvapilo, jak velké zisky měly i zralé projekty – u repozitáře gogs se 48 tisíci hvězdiček stačila asi dvacetřádková oprava na pětinásobné zrychlení.
+
+Do diskuse rychle vjela i věcná linka o tom, proč je CI vůbec pomalé. Uživatel colek42 tvrdí, že má smysl měřit jen nasaditelné merge do hlavní větve a že s přibývajícími agenty přestává pipeline stíhat, protože většina firem jede kritickou cestu dvakrát až třikrát. Uživatel jwilliams na to navázal vlastní zkušeností: jejich agenti už v hooku pouštějí překladač, lint i unit testy, tak si výsledek zapíšou jako git trailer do commitu a PR build tyto kroky přeskočí, všechno se znovu pouští až před mergem do mainu. Tím se prý dostali z deseti minut na minutu a půl.
+
+Nejostřejší spor vyvolala otázka důvěry. Uživatel emscb se ptá, jak se pozná, že změna, která přerozdělí shardy nebo přeskočí testy, je pořád správně – vždyť na rychlosti bude vždycky vypadat jako výhra. Yonas vysvětluje, že samotná rychlost nestačí: opravený a původní běh musí spustit stejné testy se stejnými identifikátory a pokrytím, přerozdělení je povolené, protože nemění, co běží, a navíc mají kontrolu ceny, aby agenti nesrazili čas za cenu desetinásobných nákladů. Mazání testů prý agenti zatím nedělají, protože je to těžké.
+
+Vedle toho se řešilo i řemeslo a jméno. Uživatel esafak namítá, že optimalizaci workflow si šikovný tým udělá sám a víc by ocenil rychlost, cenu, spolehlivost nebo lokální reprodukovatelnost, Yonas souhlasí, ale míří prý nejdřív na ty, kdo chtějí největší zisk s nejmenší námahou. Uživatel sochs si rýpl, že jméno StarSling zní jako vesmírný startup a CI pro agenty je zklamání, na což Yonas odpověděl, že je to mashup Stargate a Strangeova prstenu otevírajícího portály. Pozitivní tečku přidal Bereket z Better Auth, kde jedenáct měsíců staré úzké hrdlo po opravě zrychlilo jeden testovací job 5,4krát, a píše, že je po roce na StarSlingu velký optimista.

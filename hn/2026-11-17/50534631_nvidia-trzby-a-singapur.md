@@ -1,0 +1,14 @@
+# 50534631
+**Nvidia přestala vykazovat tržby ze Singapuru. Tržby dosáhly 104 miliard dolarů**
+
+Hacker News · louiereederson · 17. listopadu 2026, 18:12 · 474 bodů / 221 komentářů · [diskuse](https://news.ycombinator.com/item?id=50534631)
+
+Nvidia podle Financial Times přestala samostatně vykazovat tržby účtované přes Singapur. Celkový obrat singapurské entity dosáhl 104 miliard dolarů, přitom právě Singapur dříve tvořil zhruba polovinu příjmů firmy a objevoval se v podezřeních, že tudy míří čipy k čínským zákazníkům navzdory americkým omezením.
+
+Největší rozruch vzbudila samotná čísla a to, jak je možné je sloučit s jiným segmentem. Uživatel whatever1 se ptá, jak firma nejdřív mluvila o dvou, pak o čtyřech miliardách ze Singapuru, a jak může veřejně obchodovaná společnost tak velkou část příjmů přesunout jinam. Odpovědi se stočí k účetnictví: uživatel larkost vysvětluje, že stačí tržby přestat vykazovat zvlášť a seskupit je s ostatními, uživatel steveBK123 připomíná, že Nvidia loni v létě změnila metodiku a začala jinak rozlišovat místo fakturace a sídlo zákazníka, a uživatel tamarind44 dodává nejpodrobnější rozklad, že menší částky znamenají objednávky od zákazníků usazených v Singapuru, zatímco obrat pobočky zahrnuje i zakázky východoasijských výrobců serverů jako Wistron, Asus, Lenovo nebo Foxconn, jejichž karty pak končí po celém světě včetně USA.
+
+Navazující spor řeší, zda se vůbec něco nelegálního dělo. Uživatel masfuerte namítá, že čipy fyzicky do Číny jet nemusely, protože asijská datacentra mohou provozovat čínské úlohy na čipech, které si čínské firmy samy koupit nesmějí. Uživatel chrisco255 tvrdí, že ověřené zprávy o rozsáhlém pašování neviděl a případ Megaspeed byl spíš pronájem výpočetního výkonu ze Singapuru, což tehdy zakázané nebylo. Uživatel hn_throwaway_99 doplňuje, že Washington teď chce vývoz do řady zemí jihovýchodní Asie pronajímajících výkon Číně zakázat, jenže byznys se podle něj prostě přesune jinam, protože nic nebrání kupcům čipů Nvidie jejich výkon dál pronajímat.
+
+Do toho vstupuje daňový a personální výklad. Uživatel areoform přirovnává Singapur k Delaware nebo Irsku v Asii, kde se tržby účtují kvůli přehledným zákonům, daňovým smlouvám a malé regulatorní zátěži. Vedle toho se řeší odchod Jensena Huanga: uživatel alangibson je přesvědčený, že zakladatele a jediného šéfa v historii firmy správní rada nevyhodila kvůli aférám, ale kvůli obcházení sankcí, zatímco uživatel theseamusjames upozorňuje, že nikdo přesně neřekl, které modely měla firma jako Megaspeed mít, a že vývoz samotný nebyl plošně nelegální. Uživatel lenerdenator pak kontruje, že vztahy s podřízenými jsou pro manažera samy o sobě neudržitelné, protože zpochybňují každé jeho rozhodnutí.
+
+Z vlákna tak zůstává otázka, zda jde o účetní přeskládání a daňovou optimalizaci, nebo o díru v exportních kontrolách, kterou už Washington nestíhá zalepovat.

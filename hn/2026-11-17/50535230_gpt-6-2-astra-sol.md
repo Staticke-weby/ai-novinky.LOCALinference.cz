@@ -1,0 +1,12 @@
+# 50535230
+**OpenAI vydalo GPT-6.2 Astra a Sol. Astra prý bere ARC-AGI-3 naplno**
+
+Hacker News · jasondavies · 17. 11. 2026, 18:46 · 1194 bodů / 746 komentářů · [diskuse](https://news.ycombinator.com/item?id=50535230)
+
+OpenAI v jednom uvedení představila dvojici modelů GPT-6.2 Astra a Sol. Vrcholná Astra podle samostatného ohlasu dosahuje 100 % v benchmarku ARC-AGI-3 a právě tento výsledek se stal hlavním tahákem premiéry. Oznámení doprovází důraz na poměry výkonu k ceně, tedy kolik stojí reálné dokončení úkolu, ne jen syrový výkon v testech.
+
+Nejživější praktická debata se vede kolem toho, kdy má smysl sáhnout po Astře a kdy stačí Sol. Uživatel billypilgrim se otevřeně ptá, kde je v práci mezi nimi citelný rozdíl, a odpovědi se docela shodují. Uživatel chaos_emergent píše, že Astra je znatelně lepší v koordinaci subagentů, zatímco ve složitosti samotné práce velký rozdíl nevidí. Uživatel whimsicalism to doplňuje, že Astra lépe zvládá úlohy o tvarech, modelování a ovládání počítače a „dokáže slyšet obrázky průběhů, což je docela šílené", ale na běžné kódování a odbavování úkolů by volil Sol. Uživatel gunalx přidává stručnou zkušenost z praxe, že návrh obvodů a elektroniky je s Astrou o hodně lepší.
+
+Druhá velká linka řeší cenu a postavení novinek vůči starším a konkurenčním modelům. Uživatel hmate9 chválí, že testy při daných nákladech vypadají neuvěřitelně, a uživatel charlesabarnes oceňuje, že se debata stáčí k ceně za dokončený úkol místo hrubého přetlačování skóre. Uživatel rendang se naopak diví, že špičkový model zůstává tak levný, a přitom v drahé části křivky nepřekonává Fable. Nostalgicky působí odbočka k modelu Luna, kterou uživatel theanonymousone označuje za stroj, jenž ukončil „Tokenpocalypse" a dodnes se hodí na téměř neomezené používání slušného modelu. Jiní ale oponují, že Luna je líná, plete si pokyny v návodech a pro seriózní práci je stropem až Terra, případně že ji u nich nahradil DeepSeek nebo Haiku 5.5.
+
+Zbytek vlákna si neodpustil rýpnutí do načasování těsně před vstupem Anthropicu na burzu ani do samotné prezentační stránky. Uživatel ex1fm3ta žertuje, že OpenAI schválně vypustila pecku v den konkurenčního IPO, aby je potrollila, uživatel zarzavat ale namítá, že úspěšné IPO konkurence je i v zájmu OpenAI. Uživatel Ersho hlásí, že web je zpomalený, uživatel rico735 píše, že mu dvakrát shodil prohlížeč, a uživatel geauxvirtual se ptá, zda mu oznámení vytěžuje grafiku na sto procent a zda na stránce netěží kryptoměny.

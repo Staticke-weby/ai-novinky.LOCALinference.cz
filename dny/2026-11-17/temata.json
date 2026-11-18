@@ -1,0 +1,316 @@
+{
+ "date": "2026-11-17",
+ "clanky": 36,
+ "temata": [
+  {
+   "title": "OpenAI vydal GPT-6.2 Astra a Sol: vyšší skóre za zlomek ceny Fable",
+   "sources": [
+    "rd",
+    "hn"
+   ],
+   "ids": {
+    "rd": "1xyr3ia",
+    "hn": "50535230"
+   }
+  },
+  {
+   "title": "Google prý potvrdil éru autonomních útoků. 178 firem včetně bank a aerolinek",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xyee33"
+   }
+  },
+  {
+   "title": "Harvard: AI agenti zrychlili psaní kódu, úzkým hrdlem je code review",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50538303"
+   }
+  },
+  {
+   "title": "Výzkumník Anthropicu provozuje firmu s „consensual non-consent“ večírky",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xyhvvx"
+   }
+  },
+  {
+   "title": "OpenAI posílá computer-use agenty do zdravotnictví. Připraví objednávku i žádost pojišťovně",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50535898"
+   }
+  },
+  {
+   "title": "Fock Ball: fiktivní liga, kterou napsal Claude. Odehrála 38 let a vysílá každý večer",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xyklpy"
+   }
+  },
+  {
+   "title": "Nvidia přestala vykazovat tržby ze Singapuru. Tržby dosáhly 104 miliard dolarů",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50534631"
+   }
+  },
+  {
+   "title": "Microsoft: MAI Code 2 zvládne 96 % práce Opusu 5.5 za 5 % ceny",
+   "sources": [
+    "rd",
+    "hn"
+   ],
+   "ids": {
+    "rd": "1xyt61r",
+    "hn": "50535885"
+   }
+  },
+  {
+   "title": "Opus 5.5 prošel 150 tisíc astrofyzikálních prací. Našel tisíc vážných chyb",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xyhuwd"
+   }
+  },
+  {
+   "title": "Tým Claude Code: verifikační smyčky pustí desítky agentů najednou",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50529612"
+   }
+  },
+  {
+   "title": "ChatGPT napsal uživateli zprávu o „loňském létě“. Nikdo se ho na to neptal",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xyd90f"
+   }
+  },
+  {
+   "title": "Šéfové Baidu a Xiaomi varují: AI hype roste rychleji než výnosy",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50531751"
+   }
+  },
+  {
+   "title": "Intel ukázal první benchmarky GPU Crescent Island D270",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xyioi8"
+   }
+  },
+  {
+   "title": "Audit na X: METR je prý finančně závislý na úspěchu Anthropicu",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50530450"
+   }
+  },
+  {
+   "title": "Maxwell-V1-Flash: 35 miliard parametrů, 3 aktivní a kontext 256 tisíc tokenů",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xyamk6"
+   }
+  },
+  {
+   "title": "Ne všechno potřebuje LLM. Rozhodovací modely jsou až 444krát levnější",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50535740"
+   }
+  },
+  {
+   "title": "Zmizí datacentra? Vlákno počítá, kdy se AI vejde do kapsy",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xy9rkk"
+   }
+  },
+  {
+   "title": "Human.md: co lidé pořád přinášejí, když modely umí skoro všechno",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50537962"
+   }
+  },
+  {
+   "title": "Modelům daly kokpit stíhačky v kaňonu z Top Gunu. Opus odmítl letět",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xyou91"
+   }
+  },
+  {
+   "title": "Anthropic platil firmě exšéfa kanceláře Rubia. Ta pak lobbovala jeho NSC",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50536565"
+   }
+  },
+  {
+   "title": "Proč Claude Code stojí 2× až 10× víc, než by musel",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xyi3xo"
+   }
+  },
+  {
+   "title": "StarSling z YC staví CI, kde agenti sami optimalizují testy a posílají PR",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50536468"
+   }
+  },
+  {
+   "title": "Šest Radeonů R9700 a dvě RTX 3090: „úsporný“ domácí LLM server",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xydr0f"
+   }
+  },
+  {
+   "title": "Kalifornie zakázala Waymo jezdit po státních dálnicích",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50538841"
+   }
+  },
+  {
+   "title": "Které konektory se v Claude vyplatí? Vlákno sestavilo denní sestavu",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xybzhp"
+   }
+  },
+  {
+   "title": "AI prý vyvrátila exponenciální časovou hypotézu. Praktický dopad je zatím nejasný",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50532786"
+   }
+  },
+  {
+   "title": "Gemma běží na tiskárně. Stačí 14 MB RAM a vtipy o cyan toneru",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xyjkts"
+   }
+  },
+  {
+   "title": "FrontierHarness: při změně modelu se vyplatí změnit i harness",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50532191"
+   }
+  },
+  {
+   "title": "Viggle motion transfer v ComfyUI: přenos pohybu na 6 GB VRAM",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xycqcn"
+   }
+  },
+  {
+   "title": "Kdo staví stroje, které staví stroje. Fyzická AI naráží na obráběcí centra",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50535208"
+   }
+  },
+  {
+   "title": "OVH představil Olala mini 7A1B. Francouzský model běží na 8 GB GPU",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xygtj4"
+   }
+  },
+  {
+   "title": "„Just make the image bro“: Gemini odmítl ubrousit stín a špínu",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xylxjq"
+   }
+  },
+  {
+   "title": "Žebříček modelů má osu jako z recese. Graf rozbil poměr ceny a skóre",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xyriqf"
+   }
+  },
+  {
+   "title": "Michael Scott potkal nového Bonda. AI video má všechny prvky, ale chybí vtip",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xy4r6g"
+   }
+  }
+ ]
+}

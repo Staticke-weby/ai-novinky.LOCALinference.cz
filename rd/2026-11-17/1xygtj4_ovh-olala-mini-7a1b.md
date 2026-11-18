@@ -1,0 +1,16 @@
+# 1xygtj4
+**OVH představil Olala mini 7A1B. Francouzský model běží na 8 GB GPU**
+
+r/LocalLLaMA · u/clem844 · 17. listopadu 2026, 11:14 · 246 bodů / 66 komentářů · [diskuse](https://www.reddit.com/r/LocalLLaMA/comments/1xygtj4/)
+
+Francouzský cloudový gigant OVHcloud ukázal první model vlastní rodiny Olala. Olala mini 7A1B má sedm miliard parametrů, z nichž je pro jeden dotaz aktivní jen miliarda rozprostřená do 256 expertů na vrstvu, a sází na hybridní pozornost kombinující Differential-TPA a Mamba-3 v přesnosti BF16. Díky tomu si vystačí s grafikou s 8 GB paměti, kde podle firmy dává 160 tokenů za sekundu, na běžném procesoru pak 50 tokenů za sekundu při kontextu 32 tisíc tokenů, a vyjít má otevřeně na Hugging Face pod licencí Apache 2.0.
+
+Podle tiskové zprávy trénink běžel na třech evropských veřejných superpočítačích Jupiter, MeluXina a Jean Zay s akcelerátory GH200, A100 a H100, což odpovídá výpočetním hodinám za 7 milionů eur. Prvním uživatelem je vyhledávač Qwant, kterému funkce pro bleskové odpovědi zrychlila o 20 % a provozní náklady klesly na třetinu. Oficiální start firma chystá na AI Summit 19. listopadu, do konce roku slibuje verzi 1.1 se 128tisícovým kontextem a lepším matematickým uvažováním a pro verzi 2.0 plánuje modely přes 100 miliard parametrů pro agentní nasazení, cloudový DevOps a kyberbezpečnost.
+
+Vlákno ale novinku přivítalo spíš podrážděně než nadšeně. Nejvíc se řeší, že zatím nejsou váhy ani testy, jen slib. u/IntelArtiGen to shrnuje stroze, že bez benchmarků a vah je to dost zbytečná tisková zpráva, a u/Balance- dodává, že když se oficiální start chystá až na summit 19. listopadu, jde vlastně o ohlášení ohlášení. Podobně to vidí u/Limp_Classroom_2645, který se jako Francouz diví, že vidí OVH zrovna na LocalLLaMA, a vzkazuje firmě, aby nejdřív hodila odkaz na Hugging Face a pak teprve psala na Reddit.
+
+Druhá linka se točí kolem jména a kontextu. u/keepthepace píše, že by se už mělo přestat dojít francouzské memy, protože po Mistralu nechce, aby nejlepší modely jeho země byly samé Olala, Honhon 27B, Baguette 1T nebo Moustache 35A3B. A kontextových 32 tisíc tokenů schytalo kritiku ze všech stran: u/MixtureOfAmateurs je označuje za úroveň začátku roku 2024, i když je rád za další malou MoE volbu, u/CodeCatto je bere jako malý, ale dobrý první krok. Do francouzské firmy si rýpl i u/grodzillaaa připomínkou požáru, při němž OVH přišla o desítky tisíc serverů.
+
+Nejvěcnější spor patří architektuře a srovnání s konkurencí ve stejné váze. u/DrBattletoad řadí novinku vedle LFM2.5-8B-A1B a Ling 3.0 Tiny, které na telefonu s dostatkem paměti běží skvěle jako kompromis mezi rychlostí a znalostmi, a u/King_Eduard se ptá právě na srovnání s modelem LFM s kontextem 128 tisíc tokenů. u/aarong691 upozorňuje, že 256 expertů při jedné miliardě aktivních parametrů znamená spoustu drobných expertů a slib 8 GB platí jen při kvantizaci, protože samotných 7 miliard vah v BF16 zabere kolem 14 GB. A u/eightone-81 dodává, že chlubit se rychlostí bez ukázky kvality výstupů mu nic neříká, zatímco u/IngwiePhoenix se naopak těší na doménové dolaďování malé MoE.
+
+Z vlákna tak nakonec nejvíc vyplývá evropský paradox: radost, že další firma trénuje od nuly a dává model otevřeně ven, ale i netrpělivost, dokud nebudou na stole váhy a čísla proti čínským modelům.

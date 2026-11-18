@@ -1,0 +1,12 @@
+# 1xydr0f
+**Šest Radeonů R9700 a dvě RTX 3090: „úsporný“ domácí LLM server**
+
+r/LocalLLM · u/Eroji · 17. listopadu 2026, 08:00 · 293 bodů / 77 komentářů · [diskuse](https://www.reddit.com/r/LocalLLM/comments/1xydr0f/)
+
+Uživatel Eroji poskládal domácí server pro lokální modely na desce ASRock ROMED8-2T s procesorem EPYC 7313, 256 GB DDR4 ECC a 3,2TB Samsungem PM1725b. Šest Radeonů R9700 rozdělil mezi Qwen3.8 Flash Next a Qwen3.8-27B Uncensored, zatímco dvě RTX 3090 nechává na ComfyUI a na druhou hromádku úloh od hlasového syntetizéru VoxCPM2 přes přepis Whisperem až po embeddingy a rerank. Sestavu označuje za relativně úspornou a přiznává, že by chtěl lepší karty od NVIDIE hlavně na generování obrázků a že čeká na varianty Qwen4, na které by modely vyměnil.
+
+Právě slovo úsporný se stalo hlavním vtipem vlákna. u/rmyworld suše citoval „úsporný" a připsal „8x GPU", u/Layney_Butcher to rozvedl, že šest R9700, dvě 3090, 256 GB ECC paměti a EPYC a pořád prý relativně skromné – tahle komunita mu prý úplně rozbila představu o tom, co je levná sestava. u/Integeritis to naopak označil za sen a litoval, že grafiky nenakoupil dřív, když byly čtyři za cenu jedné, jenže tehdy investoval do nepovedeného manželství.
+
+Za vtipy se rychle vynořila praktická zvědavost. u/Bascilian se ptal, jestli PCIe 4.0 mezi kartami přes switch PLX88096 moc nebrzdí, kolik bere sestava v klidu a jaký má tok v tokenech za sekundu Flash při jedné relaci, u/Krothic se přidal s dotazem na rychlosti Flashe i sedmadvacítky a u/Raredisarray zajímalo, jestli se něco odkládá do RAM a jak se přitom chová pomalejší DDR4-2666. Na to v balíčku odpověď nezazněla, stejně jako na otázku u/insanazor822, kolik to celé stálo, nebo postesk u/causticboor, kde desku vůbec sehnat, když je všude vyprodaná.
+
+Nejvěcnější linka řeší rozdělení práce a smysl tolika „malých" karet. u/SkiBikeDad chválil právě promyšlený split a přiznal, že chystá rodinnou znalostní bázi se stejným řetězcem přepisu, syntézy, embeddingů a reranku, jen netuší, zda mu na to stačí náhradní 12GB karta. u/35point1 se ptal na rozdíl Radeonů a NVIDIE pro jazykové modely a u/braddo99 provokativně nadhodil, jestli by nebylo lepší všechno prodat a koupit jednu kartu s velkou pamětí na střední model místo mnoha instancí menších. Kolem dokola se pak točí provozní realita otevřeného miner frame od Kingwin: u/BitXorBit řeší prach ve větrácích, u/V-Raccoon značku rámu a možnost zavření, u/K33P4D propojení více zdrojů a jejich společné spínání a u/ArmyTrainingSir značku zdrojů a to, zda odběr ještě unese jeden jistič.

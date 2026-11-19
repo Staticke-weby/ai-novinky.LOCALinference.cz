@@ -5,7 +5,14 @@
   <link>https://ai-novinky.localinference.cz/</link>
   <description>Denní souhrny AI novinek z Redditu a Hacker News v češtině.</description>
   <language>cs</language>
-  <lastBuildDate>Tue, 17 Nov 2026 08:00:00 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 18 Nov 2026 08:00:00 +0000</lastBuildDate>
+  <item>
+    <title>AI novinky – 18. 11. 2026</title>
+    <link>https://ai-novinky.localinference.cz/2026-11-18.html</link>
+    <guid>https://ai-novinky.localinference.cz/2026-11-18.html</guid>
+    <pubDate>Wed, 18 Nov 2026 08:00:00 +0000</pubDate>
+    <description>34 témat z 35 článků (Reddit + Hacker News).</description>
+  </item>
   <item>
     <title>AI novinky – 17. 11. 2026</title>
     <link>https://ai-novinky.localinference.cz/2026-11-17.html</link>
@@ -208,13 +215,6 @@
     <guid>https://ai-novinky.localinference.cz/2026-10-20.html</guid>
     <pubDate>Tue, 20 Oct 2026 08:00:00 +0000</pubDate>
     <description>43 témat z 44 článků (Reddit + Hacker News).</description>
-  </item>
-  <item>
-    <title>AI novinky – 19. 10. 2026</title>
-    <link>https://ai-novinky.localinference.cz/2026-10-19.html</link>
-    <guid>https://ai-novinky.localinference.cz/2026-10-19.html</guid>
-    <pubDate>Mon, 19 Oct 2026 08:00:00 +0000</pubDate>
-    <description>49 témat z 49 článků (Reddit + Hacker News).</description>
   </item>
 </channel>
 </rss>

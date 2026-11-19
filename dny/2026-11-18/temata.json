@@ -1,0 +1,314 @@
+{
+ "date": "2026-11-18",
+ "clanky": 35,
+ "temata": [
+  {
+   "title": "Web, který se při scrollování mění v horor. Claude dostal jediný prompt",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xzgq2x"
+   }
+  },
+  {
+   "title": "Google vydal Gemini 4 Neon. Čtvrtý model za čtyři týdny útočí na Opus 5.5",
+   "sources": [
+    "rd",
+    "hn"
+   ],
+   "ids": {
+    "rd": "1xzrkin",
+    "hn": "50552424"
+   }
+  },
+  {
+   "title": "Claude Code napsal náhradu šesti servisních aplikací. HolyArrs má 17 MB",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xzcsdg"
+   }
+  },
+  {
+   "title": "Genie 4 je venku. Google DeepMind posouvá generativní svět",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50550415"
+   }
+  },
+  {
+   "title": "Pětitunový nakladač John Deere jezdí na dvou kolech. Učil se v simulaci",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xz88ri"
+   }
+  },
+  {
+   "title": "Gemini Tasks je zdarma. Osobní asistent Google míří ke všem",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50551601"
+   }
+  },
+  {
+   "title": "150 milionů hvězdných systémů v 299 kB. Hra vznikla za čtyři dny s Claudem",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xzir6g"
+   }
+  },
+  {
+   "title": "AI agenti kladli lepší otázky než auditoři KPMG. Zkouška na FTSE 250",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50547777"
+   }
+  },
+  {
+   "title": "8,9 miliardy tokenů za jednu jahodu. Claude postavil 7 700 geometry nodes",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xz0jhy"
+   }
+  },
+  {
+   "title": "OpenAI tvrdí, že jeho modely pomáhají navrhovat čipy",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50549493"
+   }
+  },
+  {
+   "title": "„Všechno se klaufikuje.“ Vlákno o tom, jak AI mění jazyk i myšlení",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xyzkct"
+   }
+  },
+  {
+   "title": "„Anthropic není bezpečná firma.“ Koalice vědců a právníků útočí na jeho image",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50548485"
+   }
+  },
+  {
+   "title": "Maritime z YC staví cloud pro produkční AI agenty. Za dolar na měsíc",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50549188"
+   }
+  },
+  {
+   "title": "„Váš nápad na slop je z roku 2025.“ LocalLLaMA sbírá nové znaky AI textu",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xz6tv9"
+   }
+  },
+  {
+   "title": "Energy-Based Reasoners: 99,9 procenta na Sudoku a 345krát méně výpočtu",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50543989"
+   }
+  },
+  {
+   "title": "Agent Google si pamatuje vlastní úpravy. Vývoj softwaru se má skládat, ne začínat znovu",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xzfv9g"
+   }
+  },
+  {
+   "title": "Dvacet let reverzního inženýrství, teď s LLM. Autor popsal postup",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50553225"
+   }
+  },
+  {
+   "title": "NAND zlevňuje o 20 procent. Disky a telefony mají zlevnit, komunita nevěří",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xzixp0"
+   }
+  },
+  {
+   "title": "Přežije recenzní řízení text od AI? Ekonomové chtějí detektory",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50546312"
+   }
+  },
+  {
+   "title": "Ovladač Nvidie 621.24 neustále zapisuje na disk. Řešením je návrat na 621.01",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xzke1g"
+   }
+  },
+  {
+   "title": "Nizozemsko odmítá americké šroubování exportu čipových technologií",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50546253"
+   }
+  },
+  {
+   "title": "MoE model běží ze SSD. TokenWing slibuje 45 tokenů za sekundu na notebooku",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xzmymn"
+   }
+  },
+  {
+   "title": "Přežijí univerzity, když eseje lépe píše AI? Rozhovor s Paulem Sagarem",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50546900"
+   }
+  },
+  {
+   "title": "Inworld vydal model na izolaci hlasu. Apache 2.0, 48 kHz, běží lokálně",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xzqpzu"
+   }
+  },
+  {
+   "title": "Stejných 210 otázek, dva dny. U 84 procent odpovědí AI se výsledek změnil",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50549677"
+   }
+  },
+  {
+   "title": "AudioGhost 1.2: napište zvuk a aplikace ho z nahrávky odstraní",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xz6xl7"
+   }
+  },
+  {
+   "title": "DaisyRose-27B: 1 200 úkolů a 144 H200 stačilo na skok v agentních úlohách",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50551046"
+   }
+  },
+  {
+   "title": "ChatGPT s hlasem na Nokii N95. Stačil proxy a původní telefon",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xz7xb4"
+   }
+  },
+  {
+   "title": "Mastra Factory: open-source továrna na software, která sama merguje PR",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50548660"
+   }
+  },
+  {
+   "title": "Všední ulice Coruscantu. ChatGPT ukázal Star Wars bez hrdinů",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xz7y8v"
+   }
+  },
+  {
+   "title": "Dvě kritické chyby v Nginxu. Z návštěvníka až root serveru",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50547374"
+   }
+  },
+  {
+   "title": "Claude odpověděl na počty čínsky. Vlákno řeší trénovací data i důvěru",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xz7t9u"
+   }
+  },
+  {
+   "title": "Codeberg zmizel z DNS. Výpadek oživil debatu o závislosti na jedné službě",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50544261"
+   }
+  },
+  {
+   "title": "Claude našel na webu skrytou instrukci. Prompt injection v praxi",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xzt8bq"
+   }
+  }
+ ]
+}

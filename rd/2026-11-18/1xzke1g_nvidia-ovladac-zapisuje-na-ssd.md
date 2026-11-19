@@ -1,0 +1,14 @@
+# 1xzke1g
+**Ovladač Nvidie 621.24 neustále zapisuje na disk. Řešením je návrat na 621.01**
+
+r/LocalLLaMA · u/giveen · 18. listopadu 2026, 18:00 · 416 bodů / 57 komentářů · [diskuse](https://www.reddit.com/r/LocalLLaMA/comments/1xzke1g/)
+
+Ovladače Nvidie 621.14 a 621.24 neustále zapisují na systémové SSD, i když počítač jen zahálí. Na vině je proces NVDisplay.Container.exe, který každých pár sekund sahá na log C:\ProgramData\NVIDIA Corporation\nvtopps\nct\nvlog.nvlgstg. V nečinnosti tak přibývají desítky gigabajtů denně, v krajních hlášeních se přitom sekají hry i kurzor myši a každé přepnutí okna Alt+Tab přidá nárazově stovky megabajtů.
+
+Odkazovaný návod radí podezření nejdřív potvrdit v Resource Monitoru na kartě Disk a ve sloupci zapsaných bajtů ve Správci úloh. Jako rychlou úlevu doporučuje zastavit službu NVIDIA Display Container LS, log smazat a službu znovu spustit – v jednom měření na verzi 621.14 to srazilo zápisy o 91 %, soubor ale znovu naroste. Za držící řešení označuje návrat na ovladač 621.01, který je hlášený jako čistý, zatímco trvalé vypnutí služby vyřadí z provozu NVIDIA Control Panel i NVIDIA App. S nastavením telemetrie to podle dvou nezávislých hlášení nesouvisí a Nvidia problém nepotvrdila, poznámky k verzi 621.24 dokonce neuvádějí žádné otevřené chyby.
+
+Diskusi ovládlo srovnání s AMD, které před pár týdny řešilo na pohled totožný problém. Nejvýše je poznámka u/Opposite-Memory-2552, že Nvidia přesně tuhle chybu znovu vytvořila, u/FoodEater4Squillion se ptá, jestli AMD nemělo právě tenhle stejný problém, a u/fullup72 dodává, že takhle se opisování domácího úkolu nemyslelo. Do stejné noty hraje i vtip u/MageLD o ajťákovi vyhozeném z AMD za špatný ovladač, který si našel práci u Nvidie a tam ho po zásluze vyhodí zas.
+
+Druhá linka řeší, co s tím v praxi. u/Chromix_ připomíná, že se vyplatí z instalátoru ovladače proškrtat zbytečnosti, což omezí zápisy i odesílání názvů spouštěných aplikací Nvidii. u/DoctorDirtnasty už dávno nenechává ovladače aktualizovat automaticky a u/Zwars1231 zůstává na osvědčené verzi, dokud ho k updatu nedonutí zranitelnost nebo kompatibilita. Z nouzových nápadů se objevilo nastavit log jen pro čtení od u/captainabrasive nebo mu podle u/mycall sebrat oprávnění a smazat ho, zatímco u/spaham na svém počítači agresivní zápis nevidí a tipuje ho na specifické použití aplikace Nvidie.
+
+Věcné jádro přidal u/astrolafi: nejde o kopii chyby atieclxx.exe od AMD, služba Nvidie totiž log jen nepřipisuje, ale zkracuje a přepisuje celý, takže objem zápisů roste s tím, jak soubor předtím narostl. Proto u/jomic01 varuje, že většina lidí si ničeho nevšimne, dokud jim zdraví SSD neklesne mnohem rychleji, než by mělo. Ironii pro r/LocalLLaMA pak vystihl u/dekelguy_, podle kterého je smutný pohled na 180miliardový model na sestavě za 40 tisíc dolarů, který brzdí zápis logů na disk.

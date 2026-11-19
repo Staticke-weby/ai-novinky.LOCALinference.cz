@@ -1,0 +1,14 @@
+# 1xz6tv9
+**„Váš nápad na slop je z roku 2025.“ LocalLLaMA sbírá nové znaky AI textu**
+
+r/LocalLLaMA · u/rkoy1234 · 18. listopadu 2026, 06:11 · 678 bodů / 300 komentářů · [diskuse](https://www.reddit.com/r/LocalLLaMA/comments/1xz6tv9/)
+
+Autorovi u/rkoy1234 leze na nervy, jak komunita pořád poznává strojový slop podle em-dash a hlášek typu „load-bearing“. Tvrdí, že tohle už měsíce neplatí a moderní „claudismus“ či „gptismus“ vypadá jinak. Sepisuje proto nový seznam pastí pro rok 2026, od množinových vět přes podivná synonyma až po prázdné dodatky, aby se komunita naučila slop v příspěvcích poznávat.
+
+Místo pomlček podle něj dnešní modely prozrazují věty typu „každé X je Y“ či „žádné A není B“, nesmyslné nahrazování běžných slov synonymy a abstraktní metaverba místo obyčejných sloves. Dalšími znaky jsou bezvýznamné vsuvky jako „One honest confound“ či „One thing to note“, zbytečné kontrasty ve stylu „X se nezměnilo“, nejasné kupení zájmen it a its a závěr návnadou na engagement typu „zajímá mě, jak to máte vy“ nebo „mám to pro vás připravit?“.
+
+Diskuse se do jeho hry okamžitě pustila a nejvýše vystoupal vtip, který seznam paroduje. u/mitchins-au začíná odpověď slovy „Jedna věc pro tebe, a máš pravdu, že se proti tomu ohrazuješ,“ a u/hidden2u dodává, že „One honest caveat“ je prý povinná výbava každého výstupu DeepSeeku. u/becrustledChode to žene do absurdna hláškou, že jediná věc, kterou modely neumí, je být rasistické, takže si člověk musí do komentáře propašovat zakázané slovo, aby dokázal, že je člověk.
+
+Věcnou linku přinesl fyzik u/CamomileChocobo, který recenzoval několik slopových prací. AI text podle něj pozná podle hromady vymyšlených podstatných jmen, která nikdo nedefinuje – editorovi prý jednou poslal seznam skoro padesáti takových výmyslů, aby dokázal, že článek je slop. Jako ukázku cituje pasáž o „control-knob“, „strength lever“ a „scan-regime“, kde by člověk prostě napsal, že parametr měnil tak, aby se pole drželo mezi jednou a dvěma teslami, a že naměřené napětí kleslo. Podobně u/agar32 píše, že mu na GitHubu vždycky prozradí repozitář zbytečný kontrast – jako když číšník přinese sklenici a hlásí, že není otrávená.
+
+Zbytek vlákna sbírá další dílky skládačky. u/cubixy2k upozorňuje na slovo genuine a fráze typu upřímně se ptám, u/justletmesignupalre na sekci „Proč na tom záleží“ a vsuvku „část, kterou většina lidí přehlíží“, u/Hoppss na podivné užívání slova real a u/hjras na nápadně časté quietly. u/Anmorgan24 přidává řečnické otázky s dvojtečkou a pravidlo tří všude, i kde nedává smysl, u/General-Spite1222 upovídanost, škatulkované sekce se závěrem a nevyžádaná varování třeba u receptu na dort. Proti honičce se ozývají i skeptici: u/colbyshores píše, že je autista a AI mu pomáhá srozumitelně vyjádřit vlastní myšlenky, a u/Rich-Weakness-3424 varuje, že obvinění „tohle psalo ChatGPT“ se stalo novým způsobem, jak vykolejit diskusi bez věcné odpovědi.

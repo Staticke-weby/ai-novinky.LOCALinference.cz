@@ -8,24 +8,24 @@ Data stáhl `scripts/rd-collect-web.py` přímo z Redditu pro den 18. 11. 2026 (
 
 | # | Článek | Subreddit | Skóre | Komentáře |
 |---|---|---|---:|---:|
-| 1 | [Můj prompt: Vytvoř web, který ze začátku vypadá jako generický marketingový web. Ale čím víc scrolluješ dolů, tím je divnější a znepokojivější. Na konci má být vyloženě děsivý. Něco jako z hororu](1xzgq2x_web-ktery-se-zvrtne-v-horor.md) | r/ | 8069 | 426 |
-| 2 | [Claude Code je šílený. Můj celý self-hosted Netflix má 17 MB.](1xzcsdg_holyarrs-17-mb-misto-sesti-aplik.md) | r/ | 2712 | 529 |
-| 3 | [Výzkumníci z ETH Zurich pomocí reinforcement learningu naučili 5tunový nakladač John Deere dělat wheelie, balancovat na dvou kolech a překonávat 75cm překážky](1xz88ri_john-deere-na-dvou-kolech.md) | r/ | 1150 | 103 |
-| 4 | [Hra s galaxií o 150 milionech hvězdných systémů v 299kB HTML souboru](1xzir6g_voidstruck-299-kb-150-milionu-hvezd.md) | r/ | 492 | 57 |
-| 5 | [Jahoda s 8,9 miliardami tokenů](1xz0jhy_jahoda-za-8-9-miliardy-tokenu.md) | r/ | 836 | 110 |
-| 6 | [Stává se ze všeho „Claudefied“?](1xyzkct_klaufikace-jazyka.md) | r/ | 821 | 249 |
-| 7 | [Google uvádí Gemini 4 Neon](1xzrkin_gemini-4-neon.md) | r/ | 773 | 170 |
-| 8 | [Vaše představa „slopu“ uvízla v roce 2025](1xz6tv9_novy-slop-2026.md) | r/ | 678 | 300 |
-| 9 | [Výzkumníci Googlu předvedli AI, která vylepšuje vlastní software, pamatuje si, co fungovalo, a staví na minulých vylepšeních](1xzfv9g_agent-ktery-si-pamatuje-harness.md) | r/ | 641 | 71 |
-| 10 | [SSD, notebooky a telefony možná zlevní, spotové ceny spotřebitelských NAND klesly o 20 %](1xzixp0_nand-zlevnuje-o-20-procent.md) | r/ | 474 | 101 |
-| 11 | [Ovladač Nvidia 621.24 způsobuje neustálé zapisování na disky](1xzke1g_nvidia-ovladac-zapisuje-na-ssd.md) | r/ | 416 | 57 |
-| 12 | [SSD MoE ve vysoké rychlosti – čekání je u konce!](1xzmymn_moe-model-ze-ssd-tokenwing.md) | r/ | 411 | 114 |
-| 13 | [Nový model pro izolaci hlasu od Inworld](1xzqpzu_inworld-voice-isolator.md) | r/ | 387 | 53 |
-| 14 | [AudioGhost v1.2: odstraňte jakýkoli zvuk z audia či videa pouhým napsáním, o co jde](1xz6xl7_audioghost-1-2.md) | r/ | 346 | 28 |
-| 15 | [Vytvořil jsem hlasovou ChatGPT aplikaci pro Nokii N95 z roku 2007](1xz7xb4_chatgpt-na-nokia-n95.md) | r/ | 320 | 21 |
-| 16 | [Všední místa na Coruscantu](1xz7y8v_vsedni-coruscant.md) | r/ | 454 | 21 |
-| 17 | [Jak se to stalo?](1xz7t9u_claude-odpovedel-cinsky.md) | r/ | 947 | 236 |
-| 18 | [Claude našel škodlivou instrukci na stránce, na kterou přistoupil](1xzt8bq_skryta-instrukce-na-webu.md) | r/ | 293 | 43 |
+| 1 | [Můj prompt: Vytvoř web, který ze začátku vypadá jako generický marketingový web. Ale čím víc scrolluješ dolů, tím je divnější a znepokojivější. Na konci má být vyloženě děsivý. Něco jako z hororu](1xzgq2x_web-ktery-se-zvrtne-v-horor.md) | r/ClaudeAI | 8069 | 426 |
+| 2 | [Claude Code je šílený. Můj celý self-hosted Netflix má 17 MB.](1xzcsdg_holyarrs-17-mb-misto-sesti-aplik.md) | r/ClaudeAI | 2712 | 529 |
+| 3 | [Výzkumníci z ETH Zurich pomocí reinforcement learningu naučili 5tunový nakladač John Deere dělat wheelie, balancovat na dvou kolech a překonávat 75cm překážky](1xz88ri_john-deere-na-dvou-kolech.md) | r/singularity | 1150 | 103 |
+| 4 | [Hra s galaxií o 150 milionech hvězdných systémů v 299kB HTML souboru](1xzir6g_voidstruck-299-kb-150-milionu-hvezd.md) | r/ClaudeAI | 492 | 57 |
+| 5 | [Jahoda s 8,9 miliardami tokenů](1xz0jhy_jahoda-za-8-9-miliardy-tokenu.md) | r/ClaudeAI | 836 | 110 |
+| 6 | [Stává se ze všeho „Claudefied“?](1xyzkct_klaufikace-jazyka.md) | r/ClaudeAI | 821 | 249 |
+| 7 | [Google uvádí Gemini 4 Neon](1xzrkin_gemini-4-neon.md) | r/GeminiAI | 773 | 170 |
+| 8 | [Vaše představa „slopu“ uvízla v roce 2025](1xz6tv9_novy-slop-2026.md) | r/LocalLLaMA | 678 | 300 |
+| 9 | [Výzkumníci Googlu předvedli AI, která vylepšuje vlastní software, pamatuje si, co fungovalo, a staví na minulých vylepšeních](1xzfv9g_agent-ktery-si-pamatuje-harness.md) | r/singularity | 641 | 71 |
+| 10 | [SSD, notebooky a telefony možná zlevní, spotové ceny spotřebitelských NAND klesly o 20 %](1xzixp0_nand-zlevnuje-o-20-procent.md) | r/LocalLLaMA | 474 | 101 |
+| 11 | [Ovladač Nvidia 621.24 způsobuje neustálé zapisování na disky](1xzke1g_nvidia-ovladac-zapisuje-na-ssd.md) | r/LocalLLaMA | 416 | 57 |
+| 12 | [SSD MoE ve vysoké rychlosti – čekání je u konce!](1xzmymn_moe-model-ze-ssd-tokenwing.md) | r/LocalLLM | 411 | 114 |
+| 13 | [Nový model pro izolaci hlasu od Inworld](1xzqpzu_inworld-voice-isolator.md) | r/LocalLLaMA | 387 | 53 |
+| 14 | [AudioGhost v1.2: odstraňte jakýkoli zvuk z audia či videa pouhým napsáním, o co jde](1xz6xl7_audioghost-1-2.md) | r/LocalLLaMA | 346 | 28 |
+| 15 | [Vytvořil jsem hlasovou ChatGPT aplikaci pro Nokii N95 z roku 2007](1xz7xb4_chatgpt-na-nokia-n95.md) | r/ChatGPT | 320 | 21 |
+| 16 | [Všední místa na Coruscantu](1xz7y8v_vsedni-coruscant.md) | r/ChatGPT | 454 | 21 |
+| 17 | [Jak se to stalo?](1xz7t9u_claude-odpovedel-cinsky.md) | r/ClaudeAI | 947 | 236 |
+| 18 | [Claude našel škodlivou instrukci na stránce, na kterou přistoupil](1xzt8bq_skryta-instrukce-na-webu.md) | r/ClaudeAI | 293 | 43 |
 
 ## Příloha: všechny posty s alespoň 10 komentáři
 

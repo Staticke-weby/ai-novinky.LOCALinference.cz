@@ -128,7 +128,7 @@ Zavřené to je na dvou místech:
 `scripts/publish-docs.py` umí publikovat i hotový soubor / složku bez `00-index.md`
 (`python3 scripts/publish-docs.py dny/2026-10-26`), takže den má **jeden share**.
 `scripts/prehledy.sh` už per-source `--publish` nezadává: po obou bězích sloučí den, postaví web
-(`build-site.py` + `push-site.sh`) a zavolá `build-linkedin.py --den <datum>`, který dá do
+(`build-site.py` + `push-day.sh`) a zavolá `build-linkedin.py --den <datum>`, který dá do
 příspěvku **jeden odkaz** (`Celý denní přehled: … – 41 témat z 44 článků: <url>`).
 Per-source publikace zůstává jen pro ruční `daily.sh --publish`.
 
@@ -188,6 +188,13 @@ Denní přehled už nepublikuje `publish-docs.py` na docs-md.com, ale je z něj
 - **Historie začíná 16. 11. 2026.** Do nového repa šel jeden úvodní commit aktuálního
   stromu, ne stará historie (ta by s sebou nesla právě ta `_data/` a 59 MB blobů).
   Stará historie zůstává v privátním `petrbaloun/reddit-clanky-ai`.
+- **Jeden commit na konci (od 19. 11. 2026).** `prehledy.sh` už nepushuje po každém
+  zdroji: oba `daily.sh` běží bez `--push` a na konci `push-day.sh <datum>` commitne
+  články z `rd/` i `hn/`, `dny/` a `docs/` jedním commitem a pushne. Dřív šly na main
+  tři pushe během pár minut (Reddit, HN, web), každý spustil deploy Pages a poslední
+  padal na `Deployment request failed … due to in progress deployment` — i s
+  `cancel-in-progress` zůstává předchozí deploy chvíli viset. Když jeden zdroj selže,
+  skript pokračuje s tím, co je, a commitne i částečný den.
 - **Generuje `scripts/build-site.py`** z `dny/*/prehled.md`: `<datum>.html`,
   `index.html` (archiv), `feed.xml`, `style.css`, `.nojekyll`. Bere **celý
   archiv**, takže staré dny se publikují zpětně — 15. 11. tak vyšlo 27 dní.

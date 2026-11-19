@@ -26,7 +26,8 @@ v `.gitignore` a dají se kdykoli stáhnout nebo vyrobit znovu.
 z přihlášeného prohlížeče) a Hacker News (`hn-collect.py`, veřejné API), nechá
 agenty OpenCode napsat české články, sloučí oba zdroje do jednoho přehledu
 (`build-denni.py`), vygeneruje web (`build-site.py`), commitne a pushne
-(`push-site.sh`). Nakonec vypíše příspěvek na LinkedIn (`build-linkedin.py`).
+celý den jedním commitem (`push-day.sh`). Nakonec vypíše příspěvek na LinkedIn
+(`build-linkedin.py`).
 
 Web se generuje do `docs/` a commituje do tohohle repa; GitHub Pages ho
 nahrávají workflow `.github/workflows/pages.yml` (Pages v režimu „GitHub

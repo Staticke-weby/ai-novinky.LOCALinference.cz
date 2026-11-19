@@ -1,0 +1,16 @@
+# 50549677
+**Stejných 210 otázek, dva dny. U 84 procent odpovědí AI se výsledek změnil**
+
+Hacker News · avatar99 · 18. listopadu 2026, 18:58 · 23 bodů / 30 komentářů · [diskuse](https://news.ycombinator.com/item?id=50549677)
+
+Firma Supercite položila stejných 210 nákupních otázek čtyřem AI engineům dva dny po sobě a porovnala odpovědi ze 17. a 18. listopadu. Z 839 porovnatelných odpovědí se sada jmenovaných značek lišila v 701 případech, tedy v 84 procentech. Jde o navazující test po zjištění, že doporučení produktů v AI odpovědích většinou vycházejí z článků typu „best X“.
+
+Ukázkovým případem je dotaz na nejjednodušší CRM pro začátečnický tým v Google AI Mode: první den s odkazem na žebříček Zapieru vyhrál Less Annoying CRM pro „nenucenou jednoduchost“, druhý den po přečtení blogu Slacku a stránky HubSpotu z výběru úplně vypadl a na první místo se posunul HubSpot. Stránky, ze kterých modely čerpají, se přitom točí ještě rychleji než značky, den poté se jich opakovalo jen 42 procent. Poměrně bezpečná je jen špička, jednička ze prvního dne byla druhý den zmíněna v 90 procentech případů a stejnou pozici uhájila v 63 procentech, zatímco menší značky si udržely jen polovinu pozic proti 73 procentům u lídrů kategorií.
+
+Největší část diskuse patří metodice. Uživatel jerf namítá, že pokus neměří vliv času, protože každou otázku pokládá jen jednou denně, a rozptyl může být čistě náhodnost generování, kterou by odhalilo až vícenásobné souběžné dotazování. Uživatel fwip dodává, že číslo o změně zní dramatičtěji, než obsah napovídá, když se často jen prohodí jedna či dvě značky, a pro podobnost pořadí by se hodila třeba rank-biased overlap. Uživatel seizethecheese si stěžuje, že příspěvek neuvádí, co je v datech šum a co významný rozdíl.
+
+Druhá linka řeší, zda je nestálost chybou, nebo podstatou technologie. Uživatel luisfominaya mluví o přehnaném vlivu náhody při shrnování stažených dat, uživatel basch připomíná, že vybírání druhé či třetí nejlepší možnosti je záměr, protože strohé opakování nejpravděpodobnějšího slova by vedlo ke smyčkám a nudnému textu. Do toho uživatel donkeyboy odpovídá na výzvu nastavit teplotu na nulu, že novější modely teplotu v klasickém smyslu nepoužívají a plně deterministické je kvůli numerickým rozdílům stejně těžké dosáhnout. Uživatelé ryanisnan a hnlmorg zase tvrdí, že široké dotazy bez omezení, rozpočtu či konkrétních požadavků si o „hození kostkou“ přímo říkají.
+
+Třetí proud se točí kolem marketingu a důvěryhodnosti. Uživatel mentalgear v tom vidí návrat SEO v novém hávu a volá po znalostním grafu faktů nezávislém na zmínkách, uživatel dgellow připomíná vliv náhodných i placených hlasů na Redditu. Hned několik hlasů čte celý test jako reklamu na platformu pro viditelnost v AI, uživatel hnlmorg ho označuje za spam pro LinkedIn a uživatel ppierre glosuje, že řešením bude seznam, kde první platí nejvíc. Praktičtější návrhy přidávají uživatelé amarkmartin3 a tetraodonpuffer, tedy nutit model nejdřív stanovit věcné metriky a méně se opírat o marketing, případně zkusit stejný test bez vyhledávání na webu.
+
+Z článku tak zůstává hlavně ponaučení pro značky: jeden screenshot s doporučením nic nedokazuje, smysl má jen opakované měření podílu v odpovědích a přítomnost na co největším počtu zdrojů, které modely citují.

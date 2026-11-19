@@ -1,0 +1,14 @@
+# 50549493
+**OpenAI tvrdí, že jeho modely pomáhají navrhovat čipy**
+
+Hacker News · vighneshiyer · 18. listopadu 2026, 18:45 · 186 bodů / 118 komentářů · [diskuse](https://news.ycombinator.com/item?id=50549493)
+
+OpenAI zveřejnilo přehled toho, jak jeho modely pomáhají s návrhem čipů. Mluví v něm o spolupráci s AMD na klíčových blocích chystaných procesorů a grafických čipů, o partnerství se Synopsys na nástrojích pro návrh a o vlastním inferenčním čipu Jalapeño, vedle toho zmiňuje i práci s otevřenými návrhy kolem OpenTitan a procesoru Ibex.
+
+Nejostřejší reakce míří na způsob, jakým OpenAI úspěch měří. Uživatel light_hue_1 píše, že všechny grafy jsou jen v neurčené odměně nebo ztrátě a bez rovnic nic nedokazují, k tomu cituje pasáž o tom, že AMD ověřilo jednociferná procentní zlepšení PPA u klíčových bloků chystaného vlajkového procesoru pomocí návrhů napsaných modelem. Takové zlepšení podle něj mohlo být klidně nulové, náhodné, nebo jen inspirací, kterou pak dopracoval člověk, a kdyby firma měla v ruce jasné číslo, chlubila by se jím. Stručně to shrnuje uživatel bpartcl poznámkou o průměrné normalizované odměně bez jediné rovnice.
+
+Druhá velká linka diskuse řeší, co partnerství s OpenAI znamená pro majitele návrhu. Uživatel davemp se ptá, jak to funguje, když AMD nahraje drahé duševní vlastnictví a firma jen slíbí, že ho nebude uchovávat ani na něm trénovat. Uživatel throwa356262 odpovídá, že smlouva zakazuje trénování na zákaznických datech, ale už neříká nic o nahlížení do nich, a podezírá OpenAI z těžení dat ve strategických oblastech výměnou za slevy a vyhrazené servery. Na to navazuje uživatel jacquesm tezí, že firmy zabývající se umělou inteligencí se rozlézají do oborů svých zákazníků a konkurují jim nástroji, které jim samotným neprodají, další hlas pak firmu přirovnává ke strategii Amazonu systematicky vytěžovat informace od zákazníků.
+
+Praktici z oboru pak úspěch relativizují jinak. Uživatel throwaway3252 píše, že úzkým hrdlem návrhu čipu není psaní obvodů a jazyka RTL, ale verifikace a validace, takže ani nástroj, který by čas ze specifikace do RTL srazil na nulu, by mu neumožnil vyrobit o jediný čip ročně navíc. Uživatel skyberrys naproti tomu popisuje dobrou zkušenost, když návrh pojme jako softwarový problém a agent mu generuje obvody, automatizuje nástroje a hlídá mnohahodinové simulace. Mezitím se uživatel zardo ptá, kde jsou slibované sdílené návrhy RISC-V, a vlákno o jménu Jalapeño odlehčuje uživatel sascac vysvětlením, že papričky pocházejí z města Xalapa, tedy z nahuatlského místa písčité vody, a čipy se přece vyrábějí z křemičitého písku a chladí vodou.
+
+Z diskuse tak zůstává obraz slibné, ale zatím mlhavé pomoci: modely umějí navrhovat bloky a zrychlit rutinní práci, důkaz o tom, kolik zlepšení je skutečně jejich dílem, ale komunita v textu OpenAI nenašla.

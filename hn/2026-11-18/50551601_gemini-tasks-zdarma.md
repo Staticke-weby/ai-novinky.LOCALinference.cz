@@ -1,0 +1,16 @@
+# 50551601
+**Gemini Tasks je zdarma. Osobní asistent Google míří ke všem**
+
+Hacker News · hackeratrandom · 18. listopadu 2026, 21:20 · 51 bodů / 70 komentářů · [diskuse](https://news.ycombinator.com/item?id=50551601)
+
+Google zpřístupnil funkci Tasks v aplikaci Gemini zdarma pro stovky milionů lidí. Novinka postavená na modelu Gemini 4 Hydrogen nemá jen odpovídat na dotazy, ale samostatně vyřizovat vícekrokové úkoly od objednávek přes správu kalendáře až po placení účtů.
+
+Odkazovaný článek na blogu Google popisuje spuštění v USA, Japonsku, Koreji, Kanadě, Austrálii a Indii, přičemž pokročilejší funkce začínají zatím jen v USA. Jako ukázky uvádí souběžné volání do dvou autoservisů kvůli servisu minivanu, rozbor překvapivé faktury za elektřinu na 389 dolarů s viníkem v podobě tepelného čerpadla spínajícího ve špičce, i nákup USB-C nabíječky se slevou deset dolarů. Ovládat se má přepnutím z režimu Chat na Task v mobilní aplikaci, textovou zprávou nebo přeposláním e-mailu na gemini@google.com, agent přitom běží v hardwarově izolovaném virtuálním stroji a před kliknutím na Koupit si má říct o potvrzení.
+
+Nejrychlejší vtipy míří na samotný Google. julianlam nadhazuje, za jak dlouho službu firma zase zruší, a dbbk tipuje, že se novinka dřív slije se starší aplikací Google Tasks. Do stejného místa udeřil kylecazar s nápadem nechat si od Gemini Tasks přidat do Google Tasks úkol zjistit rozdíl mezi Google Tasks a Gemini Tasks. valleyjo se ptá, zda jde o konkurenta pro Muse, když Tasks zní jako jednorázový vzor interakce proti trvalejšímu agentovi.
+
+Hodně vlákna se točí kolem ceny zdarma. lenerdenator připomíná obligátní „když je to zdarma, produkt jsi ty", zatímco kamk3 namítá, že nástroj sahá jen na data, která už Google stejně má, a je to pro uživatele jeho služeb prostě bonus. ForHackernews si z bezpečnostního popisu utahuje, že izolovaný stroj znamená hlavně to, že všechna data dostane bezpečně jen Google, a Danox asistenta rovnou označuje za tajného agenta podávajícího hlášení na centrálu. Praktičtější výhradu přidává artdigital, který se označuje za velkého fanouška Gemini, ale úkoly ho prý na každém kroku otravují se schvalováním a ztrácejí napojení na externí nástroje.
+
+Třetí linka řeší, zda je takový pomocník vůbec k něčemu. this_user přirovnává osobní asistenty k metaverzu, tedy nápadu, který nadchne hlavně lidi z technologií, protože běžný člověk prý není tak zaneprázdněný, aby potřeboval správu kalendáře, a při nákupech ho prodejci stejně přehrají. Proti tomu staví johnnyo konkrétní úsporu 250 dolarů, když mu agent denně hlídal cenu letenek s možností přerezervace, a sixhobbits popisuje vlastního agenta, který za něj řešil servery, účetní, otravné dodavatele i kontrolu smluv. 0xbadcafebee má zase plný seznam od nárazníku na auto přes dermatologa až po levné lety na dovolenou, asistenta by chtěl, ale Gemini prý v každé interakci působí zoufale hloupě. Skepsi budí i historka z článku o elektřině, kdy cosmotic pochybuje, že by k odhalení špičky bylo potřeba Gemini, a guiomie se ptá, jak by to vůbec poznalo z nicneříkajících vyúčtování.
+
+Z diskuse tak zůstává obrázek slibného, ale nedotaženého sluhy, u kterého se hodí hlídat peněženku, soukromí i tlačítko Koupit.

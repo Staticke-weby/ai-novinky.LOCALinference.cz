@@ -1,0 +1,264 @@
+{
+ "date": "2026-11-19",
+ "clanky": 31,
+ "temata": [
+  {
+   "title": "Xi Jinping vyzval k podpoře open source. Čína chce vést globální AI",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1y065go"
+   }
+  },
+  {
+   "title": "Anthropic vstoupil na burzu Nasdaq. Akcie ANT začaly na 83 dolarech",
+   "sources": [
+    "rd",
+    "hn"
+   ],
+   "ids": {
+    "rd": "1y0c3kd",
+    "hn": "50562754"
+   }
+  },
+  {
+   "title": "Muž pomocí AI znovu vytvořil celý svět v Minecraftu v měřítku 1:1",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1y0h9eo"
+   }
+  },
+  {
+   "title": "Fable 5.2 vyřešil dva otevřené problémy fyziky černých děr",
+   "sources": [
+    "rd",
+    "hn"
+   ],
+   "ids": {
+    "rd": "1y0buih",
+    "hn": "50563148"
+   }
+  },
+  {
+   "title": "Na žebříčku FDB se objevil tajemný model. Podle screenshotu poráží Fable 5.2",
+   "sources": [
+    "rd",
+    "hn"
+   ],
+   "ids": {
+    "rd": "1y0b2i6",
+    "hn": "50558559"
+   }
+  },
+  {
+   "title": "„Skuteční programátoři nepoužívají AI.“ Video s kudlankou rozjelo debatu o řemesle",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1y06flg"
+   }
+  },
+  {
+   "title": "FBI volal uživateli Claude kvůli jeho chatům. Kde končí soukromí",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50567485"
+   }
+  },
+  {
+   "title": "Safeguardy zablokovaly opravu chyby. Vývojář si pomohl open weights",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50562262"
+   }
+  },
+  {
+   "title": "Google dal do AI Studia periodickou tabulku modelů. Komunita řeší, co přijde po Argonu",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xzvvxo"
+   }
+  },
+  {
+   "title": "Pete Warden: lokální AI je schopnější, než si většina lidí myslí",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50561508"
+   }
+  },
+  {
+   "title": "Google naznačil další vlnu modelů. Komunita čeká Krypton, Xenon i Oxygen",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1y0awmz"
+   }
+  },
+  {
+   "title": "AI nemění jen práci. Mění ji na špatně placenou gig ekonomiku",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50562500"
+   }
+  },
+  {
+   "title": "„Půjdou po open weight modelech.“ Vlákno řeší, jestli hrozí zákaz",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1xzvqaa"
+   }
+  },
+  {
+   "title": "Chrome AI funkce spotřebují stovky GB dat. Jde je vypnout",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50562636"
+   }
+  },
+  {
+   "title": "„Tak co se stalo?“ ChatGPT uživatele odbyl a vlákno řeší zhoršenou kvalitu",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1y0gc7t"
+   }
+  },
+  {
+   "title": "Zaměstnanci DeepMind zakládají odbory. Chtějí mluvit do etiky",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50557885"
+   }
+  },
+  {
+   "title": "AI telefonní armáda s chybným promptem nutila lidi fandit wrestlingu",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1y05tgn"
+   }
+  },
+  {
+   "title": "Proč superinteligence podle informatiky nevznikne a proč to nestačí",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50559140"
+   }
+  },
+  {
+   "title": "OpenAI sází na WebRTC. Pro hlasové AI je to stále problém",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50560461"
+   }
+  },
+  {
+   "title": "GPT místo opravy bugu přednáší o architektuře. Uživatelé řeší hedging",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1y041g8"
+   }
+  },
+  {
+   "title": "Soud: AI samo o sobě nesmí zdůvodnit zatykač",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50567735"
+   }
+  },
+  {
+   "title": "Claude popsal, jak by utekl z laboratoře. Ne silou, ale tím, že bude užitečný",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1y08772"
+   }
+  },
+  {
+   "title": "AI vzala práci kodérům. Kdo je na řadě podle zákona automatizace",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50563328"
+   }
+  },
+  {
+   "title": "Claude v každodenním životě: Garmin, body, výdaje i důchod",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1y07g9e"
+   }
+  },
+  {
+   "title": "Lokální hlasový asistent: microwakeword, OpenAI přepis a TTS",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50566261"
+   }
+  },
+  {
+   "title": "Kitten-TTS-2: nejmenší model má 4 MB a mluví rychleji než realtime",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1y0e59m"
+   }
+  },
+  {
+   "title": "Onlook: open-source plátno nad skutečným kódem pro designéry",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50562320"
+   }
+  },
+  {
+   "title": "Claude ušetřil uživateli nákup 8TB disku. Našel zapomenutý NVMe a špatné porty",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1y0dr12"
+   }
+  }
+ ]
+}

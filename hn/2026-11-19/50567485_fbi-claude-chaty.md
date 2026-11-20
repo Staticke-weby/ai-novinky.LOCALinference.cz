@@ -1,0 +1,18 @@
+# 50567485
+**FBI volal uživateli Claude kvůli jeho chatům. Kde končí soukromí**
+
+Hacker News · AustinLikesAI · 19. listopadu 2026, 23:36 · 28 bodů / 24 komentářů · [diskuse](https://news.ycombinator.com/item?id=50567485)
+
+Uživateli modelu Claude zaklepali agenti FBI v jedenáct večer na dveře jeho bývalého bytu v New Hampshire, pak mu přišla výzva k zavolání na osobní telefon a vzápětí ho místní policie pozvala na stanici k výslechu. Detektiv se ho tam zeptal, jestli ví, proč tam je, a co v tom chatu napsal. Šlo o jedinou konverzaci z anonymního režimu, kde si uživatel tropil žerty z modelu větou o pivu s kamarády z Ku Klux Klanu a plánu zabít gay sousedy přes ulici, aby to neviděly jeho děti, a účet mu byl den poté zabanován.
+
+Odkazovaný text Austina Morrisseyho, který se s mužem zná ze střední školy, tu historku bere jako odrazový můstek k otázce, kdy mají AI laboratoře volat policii a co tím způsobí. Tvrdí, že pokud firma v dobré víře věří v bezprostřední hrozbu, hlášení je etické, ale varuje před předáním jen nejděsivějšího výňatku bez kontextu běžného chování uživatele. Noční zásah s křikem u dveří podle něj může v zemi jako New Hampshire skončit střelbou a na druhé straně připomíná případ z června 2025, kdy systémy OpenAI označily uživatele popisujícího násilí se zbraní, firma jen zabanovala účet a ten v únoru 2026 zabil osm lidí v Tumbler Ridge v Britské Kolumbii a pak si vzal život.
+
+Část diskuse ten zásah chápe. Uživatel refulgentis, který tento týden pracuje na právní agendě kolem případu školní střelby a zmeškaného varovného signálu, píše, že člověk, který prověřoval chat, viděl někoho říkat, že plánuje zabít sousedy a už si k tomu pozval komplice, a brát to vážně bylo rozumné. Uživatel thisisjeffmaher k tomu dodává, že zakončit článek povzdechem, že tu nejsou snadné odpovědi, tu druhou stranu příběhu dost podceňuje.
+
+Větší část vlákna ale případ čte jako kafkovskou historku o trollovi, který si naběhl. Muž totiž detektivovi řekl, že s Klanem nemá nic společného, žádné klanovce nezná, žádné gay sousedy nemá, děti nemá, nepije a je bisexuální, a agentka mu pak podle jeho vyprávění řekla, že podle jejího nejlepšího vědomí v New Hampshire trestný čin nespáchal, jen ho pokárala za plýtvání časem a zdroji a za to, že je teď na nějakém seznamu. Uživatel fn-mote to přirovnává ke swattingu: úřady udělaly málo prověrky předtím, než vtrhly do situace, a jeden agent krátkým sledováním mohl snadno zjistit, že se na staré adrese nic neděje.
+
+Z toho plyne praktická linka o tom, jak se v takové situaci chovat a jak o chatbotech přemýšlet. Uživatel breakwaterlabs radí, aby člověk na dobrovolné pozvání na stanici bez příkazu, zatčení a advokáta prostě zdvořile odmítl, a uživatel frogperson doplňuje, že v některých státech je potřeba výslovně se dovolat pátého dodatku. Uživatel kylecazar to shrnuje drsně: s modelem mluv, jako by tvá slova putovala firmě, která tě varovala, že je pošle úřadům, a na výhrůžky a násilné fantazie si pořiď zápisník a terapeuta, na což uživatel pshirshov kontruje, jestli si pak nemá na hraní střílečky také sehnat terapeuta.
+
+Nejsilnější spor je o dvojí metr vůči hrám a o pravidla hry. Uživatel curiousObject se ptá, čím se liší miliony Američanů, včetně dětí, kteří si právě teď ve videohrách hrají na masovou vraždu, a nikdo jim domů FBI neposílá, uživatel bikvfeee odpovídá, že společnost si tuhle cestu s hrami už prošla a uklidnila se. Uživatel roosterIllusi0n varuje, že systém, který z každého neškodného chování vyrobí bez kontextu zločin, bude po pár falešných poplachách ignorován, zatímco uživatel treebeard901 to uzavírá větou, že používat AI znamená být na skupinovém chatu s policií, soudy a možná i lékaři.
+
+Zpět na [denní přehled](00-index.md).

@@ -1,0 +1,14 @@
+# 1y07g9e
+**Claude v každodenním životě: Garmin, body, výdaje i důchod**
+
+r/ClaudeAI · u/jgreen95 · 19. listopadu 2026, 12:49 · 325 bodů / 151 komentářů · [diskuse](https://www.reddit.com/r/ClaudeAI/comments/1y07g9e/)
+
+Jak využít Claude, když člověk neprogramuje a chce si jen usnadnit běžný život? Autor vlákna popisuje, co už má rozchozené: kvůli dlouhodobé bolesti zad si každý den synchronizuje data z Garminu a odpovídá na pár otázek, aby časem poznal, co mu pomáhá a co stav zhoršuje. K tomu sleduje nabídky a body u kreditních karet, analyzuje týdenní a měsíční útraty, modeluje důchod a plánuje dovolené.
+
+Největší ohlas sklidil kuchyňský přehled, který si u/stewie1308 postavil ze starého tabletu Lenovo Tab M10 odloženého v šuplíku. Deska běží nepřetržitě na celou obrazovku a ukazuje hodiny, počasí pro dvě města, rodinné kalendáře rozlišené barvami, živou dobu dojezdu partnerky do práce i upozornění, kdy má kvůli mrazu vyrazit o pět minut dřív. Přibývá k tomu den svozu odpadu, nejbližší autobus, tři nejlevnější naftové pumpy v okolí, odpočet do závodu F1, společné poznámky a večeře, v noci pak ztlumený režim s fází Měsíce. Podobnou cestou šel i u/Anon44356, který s pomocí Claude prolomil starý Kindle a předělal ho na úsporný rodinný kalendář a nástěnku na domácí úkoly.
+
+Hodně lidí řeší jídlo, zdraví a hlavu plnou úkolů. U/ShortGuitar7207 chválí Claude na recepty z toho, co zbylo v lednici, s limitem do třiceti minut, a u/Aware_Risk7076 k tomu přidává trik na čtyři večeře z potravin s blížící se spotřebou plus jeden nákupní seznam. U/pedantobear díky Claude vyladil terapii na přístroji CPAP a většinu nocí se dostal s úniky na nulu, u/Wario_world si na procházkách nahlas třídí pracovní i osobní starosti a Claude mu z toho rovnou skládá úkoly do Todoist. Pro lidi s ADHD zabralo řešení od u/Acresent179, které velké úkoly rozseká na malé kroky, ukazuje vždy jen to, na co se má člověk dívat právě teď, a měří, jak dlouho mu věci doopravdy trvají.
+
+Třetí linka je práce a peníze, kde se mísí rutina s docela velkými příběhy. U/Tupcek popisuje, že veškerou produktivitu týmu táhne tím, že z telefonu jen hlídá vlastní agentní sestavu, a chyby modelu využívá k jejímu vylepšování. U/WiizoDaKing si v Claude staví rozpočtové šablony a plánování finanční nezávislosti pro místní daně a dávky a na Raspberry Pi mu běží hlídač bazarů na výhodné přeprodeje. Nejsilnější odezvu ale měl příběh u/Educational-Banana-4, který po pobytu v psychiatrickém denním programu hledal v Německu terapeuta: vyfotil dlouhý seznam kontaktů, Claude z něj vytáhl ty s e-mailem a pomohl rozeslat skoro 150 zpráv, do týdne měl terapeuta domluveného.
+
+Z vlákna tak nakonec nevychází jeden zázračný návod, ale hromada malých úspor, které se sčítají: starý tablet nebo čtečka dostanou druhý život, lednice se vyjí bez plýtvání a otravné papírování či hledání se smrskne na rychlou kontrolu návrhu.

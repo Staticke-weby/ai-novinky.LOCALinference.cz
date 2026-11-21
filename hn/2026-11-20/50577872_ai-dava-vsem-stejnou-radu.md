@@ -1,0 +1,16 @@
+# 50577872
+**Stejná rada pro všechny. AI doporučují jednu knihu i jednu firmu**
+
+Hacker News · amin · 20. listopadu 2026, 17:58 · 72 bodů / 28 komentářů · [diskuse](https://news.ycombinator.com/item?id=50577872)
+
+Programátor Cody Collier položil 65 různým modelům umělé inteligence ty nejobyčejnější otázky života: jakou knihu si přečíst, co studovat, kam investovat deset tisíc dolarů nebo jaký rozjet byznys. Odpovědi se překvapivě slévají do jedné: v 73 ze 100 případů zazněl titul Man's Search for Meaning, v 76 ze 100 případech nápad na předplacenou krabici, devadesát procent doporučení na studium mířilo na informatiku a 98 procent investičních rad na indexový fond.
+
+Odkazovaný experiment jde ještě dál. Když měly modely vymyslet náhodného člověka, bylo 69 procent ze 3 151 vymyšlených lidí starých přesně 34 let, každá laboratoř má navíc svou oblíbenou hrdinku – Claude Marisol, Gemini Elenu. Podle pouhých neškodných otázek na barvu, město či jméno se dá v 59 procentech případů poznat výrobce modelu, zatímco náhoda by dala čtyři procenta. Z měření otevřeného modelu OLMo pak vyplývá, že tenhle zlozvyk nevzniká opisováním z internetu, ale v jediném kroku učení na roli poslušného asistenta, a už se rozlézá do světa: jméno Elena Vance, které si vymyslelo Gemini, se letos objevilo ve 684 nových projektech na GitHubu.
+
+Pro část diskutujících to žádné překvapení není. Lachlanj se ptá, čím se to liší od předchozího Googlu, který na obecný dotaz také vracel všem stejné výsledky, a bigdict to shrnuje lakonicky: na generickou otázku bez kontextu přijde generická odpověď s nejvyšší pravděpodobností. Xg15 připomíná starý psychologický trik z večírků, kdy člověk vyzvaný, aby rychle řekl barvu, nástroj a hudební nástroj, téměř jistě odpoví červená, kladivo, housle. Umělá inteligence podle něj jen dělá totéž ve velkém.
+
+Jiní si šli experiment ověřit na vlastní kůži. Vivekd píše, že mu Gemini na knihu, která změní život, nabídlo na prvním místě Atomové návyky a Man's Search for Meaning vůbec nezaznělo, stejně jako se neobjevil kožený peněženkový dárek pro tatínka. Fbrncci se zapnutou personalizací dostal u Claude i ChatGPT na prvních patnáct otázek úplně jiné odpovědi než experiment. Royal__ pak podotýká, že Man's Search for Meaning je vlastně docela dobrá rada, zatímco kerblang se směje doporučení studovat informatiku, které je podle něj prostě občas špatně.
+
+Nejživější linka se ale točí kolem toho, co uniformita znamená. Enooint připomíná starší pokus, kdy sto různých person vložených do GPT-4o skončilo s téměř totožnými investičními portfolii, a varuje, že když budou všichni manažeři fondů poslouchat stejného rádce, vydělá na předvídání jejich kroků někdo jiný. BiraIgnacio vypráví historku z pečení, kdy mu Claude, ChatGPT i Gemini daly prakticky stejnou větou stejné doporučení ke sladidlům, jehož původ pak našel na pár webech bez vysvětlení. A pcwelder to zobecňuje: všechny pelikány na kole, weby i designy od modelů vypadají stejně, protože trénink odměnami drobné odchylky v datech ještě zesílí.
+
+Kdo chce vlastní odpověď, musí podle experimentu modelu dát něco vlastního, anebo si nechat vypsat deset možností a vybrat si sám číslo. Výzva k originalitě totiž nefunguje – i druhá, zdánlivě neokoukaná odpověď bývá pro všechny stejná.

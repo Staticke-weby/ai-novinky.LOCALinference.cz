@@ -1,0 +1,14 @@
+# 50581242
+**OpenAI popsala boj s adversarial distillation. Někdo krade schopnosti modelů**
+
+Hacker News · pretext · 20. listopadu 2026, 21:11 · 34 bodů / 50 komentářů · [diskuse](https://news.ycombinator.com/item?id=50581242)
+
+OpenAI popsala takzvanou adversarial distillation jako cestu, jak z výstupů špičkového modelu vytvořit levnější klon bez bezpečnostních pojistek. Útočník si podle ní může neoprávněně stáhnout schopnosti třeba v kyberbezpečnosti a nasadit je v modelu, který odmítání obejde. Firma zároveň vysvětlila, jak takové pokusy odhaluje a narušuje, a lekce nabízí k ochraně modelů napříč odvětvím.
+
+Největší důraz klade na ochranu takzvaného chráněného uvažování, tedy vnitřních mezikroků, které model generuje cestou k odpovědi a které se v konečném textu neobjeví. Právě ty jsou podle OpenAI nejcennější učební látkou pro cizí model. U GPT-6.2 Astra a GPT-6.2 Sol proto firma svázala uvažování s historií konverzace, nasadila trénink na rozpoznávání extrakčních pokusů a klasifikátory hlídající úniky i v argumentech volání nástrojů. V interním adaptivním testu prý úspěšnost útoku na starší konverzaci spadla z 54,0 % na 0,2 %, týdenní zásahy proti kampaním se pohybují od tisíců po desetitisíce účtů.
+
+Diskuse pod článkem je ale z velké části výsměšná a točí se kolem pokrytectví. Uživatel snackbroken to označil za dodatečné zdůvodnění bezohledné obrany konkurenční výhody a 9072997 ironicky shrnuje, že jde o bezpečnostní problém, který nemá nic společného s tím, že zámořští soupeři staví levněji kopírováním. Podobně to vidí hax0ron3: když firma destiluje práci lidí k účelům, se kterými nesouhlasili, je to pokrok, když někdo destiluje její model, je to bezpečnostní hrozba.
+
+Nejsilnější linka míří na jméno firmy a její vlastní historii. WiSaGaN píše, že je smutné, jak společnost jménem OpenAI trénovala na autorech, programátorech a matematicích bez odměny, a teď si chce modely nechat jen pro sebe. Na to navazuje pyrale poznámkou, že historici, kteří by to měli hodnotit, už mezitím přišli o práci. Evergreenovou pointu přidal endgame citátem z cizího příspěvku, jestli někomu vadí, že mu někdo vzal práci a bez náhrady z ní trénuje model napodobující jeho odbornost.
+
+Vedle ironie se objevila i věcná debata, jestli se tomu dá vůbec bránit. bob1029 namítá, že kolem cizí černé skříňky si může postavit vlastní černou skříňku, logovat všechny vstupy a výstupy a potichu na nich trénovat, což prý nikdo neodhalí. joshuamorton vysvětluje, že smyslem obrany není kopírování znemožnit, ale prodražit ho, protože destilace je hlavně mnohem efektivnější učení. Ortékkův apokalyptický komentář o destilaci jako útoku na penze a úspory, který by se měl nazývat destilačním terorismem, pak ostatní rozebrali jako satiru a dmitrygr mu oponuje, že zákazník z levnějšího klonu jen získá.

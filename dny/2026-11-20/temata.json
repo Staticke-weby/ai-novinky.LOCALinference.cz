@@ -1,0 +1,318 @@
+{
+ "date": "2026-11-20",
+ "clanky": 37,
+ "temata": [
+  {
+   "title": "Matematik Anthropicu tvrdí, že s Claudem dokázal Riemannovu hypotézu",
+   "sources": [
+    "rd",
+    "hn"
+   ],
+   "ids": {
+    "rd": "1y15d87",
+    "hn": "50574968"
+   }
+  },
+  {
+   "title": "Buckmaster a Alpöge zveřejnili důkaz blow-upu pro 3D Navier-Stokesovy rovnice",
+   "sources": [
+    "rd",
+    "hn"
+   ],
+   "ids": {
+    "rd": "1y174f6",
+    "hn": "50578358"
+   }
+  },
+  {
+   "title": "Thinking Machines vydali Inkling 2 Mini. Model s 26 miliardami parametrů se vejde na notebook",
+   "sources": [
+    "rd",
+    "hn"
+   ],
+   "ids": {
+    "rd": "1y1diuk",
+    "hn": "50581260"
+   }
+  },
+  {
+   "title": "Frostbite: AI navrhla nový procesor a vlastní instrukční sadu",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50572503"
+   }
+  },
+  {
+   "title": "Tencent otevřel Hy4. Multimodální model má 770 miliard parametrů a kontext milion tokenů",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1y0vaey"
+   }
+  },
+  {
+   "title": "Signal omezuje AI agenty v iOS a Androidu ve čtení obrazovky",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50572348"
+   }
+  },
+  {
+   "title": "Minimax H3 zvládá nativní úpravy videa. Komunita testuje i 48megapixelové výstupy",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1y1c950"
+   }
+  },
+  {
+   "title": "„Poznám, že jsi to psal sám.“ Studenti čelí podezření z AI",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50571189"
+   }
+  },
+  {
+   "title": "Nimo Robotics předvádí robotickou ruku s nejvyšším počtem stupňů volnosti",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1y0o9mq"
+   }
+  },
+  {
+   "title": "Kandidátka na texaskou guvernérku chce moratorium na nová datacentra",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1y0qjc9"
+   }
+  },
+  {
+   "title": "Model si přepíše vlastní váhy. Bez gradientů a bez tréninku",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50577265"
+   }
+  },
+  {
+   "title": "Google představil SLEEP. Model si má upevňovat znalosti jako během spánku",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1y0ulz9"
+   }
+  },
+  {
+   "title": "Kdo přestane psát kód, přestane umět i recenzovat",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50573886"
+   }
+  },
+  {
+   "title": "Claude Code napsal 14 KB velký webový server, který je sám operačním systémem",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1y1fion"
+   }
+  },
+  {
+   "title": "Zaměstnanci Googlu žádají vedení, aby netrestalo školy bez Gemini",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50577901"
+   }
+  },
+  {
+   "title": "Neprogramátor vytvořil s Claude Code aplikaci Snowpane. Sníh padá na okna i taskbar",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1y18jj2"
+   }
+  },
+  {
+   "title": "SEC podle zdrojů prověřuje účetnictví Nvidie",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50581438"
+   }
+  },
+  {
+   "title": "Claude je skvělý na kód, ale na běžné povídání mnoha lidem nesedí",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1y10v0z"
+   }
+  },
+  {
+   "title": "DreamCoder: nové vývojové prostředí od autora knihy o Emacsu",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50581110"
+   }
+  },
+  {
+   "title": "Anthropic nabízí polovinu na dva měsíce za zrušení předplatného",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1y1c37l"
+   }
+  },
+  {
+   "title": "Co přijde po AGI? Esej DeepMind Institute o cestě k ASI",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50569519"
+   }
+  },
+  {
+   "title": "„Není to terapie, jen povídání.“ Uživatelé popsali večerní rozhovory s ChatGPT",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1y0vgy9"
+   }
+  },
+  {
+   "title": "Slopstrap: CSS framework, který webu dodá vzhled vibecodingu",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50576012"
+   }
+  },
+  {
+   "title": "„Neumělá inteligence“: meme o člověku, který předstírá, že je AI",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1y0w476"
+   }
+  },
+  {
+   "title": "Programátor si nechal AI napsat FPGA, na kterém běží LLM",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50579297"
+   }
+  },
+  {
+   "title": "ChatGPT poslal falešnou naléhavou zprávu o hořícím Timmym. Vlákno se baví i děsí",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1y0su02"
+   }
+  },
+  {
+   "title": "OpenComputer: open-source alternativa k Devinu běží ve Slacku",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50581403"
+   }
+  },
+  {
+   "title": "Qwen dál teasuje „the becoming“. Komunita už ztrácí trpělivost",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1y135y5"
+   }
+  },
+  {
+   "title": "Stejná rada pro všechny. AI doporučují jednu knihu i jednu firmu",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50577872"
+   }
+  },
+  {
+   "title": "Plakát na zastávce v Británii rozjel debatu o AI slopu v reklamě",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1y11fzs"
+   }
+  },
+  {
+   "title": "Epic zapojil AI agenty do Unreal Enginu. Bojuje s nástroji pro vibecoding",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50573681"
+   }
+  },
+  {
+   "title": "Jensen Huang a kultura Nvidie: urážky, ponižování a dohody",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50573972"
+   }
+  },
+  {
+   "title": "OpenAI popsala boj s adversarial distillation. Někdo krade schopnosti modelů",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50581242"
+   }
+  },
+  {
+   "title": "llms.txt a MCP nepřinesly výsledky. Autor popsal, co fungovalo",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50574772"
+   }
+  }
+ ]
+}

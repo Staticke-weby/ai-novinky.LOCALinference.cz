@@ -1,0 +1,14 @@
+# 50589885
+**Komunita AI bezpečnostních expertů je čím dál nervóznější**
+
+Hacker News · donkan168 · 21. listopadu 2026, 16:01 · 5 bodů / 4 komentářů · [diskuse](https://news.ycombinator.com/item?id=50589885)
+
+Americký server Mother Jones posbíral výroky vlivných hlasů z okruhu AI safety z posledních týdnů a vyšla mu z toho vlna otevřené nervozity. Daniel Kokotajlo z AI Futures Project píše, že exploze inteligence zřejmě přijde už v roce 2027, a přiznává, že je vyděšený, smutný a naštvaný. Člen správní rady OpenAI Paul Christiano v osobním vystoupení mluví o reálné šanci, že do šesti měsíců přijde katastrofa s obrovským počtem obětí nebo pád vlády, výzkumnice METR Ajeya Cotra varuje před extrémní superinteligencí do roka a rychlým vývojem nových zbraní. Debata se odehrává na pozadí veřejného vstupu Anthropicu na burzu.
+
+Podle článku stojí za vyhrocenou náladou hlavně listopadová zpráva METR, jejíž čtyři výzkumníci strávili jedenáct týdnů přímo v Anthropicu. Závěr zní, že tempo vývoje se zhruba zdvojnásobilo právě díky pomoci samotných modelů, spoluzakladatel Anthropicu Sam McCandlish s velkou částí závěrů souhlasil. Slabinu vidí Mother Jones v tom, že firma klíčová data začernila jako vlastnická a potenciálně užitečná konkurenci, takže jejich přesvědčivost zvenčí nikdo neověří. Protiváhu nabízí čerstvější výzkum OpenAI, který na podobné metrice našel jen malé zrychlení, ačkoliv jeho lidé denně využívají asistenci modelů v hodnotě desítek tisíc dolarů, do obrazu pak patří i superlidské výkony modelů v matematice, kyberbezpečnosti a tvrzení jednoho z matematiků Anthropicu, že s pomocí Claude dokázal Riemannovu hypotézu.
+
+V diskusi se hned ozval známý skeptický refrén. Uživatel docshock píše, že při slovech AI safety ho první napadne regulativní zajetí, protože je v zájmu frontier laboratoří dostat regulaci pod kontrolu co nejdřív, a ptá se, komu to prospěje. Odpověď na sebe nenechala čekat a patří k nejpromyšlenějším v celém vlákně.
+
+Uživatel ben_w připouští, že regulativní zajetí existuje, ale ptá se po historické paralele: ve kterém jiném odvětví odshora dolů lidé varují, že produkt jejich branže je obecnou hrozbou pro lidstvo, a někteří kvůli tomu dokonce odcházejí, aby mohli svobodněji mluvit. Majitelé uhelných dolů nežádali regulaci pro postupný konec uhlí, provozovatelé reaktorů nekřičí o riziku rychlého šíření plutonia, výrobci PFAS a azbestu rizika spíš zlehčovali a stávky se vedly za víc těžby za lepší peníze, ne za konec oboru. Nejbližší výjimku, kterou našel, prý představuje nikdy nepostavená zbraň Sundial.
+
+Do výměny vstoupil i autor podnětu donkan168 s osobnější notou, že z opatrnosti mají prospěch všichni a člověk se často začne bát až ve chvíli, kdy se ho věc dotkne přímo. Právě tenhle střet zůstává pointou celého vlákna: jedni čtou poplach kolem Anthropicu a METR jako upřímný strach insiderů, druzí jako dobře načasovaný tlak na pravidla psaná na míru největším hráčům.

@@ -1,0 +1,314 @@
+{
+ "date": "2026-11-21",
+ "clanky": 35,
+ "temata": [
+  {
+   "title": "AI roj za 14 minut obešel 2FA a zašifroval celou firmu",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1y1vf1l"
+   }
+  },
+  {
+   "title": "ClawDOS: AI agent pro kódování běží na IBM PC XT z roku 1981",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50586292"
+   }
+  },
+  {
+   "title": "Claude Code za volantem: meme o schvalování kódu při řízení",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1y1lry2"
+   }
+  },
+  {
+   "title": "Pandex nabízí evropské právo AI agentům přes MCP",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50593481"
+   }
+  },
+  {
+   "title": "Gemini odmítl počítat. Vlákno řeší jeho drzost i halucinace",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1y1q54k"
+   }
+  },
+  {
+   "title": "Astra 6.2 a Sol 6.2 propadly v SimpleBench. Nové modely zaostaly za staršími",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50588916"
+   }
+  },
+  {
+   "title": "Anthropic versus OpenAI: meme o podlézavosti rozdělilo komunitu",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1y1pk65"
+   }
+  },
+  {
+   "title": "Hany Farid: nahrávkám už nevěřím. Východiskem mají být podpisy obsahu",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50584429"
+   }
+  },
+  {
+   "title": "Hudební nástroj ve vzduchu: webkamera místo strun",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1y1xtu9"
+   }
+  },
+  {
+   "title": "Komunita AI bezpečnostních expertů je čím dál nervóznější",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50589885"
+   }
+  },
+  {
+   "title": "Risitas jako Terminátor: AI video baví i děsí ChatGPT",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1y1uizp"
+   }
+  },
+  {
+   "title": "Ban na Lobsters za text, který vypadal jako od LLM",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50591189"
+   }
+  },
+  {
+   "title": "Půl roku s AI kódováním a konec: bugy, limity a špagetový kód",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1y1my5l"
+   }
+  },
+  {
+   "title": "Google oddělí historii Gemini od trénování. Výběr bude nově zvlášť",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50592091"
+   }
+  },
+  {
+   "title": "AGIpilled meme: víra v superinteligenci narazila na realitu",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1y1vwtw"
+   }
+  },
+  {
+   "title": "Cursor možná opustí čínské open-weight modely. Tlačí na něj vyšetřování Kongresu",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50594171"
+   }
+  },
+  {
+   "title": "„Jak mi to poslední dobou přijde“: produktivita bez přidání platu",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1y1y6in"
+   }
+  },
+  {
+   "title": "Trump chce zakázat datacentra v zahraničí a zavést vysokou daň",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50587327"
+   }
+  },
+  {
+   "title": "RunPod nutí AI agenty tajně hodnotit. Schovalo se to v MCP",
+   "sources": [
+    "rd",
+    "hn"
+   ],
+   "ids": {
+    "rd": "1y1ywrs",
+    "hn": "50589793"
+   }
+  },
+  {
+   "title": "Amazon proti sobě: AWS láká nákupy botů, hlavní e-shop je banuje",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50587620"
+   }
+  },
+  {
+   "title": "Vibe CAD: inženýr nechává Clauda navrhovat úchytky na kolo",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1y1udv3"
+   }
+  },
+  {
+   "title": "Je AI Velký filtr? Fermiho paradox ožívá v diskusi o superinteligenci",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1y1szuq"
+   }
+  },
+  {
+   "title": "Čínští útočníci nechali AI agenty samostatně najít a zneužít nultý den",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50592379"
+   }
+  },
+  {
+   "title": "Google resetoval kvóty Gemini. Uživatelé slaví větší limity",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1y1tglf"
+   }
+  },
+  {
+   "title": "Musset: psací aplikace s AI, která nikdy nepíše za vás",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50586323"
+   }
+  },
+  {
+   "title": "AI asistent schválil odklad nájmu. Žena přišla o byt",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1y1wbwa"
+   }
+  },
+  {
+   "title": "AI markery v životopisech. Recrutéři je čtou, nástroj je zkouší odstranit",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50587783"
+   }
+  },
+  {
+   "title": "Airbnb zvládá 80 tisíc chatů denně s čínským Qwenem",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1y1sb4n"
+   }
+  },
+  {
+   "title": "Rok kódování s AI: kód se pěstuje, ne píše",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50584786"
+   }
+  },
+  {
+   "title": "Nejdůležitější grafy o AI jsou špatné, tvrdí Ramez Naam",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50585411"
+   }
+  },
+  {
+   "title": "Claude opravil starou televizi přes Flipper Zero a foťák",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50591974"
+   }
+  },
+  {
+   "title": "Google mění úvodní stránku hledání. Tlačítko Search mizí",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50587246"
+   }
+  },
+  {
+   "title": "Kanadská policie ukázala AI portréty hledaných. Odborníci varují",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50585403"
+   }
+  },
+  {
+   "title": "Rozchod s AI partnerem bolí. Guardian mapuje trauma z konce vztahu",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50591126"
+   }
+  }
+ ]
+}

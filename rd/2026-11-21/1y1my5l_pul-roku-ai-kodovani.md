@@ -1,0 +1,14 @@
+# 1y1my5l
+**Půl roku s AI kódováním a konec: bugy, limity a špagetový kód**
+
+r/ClaudeAI · u/strongmstone · 21. listopadu 2026, 04:30 · 544 bodů / 282 komentářů · [diskuse](https://www.reddit.com/r/ClaudeAI/comments/1y1my5l/)
+
+Zkušený vývojář rozjel několik projektů s Claude, Codexem a Gemini a vždycky to skončilo stejně. Plánování šlape skvěle, architektura, oponentura s více agenty i testy vypadají slibně a první build nadchne, jenže pak začne kolečko oprav: jedna chyba se spraví, další dvě vylezou a něco jiného se rozbije. Týdenní limity Claude i Codexu zmizí během pár dní, model hlásí hotovo, ale po otevření aplikace autor okamžitě naráží na zjevné chyby v základní funkčnosti, přestože má automatické testy rozhraní i backendu. Po pár měsících je z toho špagetový kód, kde se i drobnost změní v nekonečnou smyčku, a tak to vzdává – s pocitem spousty utraceného času i peněz a vyprchávajícího nadšení.
+
+Nejvýše hodnocená odpověď míří na řízení projektu. u/PowermanFriendship píše, že se autor honí za vizí modelu, jenže model žádnou vizi nemá, a proto mu nelze hodit nápad shora a čekat, že všechno dotáhne od začátku do konce. Plán musí mít člověk a musí umět model aktivně vést tak, aby se pastím vyhnul, jinak je výsledek od pohledu poznat. Podobně to vidí i u/No-Pollution7797: když agenti navrhnou celou architekturu hned první den, nikdo ji ve skutečnosti nevlastní, a ve fázi ladění pak člověk opravuje systém, kterému nikdy nerozuměl.
+
+Z toho plyne nejčastější rada vlákna, pracovat po malých kouscích. Místo velkého plánu rozchodit jednu drobnou funkci kompletně od začátku do konce, přečíst každý diff před sloučením a teprve pak přidat další díl. u/dnhs47 to přirovnává k návratu do osmdesátek s obřími vydáními po letech a nabádá k přírůstkovému postupu, u/No-Pollution7797 přidává pravidlo zastavit smyčku: když druhý pokus chybu neopraví, vypnout agenta, najít příčinu sám a vrátit mu jen krátký popis opravy, protože právě v těch smyčkách mizí limity. Do stejné linky patří i tip od u/bostonaholic považovat něco za hotové, teprve když projde kontrola, a nechat model nejdřív napsat padající test, který chybu zopakuje.
+
+Zajímavé je, že vedle rad stojí i protichůdné zkušenosti. u/GodRaine staví už deset měsíců rozsáhlý CRM systém, testovací výbavu vypiplal s Claude z pár testů na téměř sedm tisíc, dvakrát posílil vývojový server, aby se běh vešel do dvaceti minut, a po téměř sedmi stech commitech hlásí téměř nula chyb. Opačný extrém nabízí u/Rise-O-Matic, který kód ignoruje, jede na maximum, soustředí se jen na chování a stěžuje si, dokud to není hotové, a když to zkřehne, nechá model, ať si to sám postupně refaktoruje – architektura je podle něj na vyhození a čím drzejší je, tím víc mu to funguje.
+
+Kdo si z toho chce něco odnést, najde shodu v jednom: nedávat umělé inteligenci vlastní vizi projektu, ale držet ji zkrátka malým zadáním, vlastním testem a důslednou kontrolou.

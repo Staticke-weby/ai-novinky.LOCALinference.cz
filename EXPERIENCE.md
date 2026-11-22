@@ -269,6 +269,14 @@ Denní přehled už nepublikuje `publish-docs.py` na docs-md.com, ale je z něj
   se přešlo na deploy z větve). V Cloudflare je potřeba `CNAME ai-novinky →
   staticke-weby.github.io` **bez proxy** (šedý mrak) — s oranžovým mrakem GitHub
   nevydá certifikát. HTTPS pak zapnout v nastavení Pages.
+- **Když deploy Pages spadne na artefakt, neopakovat `run rerun --failed`.** 22. 11. 2026
+  `actions/deploy-pages` v runu nenašel `github-pages` („Found 0 artifact(s)“), i když upload
+  hlásil success — výpadek na straně GitHubu, ne chyba pipeline. Rerun ale artefakt nahraje
+  **znovu**, takže další běh spadne na „Multiple artifacts named github-pages were unexpectedly
+  found“ a je z toho slepá ulička. Správně: `gh api …/actions/runs/<id>/artifacts` vypsat,
+  staré artefakty smazat (`gh api -X DELETE …/actions/artifacts/<id>`) a pustit **nový běh**
+  `gh workflow run pages.yml --ref main`. Ověřit `curl -o /dev/null -w '%{http_code}' <den>.html`.
+  Neúspěšný deploy předchozí verzi neshodí, web tedy mezitím běží dál.
 - **Viditelnost repa nejde přepnout z `gh`**: účet `rozumvhrsti` má na
   `petrbaloun/reddit-clanky-ai` jen push (admin: false). Proto nové repo v organizaci
   `Staticke-weby`.

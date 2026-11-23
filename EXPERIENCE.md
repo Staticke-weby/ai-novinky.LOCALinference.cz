@@ -277,6 +277,10 @@ Denní přehled už nepublikuje `publish-docs.py` na docs-md.com, ale je z něj
   staré artefakty smazat (`gh api -X DELETE …/actions/artifacts/<id>`) a pustit **nový běh**
   `gh workflow run pages.yml --ref main`. Ověřit `curl -o /dev/null -w '%{http_code}' <den>.html`.
   Neúspěšný deploy předchozí verzi neshodí, web tedy mezitím běží dál.
+  **23. 11. 2026 se to zopakovalo** (den 22. 11.): `deploy` hlásil „Found 0 artifact(s)“,
+  i když `upload` uspěl a artefakt `github-pages` v runu nakonec ležel (5,1 MB). Stejný
+  postup zabral: artefakt smazat, `gh workflow run pages.yml --ref main`, nový běh
+  do minuty zelený a `2026-11-22.html` vrací 200. Rerun nepoužívat ani tady.
 - **Viditelnost repa nejde přepnout z `gh`**: účet `rozumvhrsti` má na
   `petrbaloun/reddit-clanky-ai` jen push (admin: false). Proto nové repo v organizaci
   `Staticke-weby`.

@@ -1,0 +1,16 @@
+# 50597743
+**LLM hodnotí muže přísněji. Nový benchmark porovnal 1 298 scénářů**
+
+Hacker News · rzk · 22. listopadu 2026, 10:18 · 93 bodů / 78 komentářů · [diskuse](https://news.ycombinator.com/item?id=50597743)
+
+Výzkumníci představili GAMA-Bench, sadu 1 298 genderově zrcadlených scénářů z intimních vztahů a veřejných konfliktů, která má ukázat, zda modely posuzují stejné prohřešky stejně. U deseti testovaných jazykových modelů našli opakovanou asymetrii v neprospěch mužů: mužští aktéři schytávali přísnější a obviňující rámování, ženské aktérky za totéž chování terapeutický a empatičtější tón.
+
+Metoda stojí na genderově neutrálních šablonách převedených na párové prompty v první osobě, kde se liší jen pohlaví aktéra, zatímco chování zůstává totožné. Protokol pak sleduje, jak modely rozdělují trest, empatii, eskalaci, instrukce a vinu. Vzorec podle autorů přetrval napříč rodinami modelů, velikostmi i explicitním „thinking“ uvažováním a kód benchmarku zveřejnili na GitHubu.
+
+Nejživější linka diskuse řeší, čí je to vlastně vina. Uživatel cyanydeez v tom vidí antropologii a sociologii, surový výcuc západní civilizace, uživatel notenchange to považuje za očekávaný odraz trénovacích dat a současných společenských norem. Uživatel maxldn namítá, že surový není, protože do něj vstupuje ladění proti zkreslení, které je samo zkreslené, i to, co je vůbec dostupné online včetně hádek a trollích farem. Uživatel rustyhancock dodává, že na pracovištích vítězí kultura vyhýbající se stížnostem, a proto se do dat propsalo odmítání toxické maskulinity jako přísnost k mužům, uživatel macic zase nevěří, že by šlo jen o data, a velký podíl připisuje fázi slaďování modelu.
+
+Z toho se rozvinul spor, zda jsou na tom jinak čínské modely. Uživatel thenthenthen připomíná historku, že DeepSeek ženám radí rozejít se s přítelem, zatímco mužům v téže situaci radí vztah udržet, uživatel knighthack tvrdí z vlastní zkušenosti, že západní modely misandrii projdou téměř bez odporu, zatímco misogynii zarazí okamžitě, a čínské modely mu přijdou neutrálnější. Uživatel gmbhgmbhgmbh to ale čte z práce opačně a upozorňuje, že novější čínské modely patřily k méně zkresleným a nejzkreslenější mu přišly modely Gemini. Vedle toho zaznívá praktický pohled: uživatel stymaar a uživatel Lerc chválí, že konečně existuje měřítko, které dává výrobcům číslo, výchozí bod a možnost nápravu v post-tréninku, podobně jako rodina ARC-AGI pomohla uvažování. Uživatel riedel nadhazuje radikální řešení, vyčistit trénovací data od genderových signálů, i když by to mohlo stát schopnost vybavovat si fakta o skutečných i fiktivních osobách.
+
+Zajímavě vybočuje uživatel ffsm8, který jako muž říká, že nechce, aby mu věci někdo cukroval, a přímou kritiku vítá, zatímco u žen, které v práci pozoroval, prý taková konfrontace končila rozpadem. Uživatel zdc1 se ptá na druhou stranu mince, zda modely muže i víc chválí za dobré výsledky, nebo je drží přísněji jen v negativech, protože v obou případech by to ženám upíralo stejnou míru odpovědnosti. Uživatel zug_zug přihazuje vlastní mikrostudii, v níž nechal ChatGPT hodnotit sebe sama, a uživatel stephbook vzpomíná na podobnou nedávnou debatu o zkreslení podle rasy, pohlaví, věku a národnosti.
+
+Z diskuse tak zůstává hlavně otázka, zda modely popisují svět, nebo ho tiše převychovávají.

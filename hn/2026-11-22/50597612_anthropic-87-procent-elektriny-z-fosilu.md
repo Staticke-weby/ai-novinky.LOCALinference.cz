@@ -1,0 +1,16 @@
+# 50597612
+**Anthropic pojede z 87 procent na plyn. Analýza rozebrala energetickou stopu AI**
+
+Hacker News · happosai · 22. listopadu 2026, 09:57 · 934 bodů / 935 komentářů · [diskuse](https://news.ycombinator.com/item?id=50597612)
+
+Anthropic se podle nové analýzy upíná k fosilním zdrojům způsobem, který nemá v technologickém světě obdoby. Better Data Center Project odhaduje, že v roce 2028 pokryje zhruba 87 % jeho spotřeby plyn a dalších 11 % uhlí. Firma má nasmlouváno 15 GW výpočetní kapacity, z toho 5,9 až 9,6 GW na konkrétních lokalitách – horní hranice by utáhla asi sedm milionů domácností, tedy 18 % špičkové spotřeby Kalifornie.
+
+Rozbor ukazuje, jak firma energii shání v praxi. Za 3,4 miliardy dolarů koupila závazky na 1,7 GW těžkých průmyslových plynových generátorů, zatímco přímé obnovitelné zdroje má jen v Norsku a Kanadě. Provoz jejích datacenter by tak v roce 2028 mohl vypustit 17 až 38 milionů tun CO2e, ve středním scénáři 32 milionů, tedy víc než celá kalifornská elektroenergetika. Autoři navíc počítají, že znečištění ovzduší z těchto zdrojů způsobí roční zdravotní škody za dvě až tři miliardy dolarů.
+
+Diskuse se rychle stočila k otázce, kterou položil uživatel vrganj: proč to necháváme dopustit, aby hrstka spalovala planetu. Odpovědi se rozcházejí. Uživatel EduardoBautista namítá, že miliony lidí chtějí jazykové modely používat, a uživatel addedGone se ptá, jak jinak by se umělá inteligence měla dostat k miliardám lidí. Uživatel NotGMan to ironizuje přirovnáním k traktorům a žárovkám a uživatel RadiozRadioz přidává sarkasmus o chybějící empatii k akcionářům Anthropicu. Trefně to shrnuje uživatel NeuralOracle, podle něhož se řeč točí vždycky kolem toho, který model je nejlepší, a nikdy kolem toho, co hoří, aby běžel.
+
+Vedle morálního rozhořčení běží technická linka o efektivitě. Uživatel bob1029 věří, že počet tokenů na megawatt brzy prudce vzroste díky oddělené inferenci, takže dnešní obavy budou vypadat jako počítání vlaků s uhlím pro domácí wi-fi routery. Uživatel speedping mu na to odpovídá odkazem na Jevonsův paradox: když je něco levnější, používáme toho mnohem víc, takže celková spotřeba zdrojů roste. Podobně skepticky zní uživatel fedupnow, který v nasazení modelů nevidí produktivitu, ale podvádění v práci a jakousi kognitivní cukrovku, při níž se nic nenaučí a zapomene i to, co člověk uměl.
+
+Třetí spor se vede o to, kdo za fosilní mix může. Uživatel noosphr tvrdí, že realita opět ukazuje, že obnovitelné zdroje jsou nesplnitelný sen. Uživatelé portly a EarthMephit oponují, že nová kapacita v síti je z více než 90 % solární a větrná, protože nový plyn a uhlí jsou prostě drahé, a problém je spíš v chybějícím plánování přípojek pro datacentra. Uživatel notenchange a uživatel knorker zase viní ekologická hnutí, že tři desetiletí blokovala jádro a držela nás na fosilech, zatímco uživatel newsclues hlásá, že budoucnost patří právě jádru. Uživatel dr_dshiv mezitím doufá v solární datacentra na Blízkém východě, což uživatel msdz chladí odkazem na letošní výpadky v Bahrajnu a Emirátech a na cenu chlazení i nové infrastruktury uprostřed ničeho.
+
+Z vlákna tak zůstává obraz umělé inteligence jako obrovské nové zátěže, pro niž se zatím nejrychleji staví plyn, zatímco čistší řešení narážejí na čas, sítě a politiku.

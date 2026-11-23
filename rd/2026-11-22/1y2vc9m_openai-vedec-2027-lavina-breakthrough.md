@@ -1,0 +1,16 @@
+# 1y2vc9m
+**Hlavní vědec OpenAI čeká v roce 2027 lavinu průlomů. A chce tempo brzdit**
+
+r/singularity · u/Neurogence · 22. listopadu 2026, 18:52 · 261 bodů / 64 komentářů · [diskuse](https://www.reddit.com/r/singularity/comments/1y2vc9m/)
+
+Šéf vědeckého výzkumu OpenAI očekává, že umělá inteligence začne zásadně zrychlovat sama sebe: jakmile se modely dostaly na log-perplexitu kolem 0,76, začaly podle firemního textu „Perplexity and Intelligence" přinášet průlomové výsledky v matematice. Autor z toho vyvozuje, že podobná lavina zásadních pokroků ve výzkumu samotného pretrainingu může přijít už v roce 2027, a zároveň navrhuje společné limity, za které laboratoře nepůjdou, dokud neumí chování modelů spolehlivě monitorovat.
+
+Zrychlení dokládá čísly: perplexita základních modelů klesla o 0,12 za tři roky 2022 až 2025 a pak o dalších 0,11 za jediný následující rok, tedy zhruba trojnásobným tempem. Už u nejnovějších modelů prý umělá inteligence významně přispěla k jejich vlastnímu návrhu a při vstupu do pásma kolem 0,68 až 0,70 mají přijít další přelomové schopnosti, jejichž podobu zatím ani netestujeme. Autor příspěvku k tomu dodává, že při pokračování trendu by systémy schopné řešit nejtěžší medicínské problémy mohly dorazit už v roce 2028.
+
+Diskuse se nejdřív chytla otázky, který model vlastně zmiňované matematické průlomy zařídil. Podle u/No-Head-Royal text potvrzuje, že interním modelem nasazeným na Navier-Stokesovy rovnice byla Astra 6.2, což ho překvapilo, protože čekal výrazně silnější systém. Když prý roj 174 veřejně dostupných modelů včetně Fable 5.2 od Anthropicu a Astry 6.2 od OpenAI dokázal vyřešit takový problém, důsledky jsou značné. Na to navazuje u/Realistic_Stomach848 představou, že systém, který na první pokus zdolal Riemanna a Navier-Stokese, bude brzy považován za primitivní, a u/No-Quantity-9200 dodává, že jde o první potvrzené propojení základních modelů a nových pretrainů, například že o3 vychází ze 4.1.
+
+Druhá větev vlákna řeší samotnou výzvu k brzdění. u/michaelTM_ai upozorňuje, že čísla stojí na vlastním vyhodnocovacím datasetu OpenAI a laboratoře používají různé datasety a datové směsi, takže se výsledky mezi sebou zatím nedají srovnávat, a že lavina je formulovaná jen jako možnost, nikoli jako předpověď. Proti tomu stojí volání u/The_Scout1255 jet rychleji a bez zpomalování, zatímco u/Your_mortal_enemy pochybuje, že zpomalení vůbec může nastat, protože globální kapitalistická ekonomika je nastavená opačně. u/johnxreturn to glosuje jako kluka na běžecké dráze, který se opozdil za kamarády a volá na ně, ať počkají, další hlasy dodávají, že akcionáři zpomalení neschválí a že Google už OpenAI právě kvůli důrazu na bezpečnost předběhl.
+
+Třetí linka míří do budoucnosti. u/thatguywiththamoney přemítá, že s přiblížením k hodnotě 0,5 by se mohly začít řešit extrémně těžké fyzikální problémy a zastřenost mnoha vědních oborů by se zpětně zdála až směšně jednoduchá. Nadšení shrnuje u/Melodic_Photo585 výkřikem o posledním lidském roce, skeptičtější u/arknightstranslate naopak radí na marketingové volání po regulaci odpovídat větou, že dosud nebyla vyléčena ani jedna nemoc.
+
+Z vlákna tak zůstává dvojí obraz: fascinace z toho, že veřejně dostupné modely sahají na otevřené matematické problémy, a nedůvěra, že se laboratoře dokážou samy domluvit na pauze.

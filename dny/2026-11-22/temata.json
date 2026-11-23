@@ -1,0 +1,287 @@
+{
+ "date": "2026-11-22",
+ "clanky": 32,
+ "temata": [
+  {
+   "title": "„AI nikdy nezvládne moji práci.“ Meme o výjimkách zaplavilo Reddit",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1y2qvdf"
+   }
+  },
+  {
+   "title": "Anthropic pojede z 87 procent na plyn. Analýza rozebrala energetickou stopu AI",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50597612"
+   }
+  },
+  {
+   "title": "„Google cooking hard\": meme o tempu vydávání Gemini modelů",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1y2h3nt"
+   }
+  },
+  {
+   "title": "OpenRouter vyřadil tři poskytovatele inferencí. Data z promptů unikala",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50595554"
+   }
+  },
+  {
+   "title": "„Redditoři v posledních chvílích“: meme o popírání schopností AI",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1y2aa8b"
+   }
+  },
+  {
+   "title": "Together AI přiznal únik promptů. Kredenc unikl přes AI agenta do GitHubu",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50595816"
+   }
+  },
+  {
+   "title": "Jagged frontier: hádka o tom, co ještě není AGI, rozdělila r/singularity",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1y31pza"
+   }
+  },
+  {
+   "title": "Jednání OSN o zákazu autonomních zbraní zkrachovala. Rusko zdržovalo",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50594564"
+   }
+  },
+  {
+   "title": "„Jen proto, že nástroj existuje, ho nemusíte používat.“ Bitva o AI ve školách",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1y2padw"
+   }
+  },
+  {
+   "title": "OpenAI navrhuje měřit inteligenci perplexitou. Chce i společné limity pro vývoj",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50601525"
+   }
+  },
+  {
+   "title": "Z fotky na AAA trávu v Unity: workflow s Fable 5.2, Meshy a Blenderem",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1y2i9ry"
+   }
+  },
+  {
+   "title": "Worker 755: hra, ve které jste subagentem skutečného LLM",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50599762"
+   }
+  },
+  {
+   "title": "„Kde se vidíte za pět let?“ Odpověď „naživu“ rozjela memovou úvahu o AI",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1y2mhth"
+   }
+  },
+  {
+   "title": "Mýtus o vědomé AI: proč je vědomí spíš vlastností života než výpočtu",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50595537"
+   }
+  },
+  {
+   "title": "Armáda agentů zkusí vyřešit P = NP. Livestream poběží veřejně",
+   "sources": [
+    "rd",
+    "hn"
+   ],
+   "ids": {
+    "rd": "1y30m1o",
+    "hn": "50604314"
+   }
+  },
+  {
+   "title": "Triky, které změnily práci s Claudem: souhrn 80/20 a konec zdi textu",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1y2qpdd"
+   }
+  },
+  {
+   "title": "LLM hodnotí muže přísněji. Nový benchmark porovnal 1 298 scénářů",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50597743"
+   }
+  },
+  {
+   "title": "Dopis Teda Kaczynského o matematice a AI se vrací jako varování",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1y2zmb0"
+   }
+  },
+  {
+   "title": "Muru: autor mod_wsgi staví Rust server pro Python s pomocí AI",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50597959"
+   }
+  },
+  {
+   "title": "„2026 v kostce“: meme o tom, jak Google přišel o vlastní AI elitu",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1y2rla9"
+   }
+  },
+  {
+   "title": "Bridgewater: AI kyberútoky rostou jako virus, obrana nestíhá",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50595940"
+   }
+  },
+  {
+   "title": "„Řekni, jaký kvant a bpw.“ LocalLLaMA chce nové pravidlo pro benchmarky",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1y2oe1x"
+   }
+  },
+  {
+   "title": "Localcode: agentní kódování s lokálními modely na Macu jedním příkazem",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50604540"
+   }
+  },
+  {
+   "title": "Gemini 4 Neon vede LiveBench i Arénu. Komunita řeší, co z toho platí",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1y2g0y3"
+   }
+  },
+  {
+   "title": "Čínská 64GB GPU za půlku ceny RTX 5090? Komunita mezi nadšením a skepsí",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1y2o1mm"
+   }
+  },
+  {
+   "title": "Dario Amodei a videohry jako „uklidňující“ lék po ztrátě práce",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1y2z1kc"
+   }
+  },
+  {
+   "title": "Student ze Soulu postavil s Claudem glóbus nočních starostí",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1y2pamx"
+   }
+  },
+  {
+   "title": "Někdo mu v noci používal Claude. Ruský prompt a smazané projekty",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1y2gwba"
+   }
+  },
+  {
+   "title": "Hlavní vědec OpenAI čeká v roce 2027 lavinu průlomů. A chce tempo brzdit",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1y2vc9m"
+   }
+  },
+  {
+   "title": "„It Will Never“: video sbírá sebevědomé předpovědi o AI, které zestárly",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1y2ff8z"
+   }
+  },
+  {
+   "title": "Co koupit za stovku na Amazonu, aby to fungovalo s Claudem?",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1y30lpq"
+   }
+  }
+ ]
+}

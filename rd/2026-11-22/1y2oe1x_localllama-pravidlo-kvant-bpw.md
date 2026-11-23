@@ -1,0 +1,16 @@
+# 1y2oe1x
+**„Řekni, jaký kvant a bpw.“ LocalLLaMA chce nové pravidlo pro benchmarky**
+
+r/LocalLLaMA · u/Plastic-Stress-6468 · 22. listopadu 2026, 13:37 · 651 bodů / 105 komentářů · [diskuse](https://www.reddit.com/r/LocalLLaMA/comments/1y2oe1x/)
+
+S každou vlnou nových modelů se na r/LocalLLaMA množí příspěvky typu „rozjedu X na Y tokenech za sekundu“, ze kterých se čtenář nedozví podstatné. Autor proto navrhuje nové oficiální pravidlo: každý výkonnostní post by měl uvádět kvantizaci, počet bitů na váhu a velikost modelu. Sám přiznává, že to nevyřeší podvádění se vzorkovacími parametry, měření bez kontextu ani další kličky, ale pro běžné čtení to prý bude obrovská pomoc za minimální námahu.
+
+Největší ohlas má povzdech u/Combinatorilliance, že by se laťka kvality měla konečně zvednout, protože spam o rychlosti jednotlivých enginů ničím nepřispívá. Do toho zapadá i poznámka u/reto-wyss, že samotná čísla generování ho nezajímají a mnohem víc mu řekne rychlost zpracování vstupního promptu. A u/Bakoro to shrnuje za všechny unavené čtenáře: je otrava otevřít vlákno o stovkách tokenů za sekundu a pak zjistit, že jde o dvou­bitový kvant. Podobně u/GalacticDistances mluví o clickbaitových titulkách a přeje si, aby mohl rovnou přeskakovat všechno pod Q8, jenže bez údaje v titulku musí každé vlákno pracně otevírat.
+
+Debata se rychle stočila k tomu, že samotný údaj o kvantu ještě nestačí. u/lukasgravel upozorňuje, že samotné „Q4“ může skrývat dost velký rozdíl ve velikosti souboru, a proto by se měl uvádět přesný řetězec kvantizace. Na to navazuje u/Sun77177: dva Q4_K_M přepaky stejného modelu jsou různé soubory a u dynamických kvantů se bity rozdělují po vrstvách různě, takže nejpoctivější číslo je velikost v gibibajtech. A u/astrolafi dodává, že rozhodující je kolik kontextu se při daném kvantu reálně vejde na kartu a zda se část vrstev neodkládá do RAM – stejná Q4 na 4 tisících a na 32 tisících tokenech je prý úplně jiný stroj.
+
+Nejdelší protiargument napsal u/a4mula. Vypočítává, co všechno by poctivý report musel obsahovat – server, parametry, spekulativní dekódování, ovladače, modifikované karty, odkládání do RAM či n-gramy – a dochází k tomu, že čísla jsou mezi různými sestavami stejně neporovnatelná. Co je platných 500 tokenů za sekundu při krátkém kontextu, když první token u dlouhého kontextu přijde za sedmnáct minut, ptá se. Smířlivější křídlo ale tvrdí, že dokonalost nikdo nechce. u/energy_savvy píše, že číslo bez kvantu mu neřekne nic, nedokáže poznat, zda je model rychlý, nebo jen „lobotomizovaný“, a nejvíc mu pomáhají skromné příspěvky, kde je prostě napsáno: tahle karta, tenhle kvant, tenhle kontext, tohle jsem naměřil.
+
+Zbytek vlákna řeší vymahatelnost. u/discwars a u/blackenswans pochybují, že moderátoři zvládnou hlídat i stávající pravidla, natož nové. Autor v dodatečné editaci navrhuje kompromis: dostat kvant, bpw a velikost přímo do titulku, aby čtenář na první pohled poznal, zda má vlákno vůbec otevírat, a kontrola pro moderátory byla otázkou vteřiny. Nejjednodušší návrh má u/ThePixelHunter – ať chybějící údaje automaticky vymáhá automatický moderátor komentářem pod příspěvkem. Ostatně u/ttkciar už si vlákno odložil k pozdějšímu posouzení, takže šanci na reálnou změnu návrh má.
+
+Kdo si z toho má co odnést, je jasné: bez kvantu, kontextu a hardwaru je rychlost jen číslo na obrazovce.

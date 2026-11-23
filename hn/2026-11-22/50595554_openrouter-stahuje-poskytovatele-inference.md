@@ -1,0 +1,16 @@
+# 50595554
+**OpenRouter vyřadil tři poskytovatele inferencí. Data z promptů unikala**
+
+Hacker News · sdko · 22. listopadu 2026, 03:14 · 284 bodů / 97 komentářů · [diskuse](https://news.ycombinator.com/item?id=50595554)
+
+OpenRouter po upozornění bezpečnostních výzkumníků odstavil tři poskytovatele inferencí a 125 endpointům odebral status zero data retention. Důvodem je podezření, že prompty nebyly zpracovávány podle deklarovaných pravidel ochrany dat a mohly se dostávat k třetím stranám.
+
+Firemní blog zdůrazňuje, že audit neprokázal průnik přímo do OpenRouteru, problémy se týkaly politik a zpracování u jednotlivých providerů. Firma slibuje, že metodiku výzkumníků z Dragosu převezme pro průběžné testování, prověří síťové cesty kvůli možnému přeposílání požadavků a návrat značky ZDR podmíní ověřením a garancemi. Součástí oznámení je i živý seznam prohlášení providerů Atlas Cloud, Novita, Phala a Together, další podle firmy zatím veřejně nepromluvili.
+
+Největší rozruch vzbudilo to, že OpenRouter v textu nejmenuje, koho vlastně vyhodil. Uživatel the_lucifer to označil za ochranu firem, které zjevně lhaly o ZDR, a žádal zveřejnění jmen jako minimum, fedpost k tomu dodal, že ve světě založeném na důvěře by měla platit nulová tolerance. SwellJoe naopak popsal, že e-mailem se jméno dozvěděl, v jeho případě šlo o model MiniMax, a odhaduje, že jména ostatních se brzy poskládají z příspěvků dalších uživatelů. Do vlákna přibyla i konkrétní jména zprostředkovaně: miohtama citoval příspěvek mluvící o Atlas Cloud, Novitě a StreamLake, které měly data posílat zpět MiniMaxu, exile2k upozornil na zmizení GMI Cloud a octoberfranklin si všiml, že hromadný pád do režimu bez ZDR se týkal hlavně starších čínských modelů provozovaných druhotnými providery.
+
+Druhá linka rozebírá samotnou metodu odhalení. Výzkumníci do promptů vkládali návnadové adresy, takzvané canary tokeny, a sledovali, kdo je otevře. Uživatel smuhakg to shrnul tak, že MiniMax prompty aktivně četl a řada providerů požadavky na pozadí přesměrovávala na jeho servery, místo aby je počítala na vlastních grafikách. Uživatel amluto pak rozebral prohlášení Novity o „problému s konfigurací směrování“, který měl širší přesměrování způsobit, a přirovnal to k situaci, kdyby cloudové úložiště skladovalo data na discích cizího providera. Podobně nevěřícně četl zprávu Togetheru, podle níž firma vzorky promptů z června a července ukládala do soukromého repozitáře během rutinního testování.
+
+Třetí část diskuse zpochybňuje samotný smysl značky ZDR u prostředníka. Uživatel Havoc napsal, že kdo řeší nulové uchovávání dat, sotva začne úvahou o prostředníkovi, redrix kontroval, že nejlepší dohoda je ta přímá s providerem. Hizonner ale namítl, že menší firmy a jednotlivci se k frontier modelům jinak než přes router s deklarovaným ZDR prakticky nedostanou, protože laboratoře s nimi nejednají. Nejtvrdší postoj zaujal mbgerring s tezí, že je třeba předpokládat, že se po drátě poslané vstupy nahrávají, ukládají a používají k tréninku, výjimku připustil kqr u Tinfoil.sh s kryptografickými garancemi. Ironii celé aféry vystihl cobychapple hláškou o nulovém uchovávání dat „plus minus 125 endpointů“.
+
+Z příběhu tak zůstává hlavně ponaučení, že slib o neuchovávání dat je jen tak silný jako ochota ho průběžně technicky ověřovat.

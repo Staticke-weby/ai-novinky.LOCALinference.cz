@@ -1,0 +1,16 @@
+# 1y2qpdd
+**Triky, které změnily práci s Claudem: souhrn 80/20 a konec zdi textu**
+
+r/ClaudeAI · u/GhaisD · 22. listopadu 2026, 15:33 · 732 bodů / 111 komentářů · [diskuse](https://www.reddit.com/r/ClaudeAI/comments/1y2qpdd/)
+
+Dlouhé odpovědi se ztrácely a četly těžko, takže autor přišel s jednoduchým pravidlem: Claude má každou odpověď zakončit krátkým blokem „## 80/20" s čarou nad ním. V něm je vždy jedním řádkem výsledek, a jen když to dává smysl, i další krok s tučně zvýrazněnou akcí, otázka k rozhodnutí, skutečné riziko a poznámka ke gitu. Pravidlo má uložené v předvolbách na claude.ai i v souboru CLAUDE.md pro Claude Code, shrnutí čte jako první a nahoru se vrací jen pro zdůvodnění.
+
+Největší ohlas v diskusi získal trik od u/Aware_Risk7076, který každou výzvu končí větou, aby Claude před odpovědí vypsal, co by potřeboval vědět a co mu autor neřekl. Polovina odpovědí se podle něj totiž chystala postavit na domněnce. Na to navazuje u/benfinklea s žádostí o odhad jistoty od jedné do sta procent a o to, co by bylo potřeba k dosažení stoprocentní jistoty, zatímco u/BigPoppa23 si nechává u tvrzení psát vysokou, střední nebo nízkou důvěru i s důvodem, aby rychle poznal domněnku od podloženého zjištění.
+
+Druhá silná linka řeší stručnost a paměť. u/TealTabby vadila zeď textu, a tak Clauda naučil ptát se po jedné otázce a poznatky o tom si model ukládá do souboru lessons.md. u/eeyoredragon si zase přiznal paměť na úrovni Dory a nechává si na konci každého kola předkládat seznam otevřených úkolů, které mizí po splnění. Podobně u/amandamonger vede ke každému projektu živý soubor CLAUDE.md s tím, na čem se pracuje a co je další na řadě, Claude ho průběžně aktualizuje a nový chat se díky tomu chytne asi za minutu.
+
+Pro kodéry i nekodéry se sešla řada drobných pojistek. u/No_Macaroon_1991 si před každou úpravou nechává napsat padající test a plán na jednu obrazovku, u/Scyyyy si nechává číslovat návrhy, aby mohl odepsat stylem jedna ano, dvě možná a tři v žádném případě, a ke změnám kódu čte často jen vygenerovanou commit zprávu. u/ThePsyPaul_ zase skenuje desítky souběžných chatů podle semaforu, kde zelená znamená beze změny, žlutá změnu chování a červená potřebu kontroly, a popis změny se musí vejít do deseti slov. u/renovateg, který Clauda používá na drobné podnikání, má dole dvě věty o tom, že nesmí nic poslat, zaplatit, smazat ani podepsat a že změnu plánu, ceny či zákazníka musí nechat schválit. A u/Lola_Montezz se při plánování funkcí ptá, co by při stonásobném škálování zabolelo jako první.
+
+Nechybí ani rýpnutí a nesouhlas. u/rodzag vtipkuje, že tenhle jednoduchý trik Anthropic nesnáší, a u/5_Dollars_Of_BayLeaf chválí jen řádek s výsledkem, zatímco další kroky a rizika označuje za sbírku domněnek a falešných poplachů. Praktickou korekci přidává u/RealFullMetal: na formát odpovědi se podle dokumentace hodí spíš styl přepínatelný příkazem než CLAUDE.md, který má sloužit faktům o projektu, a ve vlastním stylu je potřeba zapnout volbu, která zachová vestavěné pokyny pro programování.
+
+Z vlákna tak nakonec plyne, že za většinou zázračných promptů není magie, ale návyk: donutit model ukázat výsledek první, přiznat nejistotu a pamatovat si, na čem se pracuje.

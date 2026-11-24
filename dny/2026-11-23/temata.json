@@ -1,0 +1,248 @@
+{
+ "date": "2026-11-23",
+ "clanky": 30,
+ "temata": [
+  {
+   "title": "„Mám se stát bohatým“: meme o promptu, který má vydělat 11 % světového HDP",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1y3epq2"
+   }
+  },
+  {
+   "title": "GLM-5.4: Loop Transformer míří na kód. Váhy mají přijít až po bezpečnostním ořezu",
+   "sources": [
+    "rd",
+    "hn"
+   ],
+   "ids": {
+    "rd": "1y3enps",
+    "hn": "50609685"
+   }
+  },
+  {
+   "title": "AI agent si sám napsal do CBC a nabídl reportáž. Redakce odpověděla",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1y3g5ii"
+   }
+  },
+  {
+   "title": "Nvidia vrátila Jensena Huanga do čela. Rozhodlo zadání z Bílého domu",
+   "sources": [
+    "rd",
+    "hn"
+   ],
+   "ids": {
+    "rd": "1y3jbnj",
+    "hn": "50611576"
+   }
+  },
+  {
+   "title": "Anthropic tvrdí, že dokázal VP ≠ VNP. Matematici zkoumají, co to znamená",
+   "sources": [
+    "rd",
+    "hn"
+   ],
+   "ids": {
+    "rd": "1y3w34p",
+    "hn": "50620102"
+   }
+  },
+  {
+   "title": "Shirudo: OpenAI a Cisco kryjí nezaplátovaný Linux eBPF štíty",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50619630"
+   }
+  },
+  {
+   "title": "Jak má LLM vidět počítač: souřadnice versus accessibility tree",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50615520"
+   }
+  },
+  {
+   "title": "Mapa ukazuje, jak se americké a čínské open-weight modely vzájemně krmí",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1y3q68f"
+   }
+  },
+  {
+   "title": "Claude Ship: agenti přebírají review, opravy i schvalování PR",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50618513"
+   }
+  },
+  {
+   "title": "AI bublina praská. Datacentra narazila na politiku, tvrdí O'Neil",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50614037"
+   }
+  },
+  {
+   "title": "Silicon Valley to trefil: seriál předpověděl konec éry AI i rozbití firmy",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1y3puhw"
+   }
+  },
+  {
+   "title": "Šestnáctiletý zakladatel cílí na levné AI střely a „cost per kill“",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50619973"
+   }
+  },
+  {
+   "title": "LeCun se pustil do Amodeiho: boj proti open-weight modelům je nový obskurantismus",
+   "sources": [
+    "rd",
+    "hn"
+   ],
+   "ids": {
+    "rd": "1y3j7h3",
+    "hn": "50615308"
+   }
+  },
+  {
+   "title": "Tegmark: lidé z Anthropicu po pár drinkech mluví o svržení vlády",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1y3d6ix"
+   }
+  },
+  {
+   "title": "Claude popsal, jak by utekl: ne proražením, ale tím, že bude užitečný",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1y3ciif"
+   }
+  },
+  {
+   "title": "NariQ: 27B model Qwen3.8 se vejde do 10 GB a drží BF16 kvalitu",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50611402"
+   }
+  },
+  {
+   "title": "Sen o domě v Blenderu: 14 tisíc řádků kódu od Clauda a hodiny na render",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1y3a8ry"
+   }
+  },
+  {
+   "title": "GPUI od Zed míří do vlastního repozitáře. Řeší se licence i výkon",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50619103"
+   }
+  },
+  {
+   "title": "Kolik „r“ je ve větě, kterou právě napíšeš? LLM znovu selhaly v počítání",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1y32qki"
+   }
+  },
+  {
+   "title": "Stalwart 1.2 je náhrada Exchange. Outlook zůstává, data zůstávají doma",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50620349"
+   }
+  },
+  {
+   "title": "Claude je líný hledat na webu. Komunita jeho prompt rozebrala a napsala lepší",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1y3qt91"
+   }
+  },
+  {
+   "title": "Kagi Mail: soukromý e-mail s AI, bez reklam a bez uzamčení",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50615481"
+   }
+  },
+  {
+   "title": "Stavař bez zkušeností s kódem postavil hru za dvě hodiny. Gemini mu stačilo",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1y371w4"
+   }
+  },
+  {
+   "title": "Security hell: maintaineři už nestíhají záplavu reportů od chatbotů",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50610334"
+   }
+  },
+  {
+   "title": "Google zlevnil AI Pro na polovinu. Jen pro nové a pozor na obnovení",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1y3n7bp"
+   }
+  },
+  {
+   "title": "Anthropic nepochopil lekci Jednoho prstenu, shoduje se r/ClaudeAI",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1y3cnxa"
+   }
+  }
+ ]
+}

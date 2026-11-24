@@ -1,0 +1,16 @@
+# 50615520
+**Jak má LLM vidět počítač: souřadnice versus accessibility tree**
+
+Hacker News · dakshgupta · 23. listopadu 2026, 18:19 · 50 bodů / 23 komentářů · [diskuse](https://news.ycombinator.com/item?id=50615520)
+
+Společnost Greptile porovnala tři způsoby, jak dát modelu počítač do ruky: samotný snímek obrazovky, snímek doplněný o accessibility tree a klikání podle ID prvku. Test běžel na 172 úlohách benchmarku OSWorld se sedmi modely OpenAI a jedním pokusem na úlohu. Slabším modelům strom výrazně pomohl – GPT-5.2 vyskočil z 15,8 na 36,2 procenta a s klikáním podle ID až na 52,8 procenta –, zatímco u tří nejsilnějších se skóre statisticky nezměnilo.
+
+Odkazovaný článek vysvětluje, proč je právě klikání kámen úrazu: model snímek nejdřív zmenší a rozřeže na čtverečky, ale kliknout musí na přesný pixel, přičemž stejné tlačítko leží při jiném rozlišení jinde. Na drobných cílech v benchmarku ScreenSpot-Pro tak nejlepší model v době vydání trefil jen 18,9 procenta případů a sám Anthropic varuje před halucinovanými souřadnicemi. Klikání podle ID tuhle loterii obchází, protože model jen pojmenuje prvek a kliknutí provede harness. Závěr si Greptile přenesl do svého QA agenta TREX, který se opírá o snímek v každém kroku, podle ID kliká, když strom prvek zná, a po souřadnicích sahá tam, kde strom chybí, třeba na plátně ve Figmě nebo ve hře.
+
+Největší překvapení diskuse vystihl uživatel cw00h: čekal, že strom s ID pomůže vždy, a vrtá mu hlavou, proč u nejsilnějších modelů užitečnost dokonce mírně klesá. Vlastní pokus přidal xynelius, který před pár týdny zkoušel jen snímky a pár nástrojů na myš a klávesnici s Muse Spark a GLM 5.3 flash – na třistářádkový skript to prý fungovalo překvapivě dobře. Poznamenal ale kuriózní rozdíl: Spark souřadnice vždy vztahuje k mřížce tisíc na tisíc, zatímco GLM vrací skutečné pixely.
+
+Do techniky šel uživatel hansvm, který má dobré zkušenosti s tím, že model místo souřadnic rovnou vygeneruje nový obrázek s maskou přes tlačítko a o přepočet na souřadnice se postarají běžné algoritmy počítačového vidění. Diví se, že firma specializovaná na tenhle obor taková jednoduchá a účinná řešení nezkouší. Na to navázala debata o rozhraních: dwheeler a intrasight připomínají, že když musí model „koukat" na obrazovku, bývá to znamení špatně navržené aplikace a vyhrává CLI a API. Uživatel samrus souhlasí, ale dodává, že prostorové věci jako míření zbraní nebo položení pasti se bez vidění neobejdou, podobně jako verdverm rozlišuje tahové a realtimové hry a místo screenshotů sahá po inspekci ROM a nástrojích vyšší úrovně.
+
+Třetí linka je o důvěře. Uživatel 6thbit by chtěl jemnější kontrolu oprávnění, protože povolit nástroji na ovládání počítače nahrávání obrazovky je příliš široké – nechce, aby model viděl otevřený panel, pluginy v prohlížeči nebo správce hesel. Uživatel andai to řeší po svém: dejte mu vlastní počítač, přičemž padesátidolarový použitý ThinkPad přirovnává k Dockeru bez bolesti. Odlehčení dodal miladyincontrol otázkou, zda model chápe počítač jako „svůj", nebo jako „náš" – autor dakshgupta odpovídá, že je to asi věc systémového promptu, ale tipuje ten náš.
+
+Poučení je tak dvojí: slabším modelům se stále vyplatí dát textový popis obrazovky a klikat podle ID, nejsilnější už si vystačí s pixely – a člověk by měl hlídat, na čí počítač se vlastně dívají.

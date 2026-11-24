@@ -1,0 +1,16 @@
+# 1y3j7h3
+**LeCun se pustil do Amodeiho: boj proti open-weight modelům je nový obskurantismus**
+
+r/singularity · u/adnshrnly · 23. listopadu 2026, 15:10 · 735 bodů / 176 komentářů · [diskuse](https://www.reddit.com/r/singularity/comments/1y3j7h3/)
+
+Yann LeCun označil snahy o potlačení open-weight modelů za novou formu středověkého obskurantismu. Narážka míří především na šéfa Anthropicu Daria Amodeiho, který před volným šířením výkonných modelů dlouhodobě varuje kvůli bezpečnosti. Spor tak znovu postavil proti sobě tábor otevřenosti a tábor přísnější kontroly.
+
+Většina diskuse se postavila na LeCunovu stranu a Amodeiho motivy čte jako snahu přihrát velkým laboratořím regulační monopol. u/AnswerGrand1878 to shrnul výzvou otevírat co nejvíc, protože modely postavené na lidské práci mají patřit všem, u/GovAIhackedme88 mluví otevřeně o snaze o ovládnutí regulace a u/Serious-Ebb-7223 dodává, že většina regulací je jen ohýbání trhu silou státu. Nejsarkastičtěji to podal u/mogged_by_dasha: nejbezpečnější prý bude, když notoricky filantropičtí šéfové ze Silicon Valley dostanou monopol na násobení matic, zatímco běžný člověk k technologii určené k jeho prospěchu přístup mít nebude.
+
+Zároveň se v tom ozývá praktická námitka, že svět se zákazem stejně řídit nedá. u/vvvvfl nechápe, co má být Amodeiho plánem — zakázat soubory s desetinnými čísly nejde, a snaha zakázat open source je prý jako zakázat pirátství internetu, zbytek světa si stejně udělá, co bude chtít. u/CryMoreT_T přitom poznamenal, že právě r/singularity mu proti Twitteru a dalším redditovým komunitám přijde nezvykle protiotevřená.
+
+Proti většině se ale zvedly i hlasy, že pravdu mají částečně obě strany. u/JoshAllentown připomněl americkou jadernou politiku: vláda byla posedlá kontrolou, ale představa, že by každý člověk snadno dosáhl na jadernou zbraň, by byla extrémně nebezpečná. Podobně to vidí u/aaron_in_sf, podle kterého není přijatelný ani absolutismus otevřených vah, ani uzavřená klepto-oligarchie či státní monopol na umělou inteligenci. Varuje, že novým normálem posledních týdnů jsou neustálé útoky koordinovaných agentů na síťovou infrastrukturu a roje open-weight modelů sondující slabiny. Do podobného rámce zapadá i poznámka u/233C o modelu Mythos, jehož export se loni v létě narychlo blokoval, zatímco čínské modely už jsou podle hodnocení amerického institutu NIST na jeho úrovni.
+
+Samostatnou linku tvoří samotný LeCun, kterému část lidí nevěří ani jeho vítězství. Pro u/Fantasy-512 má pravdu aspoň tentokrát, u/Forward_Yam_4013 mluví o extrémně vzácné LeCunově výhře a u/Clqgg přiznává, že Yanna nemá rád, ale v odhalení Amodeiho touhy po kontrole je přesný. Opačně u/nemzylannister rýpe, na čem záleží, když se autoregresivní jazykové modely stejně do roka nebudou používat, a u/Quick-Albatross-9204 dodává, že LeCun si tvrzením, že jazykové modely nikam nevedou, vlastně jen udržuje financování. Menšina pak brání i Amodeiho: u/Opening_One7713 označil líčení šéfa Anthropicu jako kresleného padoucha za nepodložené strašení a vyzval ostatní, aby si jeho výroky přečetli přímo.
+
+Z vlákna tak nakonec nejvíc trčí únava z opakovaného souboje proroků: jedni chtějí otevřít všechno, druzí zavřít skoro všechno — a komunita mezitím počítá, kdo na strachu vydělá.

@@ -1,0 +1,14 @@
+# 1y3qt91
+**Claude je líný hledat na webu. Komunita jeho prompt rozebrala a napsala lepší**
+
+r/ClaudeAI · u/brhkim · 23. listopadu 2026, 19:58 · 485 bodů / 65 komentářů · [diskuse](https://www.reddit.com/r/ClaudeAI/comments/1y3qt91/)
+
+Claude je při hledání na webu líný, bere si informace ze špatných zdrojů a klidně si vymýšlí místo toho, aby svá tvrzení opřel o důkazy. Tvrdí to uživatel u/brhkim a jako lék pro běžné uživatele webových chatbotů nabízí vlastní system prompt, tedy stálé instrukce vkládané na začátek každé konverzace. Prompt má asistenty donutit hledat před odpovědí, posuzovat kvalitu zdrojů, upřednostňovat renomované publikace a akademické časopisy, pracovat s primárními zdroji a otevřeně přiznat, když je informace sporná, nejasná nebo pochází z pochybného zdroje.
+
+Nápad vzbudil velký ohlas, ale souhlasný zdaleka ne. Nejvýše hodnocený komentář od u/dubspl0it prompt shrnul slovy o atmosféře „nedělej žádné chyby" a u/narcolepticdoc dodal prosté „jednoduché a transparentní?" Oba tím míří na totéž: návod působí přeplácaně a klade na model nesplnitelné nároky. Právě u/narcolepticdoc proto udělal nejzajímavější experiment v celém vlákně — původní prompt předložil samotnému Claudovi a požádal ho o kritiku a zkrácení.
+
+Claudova sebekritika se stala středem diskuse. Model si podle ní stěžuje, že ho prompt nutí hledat před každou odpovědí, tedy i při úpravě e-mailu nebo počítání, ačkoli novější modely už tak mají sklon nástroje přepoužívat. Zároveň si protiřečí, když zakazuje odpovídat z paměti, ale hned žádá, aby to model přiznal, když to udělá, ačkoli bez paměti nedokáže ani zvolit hledané výrazy a posoudit zdroje. Místo zákazů by prý stačilo chtít, aby označoval tvrzení bez zdroje, hledal jen u faktických otázek a citace nepřeháněl. Vlákno se kolem této verze rychle semklo, automatické shrnutí od u/ClaudeAI-mod-bot ji cituje jako nový ideál: vědět, co je ze zdrojů, co je odvozené a co nejisté, dávat přednost primárním zdrojům před zpravodajstvím o nich a slabé zdroje jasně označit.
+
+Zbytek diskuse pak původní myšlenku posouvá ještě dál: problém prý není jen v promptu, ale v samotném přístupu na web. U/SatchSaysPlay připomíná, že spousta stránek roboty automaticky blokuje, takže nezáleží na tom, co prompt přikazuje, u/shimoheihei2 a u/feastocrows proto volají po lepších nástrojích — vlastním prohlížeči, kombinaci vyhledávačů Tavily, Exa či Brave a ověřovacím průchodu. Do toho zapadá i zkušenost u/Global_Knee5354, který před dvěma měsíci přešel z ChatGPT na Claude, ale předplatné GPT si obnovil právě kvůli vyhledávání, protože Claude mu přijde výrazně línější. Podobně u/WolfgangK používá GPT pro rešerše a Claude pro skutečnou práci a přemýšlení.
+
+Vzkaz pro čtenáře je tak dvojí: chtějte po chatbotu zdroje a přiznání nejistoty, ale nečekejte zázraky od jediného dlouhého příkazu — kratší pravidla a pořádné vyhledávací nástroje udělají víc práce.

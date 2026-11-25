@@ -1,0 +1,14 @@
+# 1y42p63
+**Yang-Mills na torusu: důkaz za méně než tisíc dolarů**
+
+r/singularity · u/doublefelix921 · 24. listopadu 2026, 04:26 · 224 bodů / 31 komentářů · [diskuse](https://www.reddit.com/r/singularity/comments/1y42p63/)
+
+Dva postdoktorandi z MIT a Oxfordu dokončili 10. listopadu kompletní důkaz existence Yang-Millsovy teorie na čtyřrozměrném torusu, plně nezávisle na OpenAI, která své podklady zveřejnila až poté. Nyní k výsledku vydali konsolidovaný manuskript a otevřený repozitář, do kterého může přispět kdokoli. Na práci se výrazně podílely modely Claude i ChatGPT, směr ale podle autora pevně drželi lidé – i díky tomu je jejich konstrukce odlišná, konstruktivní a zahrnuje třeba Wilsonovy smyčky či negaussovské jevy.
+
+Právě nízký rozpočet se stal hlavní postavou diskuse. Tým utratil méně než tisíc dolarů, zatímco útrata OpenAI za podobný výsledek se odhaduje na více než milion, na dopracování a strojové ověření v systému LEAN navíc dvojice získala padesátitisícový grant z programu Anthropic AI for Science a o kontrolu projevila zájem i komise hodnotící výsledek OpenAI. Jak ale připomíná u/idimetrix, že je částka „šílená", Clayova cena vyžaduje prostor R4 a důkaz hmotnostní mezery, takže vysněný milion zatím nezíská nikdo. Autor příspěvku to rámuje jako příběh Davida a Goliáše, v němž podceňovaný tým s lidským přístupem dokázal tolik s tak málem.
+
+Navazuje na to debata o tom, co vlastně rozhodlo. u/Content_Command_7166 cituje pasáž o tom, že dvojice důkaz sama řídila, místo aby nechala umělou inteligenci hrubou silou zkoušet slepé cesty, a dodává, že si pak lze představit, co by s tím dokázali špičkoví matematici. Podobně to vidí u/Ok-Bullfrog-3052: ani v matematice prý nestačí na problém jen „naházet spoustu inteligence", aby bylo řešení lidské, hrubá síla inteligence je jako hrubá síla prohledávání a je neefektivní. Nad modely tak podle něj bude potřeba ještě další algoritmus, který složitost sníží, podobně jako quicksort nahrazuje bubble sort. Do stejného místa míří i u/UnarmedRespite s poznámkou, že potřebujeme lépe rozumět vyhledávání s člověkem ve smyčce a že je tu pořád velká mezera v efektivitě, ačkoli se mluví o tom, jak firmy týmům agentů rozumějí stále lépe.
+
+Zbytek vlákna střídá úžas a nadsázku. u/Rd545454 žasne, že byly za poslední měsíc vyřešeny tři problémy tisíciletí, u/Double_O_Bud to shrnuje zvoláním, že se to opravdu děje. Odlehčení přidal u/Regular_Run3923 hláškou, že Yang-Mills na torusu už zvládl taky. Vážnější tón vrací úvaha, že těžkou práci tu odvedli lidé a že budoucnost možná patří úzké špičce specialistů s umělou inteligencí, což podle u/DifferencePublic7057 nemusí být po chuti každému u moci.
+
+Z torusu tak zatím nevede cesta k milionu od Clayova institutu, zato k poučení, že dobře vedená dvojice s otevřenými nápady, chatovacími záznamy a veřejným repozitářem dokáže držet krok s giganty.

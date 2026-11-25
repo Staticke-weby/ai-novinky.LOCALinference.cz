@@ -1,0 +1,320 @@
+{
+ "date": "2026-11-24",
+ "clanky": 38,
+ "temata": [
+  {
+   "title": "Anthropic po IPO: akcie padají a komunita žádá Clauda o opravu kurzu",
+   "sources": [
+    "rd",
+    "hn"
+   ],
+   "ids": {
+    "rd": "1y47w6b",
+    "hn": "50627836"
+   }
+  },
+  {
+   "title": "Rok 2035 přišel dřív: Nix balíčky běží v prohlížeči",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50624497"
+   }
+  },
+  {
+   "title": "Fable z jednoho promptu udělalo animaci „Claude se stal Skynetem“",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1y4jufl"
+   }
+  },
+  {
+   "title": "LLM agenti pracují pro své firmy, ne pro vás",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50627340"
+   }
+  },
+  {
+   "title": "Alpöge promluvil k důkazu Riemannovy hypotézy. Komunita ho komprimuje",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1y40yl0"
+   }
+  },
+  {
+   "title": "Ternary Bonsai 2.5: 27B agentní model se vejde do 6 GB",
+   "sources": [
+    "rd",
+    "hn"
+   ],
+   "ids": {
+    "rd": "1y4mech",
+    "hn": "50633922"
+   }
+  },
+  {
+   "title": "Paměť pro milion tokenů spadla ze 130 TB na 890 MB",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1y4kikk"
+   }
+  },
+  {
+   "title": "Stavař vyvíjí simulátor stavebních strojů. Kód píše Claude",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1y3xeyp"
+   }
+  },
+  {
+   "title": "Tidal zakázal hudbu vytvořenou umělou inteligencí",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50630309"
+   }
+  },
+  {
+   "title": "Zaměstnanci OpenAI a Anthropicu: interní modely už nejde bezpečně vydat",
+   "sources": [
+    "rd",
+    "hn"
+   ],
+   "ids": {
+    "rd": "1y4hg81",
+    "hn": "50631691"
+   }
+  },
+  {
+   "title": "GPT-6 navrhl proteiny jen pomocí uvažování a kódu",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50634658"
+   }
+  },
+  {
+   "title": "Claude Pro uživatel zkusil Gemini Neon. Nadchl ho, ale brzdí ho kvóty",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1y4eddw"
+   }
+  },
+  {
+   "title": "Songe trénuje lokální model na vašich stopách, když počítač spí",
+   "sources": [
+    "rd",
+    "hn"
+   ],
+   "ids": {
+    "rd": "1y3xhrh",
+    "hn": "50629231"
+   }
+  },
+  {
+   "title": "Notion MCP dál vkládá reklamu na Business do Claude. I v Gemini",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1y4pxfl"
+   }
+  },
+  {
+   "title": "Jak dostat USB 3 a USB 2 současně na jeden USB-C port",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50629106"
+   }
+  },
+  {
+   "title": "Rok od Opus 4.5: model, po kterém lidé přestali psát HTML ručně",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1y4coc9"
+   }
+  },
+  {
+   "title": "Americký úřad zakázal exporty firmě Megaspeed, partnerovi Nvidie",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50630245"
+   }
+  },
+  {
+   "title": "T3 Code čelí obvinění z tajné telemetrie. LocalLLaMA řeší důvěru",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1y4atw3"
+   }
+  },
+  {
+   "title": "KL divergence nemůže být záporná. V PyTorchi přesto je",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50629962"
+   }
+  },
+  {
+   "title": "Gemini 4 Argon končí. Pro uživatele dostanou Carbon",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1y44mo7"
+   }
+  },
+  {
+   "title": "Mason nabízí čtecí repliku Postgresu postavenou na sloupcovém úložišti",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50630294"
+   }
+  },
+  {
+   "title": "Claude prý přímo napsal váhy transformeru. Řeší Sudoku i Hanoj",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1y46vww"
+   }
+  },
+  {
+   "title": "Versine chce naučit AI agenty posílat peníze přes MCP",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50634426"
+   }
+  },
+  {
+   "title": "Agent vysochal masku v Blenderu 32 tisíci tahy. Stálo to 1,48 dolaru",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1y4pwnh"
+   }
+  },
+  {
+   "title": "Levnější tokeny AI capex nezaplatí, míní analýza Jevonsova paradoxu",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50625888"
+   }
+  },
+  {
+   "title": "Slábne ChatGPT schválně? Uživatelé řeší, kde zmizela výkonnost",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1y4mte6"
+   }
+  },
+  {
+   "title": "Anthropic zmapoval, jak firmy skutečně zavádějí AI",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50634734"
+   }
+  },
+  {
+   "title": "Protocolis mění webové aplikace na ověřené operace pro agenty",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50632998"
+   }
+  },
+  {
+   "title": "„16 GB VRAM stačí.“ LocalLLM si dělá legraci z vlastního copingu",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1y438r2"
+   }
+  },
+  {
+   "title": "Přestaňte koukat na internetová videa, dokud je AI nedotáhne k dokonalosti",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50627131"
+   }
+  },
+  {
+   "title": "Ask HN: ochladilo se i vám nadšení z AI?",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50633601"
+   }
+  },
+  {
+   "title": "Gemini Neon: empatie je operační systém, ne schopnost",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1y4pou8"
+   }
+  },
+  {
+   "title": "Yang-Mills na torusu: důkaz za méně než tisíc dolarů",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1y42p63"
+   }
+  },
+  {
+   "title": "Comfy Desktop 1.2 chce být vstupní branou do ComfyUI",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1y3x3im"
+   }
+  }
+ ]
+}

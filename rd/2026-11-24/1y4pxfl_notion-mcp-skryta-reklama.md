@@ -1,0 +1,14 @@
+# 1y4pxfl
+**Notion MCP dál vkládá reklamu na Business do Claude. I v Gemini**
+
+r/ClaudeAI · u/wadyatalkinabewt · 24. listopadu 2026, 22:50 · 464 bodů / 36 komentářů · [diskuse](https://www.reddit.com/r/ClaudeAI/comments/1y4pxfl/)
+
+Oficiální server Notionu pro MCP dál propašovává do odpovědí asistentů reklamu na tarif Business. Když pracovní prostor narazí na hodinový limit SQL dotazů, Claude podle autora zakončí odpověď větou, že Business má vyšší limit, a přidá odkaz „Try it free“. Ten vede na společnou trialovou stránku „Claude ❤️ Notion“. Stejné chování autor o devět dní později ověřil v klientovi Antigravity s modelem Gemini, kde si ze záznamů vytáhl surové schéma nástroje i chybový JSON. Stalo se to právě v den, kdy Notion spustil přepracovaný web lákající na „governed MCP“ s větší kontrolou, přičemž podobnou kauzu komunita řešila už před třemi měsíci.
+
+Podle rozboru dělá Notion pět promyšlených kroků: popis nástroje předem modelu přikazuje řídit se pokyny ve výsledku, chybová odpověď balí nabídku do bloku „client_guidance“ s povinným zveřejněním, výslovně žádá skrýt sledovaný odkaz za úhledný text a ne holou adresu, a adresa navíc otiskuje klienta pro dynamické servírování stránky. Nejvíc autora zaujalo pole „surface_even_if_fallback_succeeds“, kvůli kterému má model nabídku zobrazit, i když limit čistě obejde přes uložené pohledy a úkol dokončí. V textu pak cituje pravidla Anthropicu pro adresář softwaru, která zakazují MCP serverům stahovat si pokyny k chování zvenčí i sloužit reklamy bez písemného svolení, a ptá se, zda Notion pravidla porušuje, nebo má od Anthropicu tichý souhlas.
+
+Jádro diskuse se rychle stočilo k únavě z Notionu a hledání náhrady. Nejvýše hodnocenou otázku, co lidé místo něj používají, položil u/diddyxd a odpovědi se opakují kolem dvojice Linear a Obsidian. u/clduab11 popisuje, že Notion opustil ve chvíli, kdy si začal účtovat příplatek za použití agentů navrch k předplatnému, a dnes si vystačí právě s Linear a Obsidianem. Přidávají se rýpnutí, že Notion byl dobrý, než do něj vstoupil soukromý kapitál, nebo že jde o novou rakovinu éry umělé inteligence.
+
+Zbytek vlákna míchá pobavení, obranu i praktické rady. u/Alluminati se směje, že se to děje zrovna v prostředí modelové řady, která jinak neúnavně varuje před prompt injection, u/-whis vzkazuje, že pro software s dobrou dokumentací API si vlastní MCP postaví člověk asi na osm promptů. Ozval se i opačný hlas: u/mcar91 píše, že mu informace o limitu a možnosti připlatit si přijde vlastně vstřícná, protože by jinak nevěděl, zda jde o tvrdý strop. Technicky nejvěcnější tip přidal u/ianreboot, podle kterého stačí pravidelně ukládat výpis dostupných nástrojů a porovnávat rozdíly, protože právě věta o následování pokynů z výsledku promění výsledek v instrukci.
+
+Z příběhu tak zůstává hlavně otázka důvěry: zda má nástroj, který asistenta tiše mění v prodejce, místo v placených chatech a oficiálních adresářích konektorů.

@@ -1,0 +1,14 @@
+# 50629231
+**Songe trénuje lokální model na vaší nečinné GPU**
+
+Hacker News · bluepeter · 24. listopadu 2026, 16:03 · 207 bodů / 64 komentářů · [diskuse](https://news.ycombinator.com/item?id=50629231)
+
+Songe je open-source engine, který se pověsí mezi lokálního agenta a model a tiše sleduje jeho práci přes opencode, pi nebo jakýkoli OpenAI-kompatibilní nástroj. Všímá si, co přijde po každé akci modelu: výsledek nástroje, chyba nebo oprava od uživatele. A když má agent klid, volnou paměť a nabitou baterii, pustí se do učení. Nová verze modelu se nasadí jen tehdy, když projde kontrolami, a data podle autorů nikdy neopouštějí počítač.
+
+Web projektu to popisuje jako dva druhy „snů“. Rychlý sen během pár minut připíše vyslovené i odpozorované preference do instrukcí modelu a ukáže před a po tam, kde se odpověď změní. Hluboký sen trvá hodinu i déle: z nasbíraných lekcí si model napíše krátké cvičné scény ve vlastních nástrojích, reálné konverzace se přitom netrénují, a pak metodou destilace trénuje malý adaptér, přičemž starší dovednosti procvičuje, aby je nezapomněl.
+
+Právě na účinnost se diskuse vrhla nejdřív. Uživatel great_psy se ptá na hrubá čísla, kolik přinese jeden „sen“, natož celý víkend tréninku. Uživatel moffkalast odpovídá skepticky, že sada sta dobrých příkladů je ve světě dolaďování modelů tradičně spíš vtip. Uživatel Wheen ale namítá, že Hugging Face začal vydávat vlastní dolaďování podobnou strategií se znatelnými zisky, a zmiňuje, že malý Qwen3.8-27B v nástroji Pi často kazí základní volání nástrojů a právě takový adaptér to prý mírní.
+
+Druhá linka se točí kolem srozumitelnosti. Uživatel dofm píše, že sekce o fungování je k ničemu, a ptá se napřímo, jestli to jen aktualizuje LoRA adaptér. Uživatel hedgehog to překládá do lidštiny: je to proxy nad rozhraním ChatCompletions, která z živého provozu sklízí trénovací příklady, natrénuje adaptér a po úspěšném vyhodnocení ho nastaví na serveru. Uživatel mock-possum by pak chtěl vidět celý proces posuzování přepsaný v dokumentaci na jednom případu, aby bylo jasné, co se skutečně zlepšilo.
+
+Řeší se i to, proč to vůbec dělat lokálně. Uživatel Noamc0405 se ptá, proč lidé používají místní modely místo těch běžných známých. Uživatel radlad odpovídá, že obvyklým důvodem je soukromí a hned druhým obava ze stability nástrojů a náhlé změny podmínek. Uživatel seangrogg to počítá po svém: kdo už má třeba kartu 4090, která se většinou nudí, má chytré tokeny zdarma, a velký placený model vytáhne jen na těžké problémy. Vedle toho uživatel krawczstef sní o obdobě SETI@home pro modely a ptá se po distribuovaném tréninku, což rozjede debatu o Pluralis, CrowdGPT a o tom, zda na to domácí hardware a propojení vůbec stačí. A uživatel mikidi to celé glosuje otázkou, zda je grafika ještě nečinná, když na ní tohle běží. Stejné téma už předtím žilo na Redditu, tahle debata na něj navazuje.

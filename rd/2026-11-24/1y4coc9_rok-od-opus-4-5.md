@@ -1,0 +1,16 @@
+# 1y4coc9
+**Rok od Opus 4.5: model, po kterém lidé přestali psát HTML ručně**
+
+r/singularity · u/Background-Wafer-548 · 24. listopadu 2026, 13:59 · 425 bodů / 40 komentářů · [diskuse](https://www.reddit.com/r/singularity/comments/1y4coc9/)
+
+Před rokem vyšel Claude Opus 4.5 a komunita na r/singularity na něj vzpomíná jako na zlom, který odstartoval všechno. Na rozdíl od předchůdců prý poprvé dokázal z běžného zadání v angličtině dodat kód v produkční kvalitě, sám si domyslet záměr a drobné chyby opravit znovu jen slovy. Právě tehdy prý řada vývojářů přestala sahat na HTML, CSS a JavaScript ručně.
+
+Nejvýše hodnocený komentář patří u/Oieste, který se vrací do března 2025 ke Claude Code a modelu Sonnet 3.7. Tehdy to prý byla vtipná novinka, se kterou se snažil vyrobit něco použitelného, ale laděním jejích výstupů strávil pětkrát víc času než zadáváním pokynů. Opus 4.5 byl podle něj první model, u kterého si řekl, že už nikdy nenapíše řádek kódu rukou, protože se správným pobízením a pozornou kontrolou chyb dával použitelné výsledky. O to víc ho udivuje skok k dnešku, kdy Opus 5.5 přirovnává k hlavnímu inženýrovi na úrovni velké technologické firmy.
+
+Podobný přerod popisuje u/Needsupgrade, pro kterého byl Opus 4.5 přelomovým okamžikem. Místo úmorného kódování stránek a opravování všeho, co předchozí modely po každém pokynu rozbily, prý stačilo psát obyčejnou angličtinou a model jeho přání intuitivně pochopil. Zároveň to byl podle něj první model, který dokázal souvisle bádat a uvažovat, aniž by se naprosto mýlil. Právě tehdy podle něj lidé, kteří ten přechod zažili, poznali, že vstupujeme do nového světa, který společnost změní víc než internet, jenže s obrovskými riziky v neprobádaném území. Dodává, že HTML, CSS a JavaScript od té doby skoro neotevřel a vlastně je odnaučil.
+
+Na konkrétní moment prozření vzpomíná u/grassclip. Nechal Opus 4.5 postavit aplikaci ve FastAPI se stránkou na základní práci s daty a testy, a když viděl výsledek plynout na obrazovce, prý si sám v prázdné místnosti nahlas ulevil. Předtím byly výstupy modelů zjevně špatné a dalo se s nimi pracovat jen po jedné funkci, tady najednou nastal jasný bod zlomu. Pocit, že se dá výstupu věřit, potvrzují i další: u/The_man_69420360 píše o prvním modelu, u kterého se nebál, že mu rozbije repozitáře, a u/PathOfEnergySheild ho označuje za chvíli, kdy si řekl, že křivka pokroku je tady.
+
+Zbytek vlákna je směs nostalgie a závrati z tempa. u/Kaloyanicus připomíná doby, kdy všichni zkoušeli napodobit hru Flappy Bird se Sonnetem a žasli nad tím, u/BullfrogRare7662 jen utrousí, že mu to připadá jako včera, a u/Alpacabro21 ironicky zdraví všemocný Opus 4.6. u/redtortuga19 počítá, jak rychle otevřené modely Opus 4.5 dohnaly, od únorové GLM-5 přes dubnový MiniMax M2.7 a srpnový Qwen3.8 až po listopadový Inkling 2 Mini, a vtipkuje, že Opus 5.5 brzy poběží i na bramborách. A u/233C navrhuje postavit web, který by připomínal, co bylo před půl rokem, rokem či třemi lety považováno za vrchol možností, protože tehdy ještě nebyl překonán ani test ARC-AGI 2 a trojka budila respekt.
+
+Z výročního ohlédnutí tak zbývá hlavně hořkosladký pocit: tehdejší špička je dnes minulostí, ruční řemeslo mizí spolu s porozuměním vlastnímu kódu, ale málokdo by se chtěl vracet.

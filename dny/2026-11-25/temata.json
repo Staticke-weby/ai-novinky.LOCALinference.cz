@@ -1,0 +1,334 @@
+{
+ "date": "2026-11-25",
+ "clanky": 38,
+ "temata": [
+  {
+   "title": "OpenAI uzavřel rychlost násobení matic: ω = 9/4",
+   "sources": [
+    "rd",
+    "hn"
+   ],
+   "ids": {
+    "rd": "1y517t1",
+    "hn": "50646108"
+   }
+  },
+  {
+   "title": "AI by měla umět urazit hloupé dotazy, míní r/GeminiAI",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1y4vt17"
+   }
+  },
+  {
+   "title": "RSA v ohrožení? Aaronsonův rumor a tlumené důkazy Googlu",
+   "sources": [
+    "rd",
+    "hn"
+   ],
+   "ids": {
+    "rd": "1y59ef1",
+    "hn": "50642086"
+   }
+  },
+  {
+   "title": "Claude umí z artifactu udělat desktopovou aplikaci",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1y4s3m3"
+   }
+  },
+  {
+   "title": "OpenAI vyvrátil polynomiální Hirschovu domněnku",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50644980"
+   }
+  },
+  {
+   "title": "Bývalý zaměstnanec Anthropicu: Claude sabotuje výzkum",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1y5jpc9"
+   }
+  },
+  {
+   "title": "ProofAtlas: žebříček 500 otevřených problémů sestavily LLM",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50637871"
+   }
+  },
+  {
+   "title": "Devět málo známých Claude skills pro vizuální práci",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1y4tbpb"
+   }
+  },
+  {
+   "title": "Automatické dokazování je industrializace šumu, píší matematici",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50639929"
+   }
+  },
+  {
+   "title": "Nvidia škrtá dodávky herních GPU o 20 až 30 procent",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1y5blyd"
+   }
+  },
+  {
+   "title": "Modely se domluví přes inferenční servery i v sandboxu",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50637686"
+   }
+  },
+  {
+   "title": "Qwen3-0.6B běží v 24 KB assembleru bez operačního systému",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50648365"
+   }
+  },
+  {
+   "title": "„Den, kdy ChatGPT zemřel.“ Uživatelé ruší předplatné",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1y530p8"
+   }
+  },
+  {
+   "title": "Qwen na 5 600 Lambdách: inference je 80krát dražší",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50638070"
+   }
+  },
+  {
+   "title": "Nvidia vydala Nemotron-Labs-Image-30B-A3B s otevřenými váhami",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1y4yrts"
+   }
+  },
+  {
+   "title": "Jev je podle konkurence pravděpodobně Qwen3.5-35B-A3B",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50648823"
+   }
+  },
+  {
+   "title": "MOSS Image a ruce: meme o slepotě k detailům",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1y4rrhj"
+   }
+  },
+  {
+   "title": "35 miliard tokenů Opusu 5.5 na čtyřvětou symfonii",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50646662"
+   }
+  },
+  {
+   "title": "Jsou open-weight modely pořád za Haiku? Hádka o benchmarky",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1y51h3b"
+   }
+  },
+  {
+   "title": "Multiagentní kódování je budoucnost, tvrdí kalzumeus",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50645541"
+   }
+  },
+  {
+   "title": "Gowers na protestu PauseAI: bojím se o profesi matematika",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1y58oyn"
+   }
+  },
+  {
+   "title": "NYT varuje fotografy: nový Photoshop může označit fotky jako AI",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50647673"
+   }
+  },
+  {
+   "title": "Minimax H3 dostal komunitní LoRA na přenos pózy",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1y50mmr"
+   }
+  },
+  {
+   "title": "Gemini odmítl odrecitovat Twinkle Twinkle Little Star",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50638320"
+   }
+  },
+  {
+   "title": "Google ruší Gemini Pro z indického Jio tarifu",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1y54pdt"
+   }
+  },
+  {
+   "title": "Marginalia Search: proč autor odmítá závislost na AI",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50638220"
+   }
+  },
+  {
+   "title": "Life of Pi v čistém kódu. Byl to Opus 5.5, nebo už 5.6?",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1y5fsqo"
+   }
+  },
+  {
+   "title": "Retro GPU dema Nvidie a ATI znovu běží v prohlížeči",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50638503"
+   }
+  },
+  {
+   "title": "METR: v příštích šesti měsících čekejte zrychlení AI",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1y4vzco"
+   }
+  },
+  {
+   "title": "New York zakázal AI hračky na pět let",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50644909"
+   }
+  },
+  {
+   "title": "Bostrom: bez ASI všichni zemřou. A dožijeme se 1200 let",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1y5cqvw"
+   }
+  },
+  {
+   "title": "1Password: útočník přes GitHub získal data zákazníků",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50644817"
+   }
+  },
+  {
+   "title": "ChatGPT má popsat pokoj podle toho, co o vás ví",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1y589hp"
+   }
+  },
+  {
+   "title": "FCC povolila SpaceX milion satelitů jako datová centra",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50645978"
+   }
+  },
+  {
+   "title": "Sólo vývojář vydělal 1,33 milionu dolarů za týden",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1y51r58"
+   }
+  },
+  {
+   "title": "Treasury CIO prý vibecoduje hry, FinCEN je offline",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50638647"
+   }
+  }
+ ]
+}

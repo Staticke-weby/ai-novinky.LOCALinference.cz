@@ -1,0 +1,14 @@
+# 1y58oyn
+**Gowers na protestu PauseAI: bojím se o profesi matematika**
+
+r/OpenAI · u/notkilleveryoneist · 25. listopadu 2026, 15:27 · 382 bodů / 178 komentářů · [diskuse](https://www.reddit.com/r/OpenAI/comments/1y58oyn/)
+
+Nositel Fieldsovy medaile Timothy Gowers vystoupil na protestu iniciativy PauseAI. Řekl, že pokud svět přežije, má velké obavy o profesi matematika. Krátké video z jeho projevu se začalo šířit na komunitě r/OpenAI.
+
+Nejvýše hodnocený komentář v diskusi patří u/Heinrick_Veston, který dřív pracoval jako hudebník a živil se tím na plný úvazek. Popisuje, jak se hudba, kterou miloval, stala méně populární, vrstevníci se přesunuli k novějšímu stylu a s nástupem sociálních sítí začalo být důležitější neustále se propagovat než dobře hrát. Zakázky pak brali ti s velkým publikem, i když podle něj často tvořili příšernou hudbu. Matematiky, kteří dnes čelí ztrátě práce, nebo se budou muset smířit s rolí kontrolorů důkazů chrlících umělou inteligencí, to podle něj staví do stejné situace: svět se mění a nikdo si nemůže nárokovat, aby se zastavil jen kvůli němu.
+
+Na to navazuje debata o tom, koho otřes zasáhl jako prvního. Uživatel u/RealityLopsided7366 označuje čistou matematiku za jeden z nejelitářštějších oborů, kde k prosazení nestačí ani mimořádný intelekt a kde se nejlépe vedlo studentům z bohatých rodin nebo dětem profesorů. Přijde mu proto příznačné i trochu komické, že se jako první otřásá právě „hra bohatých dětí“, a vysvětluje to tím, že matematika je formální jazyk s pevnými pravidly. Uživatel u/Dangerous_Wish_7879 k tomu dodává, že matematika není kněžství, ale řemeslo jako každé jiné, a u/NiSiSuinegEht se ptá, co je důležitější, jestli profese, nebo samotná matematika.
+
+Nejtvrdší střet se vede kolem solidarity a pokory. Uživatel u/TorbenKoehn se ptá, jestli Gowers protestoval i v době, kdy mizela juniorská místa v informatice, a vzkazuje, že si matematik má hledat svou roli v budoucnosti sám, protože se svět netočí kolem něj. Podobnou hořkost vyjadřuje u/ElectricKudzu, podle kterého je ironické, že lidem se léta říkalo, ať jdou studovat technologie, a teď jejich vlastní výtvor obrací proti jejich kariérám. Oproti tomu u/Perfect-Campaign9551 míní, že některé problémy byly prostě nad lidské síly a je čas na trochu pokory.
+
+Vážnější linku drží u/ellunda, podle kterého je umělá inteligence působivá a řeší důležité problémy, ale lidstvo v dlouhodobém horizontu riskuje, že zapomene klást smysluplné otázky. Skutečnými nositeli pochodně jsou podle něj lidé, kteří problémy formulují a vymýšlejí hypotézy, a proto by matematici i vědci měli rozumět tomu, co umělá inteligence řeší a jak, aby se mohli ptát dál. Mezitím odlehčuje náladu u/ragamufin, který chválí Gowersův vzhled, účes a oblečení a baví se tím, jak dokonale bourá stereotyp jednoho z nejlepších matematiků světa.

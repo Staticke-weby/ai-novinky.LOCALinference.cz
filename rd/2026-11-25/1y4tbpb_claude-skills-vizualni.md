@@ -1,0 +1,14 @@
+# 1y4tbpb
+**Devět málo známých Claude skills pro vizuální práci**
+
+r/ClaudeAI · u/BuffaloConscious7919 · 25. listopadu 2026, 01:20 · 781 bodů / 34 komentářů · [diskuse](https://www.reddit.com/r/ClaudeAI/comments/1y4tbpb/)
+
+Autor pro svůj vedlejší projekt skládá vizuální webové komponenty a zkouší různé postupy, jak je vyrábět a testovat. Nasdílel proto devítku méně známých skills pro vizuální práci, které se hodí i na video, SVG ilustrace, loga nebo slidy. Všechny jsou zdarma na GitHubu, počty hvězdiček platí k 24. listopadu 2026 a sám otevřeně přiznává, že je mezi sebou nijak netestoval, jen sbírá tipy a ptá se na další.
+
+Nejvíc hlasů ale získala skepse. u/semangeIof píše, že se estetickým skills spíš vyhýbá, protože Opus 5.5 je dost chytrý a intuitivní sám o sobě. Hotové skills ho podle něj nutí držet se kostry vytvořené pro starší model, a tím mu kvalitu spíš zhoršují, dál prý člověk dojde s jednoduchou instrukcí, jak má výsledek vypadat. Podobně to vidí u/Fine_Salamander_8691, který se ptá, proč nenechat Claude prostě dotlačit k výsledku domlouváním, a u/Muhlwa_Sholanke dodává, že přímé poměřování by byla ztráta víkendu: nejde o žebříček balíčků, ale o sbírku nápadů, kde se celý seznam zaplatí už jedním užitečným vzorem.
+
+Samotný autor pak v komentáři doplnil odkazy a stručné popisky. Remocn s 1 856 hvězdami nejdřív naplánuje storyboard a pak z něj postaví video z velké MIT knihovny komponent pro Remotion. Balíček cc-skills s kouskem frontend-design-deslop se 246 hvězdami má hlavně zlomit typický umělý vzhled. Kolekce Awesome Motion Design Agent Skills se 133 hvězdami přináší instalovatelné skills pro GSAP, Motion, Remotion, Lottie a Rive včetně kontroly pohybu. Spotkit se 110 hvězdami slibuje z popisu funkce konzistentní abstraktní SVG ilustraci, kterou místo obrazového modelu hlídá kontrolor, a Better Design s 53 hvězdami tlačí na produktovou art direction a reálné kontroly interakcí spíš pro aplikační rozhraní než landing page.
+
+Vlákno se pak rozvětvilo do tipů a proseb o další směry. u/Steinheausser přihodil skill antialgorithm, který prý slouží podobně jako deslop, a popsal vlastní zkušenost: čím konkrétnější přání, tím generičtější výsledek, zatímco když nechal Claude řádit, vznikly zajímavé věci. Nechal si tak udělat dvacet obrázků pro dva projekty a chválil si jak abstraktní práce, tak překvapivě čisté firemní plakáty, do kterých se přimíchala i trocha legrace. Vedle toho se u/aflatoontatti ptá na skills pro psaní a copywriting, u/charliegriefer jako nováček na rozdíl od Claude Design a u/redonculous na pixel art, zatímco u/HashHarvester by začal u nejhvězdičkovějších kousků na loga a rozhraní a rád by viděl srovnání před a po na autorově projektu.
+
+Z diskuse tak vychází jednoduché poučení: skills ber jako zásobárnu triků proti generickému vzhledu, ne jako povinnou berličku, když si vystačíš s dobrým promptem.

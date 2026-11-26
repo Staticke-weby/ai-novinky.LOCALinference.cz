@@ -1,0 +1,16 @@
+# 50644980
+**OpenAI vyvrátil polynomiální Hirschovu domněnku**
+
+Hacker News · acossta · 25. 11. 2026, 18:34 · 147 bodů / 37 komentářů · [diskuse](https://news.ycombinator.com/item?id=50644980)
+
+Preprint z 24. listopadu v repozitáři openai/math dokazuje, že průměr grafu jednoduchých polytopů roste superpolynomiálně. Tím padá polynomiální verze Hirschovy domněnky, která předpokládala, že vzdálenost mezi libovolnými dvěma vrcholy zůstane polynomiálně omezená. Důsledek je zásadní: neexistuje polynomiální varianta simplexové metody pro lineární programování.
+
+Odkaz míří přímo na soubor s důkazem v repozitáři openai/math, do složky preprintů s datem 24. listopadu 2026. Samotný dokument má 644 KB a je uložený jako paper.pdf vedle historie repozitáře. Z jeho názvu je patrné, o co jde: superpolynomiální průměr grafu jednoduchých polytopů.
+
+Tón diskuse udal uživatel GIFtheory, který výsledek zasadil do kontextu: původní Hirschova domněnka se snažila vysvětlit, proč simplexová metoda v praxi překvapivě dobře funguje, a po více než padesáti letech byla v roce 2010 vyvrácena. Nový preprint podle něj vypadal spíš jako „dočištění" zbytků. Právě proti tomu se ale ostatní ostře vymezili. Uživatel atq2119 připomíná, že původní domněnka mluvila o mezi n minus d, a otevřená zůstávala i obyčejná lineární mez typu 2n. Uživatel luiwammus to rozvádí: výsledek z roku 2010 znamenal prodloužení cest jen o malý lineární faktor, asi 1,05n, takže mnozí stále doufali v efektivní simplexovou metodu třeba s 2n kroky. Nová práce takovou naději podle něj úplně zabíjí, protože ukazuje rodinu polytopů se superpolynomiálním průměrem, a patřila k největším otevřeným otázkám optimalizace.
+
+Největší ohlas sklidily pokusy přeložit abstraktní geometrii do obyčejné řeči. Uživatel Luke2642 popisuje lineární úlohy jako logistiku: lineární požadavky vymezí vícerozměrný tvar, jehož rohy jsou přípustná řešení a optimum leží vždy v některém vnějším rohu. Simplexová metoda pak po hranách putuje od rohu k rohu, zatímco polynomiální Hirschova domněnka tvrdila, že počet kroků mezi rohy poroste jen polynomiálně. Dodává ale uklidnění pro praxi: reálné tvary jsou obvykle pěkné a konvexní, nikoli „zákeřně pokroucené", takže simplex bývá rychlý, a když je potřeba garantovaná polynomiální rychlost, řešiče stejně používají metody vnitřního bodu, které středem tvaru procházejí tunelem a nového výsledku se to nedotkne. Podobně uživatel tensegrist nabízí představu krychle jako grafu a otázku, kolik hran je v nejhorším případě potřeba k cestě z vrcholu do vrcholu.
+
+Zbytek vlákna se nese v polovážném duchu nové éry matematiky. Uživatel briga se ptá, zda preprint vůbec nějaký člověk celý přečetl a pochopil, uživatel ex-aws-dude si utahuje, že matematické průlomy teď chodí jako poznámky k vydání na GitHubu. Uživatel akoboldfrying nadhazuje, jestli by simplex nešel zachránit startem z dostatečně dobrého vrcholu nebo prokládáním více běhů, ale sám si odpovídá, že jediná dlouhá cesta už obsahuje superpolynomiálně mnoho dlouhých podcest. Na dotaz, zda je důkaz konstruktivní, odpovídá uživatel anandkulkarni kladně: práce obsahuje celou rodinu protipříkladů.
+
+Pro čtenáře z toho plyne dvojí poučení: simplex zůstává v praxi skvělý, ale naděje na jeho zaručeně rychlou verzi je pryč.

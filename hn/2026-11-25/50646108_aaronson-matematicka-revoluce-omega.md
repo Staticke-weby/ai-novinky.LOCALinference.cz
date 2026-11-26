@@ -1,0 +1,16 @@
+# 50646108
+**Aaronson: matematická revoluce a ω = 9/4**
+
+Hacker News · Kotlopou · 25. listopadu 2026, 20:11 · 1218 bodů / 1069 komentářů · [diskuse](https://news.ycombinator.com/item?id=50646108)
+
+OpenAI zveřejnila preprint, podle kterého je exponent násobení matic ω přesně 9/4. Jde o dolní mez, která se potkává s horní mezí z velkého říjnového zveřejnění, takže se spor táhnoucí od Strassenova průlomu z konce šedesátých let uzavírá na racionálním čísle. Stejný den přibyl i výsledek pro Fourierovu transformaci s počtem lineárních hradel N (log N)^(1/2+o(1)), opět s odpovídající dolní mezí.
+
+Teoretický informatik Scott Aaronson na blogu Shtetl-Optimized líčí, jak se novinky dozvídal u večeře s přáteli dřív, než stačil vstřebat důkazy VP ≠ VNP od OpenAI a Anthropicu a Riemannovy hypotézy od Alpögeho a Anthropicu. Větší šok než samotných 9/4 je pro něj to, že umělá inteligence vůbec dokázala dolní mez tvaru ω > 2, což ještě nedávno řadil téměř na úroveň P ≠ NP. Atmosféru s telefony na stole popisuje jako začátek singularity, zatím „jen“ v matematice, a dodává, že laboratoře podle jeho zdrojů drží další bomby v kryptografii, jejichž přesnou podobu ale nezná a nechce šířit neověřené fámy.
+
+Právě tahle narážka rozjela nejvášnivější část vlákna. yewenjie se ptá, zda je svět na prolomení kryptografie vůbec připraven, a dgellow se smaudetem odpovídají stroze, že absolutně ne. Eji1700 s rustyhancockem krotí paniku tím, že některé systémy bude třeba konečně upgradovat z RSA na eliptické křivky a postkvantové výměny, zatímco xoa připomíná, že kryptografie jako taková se zlomit nedá, protože jednorázové šifry zůstávají neprolomitelné z principu. stackghost pochybuje, že by šlo takový průlom vůbec tajit, stát by ho prý okamžitě utajil stejně jako diferenciální kryptoanalýzu v sedmdesátých letech, a maxrecursion celou historku označuje za nesmysl, protože vyřešený důkaz ještě neznamená prakticky použitelný útok.
+
+Do toho vnáší odlehčení SoftTalker, který rýpe, že autor nechce šířit neověřené fámy, a přitom článek nazve čtyřnásobným svatým zděšením. stavros se ptá, zda to zděšení snad není svaté, Almondsetat brání titul tím, že odkazuje na ověřené výsledky, a nukanse počítá, že čtvrtá mocnina svatého zděšení přesahuje 9/4. Darksinian si po dni čtení strojového balastu pochvaluje dobře napsanou prózu, na což adamors kontruje, že jde doslova o lidský výplach mysli, a baoooooooooooo jen žasne, že v takovém světě žijeme.
+
+Věcnější hlasy řeší, co výsledky reálně znamenají. cyanydeez čeká, že bude trvat deset let, než se řešení roztřídí na salonní triky a produktivní nástroje pro skutečné problémy. sedictious vysvětluje, že i konstruktivní dolní meze mohou zůstat výpočetně neproveditelné a kryptografii ovlivní spíš dlouhodobě, zatímco WarmWash zmiňuje fámu o faktorizaci v polynomiálním čase, která prý RSA automaticky neláme. layer8 se senderistou pak vtipkují, jaká by to byla dokonalá kryptoapokalypsa, kdyby umělá inteligence zlomila postkvantové protokoly, ale eliptické křivky nechala stát.
+
+Z vlákna tak zůstává obraz oboru, kde se nemyslitelné dolní meze stávají rutinou a největší neznámou je, zda příští rána dopadnou i na šifry, na kterých stojí zbytek internetu.

@@ -21,8 +21,8 @@
 # OpenChamber s přihlášenou reddit session (cookies), takže pro plný běh musí
 # být dostupná sdílená služba OpenCode / OpenChamber.
 #
-# Cron (denně 8:00):
-#   0 8 * * * cd '/home/turany/Dokumenty/OMP test/Reddit souhrny' && scripts/daily.sh --cron >> logs/cron.log 2>&1
+# Cron (denně 6:30) řeší `scripts/cron-daily.sh` (celý balík včetně webu a LinkedIn):
+#   30 6 * * * "/home/turany/orca/projects/AI novinky/scripts/cron-daily.sh" >> "…/logs/cron.log" 2>&1
 #
 # Návratové kódy: 0 ok / přeskočeno, 1 chyba běhu či push, 2 špatné argumenty,
 #                 3 jiný běh už probíhá, 4 výsledek neprošel kontrolou před commitem
@@ -31,6 +31,14 @@ set -euo pipefail
 export TZ=Europe/Prague
 export PATH="$HOME/.local/bin:$PATH"
 PROJECT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
+# `opencode` nemusí být v PATH – desktopová appka veze CLI ve verzované složce.
+if [[ -z "${OPENCODE_BIN:-}" ]]; then
+  if command -v opencode >/dev/null 2>&1; then
+    OPENCODE_BIN="opencode"
+  else
+    OPENCODE_BIN="$(ls -1 "$HOME"/.config/ai.opencode.desktop/cli/*/opencode-cli 2>/dev/null | sort -V | tail -1 || true)"
+  fi
+fi
 OPENCODE_BIN="${OPENCODE_BIN:-opencode}"
 MODEL="${OPENCODE_MODEL:-opencode-go/deepseek-v4.1-flash}"
 PUSH_REMOTE="${PUSH_REMOTE:-origin}"

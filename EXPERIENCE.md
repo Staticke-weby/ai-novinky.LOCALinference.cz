@@ -101,6 +101,23 @@ Pipeline původně běžela na `omp` (OpenChamber). Přepsali jsme ji na OpenCod
   články, indexy, `dny/` a vygenerovaný `docs/` (viz sekce Web na GitHub Pages).
 - **`--force` maže celou složku dne**, aby v `_data` nezůstaly balíčky a články z předchozího běhu.
 
+## Automatický běh (cron, od 27. 11. 2026)
+
+Denní balík se spouští sám v **6:30** přes uživatelský cron:
+
+```
+30 6 * * * "/home/turany/orca/projects/AI novinky/scripts/cron-daily.sh" >> "/home/turany/orca/projects/AI novinky/logs/cron.log" 2>&1
+```
+
+- `scripts/cron-daily.sh` volá `prehledy.sh` (Reddit + HN → den → web → push → LinkedIn),
+  ne `daily.sh --cron`: to by pushovalo po každém zdroji a spustilo dva souběžné deploye Pages.
+- Cron nemá session bus, takže wrapper doplňuje `DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/<uid>/bus`
+  a `XDG_RUNTIME_DIR`. Bez toho `browser_cookies.py` nedosáhne na gnome-keyring a nenačte
+  šifrované cookies z Chrome. Klíčenka musí být odemčená (běžící přihlášená session).
+- `daily.sh` si `opencode` najde sám: z `PATH`, jinak v `~/.config/ai.opencode.desktop/cli/*/opencode-cli`.
+- Wrapper drží `flock logs/.run.lock`, takže ruční běh v 6:30 cron jen přeskočí (exit 3).
+- Log je `logs/cron.log` (gitignored).
+
 ## Opakování témat a jeden denní přehled (27. 10. 2026)
 
 Denní souhrny se opakovaly: deduplikace dřív fungovala jen v rámci jednoho dne a jednoho zdroje.

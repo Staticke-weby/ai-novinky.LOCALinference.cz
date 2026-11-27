@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
 """PROTOTYP: sběr Redditu přímo z webu (místo Arctic Shift).
 
-Používá cookies z prohlížeče OpenChamber (`Partitions/openchamber-browser`).
+Používá cookies z profilu prohlížeče (Chrome, Chromium, Brave nebo OpenCode);
+čtení a dešifrování řeší `scripts/browser_cookies.py`.
 S nimi Reddit vrátí i JSON endpointy (`/new.json`, `/comments/<id>.json`), které
 obyčejnému curl/urllib vrací 403. Výstup má stejný tvar jako `rd-collect.py`
 (`_data/bundles/`, `dataset.json`, `appendix.json`, `candidates.json`).
@@ -15,7 +16,6 @@ import argparse
 import importlib.util
 import json
 import os
-import sqlite3
 import sys
 import threading
 import time
@@ -33,7 +33,6 @@ _spec.loader.exec_module(rdc)
 
 TZ = ZoneInfo("Europe/Prague")
 PROJECT = Path(__file__).resolve().parent.parent
-COOKIE_DB = Path.home() / ".config" / "OpenChamber" / "Partitions" / "openchamber-browser" / "Cookies"
 COOKIE_JAR = PROJECT / "logs" / "reddit-cookies.txt"  # obnovované cookies (gitignored)
 CK = {}  # aktuální cookie jar (browser + obnovené Set-Cookie), plní read_cookies()
 # `www.reddit.com/....json` je od 11/2026 zablokované i s platnými cookies
@@ -102,32 +101,33 @@ def load_jar():
 def save_jar():
     COOKIE_JAR.parent.mkdir(parents=True, exist_ok=True)
     COOKIE_JAR.write_text(
-        "# reddit cookies (autoobnovované; zdroj: prohlížeč OpenChamber)\n"
+        "# reddit cookies (autoobnovované; zdroj: profil prohlížeče)\n"
         + "\n".join(f"{k}={v}" for k, v in CK.items()) + "\n",
         encoding="utf-8",
     )
 
 
 def read_cookies():
-    """Načte reddit cookies z prohlížeče OpenChamber a slije je s lokálním cookie jarem."""
+    """Načte reddit cookies z profilu prohlížeče a slije je s lokálním cookie jarem."""
     global SESSION_DEAD
     try:
-        con = sqlite3.connect(f"file:{COOKIE_DB}?mode=ro", uri=True)
-        rows = con.execute(
-            "select name,value from cookies where host_key like '%reddit%'"
-        ).fetchall()
-        con.close()
-    except sqlite3.Error as exc:
-        print(f"nelze přečíst cookies z {COOKIE_DB}: {exc}", file=sys.stderr)
-        raise SystemExit(5)
-    if not rows:
-        print(f"v {COOKIE_DB} nejsou žádné reddit cookies — přihlas se do redditu v prohlížeči OpenChamber", file=sys.stderr)
-        raise SystemExit(5)
+        from browser_cookies import reddit_cookies
+        found = reddit_cookies()
+    except Exception as exc:
+        print(f"  ! čtení cookies z prohlížeče selhalo: {exc}", file=sys.stderr)
+        found = {}
     CK.clear()
-    CK.update(rows)
+    CK.update(found)
     CK.update(load_jar())  # obnovené cookies (např. session_tracker) mají přednost
+    if not CK:
+        print(
+            "v žádném profilu prohlížeče (Chrome, Brave, OpenCode) nejsou reddit cookies "
+            "a chybí i logs/reddit-cookies.txt — přihlas se do redditu v prohlížeči",
+            file=sys.stderr,
+        )
+        raise SystemExit(5)
     if "token_v2" not in CK:
-        print("  ! chybí token_v2 — session vypršela; otevři reddit v prohlížeči OpenChamber", file=sys.stderr)
+        print("  ! chybí token_v2 — session vypršela; otevři reddit v prohlížeči OpenCode", file=sys.stderr)
         SESSION_DEAD = True
     return CK
 
@@ -162,7 +162,7 @@ def get_json(url, timeout=30, retries=5):
         except urllib.error.HTTPError as exc:
             last = exc
             if exc.code == 403:
-                print("  ! HTTP 403 — session vypršela; otevři reddit v prohlížeči OpenChamber", file=sys.stderr)
+                print("  ! HTTP 403 — session vypršela; otevři reddit v prohlížeči", file=sys.stderr)
                 SESSION_DEAD = True
                 return None
             if exc.code == 429:

@@ -32,6 +32,17 @@ Pipeline původně běžela na `omp` (OpenChamber). Přepsali jsme ji na OpenCod
   HN má vlastní veřejné API (`scripts/hn-collect.py`).
 - **Prohlížeč už sběr nepotřebuje.** Obě kolekce jsou skriptované, takže běh nevyžaduje desktopovou
   službu OpenCode/OpenChamber (prohlížečová cesta byla pomalá a křehká).
+- **Cookies se čtou z profilů Chromia přes `scripts/browser_cookies.py`** (Chrome, Chromium,
+  Brave, prohlížeč OpenCode, starý OpenChamber). Po migraci z OpenChamber zůstala v
+  `rd-collect-web.py` stará cesta (`~/.config/OpenChamber/Partitions/openchamber-browser/Cookies`),
+  takže sběr hlásil „žádné reddit cookies“, i když session v prohlížeči žila.
+  Chromium od verze 130 ukládá cookies šifrované (`v10`/`v11`, AES-128-CBC) a k hodnotě přidává
+  32bajtový SHA-256 hostitele; klíč je v gnome-keyringu („… Safe Storage“), pro `v10` je to `peanuts`.
+  Modul to řeší sám, DB čte z kopie (nevadí zámek běžícího prohlížeče). Profil OpenCode je oddělený
+  od Chromu/Brave, ale přihlášení v kterémkoli z nich stačí. Konkrétní profil se dá vynutit
+  proměnnou `REDDIT_COOKIE_PROFILE=/cesta/k/Cookies`.
+  Cookie DB v Chrome se jmenuje podle profilu (`Default`, `Profile 1`, …) a v UI se zobrazuje jiné
+  jméno — rozhoduje soubor na disku, ne název v přepínači.
 - **Arctic Shift doplňuje skóre a počty komentářů až ~36 h po publikaci** (do té doby jsou 1/0).
   Proto Reddit běží se zpožděním **3 dny** (`--days`, výchozí 3), kdy jsou data sednutá.
   HN má data čerstvá a jede výchozí **1 den** zpět.

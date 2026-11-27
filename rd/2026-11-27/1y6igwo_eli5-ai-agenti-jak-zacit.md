@@ -1,0 +1,14 @@
+# 1y6igwo
+**ELI5: co vlastně dělají AI agenti a jak je začít používat**
+
+r/ClaudeAI · u/AaronG85 · 27. listopadu 2026, 03:54 · 123 bodů / 54 komentářů · [diskuse](https://www.reddit.com/r/ClaudeAI/comments/1y6igwo/)
+
+Rozdíl mezi chatem a agentem je v tom, že chat jednou odpoví a zastaví se, zatímco agent dostane úkol a pracuje v cyklu, dokud ho nedokončí. Tazatel používá Claude už delší dobu, ale pojmu agenti nerozumí, a tak poprosil o vysvětlení pro pětileté dítě. Vlákno se rychle proměnilo v sbírku těch nejjednodušších přirovnání.
+
+Nejvýše hodnocenou odpověď napsal u/StreetNo1759: kdo používá Claude Code, už agenta používá. Model čte soubory, spustí příkaz, podívá se, co se vrátilo, a pokračuje dál, dokud není úkol hotový. Právě tahle smyčka modelu s nástroji je to, co lidé myslí agentem. Stručně to shrnul i u/Linkpharm2 vzorcem model plus nástroje rovná se agent a u/Pinkys_Revenge dodatkem, že agent je umělá inteligence s vlastní iniciativou, která umí jednat bez přímého pokynu.
+
+Kuchařskou verzi přidal u/Annual_Pay1951. Přirovnal agenta ke kuchaři, kterému do kuchyně přijde objednávka na humra s bramborovou kaší: kuchař přesně ví, jaké suroviny a postupy recept vyžaduje, a prostě ho uvaří. Jak bude chutnat, záleží na tom, jak dobře jste agenta nastavili. Filmově to podal u/jerryorbach, podle kterého jsou agenti jako ve filmu Multiplicity – hlavní Claude si k sobě přizve další Claudy, jednoho na plánování, druhého na kontrolu a třetího na rešerši, a velkou práci si mezi ně rozdělí.
+
+Nejvíc praktických rad se točí kolem pomocných subagentů. Každý takový pomocník startuje s čistým kontextem a vlastními pokyny, takže může prolézt spoustu souborů a zpět předat jen krátkou odpověď, aniž by zahltil hlavní konverzaci. Vyrábí se příkazem /agents, nebo jako soubor v .claude/agents/ se jménem, popisem, kdy se má použít, a povolenými nástroji. Jako dobrý první pokus se všichni shodují na recenzentovi, který jen čte změny v kódu a hlásí chyby, aniž by do souborů sám zasahoval. Pokročilejší krok je pak pouštět několik agentů najednou na oddělených částech úlohy, ideálně každého ve vlastním pracovním adresáři, aby si nepřepisovali soubory.
+
+Z praxe to popsal i u/Almatyn, který není vývojář a provozuje bota pro hosty devíti pronajímaných studií. Hlavní sezení předává pomocníkům úzké úkoly: jeden jen čte kód a vrací přesný soubor a řádek, druhý kontroluje změnu čerstvýma očima bez paměti toho, kdo ji psal. Trik je podle něj dát každému malý úkol s jasným koncem a chtít zpět krátké hlášení. A u/InterestingCarrot997 dodává pojistku, na kterou se zapomíná: agent potřebuje kontrolu, kterou může splnit, test nebo příkaz, jinak se buď točí dál, nebo prostě prohlásí vítězství. Jak vtipně poznamenal u/urzeye, agent je chatbot, který si konečně vyřizuje pochůzky sám, a děsivé je, jak rychle se přestává ptát na svolení.

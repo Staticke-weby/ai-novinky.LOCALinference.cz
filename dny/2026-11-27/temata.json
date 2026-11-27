@@ -1,0 +1,339 @@
+{
+ "date": "2026-11-27",
+ "clanky": 37,
+ "temata": [
+  {
+   "title": "AI rozebrala GTA VI a rozjela ho na PC, komunita už testuje multiplayer",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1y6eujl"
+   }
+  },
+  {
+   "title": "Prompt, po kterém ChatGPT vymyslí skupinový chat, kde si o vás AI povídají",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50663595"
+   }
+  },
+  {
+   "title": "„Computer, do hack“: memy o AI hackování vystihly změnu práce útočníků",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1y6nyef"
+   }
+  },
+  {
+   "title": "Ceny pevných disků vystřelily; 20TB model zdražil za dva roky o 300 dolarů",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50661646"
+   }
+  },
+  {
+   "title": "Sonnet 4.6 sbírá chválu, komunita ho přirovnává k dospělejšímu modelu",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1y6rja6"
+   }
+  },
+  {
+   "title": "Claude údajně sabotuje ML výzkum; vývojář to ověřil na vlastním projektu",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50664325"
+   }
+  },
+  {
+   "title": "Příští Opus prý na jeden prompt vytvořil hru s vlastním WASM engine",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1y6g31u"
+   }
+  },
+  {
+   "title": "Google zveřejní kontaktní údaje samostatných vývojářů Androidu",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50662322"
+   }
+  },
+  {
+   "title": "Gemini 4 Carbon pomohl dokázat 70 let otevřenou Hadwigerovu hypotézu",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1y6r8mh"
+   }
+  },
+  {
+   "title": "Evropská komise označila konkurenci prohlížečů za prioritu DMA",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50664191"
+   }
+  },
+  {
+   "title": "Scott Aaronson naznačil, že laboratoře možná umí faktorizovat v polynomialním čase",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1y6o7bw"
+   }
+  },
+  {
+   "title": "Cloud amerického letectva byl napaden; incident odhalila až modernizace",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50666375"
+   }
+  },
+  {
+   "title": "Komunita P=NP chce crowdsourcingem hledat léky na vzácné nemoci",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1y6ri16"
+   }
+  },
+  {
+   "title": "Kimi for Science nabízí vědcům až 20 000 dolarů v API kreditech",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50665920"
+   }
+  },
+  {
+   "title": "Nvidia zastavila dodávky čipů do jihovýchodní Asie kvůli americkým kontrolám",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1y6h57r"
+   }
+  },
+  {
+   "title": "Jakou fursonu by měly AI modely? Claude dostal havrana, GPT mol",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50662933"
+   }
+  },
+  {
+   "title": "Claude Fable ignoruje připomínky k duševnímu vlastnictví jako prompt injection",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1y6or6m"
+   }
+  },
+  {
+   "title": "První alpha Ladybird je překvapivě použitelná, píše Ars Technica",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50663666"
+   }
+  },
+  {
+   "title": "Dva měsíce s Qwen 3.8 27B: lokální model stačí na 80 % práce",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1y6evzy"
+   }
+  },
+  {
+   "title": "Matematici se obávají, že AI brzy zničí online bezpečnost",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50665488"
+   }
+  },
+  {
+   "title": "Google zrušil black Friday slevu na AI Pro právě na Black Friday",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1y6q58r"
+   }
+  },
+  {
+   "title": "Agenti DeepMind už sami řídí část výpočtů pro experimenty s Gemini",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50661218"
+   }
+  },
+  {
+   "title": "Gemini aplikace umí vzdálený počítač, uživatelé přes něj ovládají infrastrukturu",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1y6fs4d"
+   }
+  },
+  {
+   "title": "ESO varuje před milionem satelitů pro datová centra na oběžné dráze",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50661224"
+   }
+  },
+  {
+   "title": "Ostris vydal vylepšený H3 Image VAE pro ComfyUI",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1y6k7nz"
+   }
+  },
+  {
+   "title": "Kybernetický incident donutil britskou vládu vypnout část služeb",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50664885"
+   }
+  },
+  {
+   "title": "Tencent otevřel spekulativní dekodér DFly2, zrychlení až 4,2krát",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1y6igu2"
+   }
+  },
+  {
+   "title": "Studie: s 97% pravděpodobností jsme v AI bublině",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50662153"
+   }
+  },
+  {
+   "title": "Inkling-2-Mini dostal cyber variantu i opravu zacykleného uvažování",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1y6flvh"
+   }
+  },
+  {
+   "title": "GPT-6.2 Astra sama vyřešila historickou záhadu z Yaleovy knihovny",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50667744"
+   }
+  },
+  {
+   "title": "Kandinsky ImageSR 2.0 vs SeedVR2 vs Steppe: srovnání na 16GB kartě",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1y6ic85"
+   }
+  },
+  {
+   "title": "Šéf AGI v Googlu poprvé po 17 letech posunul odhad AGI před rok 2028",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1y6qifk"
+   }
+  },
+  {
+   "title": "ELI5: co vlastně dělají AI agenti a jak je začít používat",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1y6igwo"
+   }
+  },
+  {
+   "title": "Claude Pro vs Gemini Neon: uživatelé srovnávají kvóty a hodnotu předplatného",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1y6gwzb"
+   }
+  },
+  {
+   "title": "Anthropic přepsal API do Rustu s pomocí Clauda, SAP kvůli AI ruší 10 000 míst",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1y6ox60"
+   }
+  },
+  {
+   "title": "GPT-6.2 prý nebude moct oslovovat uživatele jménem bez svolení",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1y6gz7u"
+   }
+  },
+  {
+   "title": "Stejný Gemini je v aplikaci slabý, v Antigravity dobrý, diví se uživatelé",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1y6nvyh"
+   }
+  }
+ ]
+}

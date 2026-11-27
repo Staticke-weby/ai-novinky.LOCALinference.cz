@@ -1,0 +1,246 @@
+{
+ "date": "2026-11-26",
+ "clanky": 29,
+ "temata": [
+  {
+   "title": "Dva roky s Claudem: hru pro bratra, který ovládá počítač dvěma tlačítky",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1y61dgi"
+   }
+  },
+  {
+   "title": "AI vrátilo zábavu do self-hostingu. Autor díky němu rozjel NixOS i vlastní nástroje",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50660180"
+   }
+  },
+  {
+   "title": "GPT-6 Astra a kvantová gravitace: paper, který rozdělil fyziky",
+   "sources": [
+    "rd",
+    "hn"
+   ],
+   "ids": {
+    "rd": "1y5u48p",
+    "hn": "50651863"
+   }
+  },
+  {
+   "title": "OpenAI zrychluje spotřebu limitů: 40 % rychleji u GPT-6.2 Astra",
+   "sources": [
+    "rd",
+    "hn"
+   ],
+   "ids": {
+    "rd": "1y5q509",
+    "hn": "50651117"
+   }
+  },
+  {
+   "title": "Opus 5.6 na obzoru? Demo z Claude artifactu nadchlo i rozdělilo komunitu",
+   "sources": [
+    "rd",
+    "hn"
+   ],
+   "ids": {
+    "rd": "1y68fm4",
+    "hn": "50655798"
+   }
+  },
+  {
+   "title": "AMD fork llama.cpp: z 35 na 55 tokenů za sekundu díky pár patchům",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50657265"
+   }
+  },
+  {
+   "title": "Claude na maximum: jeden HTML soubor a 75 minut na Final Fantasy summon",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1y62vsj"
+   }
+  },
+  {
+   "title": "Kolik nemocí už AI vyléčila? Nový web tvrdí, že nula",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50657307"
+   }
+  },
+  {
+   "title": "Reuters: konec destilace a čipové zdi zpomalují čínské modely",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1y5ysad"
+   }
+  },
+  {
+   "title": "Google od února 2027 nařídí agentům Workspace MCP. Gmail přes něj neumí poslat e-mail",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50653477"
+   }
+  },
+  {
+   "title": "Na trhu se objevily tisíce B300. USA utáhly vzdálený přístup",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1y667aa"
+   }
+  },
+  {
+   "title": "Moat: předplatné za 5 dolarů slibuje modely za velkoobchodní ceny",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50652184"
+   }
+  },
+  {
+   "title": "Seedance 2.5 a první AI film s dialogy: malíři v Paříži roku 1860",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1y675kp"
+   }
+  },
+  {
+   "title": "45°C vstupní voda zabila chladiče. Datacentra se učí žít bez nich",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50655278"
+   }
+  },
+  {
+   "title": "Google rozdává reset limitu. Uživatelé si stěžují, že jim přepisuje plány",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1y5v0i4"
+   }
+  },
+  {
+   "title": "Z.AI popírá odklad GLM-5.5. Start má být v prosinci",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1y6260i"
+   }
+  },
+  {
+   "title": "Novita a StreamLake jsou přeprodejci ByteDance Ark, tvrdí investigace",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50660273"
+   }
+  },
+  {
+   "title": "GigaChat 4: Rusko vydalo open-weight modely 37B a 708B",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1y64uaj"
+   }
+  },
+  {
+   "title": "Qualcomm Oryon 3: 5 GHz, devět dekodérů a útok na Zen 5 i Lion Cove",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50651158"
+   }
+  },
+  {
+   "title": "Co by poradili profíci s tisíci hodinami Claude? Začněte CLAUDE.md",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1y69iyt"
+   }
+  },
+  {
+   "title": "Hladovka před Anthropicem: aktivista chce varovat čtvrt miliardy uživatelů",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50657110"
+   }
+  },
+  {
+   "title": "Chat a Work se slévají. Uživatelé ChatGPT dostali downgrade dřív",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1y5s13r"
+   }
+  },
+  {
+   "title": "Nejcitovanější AI vědci: Google a Meta válcují OpenAI i Anthropic",
+   "sources": [
+    "hn"
+   ],
+   "ids": {
+    "hn": "50658910"
+   }
+  },
+  {
+   "title": "Kimi-K3.1-Pro běží doma na 16 Spark clusterech",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1y68f63"
+   }
+  },
+  {
+   "title": "LiveNerf: 63 dní měření, jestli Claude po launchi slábne",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1y5sale"
+   }
+  },
+  {
+   "title": "Kiyo LTX: open-source LoRA na rekonstrukci mozaiky ve videu",
+   "sources": [
+    "rd"
+   ],
+   "ids": {
+    "rd": "1y5m0sn"
+   }
+  }
+ ]
+}

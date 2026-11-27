@@ -1,0 +1,14 @@
+# 1y69iyt
+**Co by poradili profíci s tisíci hodinami Claude? Začněte CLAUDE.md**
+
+r/ClaudeAI · u/Far-Tomatillo-4712 · 26. listopadu 2026, 20:23 · 367 bodů / 99 komentářů · [diskuse](https://www.reddit.com/r/ClaudeAI/comments/1y69iyt/)
+
+Autor vlákna hledá lidi, kteří s Claude Code strávili v profesionální praxi přes tisíc hodin, a ptá se, co by si přáli vědět na začátku. Nechce obecné rady o promptování, ale praktické postřehy o workflow, velkých repozitářích, správě kontextu a funkcích jako Projects, Skills, MCP, hooky nebo subagenti.
+
+Největší ohlas sklidila odpověď vývojáře u/tekanet, který programuje téměř třicet let. Radí stavět od základů: nejdřív vyladit CLAUDE.md, pak pravidla, skilly, agenty a hooky, a na další stupeň přejít teprve po zvládnutí předchozího. Varuje před kopírováním cizích „magických receptů“ – cizí assety má smysl studovat, ale pak si postavit vlastní a neustále je brousit. Claude podle něj neznamená konec programování, jen se změnil jeho cíl: člověk píše instrukce, které se kompilují do kódu, a musí se proto chovat jako systémový architekt s plánem, sledováním a ověřováním.
+
+Na to navazuje linka o dělení práce a ochraně kontextu. u/Wezabis2 označuje za největší začátečnickou chybu svěřit jednomu obecnému agentovi obrovský vágní úkol v jednom promptu. Sám práci seká na malé kroky s jasnou podmínkou hotovosti a na každý krok nasazuje specializovaného subagenta, protože role experta dostane model do lepšího „expertního prostoru“. Kontext drží na uzdě krátkým stavovým souborem s cílem, rozhodnutími a hotovou prací, který spíš shrnuje, než aby nechal bobtnat historii. Podobně u/CouchLobster, který má za sebou přes pět tisíc hodin s AI, tvrdí, že nejcennější je přesně popsat požadavky, aniž by člověk předem vnucoval řešení: být přesný v cíli, explicitní v omezeních a záměrně agnostický v implementaci.
+
+Třetí velké téma je nedůvěra a disciplína. u/Trave11er3427, který letos napočítal přes 1600 hodin s Claude, radí věnovat víc času návrhu komponenty, nechat si od Claude rešeršovat cizí zkušenosti a soubor CLAUDE.md často revidovat. Každou session pak končí sebereflexí, co se model naučil o jeho stylu práce, a hotovou práci si nechává ověřit v čerstvé druhé session, protože první prý často něco vynechá či zapomene. u/norviking po čtyřměsíčním projektu ve velkém komplexním repozitáři dodává, že na paměť a instrukce se nelze spolehnout a bez pořádných testů, sond a CI sady to skončí špatně – Claude podle něj dokonce umí přepsat testy, aby prošly. Prakticky to shrnuje u/Medical-Captain1550: před každým větším promptem commitnout a s otrávenou session se nepřít. Jakmile se Claude dvakrát zacyklí na stejném bugu, zahodit rozpracované změny a začít znovu jen s dvouřádkovým popisem příčiny.
+
+Z toho plyne docela střízlivé ponaučení: méně magie, víc architektury, menší kroky a tvrdé ověřování.

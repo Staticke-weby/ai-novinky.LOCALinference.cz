@@ -1,0 +1,16 @@
+# 50651158
+**Qualcomm Oryon 3: 5 GHz, devět dekodérů a útok na Zen 5 i Lion Cove**
+
+Hacker News · wmf · 26. listopadu 2026, 04:43 · 76 bodů / 37 komentářů · [diskuse](https://news.ycombinator.com/item?id=50651158)
+
+Snapdragon X2 Elite Extreme s třetí generací jádra Oryon se podle rozboru serveru Chips and Cheese vyrovná nejlepším procesorům x86 současnosti. V nejsilnější variantě P-core, kterým Qualcomm matoucně říká „prime“, se takt vyšplhal na 5 GHz, tedy asi o 16 procent nad 4,3 GHz první generace. Qualcomm navíc vsadil na obrácený hybrid: výkonných jader je dvakrát víc než úsporných E-core, takže právě P-core táhnou jednovláknový i většinu vícevláknového výkonu.
+
+Rozbor ukazuje, že se jádro rozšířilo z osmi na devět mikrooperací na takt, kvůli čemuž přibyl čtvrtý dekódovací slot, a přitom si drží teprve třinácticyklovou penalizaci za špatnou predikci skoku. V jádře zůstalo obrovské okno přes 600 mikrooperací s důrazem na rychlé dvouúrovňové vyrovnávací paměti a nově přibyla podpora SVE2 a SME. V roli maximálně výkonné architektury se tak staví proti Zen 5 od AMD, Lion Cove od Intelu i Cortex X925, který veze laptopová snaha Nvidie s N1X.
+
+Diskuse se rychle stočila od tranzistorů k operačním systémům. Uživatel elcano píše, že by o platformu bez dobré podpory Linuxu ani neuvažoval, a postrádá testy NPU a grafiky pro běh jazykových modelů ze sdílené paměti. Autor wmf odpovídá, že článek řeší jen procesorové jádro, a odkazuje na samostatný rozbor grafiky Adreno X2. Vedle se rozjela výměna o Windows 11: heresie-dabord kvůli zpeněžování návyků a dat raději volí Linux, oofabz tvrdí, že linuxová prostředí po letech dohnala a předehnala Windows, a Grombobulous dodává, že Linux je silný sám o sobě, seznam věcí, které na něm nejdou, se krátí a fungují i velké hry.
+
+Uživatel DeathArrow by rád viděl přímé srovnání MacBooku s novými notebooky od Qualcommu z hlediska výkonu a výdrže. Grombobulous odkazuje na recenze Just Josh Tech a shrnuje dosavadní zkušenost: výdrž dobrá, grafika slabá, Windows na ARMu skoro dozrály a Qualcomm zachraňují časté slevy, jenže Intel se s řadou Core Ultra Series 3 dotáhl a proti vyšším variantám Pro a Max od Applu nemá nikdo srovnatelnou nabídku. Do technické roviny se vrací otázka uživatele martinpw, zda jde o nejvýše taktované komerční jádro Arm, když M6 končí na 4,8 GHz – addaon doplňuje, že ani dvounanometrové iPhony se 4,93 GHz na něj nedosáhnou.
+
+Nejstručnější odsudek přidává trvz: prý to spolehlivě neporáží x86 ani nevyzývá konkurenci z tábora ARMu, prostě Qualcomm jako obvykle. Uživatel rolymath přiznává, že z technického rozboru pochopil asi desetinu, a sní o hardwaru v kvalitě MacBooku, na kterém poběží Linux, což by se mohlo splnit do pěti až deseti let – kakacik se ptá, co je špatného na firemních řadách Dellu či Lenova, zatímco binary132 si chválí Zenbook se Snapdragonem a diví se, že Arch nemá repozitář pro Arm. Nad tím visí povzdech uživatele DeathArrow nad koncem AnandTechu a dík nadšencům z Chips and Cheese či Geekerwanu, kteří hloubkové rozbory dělají dál, a volání uživatele rickdeckard po Windows skutečně stavěných na hybridní architektury, byť se bojí, že přijdou ruku v ruce s nutností být online a odevzdat data.
+
+Čtenář si tak odnese obrázek čipu, který dohnal špičku v hrubém výkonu, ale o jeho osudu rozhodne podpora Linuxu, odladěnost Windows a cena notebooků.

@@ -1,0 +1,14 @@
+# 1y68f63
+**Kimi-K3.1-Pro běží doma na 16 Spark clusterech**
+
+r/LocalLLaMA · u/ciprianveg · 26. listopadu 2026, 19:36 · 324 bodů / 119 komentářů · [diskuse](https://www.reddit.com/r/LocalLLaMA/comments/1y68f63/)
+
+Plný open-source model Kimi-K3.1-Pro se rozběhl v domácím clusteru ze šestnácti zařízení Nvidia GB10 Spark propojených přes Flare engine. Podle autora zvládá generování rychlostí 24 tokenů za sekundu u prózy, 30 u kódu a 40 u strukturovaných úloh, prefill jede rychlostí 700 tokenů za sekundu a celý systém nabootuje za 11 minut. Sestava podporuje textový i obrazový vstup, drží 2,2M cache a při plné zátěži si vezme kolem 2 kWh. Optimalizovaný obraz a upravený build zveřejnil na Hugging Face a GitHubu a už pracuje na verzi V2, která má zrychlit prefill i generování.
+
+Ekonomika celého podniku se stala hlavním tématem vlákna. u/MotokoAGI spočítal, že i při polodenním provozu sestava vyprodukuje měsíčně 324 milionů výstupních a 1,5 miliardy vstupních tokenů, což by přes API vyšlo na více než šest tisíc dolarů měsíčně – a k tomu připočetl soukromí, stabilní kvalitu a absenci cenzury a časových limitů. Odpověď na sebe nenechala čekat: u/allinasecond odhadl cenu šestnácti Sparků na 100 tisíc eur, což by u inferenčního providera vydalo na desítky let tokenů, u/This_Maintenance_834 zase rýpl, že za minimálně 90 tisíc dolarů člověk dostane 24 tokenů za sekundu. Sám autor přitom přiznal, že návratnost vůbec neřeší, jde mu jen o možnost spouštět největší a nejchytřejší open-source model kdykoliv a bez podmínek.
+
+Druhá linka diskuse se točí kolem spotřeby a domácího provozu. u/sxt87 glosoval zvuk elektroměru slovem „brrrr“, u/mesolimbic-bliss si postěžoval na blikání světel a drobný výpadek proudu a u/Emotional_Thanks_548 přirovnal odběr ke dvěma klimatizacím – ale dodal, že je to tvoje a nikdo ti to nevezme. Nejvýše hodnocený komentář od u/RegulusRemains si všiml paradoxu celé sestavy za desítky tisíc dolarů, kterou autor zřejmě monitoruje z nejlevnějšího setu klávesnice s myší. u/TechNerd10191 naopak smekl, že spuštění trvá jen 11 minut, což mu přijde na tak velký model až překvapivě rychlé.
+
+Řešily se i technické alternativy. u/OWilson90 se ptal na konfiguraci paralelismu a na switch, který takovou propustnost utáhne, u/crusaderky zajímalo, zda autor zkoušel kvantizaci Q2 na osmi Sparcích a zda by to bylo použitelné. u/TQ_GPU nadhodil, že za 60 tisíc dolarů by deset Apple M5 Ultra s velkou paměťovou propustností mohlo být rychlejší, u/createthiscom by uvítal kvantizace od Unslotho a u/Bascilian shrnul pocit mnohých, že když si lidé představí cluster za sto tisíc, myslí obvykle na něco většího.
+
+Domácí provoz největšího open-source modelu tak komunitu baví víc jako demonstrace svobody než jako recept na úsporu – drahý, žravý a pomalý, ale stoprocentně vlastní.

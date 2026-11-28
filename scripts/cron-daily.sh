@@ -1,6 +1,9 @@
 #!/usr/bin/env bash
-# Denní běh z cronu: celý balík jako „vytvoř souhrny“ – Reddit + HN,
+# Denní běh: celý balík jako „vytvoř souhrny“ – Reddit + HN,
 # sloučený den, web na GitHub Pages, push a LinkedIn příspěvek.
+#
+# Volá ho Orca automation „AI novinky – denní souhrn“ v 6:30 (řídicí agent
+# spustí tenhle skript). Zůstává i jako záložní varianta pro cron.
 #
 # Proč wrapper: cron nespouští přihlašovací shell a nemá session bus.
 # Bez `DBUS_SESSION_BUS_ADDRESS` nedosáhne na gnome-keyring, takže by

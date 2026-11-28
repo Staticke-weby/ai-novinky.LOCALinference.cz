@@ -101,21 +101,27 @@ Pipeline původně běžela na `omp` (OpenChamber). Přepsali jsme ji na OpenCod
   články, indexy, `dny/` a vygenerovaný `docs/` (viz sekce Web na GitHub Pages).
 - **`--force` maže celou složku dne**, aby v `_data` nezůstaly balíčky a články z předchozího běhu.
 
-## Automatický běh (cron, od 27. 11. 2026)
+## Automatický běh (Orca automation od 28. 11. 2026)
 
-Denní balík se spouští sám v **6:30** přes uživatelský cron:
+Denní balík spouští **Orca automation** „AI novinky – denní souhrn“ (`aut_220ae40f…`)
+v **6:30 Europe/Prague**. Pošle prompt do řídicí session, agent spustí
+`scripts/cron-daily.sh` a shrne výsledek + LinkedIn příspěvek.
 
-```
-30 6 * * * "/home/turany/orca/projects/AI novinky/scripts/cron-daily.sh" >> "/home/turany/orca/projects/AI novinky/logs/cron.log" 2>&1
-```
-
-- `scripts/cron-daily.sh` volá `prehledy.sh` (Reddit + HN → den → web → push → LinkedIn),
-  ne `daily.sh --cron`: to by pushovalo po každém zdroji a spustilo dva souběžné deploye Pages.
-- Cron nemá session bus, takže wrapper doplňuje `DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/<uid>/bus`
-  a `XDG_RUNTIME_DIR`. Bez toho `browser_cookies.py` nedosáhne na gnome-keyring a nenačte
-  šifrované cookies z Chrome. Klíčenka musí být odemčená (běžící přihlášená session).
+- **Proč ne cron:** session vytvořené z cronu přes CLI se v Orca nezobrazí. Orca má vlastní
+  registr (`~/.config/orca/agent-session-domain.db`, tabulka `agent_session_records`)
+  a vlastní workspace ID; cizí OpenCode session do svého seznamu nepřevezme. Automation
+  naopak běží jako turn v Orca session, takže je vidět.
+- **Nevýhoda:** běh závisí na běžící OpenCode/Orca službě. Když appka neběží, trigger se
+  opozdí nebo přeskočí (`lastOutcome` v `automation.list`). Cron běžel i bez appky.
+- **Fallback (cron):** `scripts/cron-daily.sh` zůstává a umí totéž. Zadání:
+  ```
+  30 6 * * * "/home/turany/orca/projects/AI novinky/scripts/cron-daily.sh" >> "/home/turany/orca/projects/AI novinky/logs/cron.log" 2>&1
+  ```
+  Nespouštět cron i automation současně – popraly by se o `logs/.run.lock` (jeden skončí exit 3).
+- Wrapper doplňuje `DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/<uid>/bus` a `XDG_RUNTIME_DIR`;
+  bez toho `browser_cookies.py` nedosáhne na gnome-keyring a nenačte šifrované cookies z Chrome.
+  Klíčenka musí být odemčená (běžící přihlášená session).
 - `daily.sh` si `opencode` najde sám: z `PATH`, jinak v `~/.config/ai.opencode.desktop/cli/*/opencode-cli`.
-- Wrapper drží `flock logs/.run.lock`, takže ruční běh v 6:30 cron jen přeskočí (exit 3).
 - Log je `logs/cron.log` (gitignored).
 
 ## Opakování témat a jeden denní přehled (27. 10. 2026)
